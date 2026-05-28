@@ -139,12 +139,12 @@ Singura familie din proiect cu rădăcini complet post-columbiene în aria sa de
 ---
 
 ### Familia [[Bird's Eye\|Bird's Eye]] — Thai *(C. annuum și C. frutescens)*
-*Cultivar canonic: [[Soiuri/Prik Kee Nu\|Prik Kee Nu]] (C. annuum) · [[Soiuri/Piri Piri African Birds Eye\|Piri Piri African Birds Eye]] (C. frutescens)*
+*Cultivar canonic: [[Soiuri/Prik Kee Nu\|Prik Kee Nu]] (C. annuum) · [[Soiuri/Piri Piri African Bird's Eye\|Piri Piri African Bird's Eye]] (C. frutescens)*
 
 Familie funcțională care acoperă în mod excepțional două specii distincte — *C. annuum* și *C. frutescens* — unite prin morfologia comună a fructelor mici și erecte și prin răspândirea globală prin avifaună. Mecanismul de diseminare prin păsări — insensibile la capsaicină față de mamifere — explică prezența naturalizată a acestor ardei pe patru continente. Familia include și [[Soiuri/Chiltepín Bird Pepper\|Chiltepín Bird Pepper]] — forma ancestrală sălbatică din care a evoluat întreaga specie *Capsicum annuum* cultivată.
 
 - [[Soiuri/Prik Kee Nu\|Prik Kee Nu]] *(C. annuum — Thailanda)*
-- [[Soiuri/Piri Piri African Birds Eye\|Piri Piri African Birds Eye]] *(C. frutescens — Africa Subsahariană)*
+- [[Soiuri/Piri Piri African Bird's Eye\|Piri Piri African Bird's Eye]] *(C. frutescens — Africa Subsahariană)*
 - [[Soiuri/Siling Labuyo\|Siling Labuyo]] *(C. frutescens — Filipine)*
 - [[Soiuri/Kanthari\|Kanthari]] *(C. frutescens — Kerala, India)*
 - [[Soiuri/Chiltepín Bird Pepper\|Chiltepín Bird Pepper]] *(C. annuum var. glabriusculum — America Centrală)*
@@ -246,11 +246,11 @@ Specia cu cea mai bună rezistență la căldura tropicală umedă din întreg g
 ---
 
 ### Familia [[Soiuri/Piri Piri (sub-familia)\|Piri Piri (sub-familia)]]
-*Cultivar canonic: [[Soiuri/Piri Piri African Birds Eye\|Piri Piri African Birds Eye]]*
+*Cultivar canonic: [[Soiuri/Piri Piri African Bird's Eye\|Piri Piri African Bird's Eye]]*
 
-Familie cu o identitate culturală construită pe trei continente: originea botanică este americană, vectorul răspândirii este portughez, iar identitatea culinară matură este africano-portugheză. Numele este o dublare din limbile bantu — *piri* înseamnă ardei iute, repetarea intensifică sensul. Familia este distinctă de [[Soiuri/Piri Piri African Birds Eye\|Piri Piri African Birds Eye]] — care desemnează forma naturalizată spontan — prin gradul de cultivare organizată și prin integrarea în producția sistematică de sos Piri Piri și de *frango piri piri*.
+Familie cu o identitate culturală construită pe trei continente: originea botanică este americană, vectorul răspândirii este portughez, iar identitatea culinară matură este africano-portugheză. Numele este o dublare din limbile bantu — *piri* înseamnă ardei iute, repetarea intensifică sensul. Familia este distinctă de [[Soiuri/Piri Piri African Bird's Eye\|Piri Piri African Bird's Eye]] — care desemnează forma naturalizată spontan — prin gradul de cultivare organizată și prin integrarea în producția sistematică de sos Piri Piri și de *frango piri piri*.
 
-- [[Soiuri/Piri Piri African Birds Eye\|Piri Piri African Birds Eye]]
+- [[Soiuri/Piri Piri African Bird's Eye\|Piri Piri African Bird's Eye]]
 - [[Soiuri/Piri Piri Portughez\|Piri Piri Portughez]]
 
 ---

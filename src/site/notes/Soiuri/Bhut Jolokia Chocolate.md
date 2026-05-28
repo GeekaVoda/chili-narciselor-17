@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/Soiuri/Bhut Jolokia Chocolate/","tags":["botanica","gastronomie","india","capsicum","capsicum-chinense","super-hot","bhut-jolokia","chocolate","cultivar"],"dg-note-properties":{"tags":["botanica","gastronomie","india","capsicum","capsicum-chinense","super-hot","bhut-jolokia","chocolate","cultivar"]}}
 ---
 
-# Bhut Jolokia Chocolate
+# Ardeiul fantomă ciocolatiu
 
 *Capsicum chinense* × *C. frutescens* · Intensitate extremă · 800.000–1.001.304 SHU
 

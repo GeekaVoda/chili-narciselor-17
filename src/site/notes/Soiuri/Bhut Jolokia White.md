@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/Soiuri/Bhut Jolokia White/","tags":["botanica","gastronomie","india","capsicum","capsicum-chinense","super-hot","bhut-jolokia","white","albinic","cultivar"],"dg-note-properties":{"tags":["botanica","gastronomie","india","capsicum","capsicum-chinense","super-hot","bhut-jolokia","white","albinic","cultivar"]}}
 ---
 
-# Bhut Jolokia White
+# Ardeiul fantomă alb
 
 *Capsicum chinense* × *C. frutescens* · Intensitate extremă · 800.000–1.000.000 SHU
 

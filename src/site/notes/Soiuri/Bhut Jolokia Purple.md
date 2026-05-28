@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/Soiuri/Bhut Jolokia Purple/","tags":["botanica","gastronomie","india","capsicum","capsicum-chinense","super-hot","bhut-jolokia","purple","antocianine","cultivar"],"dg-note-properties":{"tags":["botanica","gastronomie","india","capsicum","capsicum-chinense","super-hot","bhut-jolokia","purple","antocianine","cultivar"]}}
 ---
 
-# Bhut Jolokia Purple
+# Ardeiul fantomă violet
 
 *Capsicum chinense* × *C. frutescens* · Intensitate extremă · 800.000–1.001.300 SHU
 

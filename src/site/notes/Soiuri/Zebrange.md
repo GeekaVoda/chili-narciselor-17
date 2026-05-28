@@ -2,12 +2,14 @@
 {"dg-publish":true,"permalink":"/Soiuri/Zebrange/","tags":["botanica","gastronomie","capsicum","capsicum-baccatum","baccatum","zebrange","cultivar"],"dg-note-properties":{"tags":["botanica","gastronomie","capsicum","capsicum-baccatum","baccatum","zebrange","cultivar"]}}
 ---
 
-# Ardeiul dungat al Belgiei
+# Baccatum dungat belgian
 
 *Capsicum baccatum* · Intensitate medie · 3.000–15.000 SHU
 
 
-Există ardei care seduc prin savoare, alții prin căldura lor discretă sau prin istoriile lungi pe care le poartă. Zebrange seduce prin privire. Fructul său portocaliu cu dungi roșii vii, moștenite din încrucișarea a două soiuri de *Capsicum baccatum* cu personalitate distinctă, a stârnit în scurt timp un interes aparte printre cultivatorii europeni de ardei. Nu este un soi vechi, nu vine din Anzi și nu poartă o tradiție gastronomică seculară — este o creație recentă, metodică, realizată de un cultivator belgian cu pasiune documentată pentru specia *baccatum*.
+Există soiuri de ardei recunoscute pentru savoare, iuțeală discretă sau istoric îndelungat. Soiul Zebrange se remarcă în primul rând prin aspectul vizual. Fructul său portocaliu, marcat de dungi roșii vii, este rezultatul încrucișării a două varietăți de _Capsicum baccatum_ cu trăsături distincte, aspect care a atras rapid atenția cultivatorilor europeni.
+
+Spre deosebire de alte varietăți din această specie, Zebrange nu este un soi tradițional și nu provine din regiunea nativă a Andilor, lipsindu-i o istorie gastronomică seculară. Acesta reprezintă o creație horticolă recentă, obținută prin metode controlate de selecție de către un cultivator belgian specializat în studiul și dezvoltarea speciei _Capsicum baccatum_.
 
 ---
 
@@ -32,9 +34,9 @@ Există ardei care seduc prin savoare, alții prin căldura lor discretă sau pr
 
 Zebrange este un cultivar franco-belgian. Încrucișarea parentală a fost efectuată de Laurent Minet la Centrul de Tehnică Horticolă din Gembloux (Belgia), pornind de la două soiuri *baccatum* cu caractere complementare:
 
-**[[Aji Fantasy\|Aji Fantasy]]** este o selecție finlandeză a lui Jukka Fatalii, dezvoltată pe parcursul a mai multor ani pentru productivitate ridicată, aromă fructată pronunțată și căldură moderată. Fructele sale, de formă bonnet, sunt galben-portocalii la maturitate — aducând în moștenire profilul aromatic și culoarea de fond a lui Zebrange.
+**Aji Fantasy** este o selecție finlandeză a lui Jukka Fatalii, dezvoltată pe parcursul a mai multor ani pentru productivitate ridicată, aromă fructată pronunțată și căldură moderată. Fructele sale, de formă bonnet, sunt galben-portocalii la maturitate — aducând în moștenire profilul aromatic și culoarea de fond a lui Zebrange.
 
-**[[Christmas Bell\|Christmas Bell]]** (*Bishop's Crown*, *Joker's Hat*, *Pimenta Cambuci*) este un cultivar cu origine sud-americană, posibil brazilian, răspândit ulterior în Europa prin intermediul portughezilor în secolul al XVIII-lea. Forma sa caracteristică — trei sau patru lobi aplatizați care evocă mitra episcopală — este trăsătura morfologică dominantă moștenită de Zebrange.
+**Christmas Bell** (*Bishop's Crown*, *Joker's Hat*, *Pimenta Cambuci*) este un cultivar cu origine sud-americană, posibil brazilian, răspândit ulterior în Europa prin intermediul portughezilor în secolul al XVIII-lea. Forma sa caracteristică — trei sau patru lobi aplatizați care evocă mitra episcopală — este trăsătura morfologică dominantă moștenită de Zebrange.
 
 Combinarea celor două soiuri a produs un fruct cu forma lobată a lui *Christmas Bell* și pigmentația dungată — portocaliu cu dungi roșii — ca element de noutate selectat și stabilizat de Minet. Procesul de fixare a caracterelor a durat mai mulți ani, cu contribuția unui grup de aproximativ doisprezece colecționari, iar lotul F8 din 2023 este considerat stabil.
 

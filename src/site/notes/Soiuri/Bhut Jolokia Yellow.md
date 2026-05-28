@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/Soiuri/Bhut Jolokia Yellow/","tags":["botanica","gastronomie","india","assam","nagaland","capsicum","capsicum-chinense","super-hot","bhut-jolokia","yellow","cultivar"],"dg-note-properties":{"tags":["botanica","gastronomie","india","assam","nagaland","capsicum","capsicum-chinense","super-hot","bhut-jolokia","yellow","cultivar"]}}
 ---
 
-# Bhut Jolokia Yellow
+# Ardeiul fantomă galben
 
 *Capsicum chinense* × *C. frutescens* · Intensitate extremă · 855.000–1.000.000 SHU
 

@@ -7,7 +7,7 @@
 ### Data plantare soiuri: vineri, 15.05.2026
 
 ### Sol (grădină):
-- [[Bird's Eye (familia)\|Bird's Eye (familia)]]
+- [[Soiuri/Bird's Eye (familia)\|Bird's Eye (familia)]]
 - [[Soiuri/Pasilla Bajío\|Pasilla Bajío]] 
 - [[Soiuri/Jalapeño Variegated Mattapeno\|Jalapeño Variegated Mattapeno]]
 - [[Soiuri/Zebrange\|Zebrange]]
@@ -30,7 +30,7 @@
 ### Ghivece:
 - [[Soiuri/Carolina Reaper Red\|Carolina Reaper Red]]
 - [[Soiuri/Primotalii Red\|Primotalii Red]]
-- [[Bird's Eye (familia)\|Bird's Eye (familia)]]
+- [[Soiuri/Bird's Eye (familia)\|Bird's Eye (familia)]]
 - [[Soiuri/Pasilla Bajío\|Pasilla Bajío]] 
 - [[Soiuri/Jalapeño Variegated Mattapeno\|Jalapeño Variegated Mattapeno]]
 - [[Soiuri/Zebrange\|Zebrange]]

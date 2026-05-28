@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/Soiuri/Bhut Jolokia Red/","tags":["botanica","gastronomie","india","assam","capsicum","capsicum-chinense","super-hot","bhut-jolokia","ghost-pepper","cultivar"],"dg-note-properties":{"tags":["botanica","gastronomie","india","assam","capsicum","capsicum-chinense","super-hot","bhut-jolokia","ghost-pepper","cultivar"]}}
 ---
 
-# Bhut Jolokia Red
+# Ardeiul fantomă clasic
 
 *Capsicum chinense* × *C. frutescens* · Intensitate extremă · 855.000–1.041.427 SHU
 
