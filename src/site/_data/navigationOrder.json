@@ -1,6 +1,7 @@
 {
   "/": [
     "Bun venit",
+    "Taxonomie",
     "Codex botanic",
     "Capsicum",
     "Specii",
@@ -11,6 +12,10 @@
   ],
   "/Bun venit": [
     "Grădina cu chili de pe Narciselor 17"
+  ],
+  "/Taxonomie": [
+    "Cadrul taxonomic superior",
+    "Cele cinci specii majore"
   ],
   "/Codex botanic": [
     "Profiluri botanice și varietăți"
@@ -24,23 +29,19 @@
     "Scara Scoville"
   ],
   "/Specii": [
-    "Cadrul taxonomic superior",
     "Capsicum annuum",
     "Capsicum baccatum",
     "Capsicum chinense",
     "Capsicum frutescens",
-    "Capsicum pubescens",
-    "Cele cinci specii majore"
+    "Capsicum pubescens"
   ],
   "/Soiuri": [
     "7 Pot (familia)",
     "7 Pot Brain Strain",
     "7 Pot Douglah",
     "7 Pot Primo",
-    "African Bird's Eye",
     "Ají Amarillo",
     "Ají Amarillo (familia)",
-    "Ají Amarillo Cusqueño",
     "Ají Cusqueno",
     "Ají Escabeche",
     "Ají Mirasol",
@@ -51,7 +52,6 @@
     "Bhut Jolokia Red",
     "Bhut Jolokia White",
     "Bhut Jolokia Yellow",
-    "Bird's Eye (familia)",
     "Carolina Reaper (familia)",
     "Carolina Reaper Chocolate",
     "Carolina Reaper Red",
@@ -80,7 +80,6 @@
     "Habanero Peach",
     "Habanero Red",
     "Habanero White",
-    "Jalapeño",
     "Jalapeño (familia)",
     "Jalapeño Biker Billy",
     "Jalapeño Brown",
@@ -90,7 +89,6 @@
     "Jalapeño Telica",
     "Jalapeño Variegated Mattapeno",
     "Kanthari",
-    "La_Santa_Trinidad",
     "Locoto",
     "Magnifico",
     "Mesilla",
@@ -109,8 +107,6 @@
     "Peperoncino di Senise",
     "Pepper X",
     "Pepper X (familia)",
-    "Piri Piri (familia)",
-    "Piri Piri African",
     "Piri Piri Portughez",
     "Poblano",
     "Poblano Ancho (familia)",
@@ -136,7 +132,24 @@
     "Serrano Tipico",
     "Siling Labuyo",
     "Tiburon",
-    "Zebrange"
+    "Zebrange",
+    "7 Pot Barrackpore",
+    "7 Pot Jonah",
+    "Ají Amarillo Cusqueno",
+    "Birds Eye (familia)",
+    "Birds Eye Malagueta",
+    "Birds Eye Piri Piri",
+    "Birds Eye Siling Labuyo",
+    "Birds Eye Tabasco",
+    "Dorset Naga",
+    "Naga (familia)",
+    "Naga Mircha",
+    "Naga Morich",
+    "Naga Viper",
+    "Piri Piri (sub-familia)",
+    "Piri Piri African Birds Eye",
+    "Piri Piri Jindungo",
+    "Piri Piri Peri Peri Sud African"
   ],
   "/Historia": [
     "File de istorie",
