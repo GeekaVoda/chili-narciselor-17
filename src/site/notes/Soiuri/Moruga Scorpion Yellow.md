@@ -7,7 +7,7 @@
 *Capsicum chinense* · Intensitate extremă · 1.000.000–1.500.000 SHU
 
 
-Moruga Scorpion Yellow este varianta familiei [[Moruga Scorpion\|Moruga Scorpion]] care a ales calea aromatică. Iuțeala sa rămâne în categoria extremă — 1.000.000–1.500.000 SHU sunt valori care depășesc recordul mondial deținut de [[Soiuri/Bhut Jolokia Red\|Bhut Jolokia Red]] până în 2011 — dar ușor sub varianta roșie canonică. Diferența nu este nesemnificativă: este suficientă pentru a lăsa profilului aromatic mai mult spațiu de exprimare înainte ca iuțeala să satureze complet receptorii.
+Moruga Scorpion Yellow este varianta familiei [[Moruga Scorpion\|Moruga Scorpion]] care a ales calea aromatică. Iuțeala sa rămâne în categoria extremă — 1.000.000–1.500.000 SHU sunt valori care depășesc recordul mondial deținut de [[Soiuri/Bhut Jolokia Red\|Soiuri/Bhut Jolokia Red]] până în 2011 — dar ușor sub varianta roșie canonică. Diferența nu este nesemnificativă: este suficientă pentru a lăsa profilului aromatic mai mult spațiu de exprimare înainte ca iuțeala să satureze complet receptorii.
 
 Profilul carotenoidal galben — dominat de **beta-criptoxantină** și **zeaxantină** față de capsantina roșie — produce notele de mango copt, ananas și citrice tropicale mai accentuate față de varianta roșie, o caracteristică documentată consistent în comparațiile fitochimice între liniile galbene și roșii ale speciei *C. chinense*.[^Wahyuni2013]
 
@@ -34,7 +34,7 @@ O variantă piersicou, intermediară între Yellow și White, este documentată 
 
 **Scala Scoville:** 1.000.000–1.500.000 SHU — sub varianta roșie canonică, dar în continuare în categoria super-hot extremă.[^Bosland2012]
 
-Moderarea relativă față de varianta roșie urmează același pattern observat la alte perechi galben/roșu din gen — [[Soiuri/Habanero Peach\|Habanero Peach]] față de [[Soiuri/Habanero Orange\|Habanero Orange]], [[Soiuri/Bhut Jolokia Yellow\|Bhut Jolokia Yellow]] față de [[Soiuri/Bhut Jolokia Red\|Bhut Jolokia Red]] — corelată cu profilul carotenoidal specific al liniilor galbene.
+Moderarea relativă față de varianta roșie urmează același pattern observat la alte perechi galben/roșu din gen — [[Soiuri/Habanero Peach\|Habanero Peach]] față de [[Soiuri/Habanero Orange\|Habanero Orange]], [[Soiuri/Bhut Jolokia Yellow\|Bhut Jolokia Yellow]] față de [[Soiuri/Bhut Jolokia Red\|Soiuri/Bhut Jolokia Red]] — corelată cu profilul carotenoidal specific al liniilor galbene.
 
 **Dinamica iuțelii:**
 

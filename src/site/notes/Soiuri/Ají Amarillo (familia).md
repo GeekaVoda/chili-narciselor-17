@@ -1,86 +1,100 @@
 ---
-{"dg-publish":true,"permalink":"/Soiuri/Ají Amarillo (familia)/","tags":["botanica","gastronomie","peru","bolivia","capsicum","capsicum-baccatum","aji-amarillo","ardei-andin","cultivar"],"dg-note-properties":{"tags":["botanica","gastronomie","peru","bolivia","capsicum","capsicum-baccatum","aji-amarillo","ardei-andin","cultivar"]}}
+{"dg-publish":true,"permalink":"/Soiuri/Ají Amarillo (familia)/","tags":["botanica","gastronomie","peru","bolivia","capsicum","capsicum-baccatum","aji-amarillo","andean","cultivar"],"dg-note-properties":{"tags":["botanica","gastronomie","peru","bolivia","capsicum","capsicum-baccatum","aji-amarillo","andean","cultivar"]}}
 ---
 
-# Familia ardei lor portocalii ai Perului
+# Familia galbenă a Anzilor
 
-*Capsicum baccatum* · Intensitate medie · 30.000–50.000 SHU
+*Capsicum baccatum* · Intensitate moderată · 30.000–50.000 SHU
 
 
-Există un ingredient fără de care bucătăria peruiană nu ar fi ceea ce este. Nu pisco-ul, nu cartofii — deși Peru este patria ambelor — ci un ardei portocaliu, cu o aromă fructată și citrică inconfundabilă, care intră în aproape orice preparat național: ceviche, causa rellena, ají de gallina, lomo saltado, papa a la huancaína. Ají Amarillo nu este un condiment opțional în bucătăria peruiană — este o materie primă structurală, la fel de esențială cum este roșia în bucătăria italiană sau ardeiul gras în cea maghiară.
+Există ingrediente care nu au nevoie de explicații în contextul lor de origine. Ají Amarillo este unul dintre ele. În Peru, ardeiul galben-portocaliu nu este o alegere culinară — este un dat, o constantă, o prezență la fel de firească în bucătărie ca sarea sau lămâia. Cheful Virgilio Martinez, unul dintre cei mai recunoscuți bucătari peruvieni la nivel internațional, l-a numit „ADN-ul bucătăriei peruviene". Gastón Acurio, care a dus gastronomia peruviană pe harta lumii, l-a considerat pur și simplu cel mai important ingredient din această bucătărie.[^HowtoPeru]
 
-Paradoxul numelui este real și documentat: *Ají Amarillo* înseamnă „ardei iute galben", dar fructele mature sunt **portocalii** — un portocaliu saturat, strălucitor, imposibil de confundat. Galbenul din nume apare la gătire: căldura modifică parțial pigmenții portocalii, producând o culoare galben-aurie în sosurile și pastele preparate termic. Bucătarii peruvieni știu această distincție și o acceptă ca parte a convenției terminologice — denumirea s-a fixat în tradiție și nu s-a schimbat odată cu clarificarea botanică.[^Zimmerer1996]
-
-Familia Ají Amarillo aparține speciei *[[Specii/Capsicum baccatum\|Capsicum baccatum]]* — specia andină prin excelență, cu originea în Bolivia și Peru și cu un profil aromatic distinct față de toate celelalte specii cultivate din gen: note de mango, caise, citrice tropicale și o aciditate fină care face iuțeala să pară mai blândă și mai rotunjită față de valorile SHU care ar sugera altceva.
-
----
-
-## Originea geografică și istorică
-
-*Capsicum baccatum* — specia din care provin toți membrii familiei Ají Amarillo — a fost domesticită în văile andine joase din Bolivia acum aproximativ 4.500–5.000 de ani, cu o extindere rapidă spre Peru și ecuatorul andin. Dovezile arheobotanice recuperate din siturile de pe coasta peruiană — în special de la Huaca Prieta, datat la 4.500–5.000 î.Hr. — confirmă consumul sistematic al ardeilor din această specie de milenii înaintea contactului european.[^Pickersgill1969]
-
-În perioada imperiului Inca, Ají Amarillo — cunoscut sub denumirea quechua *uchu* sau *ají* (termen preluat de la populațiile de limbă taíno din Caraibe și adoptat de spanioli ca termen generic) — era un ingredient comercializat sistematic prin rețelele de schimb interandine, circulând între zonele de coastă (*costa*), muntoase (*sierra*) și de junglă (*selva*). Capacitatea plantei de a crește în văile interandine la altitudini moderate — 500–2.500 m — o făcea accesibilă majorității comunităților din imperiu.[^Zimmerer1996]
-
-Introducerea sa în Europa post-1492 a urmat traseele comerciale portugheze și spaniole, dar spre deosebire de *Capsicum annuum* — care s-a adaptat rapid la agricultura de câmpie europeană — *Capsicum baccatum* a rămas în mare parte legat de continentul sud-american. Cerințele sale biologice specifice: ciclu lung de vegetație, fotosensibilitate și preferința pentru climatele andine moderate, au limitat expansiunea sa globală.
+Această familie de ardei nu este definită de intensitate extremă — intervalul de 30.000–50.000 SHU o plasează în categoria căldurii moderate, comparabilă cu cayenne sau tabasco. Ceea ce o face remarcabilă este profilul aromatic: fructat, ușor dulce, cu note de fructe tropicale și un parfum care amintește de stafide și caise — un caracter aromatic rar în rândul ardeilor iuți, care se intensifică și se transformă în funcție de stadiul de maturare și de metoda de procesare. Același ardei culegerit proaspăt, gătit, sau uscat la soare devine, în fiecare dintre aceste forme, un ingredient cu o identitate senzorială distinctă.
 
 ---
 
-## Taxonomie și caractere comune ale familiei
+## Originea geografică și contextul botanic
 
-Toți membrii familiei aparțin speciei *Capsicum baccatum* L. var. *pendulum* (Willd.) Eshbaugh — varietatea cultivată a speciei, cu fructe mari și pendente, selectată din forma sălbatică *C. baccatum* var. *baccatum* prin milenii de cultivare andină.[^Eshbaugh1993]
+*Capsicum baccatum* — specia din care fac parte toți membrii acestei familii — este specia andină prin excelență. Centrul său de domesticire este localizat, prin studii filogenetice recente, în zona Amazoniei boliviene și a văilor interandine, cu un al doilea focar antic de cultivare documentat între Bolivia și Argentina.[^BiolJLinnSoc2018] Este prima specie de ardei cultivată atestată pe coasta peruană: siturile arheologice de la Huaca Prieta și Punta Grande documentează prezența sa în straturi preceramice, cu aproximativ 4.000–6.000 de ani înaintea erei noastre.[^AmAntiq]
 
-**Caracterul de diagnostic absolut al speciei:**
+Specia se distinge botanic de celelalte patru specii domesticite ale genului *Capsicum* printr-un caracter floral diagnostic: petalele florii prezintă pete galbene sau verzui la bază — un element morfologic absent la *C. annuum*, *C. chinense*, *C. frutescens* și *C. pubescens*. Frunzele sunt mai mari și mai pubescente față de speciile înrudite, iar fructele au tendința de a atârna în jos (*pendulum*) la maturitate — caracter care diferențiază varietatea cultivată (*C. baccatum* var. *pendulum*) de forma sălbatică (*C. baccatum* var. *baccatum*).[^WikiCbaccatum]
 
-Florile cu **pete galbene sau oliv la baza petalelor albe** — absent la toate celelalte specii cultivate din gen. Acest caracter morfologic identifică imediat orice plantă din *C. baccatum*, indiferent de cultivar sau ecotip.
+---
 
-**Caractere morfologice comune ale familiei:**
+## Contextul cultural și civilizațional
 
-- **Fructul:** Alungit, fusiform sau cilindric, cu lungimi de 10–15 cm și diametru de 2–4 cm. Pericarp de grosime medie spre bun — mai gros față de cayenne, mai subțire față de Poblano.
-- **Culoarea la maturitate:** Portocaliu intens sau portocaliu-roșiatic — consecință a unui profil carotenoidal dominat de beta-criptoxantină și zeaxantină, diferit față de capsantina roșie a soiurilor de *C. annuum*.
-- **Suprafața:** Netedă spre ușor ridată, ceroasă.
-- **Orientarea:** Pendentă la maturitate.
+Ardeii din această familie au fost martori și participanți la câteva dintre marile civilizații ale Americilor precolumbiene. Cultura Moche, care a înflorit pe coasta nordică a Peru-ului între aproximativ 100–700 e.n., a reprezentat ají amarillo în ceramica sa — una dintre puținele dovezi iconografice directe ale importanței unui ingredient culinar într-o cultură preincașă.[^WikiCbaccatum] Incașii au integrat ardeii în mitologia lor de creație și i-au folosit atât ca aliment, cât și ca ofrandă rituală.
 
-**Profilul aromatic comun:**
+Cronicarile spaniole din secolul al XVI-lea documentează utilizarea pe scară largă a ardeilor în întreg imperiul Inca — nu ca raritate sau condiment de lux, ci ca ingredient de bază al hranei zilnice, alături de cartofi și porumb. Termenul quechua *uchu* desemna ardeii în general în acea perioadă; cuvântul *ají*, cu care îi cunoaștem astăzi, este de origine taino — o limbă caraibiană — și a intrat în uz prin intermediul spaniolilor care l-au întâlnit mai întâi în insulele Caraibe, înainte de a ajunge pe continentul sud-american.[^SpecialtyProduce]
 
-Toate variantele familiei partajează un profil aromatic dominat de **esteri alifatici volatili** care produc note de mango, caise, citrice tropicale și o aciditate fină — o semnătură chimică specifică speciei *C. baccatum*, distinctă față de profilul floral al *C. chinense* și față de caracterul vegetal al *C. annuum*.[^Wahyuni2013]
+---
+
+## Taxonomie și nomenclatură
+
+*Capsicum baccatum* L. a fost descris formal de Carl Linnaeus în 1767. Denumirea specifică *baccatum* provine din latinescul *bacca* (bobă, fruct mic) și face referire la fructele mici, rotunde, ale formei sălbatice — o descriere care nu corespunde formelor cultivate, cu fructe alungite și considerabil mai mari. Eroarea, asemănătoare celei din nomenclatura lui *C. chinense* (botezat după o origine chineză inexistentă), este perpetuată de prioritatea taxonomică.[^Bosland2012]
+
+Cultivatele actuale din Peru și Bolivia aparțin varietății *C. baccatum* var. *pendulum* (Willd.) Eshbaugh — varietatea domesticită, cu fructe pendule și profil aromatic distinctiv față de planta sălbatică.
+
+---
+
+## Caractere morfologice comune familiei
+
+**Planta:**
+Viguroasă, cu o înălțime de 100–180 cm în condiții favorabile, depășind frecvent 150 cm în sol fertil în aer liber — una dintre cele mai înalte specii domesticite din genul *Capsicum*. Frunzele sunt mari (până la 30 cm lungime), cu o nervură mediană proeminentă și o pubescență mai accentuată față de *C. annuum*. Planta este perenă în climele tropicale și subtropicale, comportându-se ca anuală în zonele temperate.
+
+**Florile:**
+Albe, cu 5 petale marcate de pete galbene sau verzui-aurii la bază — element diagnostic al speciei, absent la celelalte specii din gen. Polenizare predominant autogamă, cu posibilitatea polenizării încrucișate de insecte.
+
+**Fructele:**
+Alungite, conice, cu vârf ușor ascuțit sau rotunjit, cu pericarp semi-gros și piele lucioasă. Culoarea evoluează de la verde la galben-portocaliu intens la maturitate deplină — nuanța portocalie a fructului matur contrariază frecvent așteptările create de denumirea „galben". La gătire, pericarpul revine la o culoare galbenă, ceea ce a generat probabil etimologia numelui. Aroma — fructată, cu note de fructe pasiunii, mango și stafide — este una dintre cele mai complexe din gen.
+
+**Semințele:**
+Crem-albicioase, plate, de dimensiuni medii.
 
 ---
 
 ## Profilul de iuțeală al familiei
 
-**Interval general:** 30.000–50.000 SHU — intensitate medie, situată deasupra jalapeño-ului standard și sub habanero.
+**Interval general:** 30.000–50.000 SHU, cu variații modeste între reprezentanți și în funcție de condițiile de cultură. Iuțeala este considerată moderată în contextul genului *Capsicum* — mai ridicată decât a soiurilor jalapeño (2.500–8.000 SHU), dar considerabil sub pragul super-hot.
 
-Iuțeala Ají Amarillo este percepută de consumatori ca mai blândă față de valoarea SHU absolută — o consecință documentată a interacțiunii dintre capsaicinoide și matricea aromatică bogată a fructului. Zaharurile libere, acizii organici și esterii volatili atenuează perceptiv intensitatea termică, producând o iuțeală descrisă frecvent ca „caldă", „rotunjită" și „fructată" — nu „agresivă" sau „arsă".[^Meckelmann2015]
-
----
-
-## Locul în gastronomia peruiană și recunoașterea internațională
-
-Gastronomia peruiană a dobândit în ultimele două decenii o recunoaștere internațională remarcabilă — restaurantul Central din Lima a ocupat locul 1 în clasamentul World's 50 Best Restaurants în 2023, iar Peru generează cel mai mare număr de restaurante din America Latină în topurile gastronomice internaționale. În centrul acestei recunoașteri se află, invariabil, Ají Amarillo — ardeiul care conferă preparatelor peruviene acel profil inconfundabil: cald, fructat, acid, cu o iuțeală care subliniază fără a domina.
-
-**El aderezo** — baza aromatică a bucătăriei peruviene, echivalentul mirepoix-ului din bucătăria franceză sau sofrito-ului din cea spaniolă — combină ceapă roșie, usturoi și pasta de Ají Amarillo sotate în ulei sau untură. Această bază, prezentă în marea majoritate a preparatelor naționale, face din Ají Amarillo un ingredient cu o prezență structurală fără echivalent în gastronomia regiunii andine.
+Caracteristic familiei este faptul că arderea nu persistă îndelung după consumul fructului proaspăt — o trăsătură observată empiric de consumatori și atribuită profilului specific al capsaicinoidelor din *C. baccatum*, care par să activeze receptorii TRPV1 cu o intensitate mai redusă și o durată mai scurtă față de *C. chinense*.[^Caterina1997]
 
 ---
 
-## Variantele principale
+## Reprezentanții familiei
 
-- **[[Soiuri/Ají Amarillo\|Ají Amarillo]]** — cultivarul canonic, portocaliu, pilonul gastronomiei peruviene.
-- **[[Soiuri/Ají Mirasol\|Ají Mirasol]]** — Ají Amarillo uscat, cu transformare aromatică specifică deshidratării.
-- **[[Soiuri/Ají Escabeche\|Ají Escabeche]]** — varianta mai lungă și mai subțire, optimizată pentru murături.
-- **Ají Amarillo Cusqueño** — ecotipul de altitudine cu profil distinct.
+Relațiile dintre denumirile acestei familii sunt mai complexe decât în cazul altor familii de ardei — același ardei poate purta nume diferite în funcție de forma sa de prezentare (proaspăt, gătit, uscat, regional):
+
+- **[[Soiuri/Ají Amarillo\|Ají Amarillo]]** — forma tipică, de referință; ardeiul proaspăt sau sub formă de pastă, cel mai utilizat în gastronomia peruviană
+- **[[Ají Amarillo Cusqueño\|Ají Amarillo Cusqueño]]** — linie landrasă din zona Cusco, cu fructe mai scurte și mai rotunde față de tipul de coastă
+- **[[Ají Cusqueño\|Ají Cusqueño]]** — denumire regională folosită în zona Cusco pentru ardeii din această familie; relație nomenclaturală parțial suprapusă cu Cusqueño
+- **[[Soiuri/Ají Escabeche\|Ají Escabeche]]** — sinonim al Ají Amarillo, cu o utilizare specifică în preparatele de tip escabeche din bucătăria criolă peruviană
+- **[[Soiuri/Ají Mirasol\|Ají Mirasol]]** — forma uscată la soare a aceluiași ardei; un ingredient cu identitate culinară autonomă față de forma proaspătă
+
+---
+
+## Utilizări culinare — perspective generale
+
+Familia Ají Amarillo stă la baza unor preparate clasice ale bucătăriei peruviene: *ají de gallina* (tocăniță cremoasă de pui), *papa a la huancaína* (cartofi în sos de ardei galben și brânză), *causa rellena* (preparat rece de cartofi), *ceviche* (în pasta sau direct în marinată) și *escabeche de pescado* (pește marinat). Pasta de ají amarillo — obținută prin blendarea fructelor decojite și fierte — este ingredientul semi-preparat cel mai consumat din Peru, disponibil în piețe și supermarketuri din întreaga țară și în creștere pe piețele internaționale.
+
+Forma uscată (*Ají Mirasol*) este utilizată diferit față de cea proaspătă: mai concentrată, mai puțin iute, cu note nucifare și ușor afumate care nu sunt prezente în fructul proaspăt. Aceasta ilustrează un principiu al gastronomiei andine: același ingredient, transformat prin deshidratare, devine un condiment cu o identitate proprie, nu un substitut inferior.
 
 ---
 
 ## Bibliografie
 
-[^Pickersgill1969]: Pickersgill, B. (1969). *The archaeological record of chili peppers (Capsicum spp.) and the sequence of plant domestication in Peru*. American Antiquity, 34(1), 54–61. [Datele arheobotanice privind prezența *C. baccatum* pe coasta peruiană cu 4.500–5.000 de ani î.Hr.]
+[^Bosland2012]: Bosland, P.W. & Votava, E.J. (2012). *Peppers: Vegetable and Spice Capsicums*. CABI Publishing.
 
-[^Eshbaugh1993]: Eshbaugh, W.H. (1993). *History and exploitation of a serendipitous new crop discovery*. In: Janick, J. & Simon, J.E. (Eds.), *New Crops*. Wiley. [Clasificarea taxonomică a varietăților cultivate de *Capsicum baccatum*.]
+[^AmAntiq]: Pickersgill, B. (1969). *The Archaeological Record of Chili Peppers (Capsicum spp.) and the Sequence of Plant Domestication in Peru*. American Antiquity, 34(1), 54–61. <https://doi.org/10.2307/278814>
 
-[^Zimmerer1996]: Zimmerer, K.S. (1996). *Changing Fortunes: Biodiversity and Peasant Livelihood in the Peruvian Andes*. University of California Press. [Contextul cultural și economic al cultivării Ají Amarillo în comunitățile rurale din Peru.]
+[^BiolJLinnSoc2018]: Barboza, G.E. et al. (2018). *Evolutionary history of the chili pepper Capsicum baccatum L. (Solanaceae): domestication in South America and natural diversification in the Seasonally Dry Tropical Forests*. Biological Journal of the Linnean Society, 124(3), 466–483. <https://doi.org/10.1093/biolinnean/bly068>
+
+[^WikiCbaccatum]: Wikipedia contributors. *Capsicum baccatum*. Wikipedia, The Free Encyclopedia. <https://en.wikipedia.org/wiki/Capsicum_baccatum>
+
+[^SpecialtyProduce]: Specialty Produce. *Ají Amarillo Chile Pepper Information and Facts*. <https://specialtyproduce.com/produce/Aji_Amarillo_Chile_Pepper_789.php>
+
+[^HowtoPeru]: How to Peru. *The 6 Most Important Ají Chili Peppers in Peruvian Cuisine*. <https://howtoperu.com/aji-chili-peppers-in-peruvian-cuisine/>
+
+[^Caterina1997]: Caterina, M.J. et al. (1997). *The capsaicin receptor: a heat-activated ion channel in the pain pathway*. Nature, 389, 816–824. <https://doi.org/10.1038/39807>
 
 [^Wahyuni2013]: Wahyuni, Y. et al. (2013). *Metabolite biodiversity in pepper (Capsicum) fruits of thirty-two diverse accessions*. Phytochemistry, 93, 145–154. <https://doi.org/10.1016/j.phytochem.2013.02.010>
-
-[^Meckelmann2015]: Meckelmann, S.W. et al. (2015). *Phytochemicals in native Peruvian Capsicum pubescens (Rocoto)*. European Food Research and Technology, 240(5), 963–972. <https://doi.org/10.1007/s00217-015-2506-y>
-
-[^Kennedy1986]: Kennedy, D. (1986). *The Cuisines of Mexico* (revised edition). Harper & Row, New York.

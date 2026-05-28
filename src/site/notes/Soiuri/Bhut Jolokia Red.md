@@ -1,73 +1,44 @@
 ---
-{"dg-publish":true,"permalink":"/Soiuri/Bhut Jolokia Red/","tags":["botanica","gastronomie","india","assam","nagaland","capsicum","capsicum-chinense","bhut-jolokia","bhut-jolokia-red","ghost-pepper","super-hot","cultivar"],"dg-note-properties":{"tags":["botanica","gastronomie","india","assam","nagaland","capsicum","capsicum-chinense","bhut-jolokia","bhut-jolokia-red","ghost-pepper","super-hot","cultivar"]}}
+{"dg-publish":true,"permalink":"/Soiuri/Bhut Jolokia Red/","tags":["botanica","gastronomie","india","assam","capsicum","capsicum-chinense","super-hot","bhut-jolokia","ghost-pepper","cultivar"],"dg-note-properties":{"tags":["botanica","gastronomie","india","assam","capsicum","capsicum-chinense","super-hot","bhut-jolokia","ghost-pepper","cultivar"]}}
 ---
 
-# Ardeiul fantomă
+# Bhut Jolokia Red
 
-*Capsicum chinense* × *Capsicum frutescens* · Intensitate extremă · 855.000–1.041.427 SHU
+*Capsicum chinense* × *C. frutescens* · Intensitate extremă · 855.000–1.041.427 SHU
 
 
-Bhut Jolokia Red este varianta canonică a familiei Bhut Jolokia — ardeiul roșu, alungit, cu suprafața rugoasă și vârful ascuțit care a intrat în conștiința globală în 2007, odată cu certificarea recordului mondial de iuțeală de către Guinness World Records. Este varianta pe care cercetătorii de la **New Mexico State University** au analizat-o, pe care Armata Indiană a transformat-o în grenadă și pe care zeci de milioane de oameni o cunosc sub numele de *Ghost Pepper* — ardeiul fantomă.
+Dintre toate variantele familiei, linia roșie este cea care a primit certificatul Guinness, cea care a intrat în laboratoarele NMSU și cea care a furnizat materalul genetic pentru studiul academic ce a schimbat felul în care lumea știința înțelege iuțeala extremă. Bhut Jolokia Red este forma de referință — nu pentru că ar fi mai veche sau mai pură decât variantele colorate, ci pentru că este cea care a fost documentată mai întâi, la standardele cerute de publicarea academică.
 
-Aspectul său nu este spectaculos prin culoare sau prin dimensiune. Fructele roșii, cu suprafața intens zbârcită și un vârf ascuțit ușor răsucit, au o morfologie apropiată de alte soiuri de *Capsicum chinense* — nu atrage atenția prin vizual, ci prin ce se întâmplă după primul contact. Latența inițială — 10–15 secunde de note fructate discrete — creează o așteptare falsă, urmată de o arsură profundă și persistentă care se extinde dincolo de cavitatea bucală spre faringe și căile respiratorii superioare.[^Bosland2007]
+Dr. Paul Bosland de la Chile Pepper Institute al New Mexico State University — același cercetător care apare ca sursă de referință în tot proiectul editorial de față — a primit semințe din Assam în 2001, le-a cultivat în Las Cruces, New Mexico, și a obținut în testele HPLC o valoare de 1.041.427 SHU. Lucrarea publicată în *HortScience* în 2007 consemnează această cifră și confirmă totodată, prin analiză RAPD, statutul de hibrid interspecific natural: predominant *C. chinense*, cu introgresia documentată de material genetic de la *C. frutescens*.[^HortScience2007]
 
 ---
 
 ## Identitate botanică
 
-**Specie:** *[[Specii/Capsicum chinense\|Capsicum chinense]]* × *[[Specii/Capsicum frutescens\|Capsicum frutescens]]* — hibrid natural
+**Specie:** *[[Specii/Capsicum chinense\|Capsicum chinense]]* Jacq. × *[[Specii/Capsicum frutescens\|Capsicum frutescens]]* L. (hibrid interspecific natural)
 **Familie:** [[Soiuri/Bhut Jolokia (familia)\|Bhut Jolokia]]
-**Sinonime:** *Ghost Pepper*, *Ghost Chili*, *Naga Jolokia*, *Bih Jolokia* (în asameză — „ardeiul otrăvii"), *Raja Mirchi* (în nagali — „ardeiul regal")
-**Origine:** Assam, Nagaland și Manipur — nord-estul Indiei
+**Origine:** Nord-estul Indiei — Assam, Nagaland, Manipur, Meghalaya, Mizoram, Arunachal Pradesh
+**Statut genetic:** Landrasă cu cultivare continuă de generații; hibrid interspecific natural confirmat academic; introgresia *C. frutescens* estimată la ~7% din profilul genetic
+**Denumiri regionale:** Bhut Jolokia, Bhot Jolokia, Bih Jolokia (asameză); Naga Jolokia, Naga King Chili, Raja Mircha (Nagaland); Umorok (Manipur); Raja Mirchi, Indian Mystery Chili[^WikiGhost]
 **Dimensiuni fruct:** 5–8 cm lungime, 2–3 cm diametru
-**Culoare la maturitate:** Roșu-aprins intens, mat spre ușor lucios
-**Formă:** Alungită, ușor conică, cu suprafața rugoasă pronunțată și vârful ascuțit
-**Suprafața fructului:** Intens rugos, cu protuberanțe și cute neregulate
-**Semințe:** Crem-gălbui, standard pentru specie
+**Culoare la maturitate:** Roșu-aprins intens; trece prin verde și portocaliu în procesul de maturare
+**Suprafața fructului:** Intens ridată, cu încrețituri pronunțate și protuberanțe neregulate; pieliță subțire
+**Semințe:** Crem-gălbui, plate, standard pentru *C. chinense*
 
 ---
 
 ## Iuțeală și profil senzorial
 
-**Scala Scoville:** 855.000–1.041.427 SHU — valoarea de 1.041.427 SHU reprezintă măsurătoarea certificată Guinness din 2007, realizată prin HPLC pe probe recoltate din culturile din Tezpur, Assam.[^Bosland2007]
+**Scala Scoville:** 855.000–1.041.427 SHU, cu media documentată HPLC la 1.041.427 SHU în testele NMSU.[^HortScience2007]
 
-Această valoare nu este constantă — variabilitatea între recolte și locații de cultivare este semnificativă. Fructele crescute în condiții climatice optime din Assam și Nagaland tind spre limitele superioare; culturile în sere temperate din Europa sau America de Nord produc frecvent valori de 600.000–800.000 SHU — considerabile, dar sub potențialul maxim.
+Bhut Jolokia este renumit în comunitatea consumatorilor de ardei iuți pentru o **dinamică senzorială înșelătoare** — una dintre cele mai documentate din categoria super-hot:
 
-**Dinamica iuțelii:**
+- **Faza de latență:** 20–35 de secunde. În acest interval, profilul aromatic este perceptibil clar: note de fructe roșii coapte, o ușoară componentă dulce-afumată, cu note terestre specifice ardeilor din *C. chinense*. Absența oricărei iuțeli în aceste prime secunde îi face pe consumatorii neinformați să subestimeze complet ceea ce urmează.
+- **Faza de escaladare:** Lentă și inexorabilă. Iuțeala debutează la circa 30 de secunde și continuă să crească vreme de 30–45 de minute, acoperind progresiv întreaga cavitate bucală, palatul, faringele și esofagul.
+- **Faza de platou:** Intensă și persistentă — 45–60 de minute, depășind cu mult durata oricărui ardei din familia jalapeño sau piri piri.
+- **Remisia:** Extrem de lentă. Lipidele (lapte integral, smântână, unt) rămân singura metodă eficace de accelerare a remisiei prin solubilizarea capsaicinoidelor de pe receptorii TRPV1.[^Caterina1997]
 
-- **Faza de latență:** 10–15 secunde — interval în care profilul aromatic este perceptibil: note fructate discrete, o ușoară aciditate, caracteristice speciei *C. chinense*.
-- **Faza de escaladare:** Rapidă și profundă, atingând intensitatea maximă în 45–90 de secunde. Senzația depășește cavitatea bucală — arsura se extinde spre faringe, esofag și căile respiratorii superioare printr-un mecanism de vaporizare a capsaicinei la temperatura corpului.
-- **Faza de platou:** 30–45 de minute — una dintre cele mai lungi din genul *Capsicum* cultivat, cu o senzație de arsură care menține intensitatea ridicată fără diminuare semnificativă.
-- **Remisia:** Extrem de lentă. Lipidele din produsele lactate oferă ameliorare parțială; neutralizarea completă necesită adesea 60–90 de minute în absența intervenției active.[^Caterina1997]
-
-**Profil aromatic:** Note fructate discrete — caise, fructe tropicale — caracteristice speciei *C. chinense*, perceptibile în faza de latență. Profilul este mai puțin complex față de [[Soiuri/Habanero Orange\|Habanero Orange]] sau [[Soiuri/Bhut Jolokia Yellow\|Bhut Jolokia Yellow]] — iuțeala extremă domină rapid și complet senzorialul, lăsând puțin spațiu percepției aromatice.
-
----
-
-## Recordul mondial și contextul academic
-
-Drumul spre recunoașterea oficială a recordului mondial a început cu o cercetare indiană timpurie. În 2000, **Defence Research and Development Organisation (DRDO)** din India a publicat primele măsurători sistematice ale conținutului de capsaicinoide din ardeii din Tezpur, Assam, raportând valori de peste 855.000 SHU — depășind soiurile Red Savina Habanero care dețineau la acea dată recordul oficial de 577.000 SHU.
-
-Validarea internațională a venit prin colaborarea cu **New Mexico State University** — institutul cu cea mai solidă metodologie de măsurare a capsaicinoidelor din lume. Bosland și Baral au publicat în 2007 în *HortScience* studiul care a confirmat atât recordul de iuțeală, cât și statutul de hibrid natural al speciei — o dublă descoperire care a generat un interes academic și mediatic fără precedent pentru un ardei regional.[^Bosland2007]
-
-Recordul a fost deținut până în 2011, când Trinidad Moruga Scorpion a depășit pragul de 1,2 milioane SHU. Bhut Jolokia a rămas însă în memoria colectivă globală ca ardeiul care a schimbat percepția publică despre limitele iuțelii posibile.
-
----
-
-## Utilizarea tradițională în nord-estul Indiei
-
-Mult înainte de orice record mondial, Bhut Jolokia Red era un ingredient de uz curent în bucătăriile din Assam și Nagaland — nu un ingredient exotic sau de nișă, ci o componentă nutritivă și culinară integrată în dieta zilnică a comunităților locale.
-
-**Utilizări culinare tradiționale:**
-
-- **Curry și tocane de carne:** Adăugat în cantități mici — uneori un singur ardei întreg per oală — în preparatele cu carne de porc, pui sau pește de râu. Iuțeala sa extremă permite condimentarea eficientă a unui volum mare de preparat cu o cantitate minimă de ardei.
-- **Chutney-uri proaspete:** Zdrobit pe piatră cu ghimbir, usturoi, ceapă și sare — sosul de masă zilnic, servit alături de orez și legume fierte.
-- **Conservare în ulei:** Ardeii uscați sunt infuzați în ulei de muștar — condimentul lichid care însoțește mesele din regiune.
-- **Medicinal:** Utilizat în medicina tradițională assameză ca stimulent digestiv, remediu pentru răceală și ca agent antiparazitar extern — aplicat pe piele diluat în ulei pentru tratamentul unor afecțiuni dermatologice.[^Bosland2007]
-
-**Utilizarea ca armă tradițională:**
-
-Documentat etnografic în Nagaland: fumul produs prin arderea ardeilor uscați era utilizat ca agent defensiv împotriva animalelor sălbatice — în special elefanți, care sunt extrem de sensibili la aerosolii de capsaicină — și în conflictele tribale ca armă de descurajare. Această utilizare tradițională a precurat cu secole aplicația militară modernă a DRDO.[^DRDO2009]
+**Profil aromatic:** Fructat, cu note de fructe roșii coapte, coacăze, o ușoară componentă florală și o căldură dulce-afumată în fundal. Complexitatea aromatică este mai pronunțată față de variantele cromatice din familie, datorată concentrației mai ridicate de capsaicinoide și eteri volatili specifici liniei roșii.
 
 ---
 
@@ -75,50 +46,60 @@ Documentat etnografic în Nagaland: fumul produs prin arderea ardeilor uscați e
 
 **Planta:**
 
-Viguroasă, cu o înălțime de 60–120 cm în funcție de condițiile de cultură. Frunzele mari și puternic încrețite — caracter tipic *C. chinense* — sunt de un verde-praz saturat. Ramificarea este densă, cu producție abundentă de fructe distribuite uniform pe toată structura plantei. Planta este perenă în climatul tropical de origine și poate produce activ timp de 2–3 ani.
+Viguroasă, cu înălțime de 90–150 cm în condiții de cultură protejată — una dintre cele mai impozante plante din proiectul editorial față de dimensiunea fructelor. Frunzele sunt mari (10–15 cm), ușor încrețite, de un verde-praz mediu. Ramificarea este densă. Perenă în climele tropicale — în Assam, plantele din grădinile familiale sunt menținute mai mulți ani, producând fructe sezon după sezon.
+
+**Florile:**
+
+Albe, cu 2–5 per nod — caracter diagnostic al speciei *C. chinense*. Peduncul lung, constricție circulară vizibilă la baza caliciului.
 
 **Fructul:**
 
-- Lungime: 5–8 cm — mai scurt față de Cayenne, dar cu un diametru proporțional mai mare.
-- Suprafața intens rugosă, cu protuberanțe și cute neregulate distribuite aleatoriu — caracteristică mai pronunțată față de habanero-ul standard.
-- Pericarpul este subțire (1,5–2,5 mm), ceros și ferm în stadiu imatur, devenind ușor flexibil la maturitate roșie deplină.
-- Vârful ascuțit, uneori ușor răsucit sau curbat — un caracter morfologic instabil între plante din aceeași populație.
+Forma este conică spre cilindric-alungită, cu vârf distinctiv ascuțit și adesea ușor curbat sau răsucit — un caracter morfologic care amintește de [[Soiuri/7 Pot Barrackpore\|Barrackpore]], cu care Bhut Jolokia a fost asociat în ipoteze de înrudire geografică. Pericarpul este subțire — mai subțire față de jalapeño sau ají amarillo — cu o suprafață intens ridată și încrețită care conferă fructului un aspect de piele uscată. Culoarea la maturitate este roșu-aprins saturat; fructele nerecoltate pot trece într-un roșu-închis spre bordo la supramaturitate.
+
+---
+
+## Documentarea academică — rolul NMSU
+
+Dr. Bosland a vizitat India pentru prima dată în contextul cercetărilor privind diversitatea genetică a genului *Capsicum* în sudul și sud-estul Asiei. Semințele primite în 2001 au fost cultivate în mai multe sezoane la Las Cruces. Testele HPLC standardizate au confirmat valori cu mult peste tot ce fusese documentat anterior, determinând publicarea rezultatelor în *HortScience* — una dintre revistele de referință ale agronomiei horticole americane.[^HortScience2007]
+
+Studiul notează că *C. chinense* tinde în general să producă concentrații mai ridicate de capsaicinoide față de *C. annuum* sau *C. frutescens*, dar că valorile Bhut Jolokia depășesc și cele mai iuți varietăți cunoscute de *C. chinense* din colecțiile NMSU. Analiza comparativă a expresiei genelor implicate în calea biosintetică a capsaicinoidelor, publicată ulterior de cercetătorii indieni din Assam, a confirmat că nivelul de expresie al genelor-cheie este semnificativ mai ridicat în *C. chinense* față de *C. frutescens* și *C. annuum* — sugerând că iuțeala extremă a Bhut Jolokia este produsul unui nivel de expresie genetică excepțional, nu al unor variații structurale în genele implicate.[^NCBIMetab]
+
+---
+
+## Bhut Jolokia în contextul culinar al nord-estului Indiei
+
+În Assam și Nagaland, Bhut Jolokia Red nu este un ingredient de spectacol sau un test de rezistență — este parte din bucătăria cotidiană, utilizat în doze mici cu un scop precis: condimentarea preparatelor de bază, conservarea alimentelor și, conform medicinei tradiționale locale, facilitarea transpirației în căldura extremă a verii.[^AsiaMedia]
+
+Preparate tradiționale documentate: *Masor Tenga* (curry acru de pește cu bhut jolokia), *Bhut Jolokia Bharta* (piure de ardei copt cu ceapă, roșii și ulei de muștar), *Khar* (curry tradițional alcalin cu coajă de banane), *Axone* (curry de soia fermentată cu ardei și verdeață locală).[^BhootJalokia]
 
 ---
 
 ## Cultivare — note specifice
 
-**Germinarea:** Temperatura optimă 28–32°C, durată 20–35 de zile — variabilă, cu o neuniformitate mai mare față de soiurile de *C. annuum*.
+**Germinarea:** Temperatura optimă a substratului este de 28–32°C, cu o durată de germinare de 21–35 de zile — una dintre cele mai lente din proiectul editorial. Variabilitatea germinativă este semnificativă chiar în condiții optime.
 
-**Cerințe climatice:** Optim la temperaturi diurne de 28–35°C și umiditate atmosferică de 60–80%. Planta este sensibilă la temperaturi nocturne sub 18°C — avortarea florilor survine rapid în condiții sub-optimale. În Europa, cultivarea necesită seră sau solar cu microclimat controlat.
+**Cerințe termice:** Temperaturi diurne de 28–34°C. Temperaturile nocturne sub 18°C provoacă avortarea florilor.
 
-**Durata până la maturitate:** 90–120 de zile de la transplantare până la roșu deplin — un ciclu lung, impunând demararea timpurie a răsadurilor (decembrie–ianuarie) în climatele temperate.
+**Umiditate:** Minimum 60% umiditate atmosferică în faza de înflorire. Clima din nord-estul Indiei — una dintre cele mai umede de pe pământ — este referința naturală pentru acest cultivar.
 
-**Manipulare:** Echipament de protecție obligatoriu — mănuși nitrile, ochelari de protecție. Vaporii eliberați la tăierea fructelor proaspete irită mucoasele respiratorii chiar și în cantități mici.
+**Durata până la maturitate:** 100–120 de zile de la transplantare până la prima recoltă roșie — un ciclu lung.
 
-**Producție per plantă:** 20–40 de fructe pe sezon în cultură protejată din zona temperată — mai redusă față de potențialul din climatul tropical de origine.
-
----
-
-## Utilizări culinare contemporane
-
-Concentrația extremă impune utilizarea exclusiv prin diluție semnificativă:
-
-- **Sosuri ultra-picante fermentate:** Fructele proaspete zdrobite cu sare și oțet, fermentate 2–4 săptămâni. Proporția tipică: 10–15% ardei față de volumul total al sosului.
-- **Pulbere de Ghost Pepper:** Fructele deshidratate la 50–55°C și măcinate fin produc o pulbere cu o concentrație de capsaicinoide de 5–10 ori mai mare decât cayenne-ul standard. Utilizată ca agent de condimentare în cantități de ordinul gramelor.
-- **Infuzii în ulei:** Fructele uscate întregi infuzate în ulei de cocos sau de floarea-soarelui la temperaturi controlate (60°C) timp de 48–72 de ore.
-- **Aplicații gastronomice de nișă:** Combinarea cu ciocolată neagră, miere sau preparate fermentate — domenii în care iuțeala extremă este valorificată ca element de contrast senzorial.
+**Producție per plantă:** Variabilă, dar bună în condiții optime — 40–60 de fructe pe sezon.
 
 ---
 
 ## Bibliografie
 
-[^Bosland2007]: Bosland, P.W. & Baral, J.B. (2007). *Bhut Jolokia — The World's Hottest Known Chile Pepper is a Putative Naturally Occurring Interspecific Hybrid*. HortScience, 42(2), 222–224. <https://doi.org/10.21273/HORTSCI.42.2.222>
-
-[^DRDO2009]: Defence Research and Development Organisation, India (2009). *Development of chilli-based non-lethal grenades for crowd control*. Press release, Ministry of Defence, Government of India.
-
 [^Bosland2012]: Bosland, P.W. & Votava, E.J. (2012). *Peppers: Vegetable and Spice Capsicums*. CABI Publishing.
 
-[^Caterina1997]: Caterina, M.J. et al. (1997). *The capsaicin receptor: a heat-activated ion channel in the pain pathway*. Nature, 389, 816–824. <https://doi.org/10.1038/39807>
+[^HortScience2007]: Bosland, P.W. & Baral, J.B. (2007). *'Bhut Jolokia' — The World's Hottest Known Chile Pepper is a Putative Naturally Occurring Interspecific Hybrid*. HortScience, 42(2), 222–224. <https://asi.ucdavis.edu/sites/g/files/dgvnsk5751/files/inline-files/pepperproject-bhutjolokiahortsciart_0.pdf>
 
-[^Wahyuni2013]: Wahyuni, Y. et al. (2013). *Metabolite biodiversity in pepper (Capsicum) fruits of thirty-two diverse accessions*. Phytochemistry, 93, 145–154. <https://doi.org/10.1016/j.phytochem.2013.02.010>
+[^WikiGhost]: Wikipedia contributors. *Ghost pepper*. Wikipedia, The Free Encyclopedia. <https://en.wikipedia.org/wiki/Ghost_pepper>
+
+[^NCBIMetab]: NCBI / PMC. *Comparative Analysis of Fruit Metabolites and Pungency Candidate Genes Expression between Bhut Jolokia and Other Capsicum Species*. <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5147997/>
+
+[^AsiaMedia]: Asia Media Centre. *The tale of India's iconic chilli — Bhut Jolokia, aka Ghost Pepper*. <https://www.asiamediacentre.org.nz/features/the-tale-of-indias-iconic-chilli-bhut-jolokia-aka-ghost-pepper>
+
+[^BhootJalokia]: BhootJalokia.com. *Traditional Recipes from Northeast India*. <https://bhootjalokia.com/>
+
+[^Caterina1997]: Caterina, M.J. et al. (1997). *The capsaicin receptor: a heat-activated ion channel in the pain pathway*. Nature, 389, 816–824. <https://doi.org/10.1038/39807>

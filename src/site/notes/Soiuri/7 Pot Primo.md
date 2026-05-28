@@ -7,9 +7,9 @@
 *Capsicum chinense* · Intensitate extremă · 1.200.000–1.473.480 SHU
 
 
-Dintre toți membrii familiei [[7 Pot\|7 Pot]], 7 Pot Primo este cel care a atras cel mai mult atenția publicului — și nu în primul rând prin iuțeală, ci prin morfologie. Fructul său are o caracteristică vizuală imediată: un apendice terminal ascuțit, o „coadă" îngustă și răsucită care se prelungește dincolo de corpul principal al bacei. Această deformare nu este un accident de cultivare, ci un caracter stabil, transmis genetic, care a transformat ardeiul într-unul dintre cele mai recunoscute vizual din întreaga categorie super-hot.
+Dintre toți membrii familiei [[Soiuri/7 Pot (familia)\|7 Pot]], Primo este cel care a atras cel mai mult atenția publicului — și nu în primul rând prin iuțeală, ci prin morfologie. Fructul său are o caracteristică vizuală imediată: un apendice terminal ascuțit, o coadă îngustă și răsucită care se prelungește dincolo de corpul principal al bacei. Această deformare nu este un accident de cultivare, ci un caracter stabil, transmis genetic, care a transformat ardeiul într-unul dintre cele mai recunoscute vizual din întreaga categorie super-hot.
 
-Povestea selecției sale este mai bine documentată decât a majorității cultivarurilor din familie. 7 Pot Primo este asociat cu numele lui Troy Primeaux — cunoscut în comunitatea internațională de cultivatori ca *Primo* —, un cultivator din Louisiana, SUA, care a dezvoltat linia prin selecție repetată din material genetic de origine trinitadiană. Denumirea combină apartenența la familie (*7 Pot*) cu porecla selecționatorului (*Primo*) — o convenție informală comună în lumea cultivarurilor super-hot, unde numele de botez al creatorului este adesea parte din identitatea produsului.
+Povestea selecției sale este mai bine documentată decât a majorității cultivarurilor din familie. 7 Pot Primo este asociat cu numele lui Troy Primeaux — cunoscut în comunitatea internațională de cultivatori ca *Primo* —, un cultivator din Louisiana, SUA, care a dezvoltat linia prin selecție repetată din material genetic de origine trinitadiană. Denumirea combină apartenența la familie (*7 Pot*) cu porecla selecționatorului (*Primo*) — o convenție informală comună în lumea cultivarurilor super-hot, unde numele creatorului devine parte din identitatea produsului.
 
 ---
 
@@ -20,7 +20,7 @@ Povestea selecției sale este mai bine documentată decât a majorității culti
 **Selecționer documentat:** Troy Primeaux (*Primo*), Louisiana, SUA
 **Origine genetică:** Material de origine trinitadiană, selecționat în SUA
 **Dimensiuni fruct:** 4–6 cm lungime (inclusiv apendicele), 3–4 cm diametru la bază
-**Culoare la maturitate:** Roșu-aprins intens, cu variante portocalii și galbene în liniile derivate
+**Culoare la maturitate:** Roșu-aprins intens în linia principală; variante portocalii și galbene în liniile derivate
 **Suprafața fructului:** Puternic cutată, cu protuberanțe epidermice neregulate și un apendice terminal ascuțit distinct
 **Semințe:** Crem-gălbui, standard pentru specie
 
@@ -37,7 +37,7 @@ Valoarea de 1.473.480 SHU reprezintă un rezultat dintr-un test specific și nu 
 - **Faza de latență:** 8–12 secunde de la primul contact cu mucoasa bucală. În acest interval, profilul aromatic este perceptibil: note florale intense, cu esteri care amintesc de caise și fructe tropicale — caracteristice speciei *C. chinense*.
 - **Faza de escaladare:** Rapidă și progresivă, atingând intensitatea maximă în 45–90 de secunde. Stimulul termic se extinde de la vârful limbii spre palatul moale și faringe, generând o senzație de arsură circumferențială.
 - **Faza de platou:** Se menține la intensitate ridicată timp de 20–35 de minute, cu variații individuale semnificative în funcție de toleranța la capsaicină a consumatorului.
-- **Remisia:** Lentă. Consumul de lipide (lapte integral, smântână, unt) accelerează procesul prin solubilizarea moleculelor hidrofobe de capsaicină și desprinderea lor de pe receptorii TRPV1.
+- **Remisia:** Lentă. Consumul de lipide (lapte integral, smântână, unt) accelerează procesul prin solubilizarea moleculelor hidrofobe de capsaicină și desprinderea lor de pe receptorii TRPV1.[^Caterina1997]
 
 **Profil aromatic:** Combinație de note florale și fructate — caise, mango, flori de portocal — perceptibile în prima secundă, înainte ca iuțeala să domine. Această dualitate aromă-iuțeală este una dintre caracteristicile cele mai apreciate ale cultivarului în utilizările culinare de nișă.
 
@@ -47,7 +47,7 @@ Valoarea de 1.473.480 SHU reprezintă un rezultat dintr-un test specific și nu 
 
 **Planta:**
 
-Tufa este compactă și viguroasă, cu o înălțime medie de 80–100 cm în condiții de cultură protejată. Frunzele sunt mari (10–16 cm lungime), intens încrețite, de un verde-praz saturant — aspect tipic al speciei *C. chinense*, mai pronunțat decât la majoritatea cultivarurilor de *C. annuum*. Ramificarea este densă, cu noduri apropiate, producând simultan un număr ridicat de fructe pe plantă.
+Tufa este compactă și viguroasă, cu o înălțime medie de 80–100 cm în condiții de cultură protejată. Frunzele sunt mari (10–16 cm lungime), intens încrețite, de un verde-praz saturant — aspect tipic al speciei *C. chinense*. Ramificarea este densă, cu noduri apropiate, producând simultan un număr ridicat de fructe pe plantă.
 
 **Florile:**
 
@@ -58,7 +58,7 @@ Dispuse în grupuri de 3–5 per nod, cu petale alb-verzui și peduncul subțire
 Elementul morfologic definitoriu al cultivarului este structura sa în două componente distincte:
 
 - **Corpul principal:** Globulos spre ovoid, cu suprafața puternic ridată și protuberanțe epidermice neregulate. Pericarpul este subțire și ceros, cu o culoare roșu-aprins la maturitate deplină.
-- **Apendicele terminal:** O prelungire conică, îngustă și adesea răsucită, cu o lungime variabilă de 1–2,5 cm, care conferă fructului aspectul caracteristic descris adesea ca „coadă de scorpion" — deși morfologic nu are nicio legătură cu cultivarurile din familia *Trinidad Moruga Scorpion*. Această deformare este stabilă genetic și prezentă la marea majoritate a fructelor plantelor din linie curată.
+- **Apendicele terminal:** O prelungire conică, îngustă și adesea răsucită, cu o lungime variabilă de 1–2,5 cm, care conferă fructului aspectul caracteristic descris informal drept „coadă de scorpion" — deși morfologic nu are nicio legătură cu cultivarurile din familia Trinidad Moruga Scorpion. Această deformare este stabilă genetic și prezentă la marea majoritate a fructelor plantelor din linie curată.
 
 Culoarea evoluează de la verde-deschis în stadiul imatur la roșu-aprins intens la maturitate deplină. Există linii derivate cu fructe portocalii sau galbene, obținute prin selecție orientată, cu profile aromatice ușor diferite față de linia roșie originală.
 
@@ -68,7 +68,7 @@ Culoarea evoluează de la verde-deschis în stadiul imatur la roșu-aprins inten
 
 7 Pot Primo a apărut și s-a răspândit inițial prin rețelele informale de cultivatori din SUA, înainte de a fi documentat în literatura de specialitate. Procesul de selecție a urmărit fixarea caracterului morfologic distinct — apendicele terminal — concomitent cu menținerea concentrației ridicate de capsaicinoide.
 
-Stabilizarea genetică a unui cultivar de *C. chinense* necesită un număr semnificativ de generații de autopolenizare controlată, dat fiind că specia este predominant autogamă, dar poate fi polenizată încrucișat de insecte în condiții de câmp deschis. Contaminarea polenică de la soiurile vecine este principala cauză a pierderii caracterelor distinctive în culturile neprotejate — motiv pentru care cultivatorii serioși izolează florile sau cultură plantele în spații separate față de alte soiuri de *C. chinense*.[^Bosland2012]
+Stabilizarea genetică a unui cultivar de *C. chinense* necesită un număr semnificativ de generații de autopolenizare controlată, dat fiind că specia este predominant autogamă, dar poate fi polenizată încrucișat de insecte în condiții de câmp deschis. Contaminarea polenică de la soiurile vecine este principala cauză a pierderii caracterelor distinctive în culturile neprotejate — motiv pentru care cultivatorii serioși izolează florile sau cultivă plantele în spații separate față de alte soiuri de *C. chinense*.[^Bosland2012]
 
 ---
 
@@ -82,7 +82,7 @@ Stabilizarea genetică a unui cultivar de *C. chinense* necesită un număr semn
 
 **Durata până la maturitate:** 90–120 de zile de la transplantare până la prima recoltă de fructe complet roșii. Este unul dintre cultivarurile cu ciclul de producție mai lung din familie.
 
-**Producție per plantă:** Variabilă, în funcție de condițiile de cultură. O plantă viguroasă, cultivată în container de minim 15 litri cu substrat fertil și fertilizare echilibrată, poate produce 30–60 de fructe pe sezon.
+**Producție per plantă:** Variabilă, în funcție de condițiile de cultură. O plantă viguroasă, cultivată în container de minimum 15 litri cu substrat fertil și fertilizare echilibrată, poate produce 30–60 de fructe pe sezon.
 
 ---
 
@@ -102,8 +102,8 @@ Profilul aromatic complex — în special notele de caise și florale — îl fa
 
 [^Bosland2012]: Bosland, P.W. & Votava, E.J. (2012). *Peppers: Vegetable and Spice Capsicums*. CABI Publishing. [Referință fundamentală pentru taxonomia, genetica și biochimia cultivarurilor super-hot, inclusiv metodologia de testare HPLC.]
 
-[^Wahyuni2013]: Wahyuni, Y. et al. (2013). *Metabolite biodiversity in pepper (Capsicum) fruits of thirty-two diverse accessions*. Phytochemistry, 93, 145–154. <https://doi.org/10.1016/j.phytochem.2013.02.010>
+[^Wahyuni2013]: Wahyuni, Y. et al. (2013). *Metabolite biodiversity in pepper (Capsicum) fruits of thirty-two diverse accessions*. Phytochemistry, 93, 145–154. <https://doi.org/10.1016/j.phytchem.2013.02.010>
 
-[^Caterina1997]: Caterina, M.J. et al. (1997). *The capsaicin receptor: a heat-activated ion channel in the pain pathway*. Nature, 389, 816–824. <https://doi.org/10.1038/39807> [Mecanismul de acțiune al capsaicinei asupra receptorilor TRPV1.]
+[^Caterina1997]: Caterina, M.J. et al. (1997). *The capsaicin receptor: a heat-activated ion channel in the pain pathway*. Nature, 389, 816–824. <https://doi.org/10.1038/39807>
 
 [^Kraft2014]: Kraft, K.H. et al. (2014). *Multiple lines of evidence for the origin of domesticated chili pepper, Capsicum annuum, in Mexico*. Proceedings of the National Academy of Sciences, 111(17), 6165–6170. <https://doi.org/10.1073/pnas.1308933111>

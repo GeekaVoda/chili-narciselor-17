@@ -1,132 +1,83 @@
 ---
-{"dg-publish":true,"permalink":"/Soiuri/Ají Cusqueno/","tags":["botanica","gastronomie","peru","cusco","capsicum","capsicum-baccatum","aji-amarillo","aji-cusqueno","altitudine","cultivar"],"dg-note-properties":{"tags":["botanica","gastronomie","peru","cusco","capsicum","capsicum-baccatum","aji-amarillo","aji-cusqueno","altitudine","cultivar"]}}
+{"dg-publish":true,"permalink":"/Soiuri/Ají Cusqueno/","tags":["botanica","gastronomie","peru","cusco","capsicum","capsicum-baccatum","aji-amarillo","andean","cultivar","nomenclatura"],"dg-note-properties":{"tags":["botanica","gastronomie","peru","cusco","capsicum","capsicum-baccatum","aji-amarillo","andean","cultivar","nomenclatura"]}}
 ---
 
-# Ardeiul imperial al altitudinii
+# Ardeiul cu nume de oraș
 
-*Capsicum baccatum* · Intensitate medie spre ridicată · 35.000–55.000 SHU
+*Capsicum baccatum* var. *pendulum* · Intensitate moderată · 30.000–50.000 SHU
 
 
-Ají Amarillo Cusqueño este ecotipul familiei [[Soiuri/Ají Amarillo\|Ají Amarillo]] care a ales altitudinea — cultivat pe terasele agricole din jurul orașului **Cusco**, la 3.399 m față de nivelul mării, în condiții climatice radical diferite față de văile interandine joase unde cresc celelalte variante ale familiei. Această adaptare la condițiile andine înalte a produs un ecotip cu caractere distinctive față de linia standard: fructe mai mici, iuțeală mai ridicată și un profil aromatic mai concentrat și mai intens — consecințe biologice directe ale stresului climatic de la altitudine.
+Există un fenomen nomenclatural recurent în tradiția ardeilor peruvieni: același ardei acumulează, în timp, mai multe denumiri paralele — unele legate de forma de prezentare (proaspăt sau uscat), altele de zona geografică de origine, altele de preparatul culinar în care este folosit cu predilecție. Ají Cusqueño este o ilustrare a acestui fenomen. Nu există un acord deplin, nici în literatura culinară, nici în sursele botanice, asupra a ceea ce desemnează exact termenul „Cusqueño" — o linie distinctă de ardei, o variantă regională a liniei standard, sau forma uscată a ardeiului galben din zona Cusco.
 
-Cusco — capitala istorică a Imperiului Inca, orașul care a dat numele ecotipului — este unul dintre cele mai vechi centre de civilizație din Americi, cu o tradiție agricolă documentată de peste 3.000 de ani pe terasele artificiale (*andenes*) care flanchează văile alpine din jurul său. Cultivarea ardeilor pe aceste terase — la altitudini la care *Capsicum chinense* sau *C. frutescens* nu pot supraviețui, și la care *C. annuum* produce cu dificultate — este posibilă pentru *C. baccatum* tocmai datorită adaptabilității sale termice superioare față de celelalte specii cultivate din gen.[^Zimmerer1996]
+Ceea ce este cert: termenul *cusqueño* (derivat de la Cusco, fosta capitală imperială incașă) desemnează o legătură geografică, nu un caracter morfologic fix. El apare în trei contexte principale în documentarea existentă: ca sinonim al formei uscate a Ají Amarillo (alături de Ají Mirasol), ca denumire pentru linia landrasă specifică zonei Cusco (documentată separat ca [[Ají Amarillo Cusqueño\|Ají Amarillo Cusqueño]]), și ca ingredient menționat în rețetele tradiționale andine din departamentul Cusco fără o distincție clară față de tipul de bază al familiei.
 
 ---
 
 ## Identitate botanică
 
-**Specie:** *[[Specii/Capsicum baccatum\|Capsicum baccatum]]* var. *pendulum*
-**Familie:** [[Soiuri/Ají Amarillo\|Ají Amarillo]]
-**Tip:** Ecotip cultivat tradițional — fără statut formal de cultivar în nomenclatura internațională
-**Origine:** Zona Cusco și văile adiacente din sudul Peru — altitudini de 2.800–3.500 m
-**Altitudine de cultivare:** 2.500–3.500 m față de nivelul mării — cea mai ridicată din familie
-**Dimensiuni fruct:** 6–10 cm lungime, 1,5–2,5 cm diametru — mai mic față de linia standard
-**Culoare la maturitate:** Portocaliu intens spre portocaliu-roșiatic — similar familiei, uneori cu nuanțe mai saturate
-**Formă:** Alungită, ușor mai conică față de linia standard
-**Suprafața fructului:** Netedă, ceroasă
-**Semințe:** Crem-gălbui, standard pentru specie
+**Specie:** *[[Specii/Capsicum baccatum\|Capsicum baccatum]]* L. var. *pendulum* (Willd.) Eshbaugh
+**Familie:** [[Soiuri/Ají Amarillo (familia)\|Ají Amarillo]]
+**Origine:** Zona Cusco și văile andine înalte ale Peru-ului de sud
+**Statut nomenclatural:** Denumire geografică regională, utilizată ca: (a) sinonim al formei uscate Ají Mirasol provenite din zona Cusco, sau (b) variantă regională a liniei Ají Amarillo adaptată la altitudini înalte
+**Relație cu alte denumiri:** Suprapunere parțială cu [[Soiuri/Ají Mirasol\|Ají Mirasol]] (forma uscată) și cu [[Ají Amarillo Cusqueño\|Ají Amarillo Cusqueño]] (linia landrasă de altitudine); uneori utilizat ca sinonim al ambelor
+**Dimensiuni fruct:** 7–12 cm lungime, în funcție de linia specifică
+**Culoare la maturitate (proaspăt):** Portocaliu-galben intens
+**Culoare la maturitate (uscat):** Maro-portocaliu, cu pieliță pergamentoasă
 
 ---
 
-## Iuțeală și profil senzorial
+## Clarificarea relațiilor nomenclaturale
 
-**Scala Scoville:** 35.000–55.000 SHU — cel mai iute ecotip al familiei, depășind intervalul standard al Ají Amarillo cu 15–20%.[^Bosland2012]
+Confuzia dintre Ají Cusqueño, Ají Amarillo Cusqueño și Ají Mirasol este documentată în surse multiple și merită tratată explicit, nu ocultată.
 
-Această iuțeală mai ridicată față de ecotipurile de vale joasă are o explicație biologică directă: stresul climatic de la altitudine — oscilații termice diurne de 15–20°C, radiație UV intensă, vânturi uscate — stimulează sinteza capsaicinoidelor ca mecanism de apărare al plantei. Același mecanism documentat la [[Soiuri/Locoto\|Locoto]] bolivian de Altiplano și la [[Soiuri/Rocoto Rojo\|Rocoto Rojo]] din Arequipa — altitudinea mai mare = iuțeală mai mare, ca regulă generală pentru *Capsicum baccatum* în spațiul andin.
+Truelove Seeds — o sursă de semințe cu documentare botanică îngrijită — listează explicit sinonimele: *Ají Amarillo, Ají Mirasol, Peruvian Yellow Pepper, Ají Escabeche, Cusqueño, Cusqueño, Huancaína* — toți ca denumiri alternative ale aceluiași ardei de bază.[^TrueloveSeeds] Specialty Produce confirmă același tip de relație sinonimică.[^SpecialtyProduce] Specialty Produce dedicated Mirasol page descrie Cusqueño ca pe un alt nume pentru forma uscată a Ají Amarillo.[^SpecialtyMirasol]
 
-**Dinamica iuțelii:**
-
-- **Faza de latență:** 8–12 secunde — similară familiei, cu note aromatice fructate perceptibile.
-- **Faza de escaladare:** Ușor mai rapidă față de ecotipurile de vale joasă, cu un atac ceva mai direct.
-- **Faza de platou:** 12–20 de minute.
-- **Remisia:** Standard pentru specie.
-
-**Profil aromatic:**
-
-Similar familiei, dar cu concentrare mai mare a compușilor aromatici:
-- **Mango** și **caise** — mai intense și mai persistente față de ecotipurile de vale joasă.
-- **Citrice tropicale** — lime și portocale, mai pronunțate.
-- O **aciditate mai directă** față de ecotipurile mai dulci de la altitudini joase.
-- O ușoară notă minerală și pământoasă — posibil atribuibilă solurilor vulcanice din jurul Cusco-ului, bogate în minerale cu o compoziție specifică față de solurile aluvionare ale văilor joase.
+Interpretarea mai nuanțată — și mai corectă din punct de vedere etnobotanic — este că termenul *Cusqueño* funcționează ca un descriptor geografic care poate acoperi atât ardeiul proaspăt din regiune (linia landrasă de altitudine), cât și forma sa uscată locală, distinctă față de formele de coastă prin condițiile de deshidratare și prin microdiferen ențele aromatice ale fructului de origine.
 
 ---
 
-## Adaptarea la altitudinea înaltă — mecanisme biologice
+## Profilul senzorial
 
-Cultivarea *Capsicum baccatum* la altitudini de 2.500–3.500 m produce adaptări biologice documentate față de populațiile de vale joasă:
+Aromatic, Ají Cusqueño în forma sa proaspătă urmează profilul general al familiei: fructat, cu note de fructe tropicale, dulceag, cu o aciditate vegetală discretă. Forma uscată din zona Cusco este descrisă în sursele culinare peruviene ca prezentând note mai terestre și ușor afumate față de formele uscate de coastă — o diferență atribuită condițiilor de deshidratare la altitudine (aer mai uscat, radiație solară mai intensă, temperaturi mai scăzute pe timpul nopții care încetinesc procesul de deshidratare).[^HowtoPeru]
 
-**Dimensiunile mai mici ale fructelor:**
-
-La altitudini mari, sezonul de vegetație este mai scurt — temperaturile scăzute din septembrie-octombrie opresc creșterea înainte ca fructele să atingă dimensiunile maxime. Fructele mai mici sunt un răspuns la sezonul scurtat, nu o limitare genetică intrinsecă — aceleași plante produse la altitudini joase ar genera fructe mai mari.
-
-**Concentrarea capsaicinoidelor:**
-
-Raportul placentă/pulpă mai ridicat la fructele mai mici — combinat cu stresul termic al altitudinii care intensifică sinteza ca mecanism de apărare — produce concentrații de capsaicinoide per gram de fruct mai ridicate față de ecotipurile de vale.
-
-**Ciclul de vegetație mai lung:**
-
-Paradoxal, deși sezonul fără îngheț este mai scurt la altitudini mari, ciclul de maturare al fructelor individuale este mai lung — temperaturile mai scăzute încetinesc toate procesele metabolice. Ají Cusqueño poate necesita 140–170 de zile de la transplantare până la maturitate completă, față de 120–150 la ecotipurile de vale.[^Zimmerer1996]
-
-**Toleranța la variații termice extreme:**
-
-Temperaturi diurne de 18–24°C și nopți frecvent sub 5°C — uneori apropiindu-se de 0°C în lunile mai reci — testează toleranța termică a plantei. *C. baccatum* suportă aceste variații mai bine față de *C. annuum* sau *C. chinense*, dar la limite — plantele sunt protejate de vânturile reci de noapte prin amplasarea în microclimate adăpostite ale teraselor andine.
+**Scala Scoville:** 30.000–50.000 SHU, identic cu intervalul familiei.
 
 ---
 
-## Cusco și tradițiile agricole incașe
+## Cusco — contextul geografic al numelui
 
-Regiunea Cusco este, din perspectiva agriculturii andine, un laborator viu al tehnicilor agricole precolumbiene. Sistemul de terase artificiale (*andenes*) — construit de civilizațiile pre-incașe și extins masiv de Imperiul Inca — este funcțional și astăzi, cu sute de terase active cultivate cu soiuri tradiționale de porumb, cartofi, quinoa și ardei.
+Cusco (quechua: *Qusqu*, „buricul lumii") este situat în sudul Peru-ului, la o altitudine medie de 3.399 m, în Valea Huatanay. Capitală a Imperiului Inca până la cucerirea spaniolă din 1533, orașul și-a păstrat importanța comercială și culturală în perioada colonială și ulterior. Piețele tradiționale ale Cusco-ului — în special piața San Pedro — sunt și astăzi un reper pentru diversitatea ardeilor peruvieni cultivați în regiunile andine înalte, unde soiurile locale de ají sunt vândute proaspete, uscate și sub formă de pastă.[^SuperalimentosPeru]
 
-**Microclimatul teraselor:**
-
-Terasele andine nu sunt simple platforme orizontale pe pantele munților — sunt sisteme de management termic și hidric sofisticate. Zidul de piatră care sprijină fiecare terasă absoarbe căldura solară diurnă și o eliberează lent pe timp de noapte, creând un microclimat cu temperaturi nocturne cu 2–4°C mai ridicate față de terenul deschis adiacent. Această diferență este decisivă pentru cultivarea *C. baccatum* la altitudini la care temperatura nocturnă ar fi altfel prea scăzută pentru producție.[^Zimmerer1996]
-
-**Conservarea biodiversității:**
-
-Comunitățile din jurul Cusco-ului cultivă și conservă soiuri locale de *C. baccatum* prin selecție populară — practică documentată de cercetătorii de etnobotanică ca sursă importantă de diversitate genetică pentru specie. Soiurile locale de Ají Cusqueño conțin variabilitate alelică absentă din colecțiile comerciale, relevantă pentru ameliorarea speciei în contextul schimbărilor climatice.
+Atribuirea geografică a unui ingredient culinar prin simpla adăugare a unui toponimic este o practică culinară înrădăcinată în tradiția peruiviană — un sistem informal de indicații de origine care precedă cu mult conceptele moderne de protecție a originii geografice.
 
 ---
 
-## Locul în bucătăria din Cusco
+## Note pentru utilizarea editorială
 
-Bucătăria din Cusco — distinctă față de cea de pe coasta peruiană — este mai robustă, mai densă în calorii și mai orientată spre ingredientele andine de altitudine: cartofi în zeci de soiuri, porumb gigant (*choclo*), quinoa, carne de lama și de cuy (cobai). Ají Cusqueño este prezent ca agent de iuțeală și aromatic în această bucătărie, cu câteva aplicații specifice:
-
-**Rocoto-Ají Cusqueño în preparatele mixte:**
-
-Spre deosebire de coasta peruiană unde Ají Amarillo este ardeiul dominant, în bucătăria din Cusco adesea Ají Cusqueño apare în combinație cu [[Soiuri/Rocoto Rojo\|Rocoto Rojo]] — Ají Cusqueño aduce nota fructată și acidă a speciei *C. baccatum*, Rocoto aduce densitatea și profunzimea speciei *C. pubescens*.
-
-**Ají Cusqueño în chicha:**
-
-Combinarea pulpei de ardei cu *chicha de jora* — berea de porumb fermentată care este băutura tradițională andină — produce o băutură condimentată utilizată atât culinar (ca ingredient în tocane și marinate) cât și în contextul ceremonial al comunităților quechua din regiune.
-
-**Utilizarea uscată:**
-
-La altitudinile din jurul Cusco-ului, uscarea solară este facilitată de umiditatea atmosferică scăzută și de intensitatea radiației solare — Ají Cusqueño uscat este utilizat similar cu [[Soiuri/Ají Mirasol\|Ají Mirasol]], dar cu un profil aromatic ușor mai intens și mai acid.
+Fișierul de față documentează termenul *Ají Cusqueño* ca denumire cu utilizare documentată în sursele culinare și botanice, fără a pretinde o distincție morfologică complet stabilizată față de [[Ají Amarillo Cusqueño\|Ají Amarillo Cusqueño]]. Cititorii interesați de caracterele botanice ale landrasi de altitudine sunt direcționați spre fișierul [[Ají Amarillo Cusqueño\|Ají Amarillo Cusqueño]]; cei interesați de forma uscată, spre [[Soiuri/Ají Mirasol\|Ají Mirasol]].
 
 ---
 
-## Cultivare — note specifice
+## Utilizări culinare specifice
 
-**Germinarea:** Temperatura optimă 20–25°C — mai scăzută față de ecotipurile de vale joasă, reflectând adaptarea la temperaturi mai moderate. Durată: 18–30 de zile.
+În preparatele tradiționale din departamentul Cusco, Ají Cusqueño apare ca ingredient de bază în:
 
-**Durata până la maturitate:** 140–170 de zile de la transplantare — cel mai lung ciclu din familie, consecință a temperaturilor mai scăzute din zona Cusco.
-
-**Microclimatul necesar:** Amplasarea pe terase adăpostite, ferite de vânturile reci de noapte, este esențială. Expunerea solară maximă pe tot parcursul zilei compensează parțial temperaturile mai scăzute.
-
-**Producție per plantă:** 20–40 de fructe pe sezon — mai redusă față de ecotipurile de vale, datorită sezonului mai scurt și dimensiunilor mai mici ale fructelor.
-
-**Disponibilitate:** Disponibil în piețele tradiționale din Cusco și în comunele rurale din jur — absent din circuitul comercial internațional, disponibil prin rețele specializate de semințe cu accent pe soiuri andine tradiționale.
+- **Adobo cusqueño** — marinată tradițională pe bază de carne de porc, în care ardeii uscați (Cusqueño / Mirasol) formează baza aromatică alături de chicha de jora (bere de porumb fermentată).
+- **Ocopa arequipeña** — sosul verde-galben pe bază de ardei uscați, huacatay (mentă neagră peruviană) și brânză locală.
+- **Chupes și locros** — supe grase andine cu cartofi, în care ardeii uscați din regiune adaugă culoare și profunzime aromatică.
 
 ---
 
 ## Bibliografie
 
-[^Zimmerer1996]: Zimmerer, K.S. (1996). *Changing Fortunes: Biodiversity and Peasant Livelihood in the Peruvian Andes*. University of California Press. [Contextul agricol al cultivării soiurilor tradiționale de Ají Amarillo în regiunea Cusco și sistemul de terase andine.]
-
 [^Bosland2012]: Bosland, P.W. & Votava, E.J. (2012). *Peppers: Vegetable and Spice Capsicums*. CABI Publishing.
 
-[^Wahyuni2013]: Wahyuni, Y. et al. (2013). *Metabolite biodiversity in pepper (Capsicum) fruits of thirty-two diverse accessions*. Phytochemistry, 93, 145–154. <https://doi.org/10.1016/j.phytochem.2013.02.010>
+[^TrueloveSeeds]: Truelove Seeds. *Ají Amarillo (Peruvian Chile)*. <https://trueloveseeds.com/products/aji-amarillo-peruvian-pepper>
 
-[^Pickersgill1969]: Pickersgill, B. (1969). *The archaeological record of chili peppers (Capsicum spp.) and the sequence of plant domestication in Peru*. American Antiquity, 34(1), 54–61.
+[^SpecialtyProduce]: Specialty Produce. *Ají Amarillo Chile Pepper Information and Facts*. <https://specialtyproduce.com/produce/Aji_Amarillo_Chile_Pepper_789.php>
 
-[^Eshbaugh1993]: Eshbaugh, W.H. (1993). *History and exploitation of a serendipitous new crop discovery*. In: Janick, J. & Simon, J.E. (Eds.), *New Crops*. Wiley.
+[^SpecialtyMirasol]: Specialty Produce. *Dried Aji Mirasol Peppers Information and Facts*. <https://specialtyproduce.com/produce/Dried_Aji_Mirasol_Peppers_16998.php>
+
+[^HowtoPeru]: How to Peru. *The 6 Most Important Ají Chili Peppers in Peruvian Cuisine*. <https://howtoperu.com/aji-chili-peppers-in-peruvian-cuisine/>
+
+[^SuperalimentosPeru]: Superalimentos del Perú. *Yellow Pepper: History, Cultivation, Uses*. <https://foods.pe/en/yellow-pepper/>

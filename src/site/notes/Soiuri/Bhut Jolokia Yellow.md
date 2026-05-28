@@ -1,120 +1,92 @@
 ---
-{"dg-publish":true,"permalink":"/Soiuri/Bhut Jolokia Yellow/","tags":["botanica","gastronomie","india","capsicum","capsicum-chinense","bhut-jolokia","bhut-jolokia-yellow","ghost-pepper","super-hot","cultivar"],"dg-note-properties":{"tags":["botanica","gastronomie","india","capsicum","capsicum-chinense","bhut-jolokia","bhut-jolokia-yellow","ghost-pepper","super-hot","cultivar"]}}
+{"dg-publish":true,"permalink":"/Soiuri/Bhut Jolokia Yellow/","tags":["botanica","gastronomie","india","assam","nagaland","capsicum","capsicum-chinense","super-hot","bhut-jolokia","yellow","cultivar"],"dg-note-properties":{"tags":["botanica","gastronomie","india","assam","nagaland","capsicum","capsicum-chinense","super-hot","bhut-jolokia","yellow","cultivar"]}}
 ---
 
-# Ardeiul fantomă cu aromă de mango
+# Bhut Jolokia Yellow
 
-*Capsicum chinense* × *Capsicum frutescens* · Intensitate extremă · 750.000–950.000 SHU
+*Capsicum chinense* × *C. frutescens* · Intensitate extremă · 855.000–1.000.000 SHU
 
 
-Bhut Jolokia Yellow este varianta familiei Bhut Jolokia care a ales aroma în locul recordului. Iuțeala sa este extremă — 750.000–950.000 SHU rămân în categoria super-hot fără nicio îndoială — dar ușor sub varianta roșie canonică. Ceea ce compensează această diferență de intensitate este profilul aromatic: notele de mango copt, papaya și citrice tropicale sunt perceptibile mai clar și mai îndelungat față de varianta roșie, lăsând mai mult spațiu simțurilor înainte ca iuțeala să domine complet senzorialul.
+Dintre toate variantele cromatice ale familiei, Yellow este cea care îl surprinde cel mai mult pe cei care asociază Bhut Jolokia cu roșul aprins din fotografiile Guinness. Un ardei galben-citrin, de dimensiunile unui deget mare, cu pielea încrețită și suprafața neregulată — același caracter morfologic al familiei, același nord-est al Indiei ca origine, aceeași iuțeală extremă. Nuanța galbenă nu este o dulceață indicativă, cum ar putea fi la unele soiuri de ardei dulci; este pur și simplu o altă distribuție carotenoidică față de varianta roșie, produsă de absența licopenului și a capsantinei și de dominanța beta-carotenului și luteolienei ca pigmenți de maturitate.
 
-Culoarea galbenă sau galben-portocalie la maturitate este produsă de un profil carotenoidal dominat de **beta-criptoxantină** și **zeaxantină** — în absența relativă a capsantinei roșii. Aceeași compoziție care produce culoarea produce și o parte din profilul aromatic specific: esterii volatili asociați carotenoidelor galbene includ compuși care contribuie la notele de fructe tropicale galbene, diferențiind Bhut Jolokia Yellow de varianta roșie cu mai multă claritate decât ar sugera simpla diferență de culoare.[^Wahyuni2013]
+Hippy Seed Company, una dintre sursele cu documentare mai detaliată pentru această variantă, o descrie drept o linie originară din Assam, Nagaland și Manipur — același arc geografic cu linia roșie — și notează că în comunitatea cultivatorilor Yellow Bhut Jolokia este apreciat în mod special pentru producția abundentă, superioară unora dintre variantele mai rare ale familiei.[^HippyYellow]
 
 ---
 
 ## Identitate botanică
 
-**Specie:** *[[Specii/Capsicum chinense\|Capsicum chinense]]* × *[[Specii/Capsicum frutescens\|Capsicum frutescens]]* — hibrid natural
+**Specie:** *[[Specii/Capsicum chinense\|Capsicum chinense]]* Jacq. × *[[Specii/Capsicum frutescens\|Capsicum frutescens]]* L. (hibrid interspecific natural)
 **Familie:** [[Soiuri/Bhut Jolokia (familia)\|Bhut Jolokia]]
-**Sinonime:** *Yellow Ghost Pepper*, *Golden Ghost Pepper*
-**Origine:** Linie izolată din populația de Bhut Jolokia din nord-estul Indiei — stabilizată și răspândită prin colecțiile globale de cultivatori
-**Dimensiuni fruct:** 5–8 cm lungime, 2–3 cm diametru
-**Culoare la maturitate:** Galben-auriu spre galben-portocaliu
-**Formă:** Alungită, cu suprafața rugosă — similară variantei roșii
-**Suprafața fructului:** Rugos, cu protuberanțe moderate
-**Semințe:** Crem-gălbui, standard pentru specie
-
-**Notă — Bhut Jolokia Peach:** O variantă piersicou, intermediară între Yellow și White, este documentată în colecțiile de cultivatori sub denumirea *Peach Ghost Pepper*. Profilul său aromatic — mai floral față de Yellow, mai puțin curat față de White — și iuțeala de 600.000–800.000 SHU o plasează ca o linie derivată din Yellow, tratată ca mențiune în această pagină.
+**Origine:** Nord-estul Indiei — Assam, Nagaland, Manipur; variantă naturală a liniei de bază
+**Statut genetic:** Variantă naturală cu profil carotenoidic diferit față de linia roșie; absența licopenului și dominanța beta-carotenului și luteinei produc culoarea galbenă
+**Dimensiuni fruct:** 5–7 cm lungime, 2–3 cm diametru — ușor mai mici față de linia roșie[^HippyYellow]
+**Culoare la maturitate:** Verde → galben-citrin intens la maturitate deplină
+**Suprafața fructului:** Ridată, cu încrețituri caracteristice familiei, suprafață neregulată
+**Semințe:** Crem-gălbui, plate
 
 ---
 
 ## Iuțeală și profil senzorial
 
-**Scala Scoville:** 750.000–950.000 SHU — ușor sub varianta roșie, cu o medie situată în jumătatea superioară a potențialului familiei.[^Bosland2012]
+**Scala Scoville:** 855.000–1.000.000 SHU.[^HippyYellow]
 
-**Dinamica iuțelii:**
+**Profil aromatic:** Descris în sursele disponibile ca mai fructat față de linia roșie — cu note de fructe tropicale, citrice și mango mai pronunțate.[^HippyYellow] Această particularitate este consistentă cu biochimia variantelor galbene din genul *Capsicum* în general: profilul carotenoidic galben este asociat cu un spectru de compuși volatili ușor diferit față de profilul roșu, mai aproape de notele fructate și citrice. Se urmărea un paralelism cu [[Soiuri/Ají Amarillo\|Ají Amarillo]], care partajează culoarea galbenă și un profil predominant fructat — cu precizarea că iuțeala Bhut Jolokia Yellow este de circa 20 de ori mai ridicată.
 
-- **Faza de latență:** 12–18 secunde — mai lungă față de varianta roșie, permițând perceperea profilului aromatic tropical înainte ca stimulul termic să devină dominant.
-- **Faza de escaladare:** Progresivă, similară variantei roșii ca viteză, dar cu o senzație ușor mai fructată în primele secunde.
-- **Faza de platou:** 25–40 de minute — persistență similară familiei.
-- **Remisia:** Lentă, cu persistență în faringe.
-
-**Profil aromatic:** Cel mai fructat din familie:
-- **Mango copt** — în plan primar, pronunțat și persistent în faza de latență.
-- **Papaya și ananas** — în plan secundar, cu o dulceață naturală mai mare față de varianta roșie.
-- **Citrice tropicale** — lime și portocală verde, care completează profilul fructat.
-- Note florale discrete caracteristice *C. chinense* — mai bine exprimate față de varianta roșie.
-
-Această complexitate aromatică este comparabilă cu cea a [[Soiuri/Habanero Peach\|Habanero Peach]] sau [[Soiuri/Rocoto Amarillo\|Rocoto Amarillo]] — cultivaruri din familii diferite care partajează același profil carotenoidal galben și aceeași expresie aromatică fructat-tropicală asociată.[^Wahyuni2013]
+**Dinamica iuțelii:** Identică cu linia roșie — latentă de 20–35 de secunde, escaladare lentă și persistentă, platou de 45–60 de minute. Profilul de iuțeală nu este influențat de distribuția carotenoidică.
 
 ---
 
-## Profilul carotenoidal galben — note biochimice
+## Morfologie
 
-Culoarea galben-aurie este produsă de dominanța **beta-criptoxantinei** și a **zeaxantinei**, cu contribuția moderată a **luteinei** — un profil distinct față de capsantina roșie dominantă la varianta canonică.
+**Planta:** Viguroasă, cu potențial de depășire a 1,5 m în sol deschis conform Hippy Seed Company.[^HippyYellow] Frunzele sunt verde-medii standard. Ramificarea densă.
 
-**Beta-criptoxantina:** Precursor al vitaminei A cu biodisponibilitate mai ridicată față de beta-carotenul clasic. Prezentă în concentrații semnificative în fructele galbene de *C. chinense* și *C. annuum*.
+**Fructul:** Forma conică-alungită și textura ridată sunt identice cu linia roșie. Dimensiunile sunt ușor mai mici față de linia roșie. Culoarea la maturitate deplină este galben-citrin intens — o nuanță caldă, saturată, care se intensifică pe ultimele zile ale maturării. Fructele imature sunt verde-pal, mai deschise față de verde-intens al liniei roșii imature.
 
-**Zeaxantina:** Carotenoid macular cu rol documentat în protecția retinei față de radiațiile de înaltă energie. Prezentă în concentrații mai mari la fructele galbene față de cele roșii din aceeași specie.
-
-**Luteina:** Complementară zeaxantinei în funcția de filtrare a luminii la nivelul maculei retiniene.[^Wahyuni2013]
-
-Acești carotenoizi contribuie indirect și la profilul aromatic — compușii volatili produși prin degradarea oxidativă a carotenoidelor galbene includ beta-ionona și alte cetone cu lanț scurt care generează notele de fructe exotice și florale.
+Hippy Seed Company descrie fructele ca „miniaturale lanterne în nuanțe galbene vii"[^HippyYellow] — o descriere care captureaza forma și culoarea simultan.
 
 ---
 
-## Morfologie detaliată
+## Contextul regiunilor de origine
 
-**Planta:**
+Assam, Nagaland și Manipur — cele trei state cu cea mai documentată cultivare a Bhut Jolokia Yellow — sunt regiuni cu tradiții agricole distincte și o diversitate botanică excepțională, situate la confluența subregiunilor Indo-Birmane și Himalayane.
 
-Similară morfologic cu [[Soiuri/Bhut Jolokia Red\|Bhut Jolokia Red]] în stadiul vegetativ. Înălțimea variază între 65–110 cm. Foliajul verde-praz încrețit este identic ca structură — diferențierea nu este vizibilă înainte de apariția fructelor.
-
-**Fructul:**
-
-- Lungime: 5–8 cm, diametru: 2–3 cm — dimensiuni similare variantei roșii.
-- Suprafața rugosă cu protuberanțe — caracter conservat față de varianta roșie, dar cu o intensitate a rugozității ușor mai redusă la unele plante.
-- Culoarea evoluează de la verde-deschis în stadiu imatur, trecând printr-un galben-verzui intermediar, la galben-auriu sau galben-portocaliu la maturitate deplină.
-- Procesul de pigmentare este mai gradual față de varianta roșie — tranziția cromatică se desfășoară pe o perioadă de 15–20 de zile.
-
----
-
-## Cultivare — note specifice
-
-**Germinarea:** Temperatura optimă 28–32°C, durată 20–35 de zile.
-
-**Durata până la maturitate:** 90–120 de zile de la transplantare până la galben deplin — similară variantei roșii.
-
-**Identificarea maturității:** Mai facilă față de [[Soiuri/Bhut Jolokia White\|Bhut Jolokia White]] — culoarea galbenă saturată este un indicator vizual clar al maturității optime. Fructele recoltate prematur — în stadiul galben-verzui — au un profil aromatic incomplet și o iuțeală mai puțin concentrată.
-
-**Producție per plantă:** 20–40 de fructe pe sezon — productivitate similară variantei roșii.
-
-**Stabilitate genetică:** Mai bună față de [[Soiuri/Bhut Jolokia White\|Bhut Jolokia White]] — liniile galbene reproduc caracterul cromatic cu o fidelitate mai mare prin semințe față de liniile cu pigmentare absentă.
+Diversitatea cromatică a Bhut Jolokia în această regiune — roșu, galben, maro, alb, violet, portocaliu — este produsul a mii de ani de cultivare în gospodăriile familiale, unde selecția empirică a favorizat linii cu caractere vizuale distincte, fără un program formal de ameliorare. Fiecare culoare reprezintă o linie menținută de o comunitate locală, transmisă prin semințe de la o generație la alta, fără documentare formală, dar cu o continuitate reală.
 
 ---
 
 ## Utilizări culinare
 
-Profilul aromatic fructat-tropical și iuțeala extremă deschid Bhut Jolokia Yellow spre aplicații culinare care valorifică explicit notele de mango și citrice:
+Profilul fructat mai pronunțat face din Yellow o alegere interesantă pentru aplicații culinare unde aroma contează:
 
-**Sosuri tropicale ultra-picante:** Combinarea cu mango proaspăt, ananas sau papaya produce un sos în care aromele fructate se potențează reciproc. Iuțeala de nivel Ghost Pepper este prezentă în diluție semnificativă.
+- **Sosuri cu profil tropical:** Combinarea cu mango copt, ananas și lime produce sosuri în care notele fructate ale ardeiului și ale fructelor tropicale se amplifică reciproc.
+- **Marinare de pui sau pește:** Profilul citric-fructat completează proteinele albe mai bine decât notele afumate ale liniei Chocolate.
+- **Pulberi condimentare galbene:** Deshidratat la 50–55°C, produce o pulbere galbenă cu o aromă distinctivă față de pulberile din liniile roșii sau brune.
+- **Aplicații în cofetăria de nișă:** Similar cu [[Soiuri/Ají Amarillo\|Ají Amarillo]] — combinarea cu ciocolată albă sau ganache de fructe tropicale produce contraste senzoriale apreciate la iuțeli mult mai mici.
 
-**Marinate pentru fructe de mare:** Profilul citric-tropical complementează natural aromele delicate ale creveților și ale peștelui alb. O marinadă cu Bhut Jolokia Yellow, lime și ghimbir produce o intensitate termică extremă cu un fond aromatic tropical.
+---
 
-**Gemuri și conserve dulci-picante:** Combinarea cu zahăr de trestie, suc de mango și pectină produce un condiment dulce-picant cu o complexitate aromatică deosebită — utilizat ca acompaniament pentru brânzeturi maturate sau carne rece.
+## Cultivare — note specifice
 
-**Pulbere galbenă de condimentare:** Deshidratarea la temperaturi joase (45–50°C) conservă carotenoidele galbene și compușii aromatici volatili, producând o pulbere de culoare galben-aurie cu aromă tropical-fructată — distinctă vizual și aromatic față de orice altă pulbere de ardei super-hot.
+**Germinarea:** 28–32°C, 21–35 de zile.
 
-**Cocktailuri tropicale picante:** Infuzia în rom alb sau în tequila blanco — băuturi cu note vegetale și citrice — produce o combinație aromatică sinergică apreciată în mixologia contemporană.
+**Durata până la maturitate:** 100–120 de zile de la transplantare până la galbenul complet. Recoltarea prematură — când fructele sunt galben-pal dar nu galben-citrin intens — produce un profil aromatic incomplet.
+
+**Producție:** Hippy Seed Company menționează că Yellow este recunoscut pentru o producție abundentă față de alte variante ale familiei.[^HippyYellow]
+
+**Cerințe termice:** Identice cu linia roșie — 28–34°C diurn, minimum 18°C nocturn.
 
 ---
 
 ## Bibliografie
 
-[^Bosland2007]: Bosland, P.W. & Baral, J.B. (2007). *Bhut Jolokia — The World's Hottest Known Chile Pepper is a Putative Naturally Occurring Interspecific Hybrid*. HortScience, 42(2), 222–224. <https://doi.org/10.21273/HORTSCI.42.2.222>
-
 [^Bosland2012]: Bosland, P.W. & Votava, E.J. (2012). *Peppers: Vegetable and Spice Capsicums*. CABI Publishing.
 
-[^Wahyuni2013]: Wahyuni, Y. et al. (2013). *Metabolite biodiversity in pepper (Capsicum) fruits of thirty-two diverse accessions*. Phytochemistry, 93, 145–154. <https://doi.org/10.1016/j.phytochem.2013.02.010>
+[^HippyYellow]: The Hippy Seed Company (Australia). *Yellow Bhut Jolokia*. <https://thehippyseedcompany.com/product/yellow-bhut-jolokia/>
+
+[^WikiGhost]: Wikipedia contributors. *Ghost pepper*. Wikipedia, The Free Encyclopedia. <https://en.wikipedia.org/wiki/Ghost_pepper>
+
+[^HortScience2007]: Bosland, P.W. & Baral, J.B. (2007). *'Bhut Jolokia' — The World's Hottest Known Chile Pepper*. HortScience, 42(2), 222–224.
+
+[^ChiliPepperMadness]: Chili Pepper Madness. *Ghost Pepper — All About Them*. <https://www.chilipeppermadness.com/chili-pepper-types/superhot-chili-peppers/bhut-jolokia-chili-peppers/>
 
 [^Caterina1997]: Caterina, M.J. et al. (1997). *The capsaicin receptor: a heat-activated ion channel in the pain pathway*. Nature, 389, 816–824. <https://doi.org/10.1038/39807>

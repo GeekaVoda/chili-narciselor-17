@@ -36,7 +36,7 @@ Variabilitatea mai mare față de varianta roșie reflectă o caracteristică do
 **Dinamica iuțelii:**
 
 - **Faza de latență:** 10–18 secunde — mai lungă față de varianta roșie, cu note aromatice de cacao și fructe de pădure perceptibile în acest interval.
-- **Faza de escaladare:** Progresivă și profundă, cu o senzație care se construiește în straturi succesive — un profil similar [[Soiuri/Bhut Jolokia Chocolate\|Bhut Jolokia Chocolate]] sau [[Soiuri/7 Pot Douglah\|7 Pot Douglah]], dar la intensitate mai ridicată.
+- **Faza de escaladare:** Progresivă și profundă, cu o senzație care se construiește în straturi succesive — un profil similar [[Soiuri/Bhut Jolokia Chocolate\|Soiuri/Bhut Jolokia Chocolate]] sau [[Soiuri/7 Pot Douglah\|7 Pot Douglah]], dar la intensitate mai ridicată.
 - **Faza de platou:** 35–50 de minute — persistență similară variantei roșii.
 - **Remisia:** Extrem de lentă, cu persistență la nivelul faringelui și al căilor respiratorii.
 

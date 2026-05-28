@@ -44,7 +44,7 @@ Iuțeala Kanthari este considerată de bucătarii din Kerala ca mai „pătrunz�
 - **Faza de platou:** 15–25 de minute.
 - **Remisia:** Lentă față de soiurile de *C. annuum*, caracteristică speciei.
 
-**Profil aromatic:** Distinct față de variantele roșii ale familiei — absența capsantinei produce un profil mai curat, cu note florale discrete și o aciditate fină. Mai aproape de profilul [[Soiuri/Habanero White\|Habanero White]] decât de cel al [[Soiuri/African Bird's Eye\|African Bird's Eye]] — o aromă mai delicată față de intensitatea directă a variantelor roșii.
+**Profil aromatic:** Distinct față de variantele roșii ale familiei — absența capsantinei produce un profil mai curat, cu note florale discrete și o aciditate fină. Mai aproape de profilul [[Soiuri/Habanero White\|Habanero White]] decât de cel al [[African Bird's Eye\|African Bird's Eye]] — o aromă mai delicată față de intensitatea directă a variantelor roșii.
 
 ---
 

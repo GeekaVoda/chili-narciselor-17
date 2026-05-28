@@ -1,66 +1,89 @@
 ---
-{"dg-publish":true,"permalink":"/Soiuri/Jalapeño Telica/","tags":["botanica","gastronomie","mexic","nicaragua","capsicum","capsicum-annuum","jalapeno","jalapeno-telica","cultivar"],"dg-note-properties":{"tags":["botanica","gastronomie","mexic","nicaragua","capsicum","capsicum-annuum","jalapeno","jalapeno-telica","cultivar"]}}
+{"dg-publish":true,"permalink":"/Soiuri/Jalapeño Telica/","tags":["botanica","gastronomie","capsicum","capsicum-annuum","jalapeno","telica","hibrid-f1","cultivar"],"dg-note-properties":{"tags":["botanica","gastronomie","capsicum","capsicum-annuum","jalapeno","telica","hibrid-f1","cultivar"]}}
 ---
 
-# Ardeiul industrial din Nicaragua
+# Jalapeño Telica
 
-*Capsicum annuum* · Intensitate medie · 3.000–6.000 SHU
+*Capsicum annuum* L. 'Telica' F1 · Intensitate moderată · 5.000–8.000 SHU
 
 
-Jalapeño Telica este unul dintre puținele cultivaruri din grupul [[Soiuri/Jalapeño\|Jalapeño]] cu o origine geografică documentată în afara Mexicului. Numele provine de la orașul **Telica** din departamentul León al Nicaraguăi — o regiune cu condiții climatice favorabile cultivării intensive a ardeilor iuți, unde soiul a fost dezvoltat pentru a răspunde cerințelor stricte ale industriei de procesare în conserve și murături.
+Telica este numele unui vulcan din Nicaragua — unul dintre cei mai activi din lanțul vulcanic central-american, cu 46 de erupții documentate istoric din 1527 încoace, situat în municipalitatea Telica din departamentul León.[^WikiTelica] Este, de asemenea, numele unui jalapeño F1 hibrid cu dimensiuni remarcabile, comercializat ca unul dintre cei mai mari jalapeños disponibili pe piața de semințe.
 
-Selecția sa a urmărit parametri agronomici precisi: uniformitate maximă a dimensiunii fructelor, rezistență la manipulare mecanică, compatibilitate cu liniile de procesare industrială și productivitate ridicată pe unitate de suprafață. Iuțeala a fost un parametru secundar — soiul a fost calibrat spre limita inferioară a spectrului jalapeño pentru a produce un produs finit accesibil unui public larg.[^Bosland2012]
+Conexiunea dintre vulcanul nicaraguan și ardeiul american nu este botanică — este una de nomenclatură. Producătorii de hibrizi F1 comerciali de jalapeño au o tradiție de a numi liniile după entități geografice cu rezonanță sonoră sau conotații de forță. Telica (vulcanul) evocă exact tipul de energie pe care producătorii de semințe vor să o asocieze cu un jalapeño de format mare și cu rezistență documentată la patogeni.
 
 ---
 
 ## Identitate botanică
 
-**Specie:** *[[Specii/Capsicum annuum\|Capsicum annuum]]*
-**Familie:** [[Soiuri/Jalapeño\|Jalapeño]]
-**Origine:** Nicaragua — orașul Telica, departamentul León
-**Dimensiuni fruct:** 7–10 cm lungime, 2,5–3,5 cm diametru
-**Culoare la maturitate:** Verde închis → roșu aprins
-**Formă:** Cilindrică, cu un grad ridicat de uniformitate între fructe — caracter esențial pentru procesarea industrială
+**Specie:** *[[Specii/Capsicum annuum\|Capsicum annuum]]* L.
+**Familie:** [[Soiuri/Jalapeño (familia)\|Jalapeño]]
+**Origine:** Hibrid F1 comercial; producătorul original nu este identificat în sursele publice disponibile
+**Statut genetic:** Hibrid F1 — semințele nu reproduc fidel caractele parentale; necesită achiziție anuală pentru caracteristici stabile
+**Dimensiuni fruct:** 12–14 cm lungime (4¾ inch), 4,5 cm diametru (1¾ inch) — printre cele mai mari jalapeños comerciale documentate[^Amazon]
+**Culoare la maturitate:** Verde-închis lucios la cules; roșu la maturitate completă
+**Suprafața fructului:** Lucioasă, cu corking minim — caracter tipic hibrizilor F1 comerciali, optimizați pentru aspect uniform
+**Rezistență documentată la patogeni:** BLS (Bacterial Leaf Spot), PVY (Potato Virus Y), TMV (Tobacco Mosaic Virus)[^Amazon]
+**Semințe:** Crem-gălbui, plate
 
 ---
 
 ## Iuțeală și profil senzorial
 
-**Scala Scoville:** 3.000–6.000 SHU — limita inferioară a grupului jalapeño, reflectând orientarea selecției spre accesibilitate maximă ca produs finit.[^Bosland2012]
+**Scala Scoville:** 5.000–8.000 SHU — intervalul superior al jalapeñoului standard, remarcabil pentru dimensiunea mare a fructului.
 
-**Profil aromatic:** Vegetal curat, proaspăt, cu aciditatea discretă caracteristică jalapeño-ului. Profil mai neutru față de soiurile cu variabilitate genetică mai mare — o caracteristică deliberată pentru producția industrială care necesită aromă de bază stabilă și reproductibilă.
+Fructele mari de jalapeño tind să fie mai blânde decât liniile mai mici, deoarece același volum de capsaicinoide este distribuit într-o masă mai mare de pericarp. Telica face excepție parțial de la această tendință — iuțeala raportată de cultivatori este „reală" pentru dimensiunile fructului, ceea ce sugerează un conținut relativ ridicat de capsaicinoide per unitate de masă față de alți jalapeños mari.[^Amazon]
 
----
-
-## Uniformitatea — trăsătura centrală
-
-Trăsătura morfologică cea mai valoroasă a cultivarului Telica nu este o caracteristică vizuală neobișnuită, ci absența variabilității: fructele sunt remarcabil de uniforme ca dimensiune, formă și grosime a pericarpului de la o plantă la alta și de la o recoltă la alta.
-
-Această uniformitate are consecințe tehnice directe în procesarea industrială:
-- Calibrarea precisă a echipamentelor de tăiere și ambalare.
-- Deshidratare uniformă fără risc de mucegăire din cauza grosimii variabile.
-- Standardizarea conținutului de capsaicinoide per lot fără ajustări costisitoare.
-- Recoltare mecanizată eficientă cu pierderi minime.[^Bosland2012]
+**Profil aromatic:** Classic jalapeño verde — note vegetale, iarbă, cu o componentă fructată ușoară la maturitatea roșie. Pericarpul gros oferă o textură crocantă distinctivă.
 
 ---
 
-## Morfologie, cultivare și utilizări
+## Morfologie
 
-**Planta:** 70–100 cm înălțime, structură ramificată deschisă care facilitează recoltarea mecanizată. Rezistență documentată la TMV și unele rase de *Phytophthora capsici*.
+**Planta:** Viguroasă, cu o înălțime de 70–100 cm. Bine adaptată producției în câmp deschis și grădinăritului de piață, conform specificațiilor comerciale.[^Amazon]
 
-**Cultivare:** Germinare la 22–26°C, 8–14 zile. Maturitate la 65–75 zile — mai rapid față de media jalapeño-ului. Adaptat la temperaturi tropicale de 25–32°C din climatul nicaraguan. Producție: 25–40 fructe/sezon individual, dar densitatea de plantare intensivă maximizează randamentul per hectar.
+**Fructul:** Elementul morfologic definitoriu este dimensiunea — 12–14 cm lungime și 4,5 cm diametru îl plasează în categoria jalapeños gigant, alături de hibrizi comerciali similari ca Grande, Goliath și Megatron. Pericarpul este gros și ferm, ideal pentru umplere. Suprafața este lucioasă, cu corking minim — caracteristică tipică hibrizilor F1 optimizați pentru piața de retail unde corking-ul este perceput ca defect estetic.
 
-**Utilizări:**
-- **Murare industrială:** Produs principal — murături în oțet, conserve în saramură, felii ambalate.
-- **Ingredient fast-food și Tex-Mex:** Uniformitatea fructelor îl face ideal pentru ambalarea în greutate fixă și porționarea mecanizată.
-- **Cultivare casnică:** Productivitate ridicată și fructe uniforme — apreciate și la scară mică.
+---
+
+## Telica vulcanul — contextul numelui
+
+Vulcanul Telica este un stratovulcan din Nicaragua, situat în departamentul León, unul dintre cei mai activi vulcani din America Centrală. Altitudinea sa este de 1.036 m, cu un crater dublu de 700 m lățime și 120 m adâncime. Smithsonian Global Volcanism Program documentează 46 de erupții istorice, cea mai mare din 1529 (VEI 4). A erupt ultima dată în 2025.[^WikiTelica][^GVP]
+
+Municipalitatea Telica din care vulcanul face parte are o populație de circa 26.000 de locuitori (2022) și este situată la nord de orașul León — capitala culturală a Nicaraguei și unul dintre cele mai vechi orașe din America Centrală.
+
+---
+
+## Telica în contextul hibrizilor F1 comerciali de jalapeño
+
+Telica face parte dintr-o categorie de jalapeños F1 cu fructe mari care a apărut pe piața nord-americană și internațională din anii 1990–2000, ca răspuns la cererea pentru jalapeños potriviți umplutului și pentru sortimentele de *jalapeño poppers* populari în restaurante și în industria alimentară. Alți hibrizi din aceeași categorie includ Grande, Goliath, Ixtapa X3R, Megatron și San Joaquin — toți cu caracteristici similare: fructe de 10–14 cm, pericarp gros, corking minim, rezistență la BLS și PVY.
+
+Telica se distinge prin dimensiunile la capătul superior al intervalului (14 cm) și prin rezistența suplimentară la TMV documentată în specificații — un avantaj agronomic față de unii hibrizi concurenți.
+
+---
+
+## Utilizări culinare
+
+Dimensiunea mare și pericarpul gros îl recomandă cu precădere pentru:
+
+- **Jalapeño poppers:** Umplut cu brânză cream sau cheddar, pané și prăjit — preparatul care a creat cererea pentru jalapeños mari.
+- **Chile rellenos de jalapeño:** Variantă modernă a preparatului mexican clasic, cu un jalapeño mare în locul poblano-ului tradițional.
+- **Murături premium:** Felii mari, uniforme, potrivite pentru borcane de prezentare.
+
+---
+
+## Cultivare
+
+**Germinare:** 22–28°C, 10–21 zile.
+**Maturitate:** 75–85 zile de la transplantare (verde).
+**Producție:** Ridicată — descrisă ca „recolte abundente" în specificațiile comerciale.[^Amazon]
+**Rezistență la patogeni:** BLS, PVY, TMV — un avantaj în producția comercială față de liniile fără rezistență documentată.
 
 ---
 
 ## Bibliografie
 
 [^Bosland2012]: Bosland, P.W. & Votava, E.J. (2012). *Peppers: Vegetable and Spice Capsicums*. CABI Publishing.
-
-[^Kraft2014]: Kraft, K.H. et al. (2014). *Multiple lines of evidence for the origin of domesticated chili pepper, Capsicum annuum, in Mexico*. Proceedings of the National Academy of Sciences, 111(17), 6165–6170. <https://doi.org/10.1073/pnas.1308933111>
-
-[^USDA]: USDA FoodData Central. *Peppers, jalapeño, raw*. U.S. Department of Agriculture. <https://fdc.nal.usda.gov/>
+[^Amazon]: Amazon.com. *Telica F1 Hybrid Hot Pepper Seeds — Extra Large 4¾" Long by 1¾" Wide Jalapeno*. <https://www.amazon.com/Telica-Hybrid-Hot-Pepper-Seeds/dp/B079WQJJ7L>
+[^WikiTelica]: Wikipedia contributors. *Telica (volcano)*. Wikipedia, The Free Encyclopedia. <https://en.wikipedia.org/wiki/Telica_(volcano)>
+[^GVP]: Smithsonian Global Volcanism Program. *Telica (Nicaragua)*. <https://volcano.si.edu/>
+[^Caterina1997]: Caterina, M.J. et al. (1997). *The capsaicin receptor*. Nature, 389, 816–824. <https://doi.org/10.1038/39807>

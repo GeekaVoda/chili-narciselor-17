@@ -18,7 +18,7 @@ Din această confuzie s-a născut una dintre cele mai profunde transformări cul
 
 ---
 
-## Arhitectura unei pasiuni: [[Specii/Cele cinci specii majore\|Cele cinci specii majore]]
+## Arhitectura unei pasiuni: [[Taxonomie/Cele cinci specii majore\|Cele cinci specii majore]]
 Și alte lucruri inedite despre acestea...
 
 Toată diversitatea ardeilor iuți pe care o cunoaștem astăzi — de la micul și ancestralul Chiltepín / Bird Pepper al deșerturilor mexicane, până la ardeii super-hot cu recorduri certificate de laboratoare universitare, de la [[Soiuri/Rocoto Rojo\|Rocoto Rojo]] cărnos al teraselor andine la [[Soiuri/Habanero Orange\|Habanero Orange]] cu aroma sa de caise și flori tropicale — se sprijină pe cinci specii botanice distincte, domesticite separat, în locuri și epoci diferite, de comunități care nu se cunoșteau între ele. Toate aceste specii, apartin unui singur gen: [[Capsicum/Genul Capsicum\|Genul Capsicum]]
@@ -53,7 +53,7 @@ Proiectul este structurat în jurul a patru direcții principale:
 
 **a) Istorie și geografie** — Cum a cucerit ardeiul iute lumea. Traseele de răspândire, adoptarea în culturi care nu se cunoșteau între ele și transformările pe care le-a produs în bucătăriile a zeci de popoare. Povestea completă, în [[Historia/File de istorie\|File de istorie]] și în [[Historia/Schimbul Columbian\|Schimbul Columbian]].
 
-**b) Botanică și taxonomie** — De la [[Specii/Cadrul taxonomic superior\|Cadrul taxonomic superior]] al familiei Solanaceae până la monografiile celor cinci specii cultivate și la [[Codex botanic/Profiluri botanice și varietăți\|Profiluri botanice și varietăți]] — ghidul complet al familiilor și cultivarurilor documentate (codexul botanic). Secțiunea include și infrastructura conceptuală necesară lecturii oricărei fișe: [[Capsicum/Cultivarul Canonic\|Cultivarul Canonic]] — tipologia soiurilor de la heirloom la cultivar modern stabilizat —, [[Capsicum/Generațiile Hibride\|Generațiile Hibride]] — logica generațiilor F1, F2 și a procesului de stabilizare genetică —, și [[Capsicum/Certificarea HPLC\|Certificarea HPLC]] — cum se măsoară și ce garantează cu adevărat o valoare SHU.
+**b) Botanică și taxonomie** — De la [[Taxonomie/Cadrul taxonomic superior\|Cadrul taxonomic superior]] al familiei Solanaceae până la monografiile celor cinci specii cultivate și la [[Codex botanic/Profiluri botanice și varietăți\|Profiluri botanice și varietăți]] — ghidul complet al familiilor și cultivarurilor documentate (codexul botanic). Secțiunea include și infrastructura conceptuală necesară lecturii oricărei fișe: [[Capsicum/Cultivarul Canonic\|Cultivarul Canonic]] — tipologia soiurilor de la heirloom la cultivar modern stabilizat —, [[Capsicum/Generațiile Hibride\|Generațiile Hibride]] — logica generațiilor F1, F2 și a procesului de stabilizare genetică —, și [[Capsicum/Certificarea HPLC\|Certificarea HPLC]] — cum se măsoară și ce garantează cu adevărat o valoare SHU.
 
 **c) [[Gastronomie/Gastronomie\|Gastronomie]]** — Utilizarea ardeiului iute în bucătăriile lumii: [[Gastronomie/Salsa/Mole\|Mole]], [[Gastronomie/Salsa/Salsa\|Salsa]], paste fermentate, tehnici tradiționale și sosuri cu identitate documentată. *Pe întreg site-ul, termenii „pastă" sau „paste" desemnează exclusiv produsele obținute din pulpa de ardei iute, nu produsele făinoase specifice bucătăriei italiene.*
 

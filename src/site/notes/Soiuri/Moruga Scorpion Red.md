@@ -54,7 +54,7 @@ Această abordare statistică a produs valori mai credibile față de recorduril
 
 ## Apendicele terminal — elementul morfologic definitoriu
 
-„Acul de scorpion" al Moruga Scorpion Red este elementul morfologic care a dat numele familiei și care o diferențiează vizual de alte soiuri super-hot. Este o prelungire conică, subțire și ascuțită la vârful fructului — mai consistentă și mai pronunțată față de apendicele variabil al lui [[Soiuri/7 Pot Primo\|7 Pot Primo]] sau față de absența completă a unui apendice la [[Soiuri/Bhut Jolokia Red\|Bhut Jolokia Red]].
+„Acul de scorpion" al Moruga Scorpion Red este elementul morfologic care a dat numele familiei și care o diferențiează vizual de alte soiuri super-hot. Este o prelungire conică, subțire și ascuțită la vârful fructului — mai consistentă și mai pronunțată față de apendicele variabil al lui [[Soiuri/7 Pot Primo\|7 Pot Primo]] sau față de absența completă a unui apendice la [[Soiuri/Bhut Jolokia Red\|Soiuri/Bhut Jolokia Red]].
 
 Această prelungire nu este un accident morfologic — este un caracter stabil genetic, transmis fidel la descendenții din linie curată. Lungimea variază între 0,5 și 1,5 cm în funcție de condițiile de cultură — fructele crescute în condiții de stres hidric moderat tind să dezvolte apendice mai pronunțate față de cele crescute cu irigare abundentă.
 
@@ -70,7 +70,7 @@ Viguroasă, cu o înălțime de 90–130 cm în cultură protejată — mai mare
 
 **Fructul:**
 
-- Formă globuloasă spre ovoidă — mai masivă față de [[Soiuri/7 Pot Primo\|7 Pot Primo]] sau [[Soiuri/Bhut Jolokia Red\|Bhut Jolokia Red]], cu un volum per fruct superior.
+- Formă globuloasă spre ovoidă — mai masivă față de [[Soiuri/7 Pot Primo\|7 Pot Primo]] sau [[Soiuri/Bhut Jolokia Red\|Soiuri/Bhut Jolokia Red]], cu un volum per fruct superior.
 - Suprafața intens rugosă, cu protuberanțe dense și neregulate — mai accentuată față de [[Soiuri/Habanero Orange\|Habanero Orange]] sau [[Soiuri/Habanero Chocolate\|Habanero Chocolate]].
 - Pericarpul subțire spre mediu (1,5–3 mm), ceros și ferm la maturitate.
 - Apendicele terminal: conic, subțire, 0,5–1,5 cm lungime.

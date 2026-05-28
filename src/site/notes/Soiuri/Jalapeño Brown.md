@@ -1,63 +1,71 @@
 ---
-{"dg-publish":true,"permalink":"/Soiuri/Jalapeño Brown/","tags":["botanica","gastronomie","mexic","capsicum","capsicum-annuum","jalapeno","jalapeno-brown","cultivar"],"dg-note-properties":{"tags":["botanica","gastronomie","mexic","capsicum","capsicum-annuum","jalapeno","jalapeno-brown","cultivar"]}}
+{"dg-publish":true,"permalink":"/Soiuri/Jalapeño Brown/","tags":["botanica","gastronomie","capsicum","capsicum-annuum","jalapeno","brown","heirloom","cultivar"],"dg-note-properties":{"tags":["botanica","gastronomie","capsicum","capsicum-annuum","jalapeno","brown","heirloom","cultivar"]}}
 ---
 
-# Ardeiul ciocolatiu
+# Jalapeño Brown
 
-*Capsicum annuum* · Intensitate medie · 5.000–10.000 SHU
+*Capsicum annuum* L. · Intensitate moderată · 2.500–8.000 SHU
 
 
-Jalapeño Brown atrage atenția prin culoare și o păstrează prin aromă. La maturitate deplină, fructele sale nu virează la roșul aprins al jalapeño-ului standard, ci la un maro-ciocolatiu cald, cu reflexii violacee — o culoare neobișnuită în rândul soiurilor de jalapeño și suficient de distinctă pentru a-l face imediat recognoscibil. Această pigmentare nu este un accident de cultivare — este expresia unui profil biochimic specific, în care acumularea de antocianine și absența relativă a capsantinei produc nuanța brună caracteristică.[^Wahyuni2013]
+Dacă familia 7 Pot are Douglah-ul — ardeiul care surprinde prin culoarea sa maro-ciocolatiu la maturitate — familia jalapeño are propriul echivalent cromatic, mai modest ca iuțeală, dar la fel de neașteptat vizual. Jalapeño Brown este un ardei cu morfologia clasică a jalapeñoului, cu o singură diferență: la maturitate deplină, pericarpul nu virează spre roșul aprins obișnuit, ci spre un maro-ciocolatiu bogat, cu note de ardei copt și o dulceață mai accentuată decât cea a liniei roșii standard.
+
+Colorația brună este produsul unui amestec de pigmenți carotenoidici și posibil al unui fond genetic care include material înrudit cu tipurile ancho sau mulato — Baker Creek Rare Seeds notează explicit ipoteza că Jalapeño Brown ar putea fi rezultatul unui încrucișări cu un Ancho Mulato, deși aceasta rămâne neconfirmată prin analiză genetică publicată.[^BohaicaPepper]
 
 ---
 
 ## Identitate botanică
 
-**Specie:** *[[Specii/Capsicum annuum\|Capsicum annuum]]*
-**Familie:** [[Soiuri/Jalapeño\|Jalapeño]]
-**Origine:** Selecție din populații de jalapeño cu pigmentare atipică, stabilizată prin cultivatori specializați
-**Dimensiuni fruct:** 6–9 cm lungime, 2,5–3,5 cm diametru
-**Culoare la maturitate:** Maro-ciocolatiu cald, cu reflexii violacee
-**Formă:** Cilindrică, ușor conică — morfologie standard de jalapeño
-**Suprafața fructului:** Netedă spre ușor ridată, cu corking la maturitate avansată
+**Specie:** *[[Specii/Capsicum annuum\|Capsicum annuum]]* L.
+**Familie:** [[Soiuri/Jalapeño (familia)\|Jalapeño]]
+**Origine:** Neclar documentat; distribuit ca heirloom prin Baker Creek Rare Seeds și alte surse de semințe specializate
+**Statut genetic:** Varietate open-pollinated, clasificată ca heirloom; ipoteză de încrucișare cu Ancho Mulato nedocumentată formal
+**Dimensiuni fruct:** 10–15 cm lungime, 3–4 cm diametru — mai mare decât jalapeñoul standard
+**Culoare la maturitate:** Maro-ciocolatiu intens; trece prin verde și verde-brun în stadiile imature
+**Suprafața fructului:** Lucioasă, cu pereți groși și cărnoși
+**Semințe:** Crem-gălbui, plate
 
 ---
 
 ## Iuțeală și profil senzorial
 
-**Scala Scoville:** 5.000–10.000 SHU — similar sau ușor superior jalapeño-ului standard, fără diferențe majore de intensitate termică.[^Bosland2012]
+**Scala Scoville:** 2.500–8.000 SHU — intervalul standard al jalapeñoului, fără o diferențiere semnificativă față de linia de bază.[^SecretSeedCartel]
 
-**Profil aromatic:** Mai complex și mai dulce față de jalapeño-ul verde standard — note de fructe coapte și o ușoară nuanță pământoasă atribuibilă carotenoidelor modificate specifice pigmentării maro. Compușii volatili sunt influențați de calea metabolică a antocianinelor, producând un profil distinct față de linia standard.
-
----
-
-## Pigmentarea brună — mecanism biochimic
-
-Culoarea maro-violacee a fructelor mature este determinată de acumularea de **antocianine** în straturile epidermice ale pericarpului, combinată cu o producție redusă de capsantină — pigmentul carotenoid roșu dominant la jalapeño-ul standard. Antocianinele sunt pigmenți pH-sensibili care produc culori în spectrul roșu-violet-maro în funcție de aciditatea celulară — la Jalapeño Brown, echilibrul specific produce nuanța brună caracteristică.[^Wahyuni2013]
-
-Antocianinele din pericarp au proprietăți antioxidante documentate — concentrația lor este maximă în stadiul imatur și scade pe măsura maturizării.
+**Profil aromatic:** Descris consistent în sursele comerciale ca prezentând o dulceață mai pronunțată față de jalapeñoul roșu standard, cu o componentă terestră și ușor afumată — note care amintesc de ardeii uscați tip ancho sau mulato, sugerând posibila înrudire genetică. Pereții mai groși și mai cărnoși față de jalapeñoul standard conferă o textură distinctivă la gătire — mai potrivit pentru umplere și prăjire decât pentru salse crude.[^BakerCreek][^RebecValley]
 
 ---
 
-## Morfologie, cultivare și utilizări
+## Morfologie
 
-**Planta:** 60–80 cm înălțime, cu foliaj care poate prezenta nuanțe violacee pe tulpini și nervuri foliare.
+**Planta:** Viguroasă, frecvent atingând 100–120 cm — mai înaltă decât jalapeñoii comerciali standard, uneori necesitând tutori. Productivitate ridicată, descrisă de Baker Creek ca „extraordinar de productivă".[^BakerCreek]
 
-**Fructul:** Morfologie standard de jalapeño, cu evoluție cromatică specifică: verde-închis cu reflexii violacee → maro-ciocolatiu.
+**Fructul:** Dimensiuni mai mari față de tipul standard (10–15 cm), cu pereți groși și cărnoși, ideali pentru umplere și coacere. Culoarea brună la maturitate este uniformă și saturată. Coarsta exteriară este lucioasă.
 
-**Cultivare:** Germinare la 22–26°C, 10–16 zile. Maturitate la 75–90 zile. Expunerea solară intensifică pigmentarea. Producție: 25–40 fructe/sezon.
+---
 
-**Utilizări:**
-- **Salse colorate:** Combinat cu jalapeño verde și roșu, produce o salsă cu paletă cromatică extinsă.
-- **Murare în oțet transparent:** Culoarea brună se păstrează parțial, producând un rezultat vizual inedit.
-- **Pulbere:** Pulberea din fructe deshidratate are o culoare maro-roșcată distinctă, cu o aromă mai dulce și mai pământoasă față de jalapeño roșu.
+## Utilizări culinare
+
+Pereții groși, dimensiunea mai mare și profilul aromatic cu note de ciocolată și terestru îl recomandă în special pentru:
+
+- **Umplut și copt:** Dimensiunea mare îl face ideal pentru chile rellenos sau jalapeño poppers de format genereux.
+- **Salse și sosuri cu profil mai adânc:** Combinarea cu usturoi copt, roșii și condimente produce sosuri cu o complexitate aromatică mai mare față de jalapeñoul verde standard.
+- **Conservare în oțet:** Culoarea brună distinctivă produce borcane vizual atractive.
+
+---
+
+## Cultivare
+
+**Germinare:** 22–28°C, 10–21 zile.
+**Maturitate:** 80–95 zile de la transplantare până la culoarea brună completă — ceva mai lung față de jalapeñoul standard, datorat maturității mai tardive a culorii.
+**Producție:** Ridicată — Baker Creek îl descrie ca una dintre liniile cu cei mai buni rezultate în testele interne de ardei.[^BakerCreek]
+**Condiții:** Soluri bine drenate, pH 6,0–7,0, expunere completă la soare.
 
 ---
 
 ## Bibliografie
 
-[^Wahyuni2013]: Wahyuni, Y. et al. (2013). *Metabolite biodiversity in pepper (Capsicum) fruits of thirty-two diverse accessions*. Phytochemistry, 93, 145–154. <https://doi.org/10.1016/j.phytochem.2013.02.010>
-
 [^Bosland2012]: Bosland, P.W. & Votava, E.J. (2012). *Peppers: Vegetable and Spice Capsicums*. CABI Publishing.
-
-[^Kraft2014]: Kraft, K.H. et al. (2014). *Multiple lines of evidence for the origin of domesticated chili pepper, Capsicum annuum, in Mexico*. Proceedings of the National Academy of Sciences, 111(17), 6165–6170. <https://doi.org/10.1073/pnas.1308933111>
+[^BakerCreek]: Baker Creek Rare Seeds / RareSeeds.com. *Brown Jalapeño Hot Pepper Seeds*. <https://www.rareseeds.com/pepper-hot-jalapeno-brown>
+[^SecretSeedCartel]: Secret Seed Cartel. *Brown Jalapeño Pepper Seeds*. <https://www.secretseedcartel.com/products/brown-jalapeno-pepper-seeds>
+[^BohaicaPepper]: Bohica Pepper Hut. *Brown Jalapeno Seeds*. (Mențiunea ipotezei de încrucișare cu Ancho Mulato). <https://bohicapepperhut.com/products/brown-jalapeno-seeds>
+[^RebecValley]: Rebec Valley Farm. *Brown Jalapeno Pepper*. <https://rebecvalleyfarm.com/product/brown-jalapeno-pepper/>
+[^Caterina1997]: Caterina, M.J. et al. (1997). *The capsaicin receptor*. Nature, 389, 816–824. <https://doi.org/10.1038/39807>

@@ -1,102 +1,66 @@
 ---
-{"dg-publish":true,"permalink":"/Soiuri/Habanero Chocolate/","tags":["botanica","gastronomie","belize","mexic","capsicum","capsicum-chinense","habanero","habanero-chocolate","cultivar"],"dg-note-properties":{"tags":["botanica","gastronomie","belize","mexic","capsicum","capsicum-chinense","habanero","habanero-chocolate","cultivar"]}}
+{"dg-publish":true,"permalink":"/Soiuri/Habanero Chocolate/","tags":["botanica","gastronomie","capsicum","capsicum-chinense","habanero","chocolate","cultivar"],"dg-note-properties":{"tags":["botanica","gastronomie","capsicum","capsicum-chinense","habanero","chocolate","cultivar"]}}
 ---
 
-# Ardeiul cu aromă profundă
+# Habanero Chocolate
 
-*Capsicum chinense* · Intensitate ridicată spre extremă · 300.000–580.000 SHU
+*Capsicum chinense* Jacq. · Intensitate extremă · 425.000–577.000 SHU
 
 
-Există în familia [[Habanero\|Habanero]] un cultivar care a câștigat o reputație aparte nu prin recorduri de iuțeală — deși iuțeala sa este considerabilă — ci prin profunzimea aromatică. Habanero Chocolate este privit de cultivatorii cu experiență și de bucătarii specializați ca cel mai complex din punct de vedere aromatic dintre membrii familiei. Notele sale de cacao neagră, cafea, fructe de pădure uscate și tutun, suprapuse pe fundalul fructat-floral caracteristic speciei *C. chinense*, produc un profil pe care niciun alt habanero nu îl replică.
+Habanero Chocolate — cunoscut și sub denumirea *Habanero Negro* sau *Black Habanero* — este varianta cu cea mai ridicată iuțeală din familia standard a habanero-ului, depășind linia portocalie cu un factor de aproape doi la capătul superior al intervalului documentat. Culoarea maro-ciocolatie la maturitate nu este un indiciu de ardei mai blând — este, conform tuturor surselor disponibile, un indicator al ardeilor mai vechi pe viță, care și-au concentrat capsaicinoidele pe o perioadă mai lungă de maturare.
 
-Această complexitate nu este accidentală. Culoarea maro-ciocolatie a fructelor mature — produsă de acumularea de **antocianine** și **polimeri carotenoidici** în pericarp, în absența relativă a capsantinei roșii dominante — este asociată cu o cale metabolică secundară care generează compuși volatili terpenici și esteri cu catenă lungă, responsabili tocmai de notele terestre și profunde care definesc profilul aromatic al cultivarului.[^Wahyuni2013]
-
-Originea sa geografică primară este **Belize** — o țară mică cu o tradiție agricolă bogată în soiuri de *C. chinense*, situată la sud de Peninsula Yucatán, la granița cu Guatemala. Din Belize, linia s-a răspândit în Mexic și în Caraibe, unde a fost adoptată și adaptată local.[^DeWitt1999]
+Wikipedia îi acordă un articol propriu sub denumirea *Chocolate habanero* și notează că unele semințe găsite în această linie sunt estimate ca având peste 7.000 de ani — ceea ce ar plasa această variantă în categoria celor mai vechi culturi documentate ale speciei *C. chinense*, alături de specimenul din Guitarrero Cave.[^WikiChocHab]
 
 ---
 
 ## Identitate botanică
 
 **Specie:** *[[Specii/Capsicum chinense\|Capsicum chinense]]* Jacq.
-**Familie:** [[Habanero\|Habanero]]
-**Sinonime:** *Chocolate Habanero*, *Black Habanero*, *Congo Black* (Trinidad)
-**Origine primară:** Belize, cu extindere în sudul Mexicului și insulele Caraibelor
-**Dimensiuni fruct:** 4–6 cm lungime, 3–5 cm lățime
-**Culoare la maturitate:** Maro-ciocolatiu intens până la brun-negricios
-**Formă:** Lanterniformă, ușor mai mare și mai rotunjită față de linia Orange
-**Suprafața fructului:** Ceroasă, cu cute moderate și protuberanțe epidermice neregulate
-**Semințe:** Crem-gălbui, standard pentru specie
+**Familie:** [[Soiuri/Habanero (familia)\|Habanero]]
+**Denumiri documentate:** Chocolate Habanero, Habanero Negro, Black Habanero, Congo Black (în unele surse caraibiene)
+**Origine:** Caraibe și Yucatan; variantă naturală selecționată pentru maturitate maro
+**Statut genetic:** Variantă landrasă a familiei habanero; Wikipedia descrie Chocolate Habanero ca un cultivar *selectively bred to produce spicier, heavier, and larger fruit*[^WikiChocHab]
+**Dimensiuni fruct:** 5–7,5 cm lungime — mai mare față de habanero orange standard; 2–3 cm diametru
+**Culoare la maturitate:** Maro-ciocolatiu intens; trece prin verde, roșu-maroniu și brun înainte de maturitatea deplină
+**Suprafața fructului:** Lucioasă, cu formă de lanternă lobată; unele fructe cu riduri mai pronunțate față de linia portocalie
 
 ---
 
 ## Iuțeală și profil senzorial
 
-**Scala Scoville:** 300.000–580.000 SHU — limita superioară a familiei Habanero, cu valori care plasează cultivarul în proximitatea unor soiuri clasificate ca super-hot.[^Bosland2012]
+**Scala Scoville:** 425.000–577.000 SHU conform Wikipedia[^WikiChocHab]; Britannica citează 300.000–500.000 SHU[^Britannica]; Grow Hot Peppers documentează vârfuri până la 577.000 SHU.[^GrowHotPeppers]
 
-Această iuțeală mai ridicată față de [[Soiuri/Habanero Orange\|Habanero Orange]] este asociată parțial cu profilul biochimic specific al fructelor cu pigmentare ciocolatie: studiile fitochimice indică că liniile de *C. chinense* cu antocianine pronunțate în pericarp tind să acumuleze concentrații mai mari de capsaicinoide față de liniile cu carotenoide dominante, un pattern observat și la alte specii ale genului.[^Wahyuni2013]
+Variabilitatea intervalelor între surse reflectă o realitate biologică reală: habanero chocolate este mai sensibil la condițiile de cultivare față de linia portocalie standard — fructele crescute în condiții mai calde și mai seci cu stres hidric moderat ating capătul superior al intervalului, în timp ce exemplarele cultivate în condiții optime se situează mai jos.
 
-**Dinamica iuțelii:**
-
-- **Faza de latență:** 8–15 secunde — mai lungă față de [[Soiuri/Habanero Red\|Habanero Red]], permițând perceperea profilului aromatic complex înainte ca iuțeala să preia controlul.
-- **Faza de escaladare:** Progresivă și profundă, cu o senzație care se construiește în straturi — întâi pe limbă și palat, apoi migrând spre faringe și căile respiratorii superioare.
-- **Faza de platou:** Îndelungată — 25–40 de minute — cu o senzație de arsură care rămâne la intensitate ridicată fără să atingă un vârf unic brusc.
-- **Remisia:** Lentă, cu o persistență a senzației reziduale în faringe documentată consistent de cultivatori și consumatori, chiar după neutralizarea parțială cu lipide.
-
-**Profil aromatic:** Cel mai complex din familie — note de:
-- Cacao neagră și cafea prăjită — în plan primar.
-- Fructe de pădure uscate — stafide, prune.
-- O notă florală reziduală, caracteristică speciei.
-- O aciditate fină și o ușoară nuanță pământoasă în fundal.
-
-Această complexitate aromatică este atribuibilă concentrației ridicate de **compuși volatili terpenici și esteri cu catenă lungă** generați pe calea metabolică a antocianinelor, în sinergie cu esterii fructați caracteristici speciei.[^Wahyuni2013]
+**Profil aromatic:** Față de habanero orange — cu notele sale fructate și florale —, Chocolate prezintă un profil mai complex și mai terestr: note de pământ, fumăraie ușoară, o componentă de cacao amăruie. Spicy Exchange descrie profilul ca „terestr-fumurat cu note fructate".[^Greg] Această complexitate aromatică este similară cu cea a altor ardei maro-ciocolatii documentați în proiect ([[Soiuri/7 Pot Douglah\|7 Pot Douglah]], [[Soiuri/Bhut Jolokia Chocolate\|Bhut Jolokia Chocolate]]) — o corelare care sugerează că distribuția carotenoidică responsabilă de culoarea brună poate fi asociată cu un profil de compuși volatili specific.
 
 ---
 
-## Pigmentarea ciocolatie — mecanism biochimic
+## Morfologie
 
-Culoarea maro-ciocolatie a fructelor mature este determinată de acumularea de **antocianine** în stratul epidermic al pericarpului, combinată cu o producție redusă de capsantină — pigmentul carotenoid roșu dominant la liniile standard de habanero.
+**Planta:** Viguroasă, cu înălțime de 80–120 cm. Productivitate bună; fructele mai mari față de linia portocalie necesită o ramificare mai robustă.
 
-Antocianinele sunt flavonoide pH-sensibile, care produc culori în spectrul roșu-violet-maro în funcție de aciditatea celulară și de concentrația ionilor metalici. La Habanero Chocolate, echilibrul specific dintre antocianine, carotenoide reziduale și compuși polifenolici produce nuanța maro-negricioasă caracteristică — mai întunecată decât la [[Soiuri/7 Pot Douglah\|7 Pot Douglah]], cu care împărtășește mecanismul general de pigmentare.[^Wahyuni2013]
-
-Antocianinele prezente în pericarp au proprietăți antioxidante documentate: capacitatea lor de a neutraliza radicalii liberi de oxigen este semnificativă și variază în funcție de concentrație și de profilul specific de antocianine sintetizate.
+**Fructul:** Mai mare față de habanero orange (5–7,5 cm lungime față de 2,5–5 cm). Forma de lanternă lobată se menține, dar umerii sunt mai largi și fructul este mai greu. Pericarpul este mai gros față de linia portocalie — un caracter consistent cu dimensiunile mai mari. Culoarea maro-ciocolatie deplină se atinge cu câteva zile mai târziu față de stadiul la care o linie roșie sau portocalie ar fi deja recoltabilă, ceea ce contribuie la concentrarea mai ridicată de capsaicinoide.
 
 ---
 
-## Morfologie detaliată
+## Habanero Chocolate și bucătăria caribeeană
 
-**Planta:**
+Chocolate Habanero este utilizat în mod tradițional în Jamaica și în alte insule caraibiene anglofone, unde este uneori denumit *Congo Black* sau *Black Congo* — o denumire care reflectă originile demografice ale bucătăriei caraibiene și trasee de distribuție separate față de liniile utilizate în Yucatan.[^Greg]
 
-Viguroasă, cu o înălțime de 80–110 cm. Ramificarea este densă, cu frunze mari intens încrețite — foliajul poate prezenta ocazional nuanțe violacee pe nervuri și pe fața inferioară a frunzelor tinere, semn al expresiei parțiale a antocianinelor și în alte organe ale plantei.
-
-**Fructul:**
-
-Ușor mai mare față de [[Soiuri/Habanero Orange\|Habanero Orange]], cu o formă mai rotunjită și mai globuloasă, mai puțin accentuat lanterniformă. Cutele longitudinale sunt prezente dar mai puțin regulate. Pericarpul subțire și ceros are o culoare care evoluează de la verde-închis în stadiu imatur la maro-ciocolatiu intens la maturitate — procesul de pigmentare este mai lent față de liniile roșii sau portocalii, necesitând adesea 10–15 zile suplimentare după atingerea maturității fiziologice pentru a exprima deplin culoarea definitivă.
-
----
-
-## Utilizări culinare
-
-Profilul aromatic complex face din Habanero Chocolate unul dintre puținele habanero-uri cu aplicații culinare care valorifică explicit aroma, nu doar iuțeala:
-
-**Mole ultra-picant:** Combinarea cu ciocolată neagră și condimente terestre produce un sos în care notele de cacao ale habanero-ului și ale ciocolatei se potențează reciproc, iar iuțeala extremă este integrată ca element structural, nu de accident.
-
-**Sosuri artizanale fermentate:** Fermentarea lacto-acidă a fructelor proaspete zdrobite cu sare de mare produce o pastă cu o aciditate ridicată și o complexitate aromatică deosebită față de sosurile pe bază de habanero portocaliu sau roșu. Fermentarea prelungă — 4–6 săptămâni — amplifică notele terestre și pământoase.
-
-**Infuzii în băuturi alcoolice:** Whisky-ul și romul negru — băuturi cu note terestre și de lemn — găsesc un partener aromatic natural în Habanero Chocolate. Infuzia la rece pe 48–72 de ore produce o băutură cu complexitate senzorială apreciată în mixologie de nișă.
-
-**Cofetărie premium:** Combinarea cu ciocolată neagră cu conținut ridicat de cacao (70%+) produce un contrast senzorial clasic — dulce-amar-picant — apreciat de un public specializat și prezent în producția unor manufacture de ciocolată artizanală din Mexic, Belgia și SUA.
+Aplicații documentate:
+- **Jerk seasoning** (Jamaica): Marinata tradițională de tip jerk — piper de Jamaica (*allspice*), scotch bonnet sau chocolate habanero, cimbru, usturoi — în care profilul terestr-fumurat al liniei chocolate complementează notele de allspice.
+- **Hot sauces premium:** Profilul aromatic mai complex îl face preferat față de linia portocalie în sosurile artizanale unde complexitatea aromatică este obiectivul primar.
+- **Mole negru:** În unele versiuni ale mole-ului mexican negru, chocolate habanero înlocuiește sau completează ardei uscați tradiționali, aducând o componentă de căldură cu profil apropiat de cacao.
 
 ---
 
 ## Cultivare — note specifice
 
-**Germinarea:** Temperatura optimă 28–32°C, durată 20–35 de zile — ușor mai lungă față de liniile portocalii și roșii, o caracteristică frecvent raportată de cultivatori fără o explicație biologică pe deplin clarificată.
-
-**Durata până la maturitate:** 95–130 de zile de la transplantare până la culoarea ciocolatie deplină — mai lungă față de liniile standard, datorită procesului mai lent de pigmentare cu antocianine.
-
-**Expunere solară:** Intensitatea culorii ciocolatii este influențată pozitiv de expunerea solară directă — fructele umbrite de foliaj prezintă o pigmentare mai slabă.
-
-**Producție per plantă:** 25–50 de fructe pe sezon — ușor mai redusă față de liniile portocalii, în parte datorită ciclului de maturare mai lung.
+**Germinare:** 26–30°C, 14–21 de zile.
+**Durata până la maturitate:** 90–110 de zile — mai lungă față de habanero orange, datorată maturației mai lente a culorii brune.
+**Recoltare:** Fructele ating culoarea ciocolatie deplină cu 7–14 zile după stadiul în care liniile roșii sau portocalii ar fi deja recoltabile. Recoltarea prematură — la stadiul brun-roșiatic — produce un profil aromatic mai puțin complex.
+**Producție:** Bună; fructele mai mari compensează cantitativ dimensiunile mai mici ale liniei portocalii.
 
 ---
 
@@ -104,8 +68,12 @@ Profilul aromatic complex face din Habanero Chocolate unul dintre puținele haba
 
 [^Bosland2012]: Bosland, P.W. & Votava, E.J. (2012). *Peppers: Vegetable and Spice Capsicums*. CABI Publishing.
 
-[^Wahyuni2013]: Wahyuni, Y. et al. (2013). *Metabolite biodiversity in pepper (Capsicum) fruits of thirty-two diverse accessions*. Phytochemistry, 93, 145–154. <https://doi.org/10.1016/j.phytochem.2013.02.010>
+[^WikiChocHab]: Wikipedia contributors. *Chocolate habanero*. Wikipedia, The Free Encyclopedia. <https://en.wikipedia.org/wiki/Chocolate_habanero>
 
-[^DeWitt1999]: De Witt, D. & Bosland, P.W. (1999). *The Pepper Garden*. Ten Speed Press.
+[^Britannica]: Encyclopædia Britannica. *Habanero*. <https://www.britannica.com/plant/habanero>
+
+[^GrowHotPeppers]: Grow Hot Peppers. *Habanero Pepper 101*. <https://growhotpeppers.com/habanero-pepper-101/>
+
+[^Greg]: Greg.app. *Best Habanero Varieties*. <https://greg.app/habanero-varieties/>
 
 [^Caterina1997]: Caterina, M.J. et al. (1997). *The capsaicin receptor: a heat-activated ion channel in the pain pathway*. Nature, 389, 816–824. <https://doi.org/10.1038/39807>

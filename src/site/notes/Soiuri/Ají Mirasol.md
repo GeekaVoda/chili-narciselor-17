@@ -1,132 +1,83 @@
 ---
-{"dg-publish":true,"permalink":"/Soiuri/Ají Mirasol/","tags":["botanica","gastronomie","peru","capsicum","capsicum-baccatum","aji-amarillo","aji-mirasol","ardei-uscat","cultivar"],"dg-note-properties":{"tags":["botanica","gastronomie","peru","capsicum","capsicum-baccatum","aji-amarillo","aji-mirasol","ardei-uscat","cultivar"]}}
+{"dg-publish":true,"permalink":"/Soiuri/Ají Mirasol/","tags":["botanica","gastronomie","peru","capsicum","capsicum-baccatum","aji-amarillo","andean","uscat","nomenclatura"],"dg-note-properties":{"tags":["botanica","gastronomie","peru","capsicum","capsicum-baccatum","aji-amarillo","andean","uscat","nomenclatura"]}}
 ---
 
-# Ardeiul care privește spre soare
+# Ardeiul care privește soarele
 
-*Capsicum baccatum* · Intensitate medie · 30.000–50.000 SHU
+*Capsicum baccatum* var. *pendulum* · Formă uscată · 30.000–50.000 SHU (redus la procesare)
 
 
-Ají Mirasol este [[Soiuri/Ají Amarillo\|Ají Amarillo]] uscat — același fruct, o altă identitate. Relația dintre cele două este identică structural cu cea dintre [[Soiuri/Poblano\|Poblano]] și [[Soiuri/Ancho\|Ancho]] în bucătăria mexicană: un ardei proaspăt și forma sa deshidratată, cu profiluri aromatice distincte și utilizări culinare diferite. Același fruct, două ingrediente.
+Există o practică culinară andină care nu ține de rețetă și nu este scrisă în niciun manual: dacă vrei să transformi un ardei galben proaspăt în altceva — ceva mai concentrat, mai complex, cu o memorie a soarelui înregistrată în fibrele sale — îl lași afară. Îl orientezi cu tăietura spre sus, sau pur și simplu îl agăți în șiraguri, și îl lași să se deshidrateze sub cerul Anzilor, câteva zile sau câteva săptămâni, până când carnea dispare și rămâne pergamentul. Acesta este Ají Mirasol — *mira sol*, cel care privește soarele, sau cel care este privit de soare, în funcție de cum îl citești.[^SpecialtyMirasol]
 
-Numele *Mirasol* — „cel care privește spre soare" — nu este o metaforă poetică, ci o descriere botanică precisă. Fructele de *Capsicum baccatum* var. *pendulum* sunt, în mod normal, pendente la maturitate — atârnă în jos. Dar la soiurile selecționate pentru uscare solară — inclusiv Ají Mirasol — fructele prezintă uneori o tendință de a rămâne erecte sau semi-erecte, orientate spre lumina solară. Această orientare facilitează deshidratarea naturală directă pe plantă, un caracter favorabil pentru uscarea tradițională la soare.[^Bosland2012]
-
-Transformarea aromatică la uscare este mai subtilă față de transformarea Poblano→Ancho, dar reală și semnificativă: notele de mango și caise proaspete ale Ají Amarillo se concentrează și capătă o complexitate suplimentară — fructe uscate, o ușoară caramelizare a zaharurilor, o aciditate mai fină și mai integrată față de aciditatea mai directă a fructului proaspăt.
-
----
-
-## Identitate botanică
-
-**Specie:** *[[Specii/Capsicum baccatum\|Capsicum baccatum]]* var. *pendulum*
-**Familie:** [[Soiuri/Ají Amarillo\|Ají Amarillo]]
-**Relație:** Forma uscată a ardeiului [[Soiuri/Ají Amarillo\|Ají Amarillo]]
-**Sinonime:** *Ají Amarillo seco*, *Mirasol*
-**Origine:** Văile interandine din Peru central — zone cu climat favorabil deshidratării solare
-**Dimensiuni fruct uscat:** 8–12 cm lungime, 2–3 cm lățime — turtit față de dimensiunile proaspete
-**Culoare uscată:** Galben-brun spre brun-roșcat — mai deschisă față de Ancho sau Pasilla
-**Formă uscată:** Alungită, ușor turtită, cu cute longitudinale moderate
-**Suprafața:** Semi-lucioasă, cu o tentă uleioasă la exemplarele de calitate
+Nu este un ardei distinct. Este [[Soiuri/Ají Amarillo\|Ají Amarillo]] transformat printr-un proces de deshidratare tradițională — dar această transformare este suficient de profundă pentru ca produsul rezultat să aibă o identitate culinară autonomă, să fie vândut și cumpărat cu un alt nume, să fie utilizat în preparate diferite față de forma proaspătă și să fie perceput ca un ingredient separat de cei care îl folosesc zilnic. Bucătăria peruviană tratează Ají Mirasol ca pe un ingredient de sine stătător. Este corect să facem același lucru.
 
 ---
 
-## Iuțeală și profil senzorial
+## Identitate botanică și nomenclaturală
 
-**Scala Scoville:** 30.000–50.000 SHU — concentrare ușoară față de fructul proaspăt, datorită pierderii de apă, dar profilul rămâne în același interval.[^Bosland2012]
-
-**Profil aromatic la reconstituire:**
-
-Transformarea aromatică față de Ají Amarillo proaspăt este caracteristică:
-- **Mango uscat** și **caise uscate** — în loc de notele de fructe proaspete, note de fructe deshidratate, mai concentrate și mai dulci.
-- **Caramelizarea zaharurilor** — o dulceață mai densă și mai complexă față de fructul proaspăt.
-- **O aciditate mai fină și mai integrată** — mai puțin directă față de aciditatea proaspătă, mai profundă și mai persistentă.
-- Note ușor terestre și de lemn — produse de reacțiile Maillard la uscare.
-- Absența notelor de iarbă verde și ardei proaspăt — prezente la Ají Amarillo, absente la Mirasol.
-
-Față de [[Soiuri/Ancho\|Ancho]] sau [[Soiuri/Pasilla\|Pasilla]] — care câștigă note de prune uscate, cacao și fum la uscare — Ají Mirasol rămâne mai luminos și mai fructat, mai aproape de caracterul original al speciei *C. baccatum*.
+**Specie originară:** *[[Specii/Capsicum baccatum\|Capsicum baccatum]]* L. var. *pendulum* (Willd.) Eshbaugh
+**Familie:** [[Soiuri/Ají Amarillo (familia)\|Ají Amarillo]]
+**Statut:** Formă deshidratată prin uscare solară a ardeiului [[Soiuri/Ají Amarillo\|Ají Amarillo]]; ingredient cu identitate culinară autonomă față de forma proaspătă
+**Denumiri sinonime:** Ají Cusqueño (în unele surse, în special pentru forma uscată din zona Cusco)[^SpecialtyMirasol]
+**Forma de prezentare:** Ardei întregi uscați (cu sau fără semințe), sau pulbere obținută prin măcinarea ardeilor uscați
+**Culoare:** Portocaliu-brun spre maro-portocaliu la uscare completă; pieliță pergamentoasă, translucidă
+**Dimensiuni după uscare:** Reduse la 40–60% față de dimensiunile fructului proaspăt; pericarpul se contractă și se încrețește
 
 ---
 
-## Transformarea aromatică la uscare — specificitățile față de alte ardei uscați
+## Transformarea aromatică prin deshidratare
 
-Ají Mirasol se deshidratează diferit față de ardeii mexicani uscați — o consecință a pericarpului de grosime medie și a conținutului specific de zaharuri și acizi organici al speciei *C. baccatum*:
+Deshidratarea solară nu este o metodă neutră de conservare — este un proces de transformare aromatică în care compușii volatili responsabili de notele florale și fructate ale ardeiului proaspăt se modifică prin oxidare, concentrare și reacții Maillard parțiale. Rezultatul este un profil aromatic cu caracter propriu:
 
-**Temperatura de uscare critică:**
+- **Note fructate concentrate:** Notele de mango și fructe tropicale din ardeiul proaspăt devin mai intense și mai terestre, cu o componentă de stafide și prune uscate mai proeminentă.
+- **Note nucifare și ușor afumate:** Apar în forma uscată, absente în forma proaspătă; intensificate dacă ardeii uscați sunt ulterior prăjiți sau coapți.
+- **Aciditate redusă:** Componenta acidă vegetală a ardeiului proaspăt diminuează prin deshidratare.
+- **Dulceață concentrată:** Zahărurile reziduale se concentrează odată cu pierderea apei.
 
-La temperaturi de uscare de 55–65°C — utilizate în industria mexicană pentru Ancho sau Pasilla — Ají Mirasol pierde o parte semnificativă din compușii aromatici volatili responsabili de notele fructate. Temperatura optimă pentru conservarea profilului aromatic specific este de **45–55°C** — cu un timp de uscare mai lung (36–72 de ore), dar cu un rezultat aromatic superior.[^Wahyuni2013]
-
-**Uscarea solară tradițională:**
-
-Metoda ancestrală peruiană — fructele întregi sau despicate expuse direct la soare timp de 5–15 zile — produce un Ají Mirasol cu un profil aromatic mai complex față de uscarea industrială. Reacțiile enzimatice lente la temperaturi solare moderate (35–45°C) produc compuși aromatici absenți la uscarea rapidă.
-
-**Culoarea mai deschisă:**
-
-Ají Mirasol uscat este considerabil mai deschis la culoare față de Ancho sau Pasilla — galben-brun sau brun-roșcat, nu brun-negricios. Aceasta reflectă profilul carotenoidal diferit al speciei *C. baccatum* față de *C. annuum*: beta-criptoxantina și zeaxantina din Ají Amarillo se degradează mai lent la uscare față de capsantina roșie, menținând o culoare mai caldă și mai deschisă în produsul final.[^Wahyuni2013]
+**Iuțeala:** Deshidratarea concentrează per gram de produs, dar reducerea de volum face ca porția utilizată în rețete să fie mai mică. Efectul net perceput la gătire este o iuțeală mai scăzută față de ardeiul proaspăt în cantitate echivalentă, conform observațiilor culinarilor peruvieni.[^HowtoPeru]
 
 ---
 
-## Tehnica de utilizare — rehidratarea
+## Procesul tradițional de deshidratare
 
-Procesul de rehidratare pentru Ají Mirasol urmează pași similari cu alți ardei uscați, cu ajustări specifice:
+Metoda tradițională andină de uscare a Ají Mirasol este simplă și reproductibilă:
 
-**Prăjirea uscată:**
+Fructele complet mature sunt curățate și tăiate pe lungime, sau lăsate întregi cu o incizie superficială pentru a permite evacuarea umidității. Sunt aranjate pe suprafețe orizontale sau agățate în șiraguri, orientate astfel încât suprafața interioară să primească radiație solară directă. La altitudinile andine înalte (2.000–3.500 m), combinația de radiație solară intensă, aer uscat și temperaturi nocturne scăzute produce o deshidratare mai lentă dar mai uniformă față de metodele de deshidratare la coastă — o diferență care contribuie la profilul aromatic specific al Mirasol-ului de origine andină față de cel de coastă.[^SpecialtyMirasol]
 
-Ardeii se trec rapid pe o tigaie uscată la foc mediu — 20–30 de secunde pe fiecare parte — pentru activarea uleiurilor volatile. Atenție: prăjirea prelungită oxidează compușii aromatici fructați, producând note amare nedorite.
-
-**Hidratarea:**
-
-Se scufundă în apă caldă (nu clocotită — 60–70°C) timp de 15–20 de minute. Apa clocotită extrage și degradează compușii aromatici volatili; apa caldă permite rehidratarea pericarpului fără pierderi aromatice semnificative.
-
-**Procesarea:**
-
-Pulpa rehidratată se procesează în blender cu cantitate minimă de apă de înmuiere — care conține compuși aromatici solubili. Pasta rezultată se trece prin sită pentru textura fină caracteristică aplicațiilor peruviene.
+Deshidratarea industrială modernă se face la temperaturi controlate (50–65°C) cu circulație forțată de aer, cu rezultate mai uniforme dar cu un profil aromatic parțial diferit față de metoda solară tradițională.
 
 ---
 
-## Locul în gastronomia peruiană
+## Morfologie (forma uscată)
 
-### Mole-ul peruvian — *Carapulcra*
+**Aspectul exterior:**
+Pieliță pergamentoasă, de culoare portocaliu-brună spre maro-roșcată, ușor translucidă în zonele mai subțiri. Suprafața este încrețită longitudinal, reflectând contractarea pericarpului prin pierderea apei. Fructele uscate integral (cu semințe) zornăie când sunt agitate — semințele rămân libere în cavitatea goală, un caracter observabil similar cu cel al ardeilorguajillo mexicani uscați.
 
-Dacă Ancho mexican este ingredientul definitoriu al mole-ului mexican, Ají Mirasol ocupă un rol comparabil în *Carapulcra* — unul dintre cele mai vechi preparate documentate ale bucătăriei peruviene, o tocană densă de cartofi deshidratați (*papa seca*), carne de porc sau pui, arahide și ardei uscați. Ají Mirasol rehidratat produce baza aromatică a preparatului — notele de fructe uscate și caramel complementând densitatea arahidelor și a cartofilor deshidratați.[^Zimmerer1996]
-
-### Sosuri pentru preparate de carne
-
-Ají Mirasol rehidratat și procesat este utilizat ca bază aromatică pentru sosurile de carne din nordul și centrul Peru — în special pentru preparatele de miel și capră, unde notele de fructe uscate și aciditatea fină echilibrează grăsimile animale mai pronunțate.
-
-### Combinația cu Ají Panca
-
-În bucătăria peruiană tradiționistă, Ají Mirasol și [[Ají Panca\|Ají Panca]] — un alt ardei uscat peruvian, cu note de fum și ciocolată — sunt utilizați frecvent în combinație, similar modului în care Ancho și Mulato sunt utilizați împreună în mole-ul mexican. Mirasol aduce luminozitate fructată, Panca aduce profunzime tereastră.
+**Greutate:**
+Fructele uscate cântăresc 15–25% din greutatea fructului proaspăt echivalent.
 
 ---
 
-## Morfologie detaliată — forma uscată
+## Mirasol în gastronomia peruviană
 
-**Dimensiuni și proporții:**
+Ají Mirasol este utilizat în preparate în care ardeiul proaspăt nu ar produce același rezultat:
 
-Fructul uscat are lungimi de 8–12 cm și lățimi de 2–3 cm — mai îngust față de Ancho uscat, reflectând morfologia mai zveltă a Ají Amarillo proaspăt.
-
-**Culoarea:**
-
-Galben-brun la uscarea ușoară (umiditate reziduală 12–15%) spre brun-roșcat la uscarea completă (umiditate 8–10%). Această culoare mai deschisă față de ardeii uscați mexicani este un indicator de calitate specific — nu un semn de uscare incompletă.
-
-**Flexibilitatea:**
-
-Un Ají Mirasol de calitate superioară se îndoaie fără a se rupe — semnul că uleiurile volatile sunt intacte și că uscarea a fost lentă și uniformă. Exemplarele casante indică uscare excesivă sau la temperaturi prea ridicate.
-
-**Suprafața:**
-
-Semi-lucioasă, cu cute longitudinale moderate — mai puțin zbârcit față de Pasilla sau Ancho, consecință a pericarpului mai ferm și mai elastic al speciei *C. baccatum*.
+- **Ocopa arequipeña:** Sosul verde-galben pe bază de Ají Mirasol hidratat, huacatay (mentă neagră peruviană / *Tagetes minuta*), brânză locală și nuci. Este sosul regional al Arequipei, servit pe cartofi fierți.
+- **Capchi:** Baza pentru tocănița andină de fasole sau legume, preparată prin prăjirea Ají Mirasol cu ceapă și usturoi — o bază aromatică care nu poate fi reprodusă cu ardeiul proaspăt.
+- **Adobo:** Marinata pentru carne de porc sau de pasăre, în care Ají Mirasol hidratat și blenduit formează pasta de bază.
+- **Mole amarillo oaxacan:** Utilizare documentată în afara Peru-ului — sosul mexican mole amarillo din Oaxaca folosește ardei uscați din familia mirasol, deși aceea este o familie diferită (*C. annuum*).[^SpecialtyMirasol] Coincidența de nume este o sursă de confuzie și nu implică o relație botanică.
 
 ---
 
-## Cultivare pentru producția de Mirasol
+## Notă despre confuzia cu Mirasol mexican
 
-**Particularitatea selecției:**
+Există în literatura culinară o confuzie documentată între Ají Mirasol peruvian (*C. baccatum*) și ardeiul Mirasol mexican (*C. annuum*) — al cărui echivalent uscat este guajillo. Cele două plante nu sunt înrudite la nivel de specie; au primit același nume din cauza aceluiași comportament al fructului — orientarea spre soare în faza de maturare. Specialty Produce consemnează explicit: „În Peru și India, ardeii preferați sunt numiți și ei mirasols, dar nu sunt înrudiți cu cultivarul mexican."[^SpecialtyMirasol2] Contextul geografic și specia botanică sunt indicatorii fiabili de identificare.
 
-Fructele destinate uscării pentru Mirasol sunt selecționate pentru a fi lăsate pe plantă până la maturitate fiziologică completă — portocaliu intens spre portocaliu-roșiatic — înainte de recoltare. Fructele recoltate prematur produc un Mirasol cu profil aromatic incomplet și o aciditate mai pronunțată față de dulceața caracteristică fructelor complet mature.
+---
 
-**Ciclul de cultivare:** Identic cu [[Soiuri/Ají Amarillo\|Ají Amarillo]] — 120–150 de zile de la transplantare.
+## Cultivare și producție
 
-**Zonele de producție:** Regiunile cu sezon uscat pronunțat — coasta de nord a Peru (La Libertad, Lambayeque) și văile interandine cu umiditate scăzută — sunt preferate pentru producția de Ají Mirasol față de zonele mai umede, unde uscarea solară este mai dificilă și riscul de mucegăire mai ridicat.
+Ají Mirasol nu se cultivă ca atare — este un produs al Ají Amarillo. Regiunile cu producție intensă documentată pentru forma uscată sunt departamentele Ancash, Arequipa, Moquegua și Tacna — zone cu clima uscată favorabilă deshidratării solare.[^SuperalimentosPeru]
 
 ---
 
@@ -134,8 +85,16 @@ Fructele destinate uscării pentru Mirasol sunt selecționate pentru a fi lăsat
 
 [^Bosland2012]: Bosland, P.W. & Votava, E.J. (2012). *Peppers: Vegetable and Spice Capsicums*. CABI Publishing.
 
-[^Wahyuni2013]: Wahyuni, Y. et al. (2013). *Metabolite biodiversity in pepper (Capsicum) fruits of thirty-two diverse accessions*. Phytochemistry, 93, 145–154. <https://doi.org/10.1016/j.phytochem.2013.02.010>
+[^SpecialtyMirasol]: Specialty Produce. *Dried Aji Mirasol Peppers Information and Facts*. <https://specialtyproduce.com/produce/Dried_Aji_Mirasol_Peppers_16998.php>
 
-[^Zimmerer1996]: Zimmerer, K.S. (1996). *Changing Fortunes: Biodiversity and Peasant Livelihood in the Peruvian Andes*. University of California Press.
+[^SpecialtyMirasol2]: Specialty Produce. *Mirasol Chile Peppers Information and Facts*. <https://specialtyproduce.com/produce/Mirasol_Chile_Peppers_793.php>
 
-[^Pickersgill1969]: Pickersgill, B. (1969). *The archaeological record of chili peppers (Capsicum spp.) and the sequence of plant domestication in Peru*. American Antiquity, 34(1), 54–61.
+[^HowtoPeru]: How to Peru. *The 6 Most Important Ají Chili Peppers in Peruvian Cuisine*. <https://howtoperu.com/aji-chili-peppers-in-peruvian-cuisine/>
+
+[^SuperalimentosPeru]: Superalimentos del Perú. *Yellow Pepper: History, Cultivation, Uses*. <https://foods.pe/en/yellow-pepper/>
+
+[^TrueloveSeeds]: Truelove Seeds. *Ají Amarillo (Peruvian Chile)*. <https://trueloveseeds.com/products/aji-amarillo-peruvian-pepper>
+
+[^PeruvianPot]: Peruvian Pot. *What Is Aji Amarillo? The Essential Peruvian Pepper Guide*. <https://peruvianpot.com/blog/what-is-aji-amarillo>
+
+[^AmAntiq]: Pickersgill, B. (1969). *The Archaeological Record of Chili Peppers (Capsicum spp.) and the Sequence of Plant Domestication in Peru*. American Antiquity, 34(1), 54–61. <https://doi.org/10.2307/278814>

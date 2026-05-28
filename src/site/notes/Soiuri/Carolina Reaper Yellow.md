@@ -30,7 +30,7 @@ Este una dintre variantele cromatice mai recent stabilizate ale familiei — ap�
 
 **Scala Scoville:** 1.100.000–1.800.000 SHU — sub varianta roșie canonică, dar în continuare în categoria super-hot extremă.[^Bosland2012]
 
-Moderarea față de varianta roșie urmează același pattern documentat la perechile galben/roșu din alte familii super-hot — [[Soiuri/Moruga Scorpion Yellow\|Moruga Scorpion Yellow]] față de [[Soiuri/Moruga Scorpion Red\|Moruga Scorpion Red]], [[Soiuri/Bhut Jolokia Yellow\|Bhut Jolokia Yellow]] față de [[Soiuri/Bhut Jolokia Red\|Bhut Jolokia Red]] — corelată cu profilul carotenoidal distinct al liniilor galbene.
+Moderarea față de varianta roșie urmează același pattern documentat la perechile galben/roșu din alte familii super-hot — [[Soiuri/Moruga Scorpion Yellow\|Moruga Scorpion Yellow]] față de [[Soiuri/Moruga Scorpion Red\|Moruga Scorpion Red]], [[Soiuri/Bhut Jolokia Yellow\|Bhut Jolokia Yellow]] față de [[Soiuri/Bhut Jolokia Red\|Soiuri/Bhut Jolokia Red]] — corelată cu profilul carotenoidal distinct al liniilor galbene.
 
 **Dinamica iuțelii:**
 

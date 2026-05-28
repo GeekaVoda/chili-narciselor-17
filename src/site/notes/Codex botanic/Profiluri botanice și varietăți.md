@@ -16,17 +16,21 @@
 
 Fiecare familie este ancorată de un **cultivar canonic** — soiul de referință față de care celelalte varietăți ale familiei sunt definite și față de care diferențele sunt măsurate și explicate. Cultivarul canonic este, de regulă, cel mai vechi documentat botanic, cel mai cultivat comercial sau cel care a dat numele familiei. El nu este neapărat cel mai iute, cel mai aromatic sau cel mai productiv — ci cel mai reprezentativ pentru identitatea familiei în ansamblu. Paginile individuale ale celorlalte cultivaruri din familie tratează explicit ce aduc nou față de această referință: o culoare diferită, o iuțeală mai ridicată, o adaptare climatică specifică, o transformare aromatică la uscare sau o identitate culturală proprie.
 
+![Profiluri botanice.png](/img/user/Resurse/ChatGPT/Profiluri%20botanice.png)
+
 ### Relația proaspăt — uscat
 
 Mai multe familii din proiect includ atât forma proaspătă a unui ardei, cât și forma sa uscată — tratate ca entități distincte, cu profiluri aromatice și utilizări culinare proprii. Această distincție este esențială: uscarea nu este o simplă deshidratare, ci o transformare biochimică reală care produce compuși aromatici noi, concentrează zaharurile și capsaicinoidele și schimbă fundamental caracterul ingredientului. [[Soiuri/Poblano\|Poblano]] proaspăt și [[Soiuri/Ancho\|Ancho]] uscat sunt același fruct, dar două ingrediente diferite în bucătăria mexicană; la fel [[Soiuri/Ají Amarillo\|Ají Amarillo]] și [[Soiuri/Ají Mirasol\|Ají Mirasol]], sau Mirasol proaspăt și [[Soiuri/Guajillo\|Guajillo]] uscat.
 
-![Profiluri botanice si varietati.png](/img/user/Resurse/ChatGPT/Profiluri%20botanice%20si%20varietati.png)
+---
 
 ### Structura acestui centralizator
 
 Familiile sunt organizate pe specii botanice, în ordinea numărului de cultivaruri documentate. În cadrul fiecărei familii, cultivarul canonic este menționat primul, urmat de celelalte varietăți în ordinea relevanței lor documentare.
 
 ---
+
+![Soiuri si varietati.png](/img/user/Resurse/ChatGPT/Soiuri%20si%20varietati.png)
 
 ## I. [[Specii/Capsicum annuum\|Capsicum annuum]]
 
@@ -35,11 +39,10 @@ Specia cu cea mai largă distribuție globală din gen și cu cel mai mare numă
 ---
 
 ### Familia [[Soiuri/Jalapeño (familia)\|Jalapeño]]
-*Cultivar canonic: [[Soiuri/Jalapeño\|Jalapeño]]*
+*Cultivar canonic: [[Jalapeño\|Jalapeño]]*
 
 Cel mai cunoscut ardei iute la nivel global. Originar din statul Veracruz, Mexic, cultivat de secole și standardizat comercial în a doua jumătate a secolului XX. Pericarpul gros și iuțeala moderată îl fac versatil culinar. Forma afumată și uscată poartă denumirea de **Chipotle** — un ingredient cu identitate gastronomică proprie.
 
-- [[Soiuri/Jalapeño\|Jalapeño]]
 - [[Soiuri/Jalapeño Biker Billy\|Jalapeño Biker Billy]]
 - [[Soiuri/Jalapeño Brown\|Jalapeño Brown]]
 - [[Soiuri/Jalapeño Early\|Jalapeño Early]]
@@ -136,12 +139,12 @@ Singura familie din proiect cu rădăcini complet post-columbiene în aria sa de
 ---
 
 ### Familia [[Bird's Eye\|Bird's Eye]] — Thai *(C. annuum și C. frutescens)*
-*Cultivar canonic: [[Soiuri/Prik Kee Nu\|Prik Kee Nu]] (C. annuum) · [[Soiuri/African Bird's Eye\|African Bird's Eye]] (C. frutescens)*
+*Cultivar canonic: [[Soiuri/Prik Kee Nu\|Prik Kee Nu]] (C. annuum) · [[Soiuri/Piri Piri African Birds Eye\|Piri Piri African Birds Eye]] (C. frutescens)*
 
 Familie funcțională care acoperă în mod excepțional două specii distincte — *C. annuum* și *C. frutescens* — unite prin morfologia comună a fructelor mici și erecte și prin răspândirea globală prin avifaună. Mecanismul de diseminare prin păsări — insensibile la capsaicină față de mamifere — explică prezența naturalizată a acestor ardei pe patru continente. Familia include și [[Soiuri/Chiltepín Bird Pepper\|Chiltepín Bird Pepper]] — forma ancestrală sălbatică din care a evoluat întreaga specie *Capsicum annuum* cultivată.
 
 - [[Soiuri/Prik Kee Nu\|Prik Kee Nu]] *(C. annuum — Thailanda)*
-- [[Soiuri/African Bird's Eye\|African Bird's Eye]] *(C. frutescens — Africa Subsahariană)*
+- [[Soiuri/Piri Piri African Birds Eye\|Piri Piri African Birds Eye]] *(C. frutescens — Africa Subsahariană)*
 - [[Soiuri/Siling Labuyo\|Siling Labuyo]] *(C. frutescens — Filipine)*
 - [[Soiuri/Kanthari\|Kanthari]] *(C. frutescens — Kerala, India)*
 - [[Soiuri/Chiltepín Bird Pepper\|Chiltepín Bird Pepper]] *(C. annuum var. glabriusculum — America Centrală)*
@@ -180,13 +183,13 @@ Familie originară din Trinidad și Tobago, al cărei nume — „șapte oale" �
 ---
 
 ### Familia [[Soiuri/Bhut Jolokia (familia)\|Bhut Jolokia-Ghost Pepper]]
-*Cultivar canonic: [[Soiuri/Bhut Jolokia Red\|Bhut Jolokia Red]]*
+*Cultivar canonic: [[Soiuri/Bhut Jolokia Red\|Soiuri/Bhut Jolokia Red]]*
 *Notă: hibrid natural C. chinense × C. frutescens*
 
 Primul ardei care a depășit oficial pragul de 1 milion SHU, certificat de Guinness World Records în 2007. Ocupă o poziție botanică unică: este un hibrid natural între *C. chinense* și *C. frutescens* — o situație fără precedent printre ardeii cultivați majori, confirmată prin analiză genetică moleculară. Originar din nord-estul Indiei — Assam, Nagaland, Manipur — unde era utilizat în bucătăria locală, în medicina tradițională și ca armă non-letală împotriva elefanților cu secole înainte de recunoașterea sa globală. Armata indiană a dezvoltat grenade cu extract de Bhut Jolokia utilizate pentru controlul mulțimilor.
 
-- [[Soiuri/Bhut Jolokia Red\|Bhut Jolokia Red]]
-- [[Soiuri/Bhut Jolokia Chocolate\|Bhut Jolokia Chocolate]]
+- [[Soiuri/Bhut Jolokia Red\|Soiuri/Bhut Jolokia Red]]
+- [[Soiuri/Bhut Jolokia Chocolate\|Soiuri/Bhut Jolokia Chocolate]]
 - [[Soiuri/Bhut Jolokia White\|Bhut Jolokia White]]
 - [[Soiuri/Bhut Jolokia Yellow\|Bhut Jolokia Yellow]]
 - [[Soiuri/Bhut Jolokia Purple\|Bhut Jolokia Purple]]
@@ -242,12 +245,12 @@ Specia cu cea mai bună rezistență la căldura tropicală umedă din întreg g
 
 ---
 
-### Familia [[Soiuri/Piri Piri (familia)\|Piri Piri (Peri Peri)]]
-*Cultivar canonic: [[Soiuri/Piri Piri African\|Piri Piri African]]*
+### Familia [[Soiuri/Piri Piri (sub-familia)\|Piri Piri (sub-familia)]]
+*Cultivar canonic: [[Soiuri/Piri Piri African Birds Eye\|Piri Piri African Birds Eye]]*
 
-Familie cu o identitate culturală construită pe trei continente: originea botanică este americană, vectorul răspândirii este portughez, iar identitatea culinară matură este africano-portugheză. Numele este o dublare din limbile bantu — *piri* înseamnă ardei iute, repetarea intensifică sensul. Familia este distinctă de [[Soiuri/African Bird's Eye\|African Bird's Eye]] — care desemnează forma naturalizată spontan — prin gradul de cultivare organizată și prin integrarea în producția sistematică de sos Piri Piri și de *frango piri piri*.
+Familie cu o identitate culturală construită pe trei continente: originea botanică este americană, vectorul răspândirii este portughez, iar identitatea culinară matură este africano-portugheză. Numele este o dublare din limbile bantu — *piri* înseamnă ardei iute, repetarea intensifică sensul. Familia este distinctă de [[Soiuri/Piri Piri African Birds Eye\|Piri Piri African Birds Eye]] — care desemnează forma naturalizată spontan — prin gradul de cultivare organizată și prin integrarea în producția sistematică de sos Piri Piri și de *frango piri piri*.
 
-- [[Soiuri/Piri Piri African\|Piri Piri African]]
+- [[Soiuri/Piri Piri African Birds Eye\|Piri Piri African Birds Eye]]
 - [[Soiuri/Piri Piri Portughez\|Piri Piri Portughez]]
 
 ---
@@ -266,7 +269,7 @@ Pilonul gastronomiei peruviene și unul dintre ingredientele definitorii ale une
 - [[Soiuri/Ají Amarillo\|Ají Amarillo]]
 - [[Soiuri/Ají Mirasol\|Ají Mirasol]]
 - [[Soiuri/Ají Escabeche\|Ají Escabeche]]
-- [[Soiuri/Ají Amarillo Cusqueño\|Ají Amarillo Cusqueño]]
+- [[Soiuri/Ají Amarillo Cusqueno\|Ají Amarillo Cusqueno]]
 
 ---
 

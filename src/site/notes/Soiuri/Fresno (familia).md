@@ -9,7 +9,7 @@
 
 Familia Fresno poartă numele orașului **Fresno** din **San Joaquin Valley**, California — una dintre cele mai productive regiuni agricole din Statele Unite, unde cultivarul a fost selecționat și comercializat la mijlocul secolului XX pentru piața americană de ardei proaspeți și conservați. Este unul dintre puținele soiuri de ardei iute cu o origine geografică americană precisă și documentată — nu o varietate ancestrală mexicană sau andină, ci o selecție modernă pentru condițiile agricole din California.[^Bosland2012]
 
-Fresno este frecvent confundat cu [[Soiuri/Jalapeño\|Jalapeño]] roșu matur — morfologia similară, culoarea roșie și iuțeala comparabilă produc o asemănare vizuală reală. Diferențele sunt însă concrete și culinare: pericarpul mai subțire al Fresno produce o textură diferită la procesare și o deshidratare mai eficientă, iar profilul aromatic este ușor mai fructat față de caracterul vegetal direct al jalapeño-ului.
+Fresno este frecvent confundat cu [[Jalapeño\|Jalapeño]] roșu matur — morfologia similară, culoarea roșie și iuțeala comparabilă produc o asemănare vizuală reală. Diferențele sunt însă concrete și culinare: pericarpul mai subțire al Fresno produce o textură diferită la procesare și o deshidratare mai eficientă, iar profilul aromatic este ușor mai fructat față de caracterul vegetal direct al jalapeño-ului.
 
 ---
 

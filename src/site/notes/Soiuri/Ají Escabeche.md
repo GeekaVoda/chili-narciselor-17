@@ -1,78 +1,43 @@
 ---
-{"dg-publish":true,"permalink":"/Soiuri/Ají Escabeche/","tags":["botanica","gastronomie","peru","capsicum","capsicum-baccatum","aji-amarillo","aji-escabeche","muratura","cultivar"],"dg-note-properties":{"tags":["botanica","gastronomie","peru","capsicum","capsicum-baccatum","aji-amarillo","aji-escabeche","muratura","cultivar"]}}
+{"dg-publish":true,"permalink":"/Soiuri/Ají Escabeche/","tags":["botanica","gastronomie","peru","capsicum","capsicum-baccatum","aji-amarillo","andean","cultivar","nomenclatura"],"dg-note-properties":{"tags":["botanica","gastronomie","peru","capsicum","capsicum-baccatum","aji-amarillo","andean","cultivar","nomenclatura"]}}
 ---
 
-# Ardeiul pentru murături
+# Ardeiul cu un nume arab
 
-*Capsicum baccatum* · Intensitate medie · 25.000–45.000 SHU
+*Capsicum baccatum* var. *pendulum* (Willd.) Eshbaugh · Intensitate moderată · 30.000–50.000 SHU
 
 
-Ají Escabeche este varianta familiei [[Soiuri/Ají Amarillo\|Ají Amarillo]] care și-a câștigat identitatea printr-o utilizare specifică — murarea în oțet (*escabeche*) — și prin morfologia care o face mai potrivită pentru această aplicație față de cultivarul canonic. Fructele sale sunt mai lungi și mai subțiri față de Ají Amarillo standard, cu un pericarp ușor mai fin care absoarbe soluția acidă de murare mai eficient și mai uniform, producând o murătură cu o penetrare aromatică mai profundă pe toată grosimea pericarpului.[^Bosland2012]
+Există, în istoria culinară a Americilor, câteva momente în care o tehnică venită de pe un alt continent a întâlnit un ingredient local și a produs ceva ireductibil nou. Unul dintre ele s-a petrecut pe coasta peruviană, în primele decenii după cucerirea spaniolă, când metoda arabă de conservare a alimentelor în oțet — *sikbaj*, preluată de ibericii medievali sub forma *escabeche* — a întâlnit ardeiul galben-portocaliu al Anzilor. Preparatul rezultat, *escabeche de pescado*, a devenit unul dintre clasicele bucătăriei criollo limeñe. Ardeiul care l-a definit a primit, în cele din urmă, și el același nume.
 
-*Escabeche* este un termen de origine arabă — *al-sikbāj* — ajuns în spaniolă prin intermediul andaluz medieval, desemnând o tehnică de conservare a alimentelor în mediu acid (oțet sau suc de citrice). Tehnica a fost adusă în America de coloniștii spanioli și a fuzionat cu practicile locale de conservare a ardeilor — producând o tradiție culinară distinctă în care Ají Escabeche ocupă locul central.[^Davidson2014]
+Ají Escabeche este, botanic, același ardei ca [[Soiuri/Ají Amarillo\|Ají Amarillo]] — *Capsicum baccatum* var. *pendulum*. Wikipedia în spaniolă îl consemnează explicit ca sinonim: *Capsicum baccatum var. pendulum, el ají amarillo, también llamado ají escabeche*.[^WikiES] Universitatea Agrară La Molina din Lima — instituția centrală a cercetării agricole peruviene — utilizează denumirea *ají escabeche* ca titlu oficial al cultivarului în studiile de caracterizare agromorfologică, acordându-i astfel un statut tehnic precis în literatura de specialitate.[^LaMolina] Cele două denumiri nu sunt, prin urmare, în concurență; ele reflectă două contexte de utilizare ale aceluiași ardei — unul botanic-agrozootehnic, celălalt gastronomic-popular.
 
 ---
 
 ## Identitate botanică
 
-**Specie:** *[[Specii/Capsicum baccatum\|Capsicum baccatum]]* var. *pendulum*
-**Familie:** [[Soiuri/Ají Amarillo\|Ají Amarillo]]
-**Sinonime:** *Ají Verde* (în stadiu imatur), *Ají Amarillo Escabeche*, *Ají Largo*
-**Origine:** Peru central și de nord — cultivar selecționat tradițional pentru utilizarea în murături
-**Dimensiuni fruct:** 12–18 cm lungime, 1,5–2,5 cm diametru — mai lung și mai subțire față de Ají Amarillo canonic
-**Culoare la maturitate:** Portocaliu intens — similar Ají Amarillo canonic
-**Formă:** Alungită, cilindrică, mai subțire și mai uniformă față de Ají Amarillo — morfologie specifică
-**Suprafața fructului:** Netedă, ceroasă, lucioasă
-**Semințe:** Crem-gălbui, standard pentru specie
+**Specie:** *[[Specii/Capsicum baccatum\|Capsicum baccatum]]* L. var. *pendulum* (Willd.) Eshbaugh
+**Familie:** [[Soiuri/Ají Amarillo (familia)\|Ají Amarillo]]
+**Sinonime documentate:** Ají Amarillo, Ají Peruano, Ají Amarillo Peruano, Challuaruro, Ayuyo, Uchu (quechua), Chinchiuchú[^SpecialtyProduce]
+**Statut nomenclatural:** Denumire cu utilizare preferențială în literatura agronomică peruviană și în contextul gastronomic al preparatelor de tip escabeche; sinonim cu Ají Amarillo în uzul comun
+**Origine:** Coasta și văile interandine ale Peru-ului; domesticire documentată de la circa 6.500 î.Hr. în departamentul Ancash[^WikiES]
+**Dimensiuni fruct:** 10–16 cm lungime, 2–3,5 cm diametru
+**Culoare la maturitate:** Portocaliu-aprins intens; galben la gătire
+**Suprafața fructului:** Netedă, lucioasă, cu indentații superficiale ușoare
+**Semințe:** Crem-albicioase, plate
 
 ---
 
 ## Iuțeală și profil senzorial
 
-**Scala Scoville:** 25.000–45.000 SHU — ușor sub cultivarul canonic, reflectând pericarpul mai subțire care diluează relativ concentrația de capsaicinoide față de masa totală a fructului.[^Bosland2012]
+**Scala Scoville:** 30.000–50.000 SHU.[^PepperScale] Iuțeală moderată, comparabilă cu cayenne și tabasco.
 
-**Profil aromatic:** Similar cultivarului canonic — fructat, citric, cu note de mango și caise. Ușor mai puțin complex față de Ají Amarillo canonic, cu o aciditate ceva mai pronunțată — posibil legată de conținutul mai mare de acizi organici per unitate de masă la soiurile cu pericarp mai subțire.
+Profilul aromatic este cel caracteristic familiei: fructat, cu note de fructe ale pasiunii, mango copt, caise și o componentă secundară de stafide. Aroma este perceptibilă olfactiv chiar și înainte de tăierea fructului — un parfum distinct care contribuie la identitatea preparatelor în care este utilizat. La gătire în mediu acid (oțet, zeamă de lămâie), profilul aromatic se integrează în marinată, impregnând proteinele cu care se combină — pește, pui, fructe de mare.
 
-**Dinamica iuțelii:** Similară familiei — latență inițială de 8–12 secunde, escaladare lentă, platou de 10–15 minute.
-
----
-
-## Morfologia pentru murare — raționamentul tehnic
-
-Forma mai lungă și mai subțire a Ají Escabeche nu este o simplă variație estetică — are consecințe tehnice directe pentru procesul de murare:
-
-**Raportul suprafață/volum:**
-
-Un fruct mai subțire are un raport suprafață/volum mai ridicat — mai multă suprafață de pericarp față de volumul de pulpă interioară. Aceasta accelerează penetrarea soluției de murare prin pericarp și permite o distribuție mai uniformă a acidității și aromelor de murătură pe întreaga grosime a pulpei.
-
-**Uniformitatea absorbției:**
-
-Pericarpul mai subțire (2–3 mm față de 3–5 mm la Ají Amarillo canonic) este traversat mai rapid de soluția acidă, producând o murătură cu o aciditate uniformă pe toată secțiunea transversală a ardeiului. La pericarpul mai gros, există adesea o diferență perceptibilă între exteriorul mai acid și interiorul mai puțin penetrat.
-
-**Prezentarea vizuală:**
-
-Feliile circulare obținute prin tăierea transversală a Ají Escabeche sunt mai mici și mai uniforme față de cele din Ají Amarillo canonic — producând un produs cu un aspect vizual mai elegant și mai consistent în borcane sau pe farfurie.[^Bosland2012]
-
----
-
-## Escabeche peruvian — tehnica și tradițiile
-
-*Escabeche de pescado* — peștele în murătură de ardei și oțet — este unul dintre preparatele de referință ale bucătăriei peruviene de coastă, cu rădăcini în fuziunea dintre tehnicile coloniale spaniole și materiile prime andino-pacifice. Ají Escabeche este ingredientul central al acestui preparat:
-
-**Tehnica clasică:**
-
-1. Bucăți de pește (corvina, caballa sau alt pește local) sunt prăjite în ulei până se rumenesc.
-2. Ají Escabeche — tăiat în fâșii sau rondele de 5–8 mm — se sotează cu ceapă roșie în julienne, usturoi și condimente (chimen, oregano, piper negru).
-3. Se adaugă oțet de vin alb — proporția variază regional, dar un escabeche bun are o aciditate pronunțată dar nu agresivă.
-4. Peștele prăjit se introduce în lichid și se lasă la marinat la temperatura camerei sau la frigider minimum 4 ore — ideal 24 de ore.
-
-Rolul Ají Escabeche în acest preparat este triplu: agent de iuțeală, ingredient aromatic și element de textură și culoare vizuală — fâșiile portocalii de ardei sunt un element estetic deliberat al prezentării.
-
-**Variante regionale:**
-
-- **Escabeche limeño:** Mai acid, cu oțet de vin în proporție mare și Ají Escabeche în cantitate moderată.
-- **Escabeche norteño:** Mai iute, cu o proporție mai mare de Ají Escabeche și adaos de chicha de jora (bere de porumb fermentată) ca element acid.
-- **Escabeche de pollo:** Varianta cu pui — mai accesibilă la interior, departe de coastă.[^Davidson2014]
+**Dinamica iuțelii:**
+- **Faza de latență:** 3–6 secunde.
+- **Faza de escaladare:** Progresivă, intensitate maximă în 20–40 de secunde.
+- **Faza de platou:** 10–20 de minute — mai scurtă și mai puțin intensă față de speciile *C. chinense*.
+- **Remisia:** Relativ rapidă, accelerată de lichide reci sau acide.[^Caterina1997]
 
 ---
 
@@ -80,46 +45,64 @@ Rolul Ají Escabeche în acest preparat este triplu: agent de iuțeală, ingredi
 
 **Planta:**
 
-Morfologic similară cu [[Soiuri/Ají Amarillo\|Ají Amarillo]] canonic — aceleași dimensiuni generale, același foliaj cu florile caracteristice *C. baccatum* (pete galbene la baza petalelor albe). Diferențierea apare exclusiv la nivel de fruct.
+Viguroasă, cu o înălțime de 100–180 cm în sol fertil în condiții favorabile. Frunzele sunt mari (15–30 cm lungime), cu nervura mediană proeminentă și o suprafață ușor pubescentsă — caracter distinctiv al speciei *C. baccatum* față de *C. annuum*. Planta este perenă în climatele subtropicale; în Peru, exemplarele cultivate în grădini familiale sunt menținute mai mulți ani consecutiv.
+
+**Florile:**
+
+Albe, cu 5 petale marcate de pete galbene sau verzui-aurii la bază — caracter diagnostic al speciei *C. baccatum*, prezent și în această varietate. Peduncul lung și subțire. Polenizare predominant autogamă, cu posibilitate de încrucișare entomogamă.
 
 **Fructul:**
 
-- Lungime: 12–18 cm — semnificativ mai lung față de Ají Amarillo canonic (10–15 cm).
-- Diametrul: 1,5–2,5 cm — mai subțire față de Ají Amarillo canonic (2,5–4 cm).
-- Pericarpul: 2–3 mm — mai subțire, mai uniform pe lungimea fructului.
-- Forma cilindrică mai uniformă — mai puțin fusiformă față de Ají Amarillo canonic.
-- Culoarea portocaliu intens la maturitate — identică cu cultivarul canonic.
-- Orientare pendentă la maturitate.
+Alungit, conic, cu vârf ușor ascuțit, uneori ușor curbat. Pericarpul este semi-gros, ferm, cu o textură ușor ceroasă la exterior și un interior aquos. Suprafața este netedă și lucioasă, fără rugozitățile caracteristice soiurilor super-hot. Culoarea evoluează de la verde-intens la galben-portocaliu, iar la maturitate deplină atinge portocaliul-aprins saturant pe care îl asociem cu acest ardei. La gătire, pericarpul revine la o nuanță galben-aurie — transformarea cromatică care explică etimologia numelui *amarillo*.
+
+Caracterizarea agromorfologică a zece selecții de ají escabeche realizată la Universitatea La Molina (2015–2016) a documentat o variabilitate semnificativă între selecții în caractere legate de fruct — dimensiuni, grosimea pericarpului, numărul de semințe — confirmând existența unui germoplasm divers în cadrul acestei varietăți, cu potențial de selecție pentru îmbunătățire.[^LaMolina]
 
 ---
 
-## Alte utilizări culinare
+## Escabeche — etimologia unui cuvânt cu trei patrii
 
-Deși optimizat pentru murare, Ají Escabeche este utilizat și în alte aplicații:
+Termenul *escabeche* are o traiectorie lingvistică și culturală documentată care traversează trei continente și aproximativ un mileniu.
 
-**Fâșii proaspete în salate:**
+Originea îndepărtată este persană: *sikbāj* (sik = oțet, bāj = tocăniță) desemna un preparat de carne gătită în oțet cu mirodenii, documentat în surse culinare arabe din secolul al XIII-lea.[^EatPeru] Prin cucerirea arabă a Peninsulei Iberice (711 e.n.), termenul și tehnica au intrat în bucătăria medievală hispanică sub forma *escabeche* — o metodă de conservare a peștelui și cărnii prin fierbere sau prăjire urmată de marinare în oțet cu ceapă, condimente și, uneori, ulei de măsline.
 
-Forma lungă și subțire produce fâșii uniforme și estetice pentru salate și garnituri crude — mai ușor de tăiat uniform față de Ají Amarillo canonic cu forma mai neregulată.
+Odată cu cuceritorii spanioli, tehnica a ajuns în Peru în secolul al XVI-lea. Acolo, ea a întâlnit ardeii locali — în special ardeiul galben-portocaliu al coastei peruviene, deja central în bucătăria indigenă. Fuziunea a produs *escabeche de pescado* — pește prăjit acoperit cu o marinată de oțet, ceapă roșie, ají galben feliat, usturoi și mirodenii, servit rece. Culoarea galben-portocalie a ardeiului, prezentă în tăiețele care acoperă preparatul, a devenit vizual definitorie pentru acest fel de mâncare.[^EatPeru][^CeciliaTupac]
 
-**Paste condimentare:**
+Istoricul peruvian Juan José Vega a propus o ipoteză suplimentară: că însuși termenul *ceviche* ar putea fi o deformare spaniolă a arabescului *sibech* (aliment acid), transmis în Peru prin intermediul bucătăreselor maure (*moriscas*) aduse de spanioli. Ipoteza nu este confirmată definitiv, dar ilustrează amploarea influenței tehnicilor de marinare arabă în formarea bucătăriei criollo peruiene.[^LatinLover]
 
-Procesarea în pastă produce un rezultat similar cu Ají Amarillo canonic, ușor mai fluid datorită pericarpului mai subțire. Utilizat intercambiabil cu pasta de Ají Amarillo canonic în preparatele gătite.
+---
 
-**Decorare și prezentare:**
+## Ají Escabeche în literatura agronomică peruviană
 
-Rondele transversale decupate din Ají Escabeche sunt utilizate ca element decorativ în prezentarea preparatelor peruviene — culoarea portocalie saturată și uniformitatea formei circulare contribuie la estetica prezentării.
+Utilizarea termenului *escabeche* ca denumire botanică principală — nu ca sinonim — este documentată în literatura agronomică și în publicațiile instituționale peruviene. *Ajíes peruanos: sazón para el mundo* (ISBN 978-612-45583-0-6), publicație de referință a Comisión de Promoción del Perú para la Exportación y el Turismo (PromPerú), folosește *ají escabeche* alături de *ají amarillo* ca denumiri echivalente ale cultivarului principal din specia *C. baccatum* var. *pendulum*.[^WikiES] Studiul de la La Molina confirmă același uz în contextul cercetării academice locale.
+
+Această preferință terminologică din literatura tehnică peruviană reflectă o realitate a pieței: în piețele și supermarketurile din Peru, ardeiul este vândut frecvent sub eticheta *ají escabeche* sau *ají amarillo* intercambiabil, fără o distincție consecventă între cele două denumiri.
+
+---
+
+## Utilizări culinare
+
+- **Escabeche de pescado:** Preparatul eponim — pește (corvina, lenguado, bonito) prăjit și acoperit cu marinată de oțet, ceapă roșie, ají escabeche feliat, usturoi și ají panca. Servit rece sau la temperatura camerei, cu porumb fiert, cartof dulce și lăptucă.
+- **Escabeche de pollo:** Variantă cu pui, frecventă în Lima. Pui gătit acoperit cu marinată identică, servit cu cartofi fierți, ouă, măsline și fetonete de ají.
+- **Pasta de ají amarillo / escabeche:** Baza cremoasă pentru papa a la huancaína, ají de gallina, causa rellena. Obținută prin fierberea, decojirea și blendarea fructelor.
+- **Ceviche:** Prezent direct în marinata de lămâie, aducând culoarea galbenă caracteristică tiradito-ului și ceviche-ului clasic.
+- **Ají de gallina:** Tocăniță cremoasă de pui, în care pasta de ají escabeche este ingredientul de bază al sosului galben-portocaliu.
+- **Papa a la huancaína:** Sosul galben pe bază de ají escabeche, brânză și lapte — unul dintre cele mai cunoscute preparate ale bucătăriei peruviene în afara țării.
 
 ---
 
 ## Cultivare — note specifice
 
-**Germinarea:** Temperatura optimă 22–28°C, durată 14–25 de zile — identică cu cultivarul canonic.
+**Germinarea:** Temperatura optimă a substratului este de 24–28°C, durată de germinare 14–21 de zile.
 
-**Durata până la maturitate:** 120–150 de zile de la transplantare — identică cu familia.
+**Cerințe termice:** Temperaturi diurne de 16–28°C. *C. baccatum* var. *pendulum* tolerează temperaturi ceva mai scăzute față de *C. chinense*, cultivarea sa în zone temperate cu veri calde fiind posibilă cu rezultate acceptabile.
 
-**Recoltarea:** Fructele Ají Escabeche sunt adesea recoltate în stadiu imatur — verde sau galben-verzui — pentru utilizarea în murăturile unde culoarea verde este preferată față de portocaliul maturității complete. Murăturile de Ají Escabeche verde prezintă o aciditate naturală mai pronunțată și o aromă mai proaspătă față de cele din fructe portocalii mature.
+**Altitudine de cultivare:** De la nivelul mării până la circa 1.500 m în Peru, cu cultivare intensivă în zona Norte Chico (Lima) pentru export.[^SuperalimentosPeru]
 
-**Producție per plantă:** 20–45 de fructe pe sezon — similar cultivarului canonic.
+**Durata până la maturitate:** 100–120 de zile de la transplantare până la prima recoltă portocalie.
+
+**Producție per plantă:** Ridicată. O plantă viguroasă poate produce 30–50 de fructe pe sezon. Producția este destinată atât consumului intern proaspăt, cât și procesării industriale (pastă congelată, pastă sterilizată) pentru export.
+
+**Recolta comercială:** În Peru, fructele sunt recoltate proaspete din mai până în august; forma procesată (pastă, congelat) este disponibilă tot anul.[^SpecialtyProduce]
 
 ---
 
@@ -127,8 +110,22 @@ Rondele transversale decupate din Ají Escabeche sunt utilizate ca element decor
 
 [^Bosland2012]: Bosland, P.W. & Votava, E.J. (2012). *Peppers: Vegetable and Spice Capsicums*. CABI Publishing.
 
-[^Davidson2014]: Davidson, A. (2014). *The Oxford Companion to Food* (3rd ed.). Oxford University Press. [Originea termenului escabeche și tehnica de conservare în mediu acid în bucătăria peruiană.]
+[^LaMolina]: Repositorio Universidad Nacional Agraria La Molina (2016). *Caracterización agromorfológica de diez selecciones de ají escabeche (Capsicum baccatum var. pendulum), bajo condiciones de La Molina*. <https://repositorio.lamolina.edu.pe/items/3440f9c6-65b5-4067-b046-5a778d47b48a>
 
-[^Zimmerer1996]: Zimmerer, K.S. (1996). *Changing Fortunes: Biodiversity and Peasant Livelihood in the Peruvian Andes*. University of California Press.
+[^WikiES]: Wikipedia en español. *Capsicum baccatum var. pendulum*. <https://es.wikipedia.org/wiki/Capsicum_baccatum_var._pendulum>
 
-[^Wahyuni2013]: Wahyuni, Y. et al. (2013). *Metabolite biodiversity in pepper (Capsicum) fruits of thirty-two diverse accessions*. Phytochemistry, 93, 145–154. <https://doi.org/10.1016/j.phytochem.2013.02.010>
+[^SpecialtyProduce]: Specialty Produce. *Ají Amarillo Chile Pepper Information and Facts*. <https://specialtyproduce.com/produce/Aji_Amarillo_Chile_Pepper_789.php>
+
+[^PepperScale]: PepperScale. *Aji Amarillo Guide: Heat, Flavor, Pairings, And More*. <https://pepperscale.com/aji-amarillo/>
+
+[^EatPeru]: Eat Peru. *Escabeche de Pescado Recipe — Supreme Fish Dish From Lima*. <https://www.eatperu.com/escabeche-de-pescado/>
+
+[^CeciliaTupac]: Cecilia Tupac. *Escabeche de Pollo Recipe — Peruvian Pickled Chicken*. <https://en.ceciliatupac.com/post/escabeche-de-pollo-recipe>
+
+[^LatinLover]: LatinLover Food & Travel Magazine. *Cebiche, Ceviche, Sebiche, Seviche — A Latin American Kitchen Miracle*. <https://latinlover.us/blog/2015/3/16/cebiche-ceviche-sebiche-sevichea-latin-american-kitchen-miracle>
+
+[^SuperalimentosPeru]: Superalimentos del Perú. *Yellow Pepper: History, Cultivation, Uses*. <https://foods.pe/en/yellow-pepper/>
+
+[^AmAntiq]: Pickersgill, B. (1969). *The Archaeological Record of Chili Peppers (Capsicum spp.) and the Sequence of Plant Domestication in Peru*. American Antiquity, 34(1), 54–61. <https://doi.org/10.2307/278814>
+
+[^Caterina1997]: Caterina, M.J. et al. (1997). *The capsaicin receptor: a heat-activated ion channel in the pain pathway*. Nature, 389, 816–824. <https://doi.org/10.1038/39807>

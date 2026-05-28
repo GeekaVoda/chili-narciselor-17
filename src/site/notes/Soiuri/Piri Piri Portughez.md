@@ -1,97 +1,105 @@
 ---
-{"dg-publish":true,"permalink":"/Soiuri/Piri Piri Portughez/","tags":["botanica","gastronomie","portugalia","africa","capsicum","capsicum-frutescens","piri-piri","piri-piri-portughez","frango","cultivar"],"dg-note-properties":{"tags":["botanica","gastronomie","portugalia","africa","capsicum","capsicum-frutescens","piri-piri","piri-piri-portughez","frango","cultivar"]}}
+{"dg-publish":true,"permalink":"/Soiuri/Piri Piri Portughez/","tags":["botanica","gastronomie","capsicum","capsicum-frutescens","birds-eye","piri-piri","portugalia","algarve","cultivar"],"dg-note-properties":{"tags":["botanica","gastronomie","capsicum","capsicum-frutescens","birds-eye","piri-piri","portugalia","algarve","cultivar"]}}
 ---
 
-# Ardeiul care a traversat Atlanticul înapoi
+# Ardeiul care a revenit acasă
 
 *Capsicum frutescens* · Intensitate ridicată · 50.000–100.000 SHU
 
 
-Piri Piri Portughez este forma adaptată european a soiurilor africane de *Capsicum frutescens* — un ardei american care a ajuns în Africa prin portughezi și s-a întors în Europa tot prin portughezi, după cinci secole de selecție și adaptare în climatul tropical al coloniilor. Această călătorie circulară — America → Africa → Europa — este unul dintre cele mai clare exemple de cum Schimbul Columbian a funcționat nu în sensuri unidirecționale, ci în bucle complexe de transfer cultural și botanic.[^Andrews1995]
+Portugalia nu a inventat piri piri. L-a transportat din America în Africa, l-a lăsat să se aclimatizeze câteva secole, și apoi l-a primit înapoi — transformat, maturizat în condiții africane, cu un alt caracter față de ardeii de tip *C. frutescens* pe care portughezii îi cunoșteau din Brazilia sau din schimburile cu alte colonii. Piri piri portughez este, prin urmare, un ingredient cu o biografie circulară: plecat din America, format în Africa, repatriat în Europa.[^LuisaPaixao]
 
-Cultivarea Piri Piri în Portugalia — în special în **Algarve**, regiunea din extremitatea sudică a peninsulei, cu un climat mediteranean cald și uscat favorabil ardeilor — s-a consolidat după 1975, când repatrierea coloniștilor portughezi din Mozambic și Angola a adus cu ea semințele, rețetele și tehnicile culinare africane. Astăzi, Piri Piri portughez este cultivat atât în scop casnic, cât și industrial — pentru producția de sos Piri Piri îmbuteliat și pentru marinarea puiului la grătar (*frango piri piri*), preparatul care a dus acest ardei la recunoaștere globală.
+Repatrierea a fost masivă și bruscă. În 1974–1975, revoluția Garoafelor a pus capăt dictaturii portugheze și a declanșat independența tuturor coloniilor africane — Mozambic (1975), Angola (1975), Capul Verde (1975), Guineea-Bissau (1974). Circa 500.000 de portughezi s-au întors din Africa în câțiva ani, ducând cu ei ce puteau transporta: amintiri, rețete, semințe. Piri piri a ajuns în Algarve prin mâinile acestor *retornados*, și s-a aclimatizat în climatul mediteranean al sudului Portugaliei cu o viteză care spune ceva despre plasticitatea biologică a speciei.[^PortugalNews]
 
 ---
 
 ## Identitate botanică
 
-**Specie:** *[[Specii/Capsicum frutescens\|Capsicum frutescens]]*
-**Familie:** [[Piri Piri\|Piri Piri]]
-**Origine culturală:** Portugalia — în special Algarve; cu rădăcini în soiurile mozambicane și angoleze
-**Dimensiuni fruct:** 2–5 cm lungime, 0,5–1,5 cm diametru — ușor mai mare față de soiurile africane, datorită selecției pentru producție agricolă europeană
-**Culoare la maturitate:** Roșu-aprins intens
-**Formă:** Conică, subțire, cu vârful ascuțit — strict erectă
-**Suprafața fructului:** Netedă, lucioasă
-**Semințe:** Crem-gălbui, mici și numeroase
+**Specie:** *[[Specii/Capsicum frutescens\|Capsicum frutescens]]* L.
+**Sub-familie:** [[Soiuri/Piri Piri (sub-familia)\|Piri Piri]]
+**Origine geografică a liniei:** Portugalia — în principal regiunile Algarve, Alentejo și centru-sud; material genetic provenit din coloniile africane portugheze, repatriat după 1975
+**Statut:** Linie aclimatizată în climatul mediteranean portughez; cultivată atât ca plantă de grădină, cât și la scară semi-comercială pentru industria sosurilor locale
+**Dimensiuni fruct:** 2–4 cm lungime, 0,5–1 cm diametru
+**Culoare la maturitate:** Roșu intens; variante portocalii documentate în unele linii portugheze
+**Suprafața fructului:** Netedă, lucioasă; fructe erecte
+**Semințe:** Mici, crem-gălbui
 
 ---
 
 ## Iuțeală și profil senzorial
 
-**Scala Scoville:** 50.000–100.000 SHU — limita inferioară a familiei, reflectând selecția pentru un profil mai accesibil față de soiurile africane crescute în condiții de stres climatic mai intens.[^Bosland2012]
+**Scala Scoville:** 50.000–100.000 SHU — capătul inferior al intervalului sub-familiei, reflectând posibil adaptarea la condițiile mediteraneene mai temperate față de climatul tropical african, unde stresul termic și hidric favorizează concentrații mai mari de capsaicinoide.[^MagicPlantFarms]
 
-Soiurile portugheze cultivate în Algarve, în solurile argilo-calcaroase și în climatul mediteranean cu veri calde și ierni blânde, produc fructe cu iuțeală mai moderată față de soiurile mozambicane de altitudine — o consecință a condițiilor de mediu mai puțin stresante care reduc sinteza de capsaicinoide ca mecanism de apărare.
+**Profil aromatic:** Sursele culinare portugheze descriu ardeii piri piri cultivați local ca prezentând note mai dulci și mai puțin terestre față de versiunile africane. Conservarea în ulei de măsline portughez — o practică locală tradițională — adaugă un strat aromatic specific: uleiul se infuzează cu capsaicinoide și cu compuși aromatici volatili ai ardeiului, producând un condiment mai rotund decât ardeiul proaspăt sau uscat simplu.[^LetuDiscover]
 
-**Profil aromatic:** Similar familiei — curat, direct, cu note citrico-lemnoase specifice speciei. La deshidratare și uscare, apar note de ardei roșu copt și o ușoară caramelizare — profilul specific al soiurilor portugheze utilizate uscate în preparatele tradiționale.
-
----
-
-## Frango Piri Piri — preparatul emblematic
-
-**Frango piri piri** — puiul la grătar marinat în sos Piri Piri — este preparatul care a dus soiul portughez la recunoaștere globală și care continuă să definească identitatea culinară a acestei linii față de soiurile africane.
-
-**Marinada clasică portugheză:**
-
-Spre deosebire de sosul mozambican simplu, marinada portugheză pentru frango piri piri este mai complexă — un amestec de ardei Piri Piri proaspeți sau uscați, usturoi, suc de lămâie, oțet de vin alb, ulei de măsline, paprika, oregano, cimbru și sare. Proporțiile variază regional și între gospodării, dar profilul mediteranean al ierburilor aromatice este constant și distinctiv față de versiunea africană mai simplă.[^Davidson2014]
-
-**Tehnica de gătire:**
-
-Puiul — tăiat spatchcock (deschis și aplatizat) sau în bucăți — este marinat minimum 4–12 ore, apoi gătit pe grătar la cărbuni sau la gaz, la temperaturi ridicate, cu pensulare repetată cu marinada în timpul gătitului. Caramelizarea suprafeței și absorbția aromatelor din marinadă produc un preparat cu un echilibru specific: ars ușor la exterior, suculent la interior, cu iuțeala integrată uniform.
-
-**Globalizarea prin Nando's:**
-
-Lanțul de restaurante **Nando's** — fondat în 1987 la Johannesburg de antreprenori sud-africani de origine portugheză — a industrializat și globalizat frango piri piri, distribuindu-l în peste 30 de țări. Această expansiune comercială a familiarizat milioane de consumatori cu Piri Piri ca ingredient și preparat, contribuind la creșterea cererii pentru sosurile și soiurile de ardei din această familie.[^Davidson2014]
+**Dinamica iuțelii:** Latență de 3–5 secunde, escaladare ascuțită, platou de 15–20 minute, remisie relativ rapidă — standard pentru specia *C. frutescens*.[^Caterina1997]
 
 ---
 
-## Sosul Piri Piri portughez — variante și producție
+## Morfologie
 
-Spre deosebire de sosul mozambican preparat proaspăt și consumat imediat, varianta portugheză a fost adaptată pentru conservare și comercializare:
-
-**Sosul îmbuteliat:**
-
-Ardeii Piri Piri uscați sau proaspeți sunt procesați cu ulei de măsline, oțet, usturoi și condimente, pasteurizați termic și îmbuteliați. Concentrația de ardei față de volumul total determină intensitatea — produsele comerciale portugheze variază de la „mild" (5–10% ardei) la „extra hot" (25–35% ardei).
-
-**Variante regionale:**
-
-- **Algarve:** Mai puțin iute, cu note de lămâie mai pronunțate.
-- **Setúbal și Ribatejo:** Mai iute, cu proporție mai mare de ardei față de celelalte ingrediente.
-- **Diaspora africano-portugheză:** Variante mai apropiate de originalul mozambican, cu mai puțin ulei de măsline și mai puțin oregano.
+Identică structural cu celelalte linii ale sub-familiei. Planta este arbusti densă de 45–100 cm în condiții portugheze — ceva mai compactă față de liniile africane cultivate în condiții tropicale. Frunzele sunt netede, lanceolate. Fructele sunt mici, conice, erecte, roșii la maturitate.
 
 ---
 
-## Cultivare în Portugalia — note specifice
+## Varietățile portugheze documentate
 
-**Adaptarea la clima mediteraneană:**
+În cadrul liniei portugheze, două variante au documentare nominală proprie:
 
-Piri Piri portughez a fost selectat timp de generații pentru performanță în climatul Algarvei — veri calde și uscate (temperaturi de 30–38°C), ierni blânde (minimum 8–10°C), precipitații concentrate în sezonul rece. Această adaptare îl face mai tolerant la seceta estivală față de soiurile tropicale africane, dar mai sensibil la temperaturile scăzute față de soiurile mediteraneene native.
+**Piri Piri de Angola (Gindungo):** Linia de origine angolezo-mozambicană, adusă de retornados și cultivată în Portugalia, apreciată pentru iuțeala mai pronunțată și pentru caracterul folosit în marinate de carne și pui. Aceasta este, de fapt, varianta [[Piri Piri — Jindungo\|Piri Piri — Jindungo]] transplantată în context portughez, unde poartă ambele denumiri.[^LetuDiscover]
 
-**Germinarea:** Temperatura optimă 24–28°C, durată 12–18 de zile.
+**Malagueta:** Linia mai mică și mai potentă, prezentă în tavernele lisaboneze, conservată frecvent în borcane de ulei de măsline sau oțet — o variantă intermediară între malagueta braziliană și linia africană standard.[^LetuDiscover]
 
-**Durata până la maturitate:** 80–100 de zile de la transplantare — mai lungă față de soiurile africane în climatul mai răcoros al Europei.
+---
 
-**Producție per plantă:** 100–300 de fructe pe sezon în condiții mediteraneene optime — mai redusă față de soiurile africane în climatele tropicale de origine.
+## Frango piri piri — preparatul care a globalizat ardeiul
 
-**Uscarea:** Practicată tradițional în Algarve prin expunere solară directă — climatul uscat și însorit al regiunii este favorabil deshidratării. Fructele uscate sunt utilizate în pulberi condimentare, în sosuri concentrate și ca ingredient direct în preparatele cu carne.
+*Frango piri piri* — pui la grătar cu sos de ardei african — nu este, contrar impresiei generale, un preparat portughez tradițional cu rădăcini vechi. A apărut ca preparat popular în Algarve la sfârșitul anilor 1970 și în anii 1980, adus de comunitățile de retornados mozambicani și angolezi.[^PortugalNews]
+
+Preparatul a colonizat rapid restaurantele de pe coasta Algarvei — unde milioane de turiști britanici și europeni vin anual —, a intrat în ghidurile de specialitate și a devenit, la scara percepției externe, sinonimul bucătăriei portugheze contemporane informale. Ironia este evidentă: un ingredient adus din America în Africa de portughezi, transformat în Africa de-a lungul a câteva secole, readus în Portugalia de imigranții din colonii, a ajuns să fie perceput ca esențialmente portughez de turiștii care îl consumă pe terasa restaurantelor din Albufeira sau Lagos.
+
+Această confuzie de origini nu este o eroare — este un document cultural. Ea ilustrează cum un ingredient face, în câteva generații, traseul complet de la transplant la identitate locală asumată.
+
+---
+
+## Cultivarea în Portugalia
+
+Climatul mediteranean al Algarvei — veri calde și uscate, ierni blânde — este suficient de favorabil pentru *C. frutescens* ca anuală sau ca arbust peren în zone adăpostite. Cultivarea comercială este limitată față de scara africană, dar prezentă în grădinile familiale și în micile producții artizanale de sos piri piri comercializate pe piețele locale și prin turism.[^LuisaPaixao]
+
+**Germinarea:** Temperatura optimă 24–28°C, durată 14–21 de zile.
+
+**Cerințe termice:** Temperaturi diurne de 22–30°C în sezonul de vegetație. Algarve oferă condiții favorabile din mai până în octombrie.
+
+**Durata până la maturitate:** 80–95 de zile de la transplantare — ceva mai lungă decât în condiții tropicale africane.
+
+**Conservare tradițională portugheză:** Fructele mature sunt conservate întregi sau tăiate în ulei de măsline extra virgin, uneori cu adaos de usturoi, frunze de dafin și oțet. Borcanele rezultate sunt utilizate ca condiment de masă sau ca bază pentru marinate și sosuri.
+
+---
+
+## Piri piri în industria farmaceutică și de securitate
+
+*Capsicum frutescens* cultivat în Africa — inclusiv linii piri piri — este materie primă documentată pentru producția industrială de capsaicină purificată utilizată în:
+
+- **Creme analgezice topice:** Capsaicina este un ingredient activ în produsele farmaceutice pentru durere neuropatică și articulară.
+- **Spray-uri de autoapărare (spray cu piper):** Concentrat de oleoresin capsicum (OC), produs dintr-un extract de *C. frutescens* și alte specii cu conținut ridicat de capsaicinoide.
+- **Vopsele antifouling pentru carene navale:** Documentat în contextul trinidadian, utilizarea capsaicinei ca inhibitor al colonizării biologice a carenelor este aplicabilă și pentru ardeii africani cu concentrație adecvată.
+
+Wikipedia menționează explicit că piri piri „este cultivat pentru procesarea alimentară comercială și industria farmaceutică" — o utilizare industrială care depășește cu mult contextul gastronomic.[^WikiPiri]
 
 ---
 
 ## Bibliografie
 
-[^Andrews1995]: Andrews, J. (1995). *Peppers: The Domesticated Capsicums* (revised edition). University of Texas Press.
-
 [^Bosland2012]: Bosland, P.W. & Votava, E.J. (2012). *Peppers: Vegetable and Spice Capsicums*. CABI Publishing.
 
-[^Davidson2014]: Davidson, A. (2014). *The Oxford Companion to Food* (3rd ed.). Oxford University Press. [Contextul cultural al frango piri piri și globalizarea prin Nando's.]
+[^WikiPiri]: Wikipedia contributors. *Piri piri*. Wikipedia, The Free Encyclopedia. <https://en.wikipedia.org/wiki/Piri_piri>
 
-[^Tewksbury2001]: Tewksbury, J.J. & Nabhan, G.P. (2001). *Seed dispersal: Directed deterrence by capsaicin in chillies*. Nature, 412, 403–404. <https://doi.org/10.1038/35086653>
+[^LuisaPaixao]: Luisa Paixão Portugal. *Piri-Piri: Recipes and Origins of the Fiery Portuguese Pepper*. <https://www.luisa-paixao.us/blogs/life-in-portugal/piri-piri-recipes-and-origins-of-the-fiery-portuguese-pepper>
+
+[^LetuDiscover]: Let Us Discover. *Portuguese Piri Piri: The Spicy Secret That Conquered the World*. <https://letusdiscover.com/portuguese-piri-piri-history-recipe-culture/>
+
+[^PortugalNews]: The Portugal News. *The History of Frango Piri Piri — Where Does It Come From?* <https://www.theportugalnews.com/news/2022-07-31/the-history-of-frango-piri-piri-where-does-it-come-from/69051>
+
+[^MagicPlantFarms]: Magic Plant Farms. *Meet the African Bird's Eye Pepper*. <https://magicplantfarms.com/encyclopepper/meet-african-birds-eye-pepper/>
+
+[^Caterina1997]: Caterina, M.J. et al. (1997). *The capsaicin receptor: a heat-activated ion channel in the pain pathway*. Nature, 389, 816–824. <https://doi.org/10.1038/39807>

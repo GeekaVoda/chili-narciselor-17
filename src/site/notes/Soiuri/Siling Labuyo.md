@@ -9,7 +9,7 @@
 
 *Siling Labuyo* — „ardeiul sălbatic" în tagalog — este ardeiul iute endemic al Arhipelagului Filipinez, atât de profund integrat în peisajul agricol și culinar local încât puțini filipinezi știu că planta nu a existat în arhipelag înainte de secolul al XVI-lea. Adus de spanioli prin ruta comercială a **Galeonului de Manila** — nava care lega Acapulco de Manila și transporta mărfuri între America spaniolă și Asia — ardeiul s-a naturalizat rapid în climatul tropical umed al insulelor, unde condiții climatice identice cu cele din bazinul amazonian originar au permis o adaptare completă.[^Andrews1995]
 
-Statutul său de „sălbatic" — consemnat chiar în numele său tagalog — reflectă realitatea botanică: Siling Labuyo crește astăzi spontan în toată Filipinele, în margini de pădure, pe terenuri abandonate și în grădini neglijan, fără a necesita cultivare activă. Este recoltat atât din flora spontană cât și din culturi semi-organizate — o situație biologică similară cu cea a [[Soiuri/African Bird's Eye\|African Bird's Eye]] în savanele mozambicane.
+Statutul său de „sălbatic" — consemnat chiar în numele său tagalog — reflectă realitatea botanică: Siling Labuyo crește astăzi spontan în toată Filipinele, în margini de pădure, pe terenuri abandonate și în grădini neglijan, fără a necesita cultivare activă. Este recoltat atât din flora spontană cât și din culturi semi-organizate — o situație biologică similară cu cea a [[African Bird's Eye\|African Bird's Eye]] în savanele mozambicane.
 
 ---
 

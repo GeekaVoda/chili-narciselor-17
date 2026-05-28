@@ -2,14 +2,14 @@
 {"dg-publish":true,"permalink":"/Soiuri/7 Pot Brain Strain/","tags":["botanica","gastronomie","trinidad","capsicum","capsicum-chinense","super-hot","7-pot","7-pot-brain-strain","cultivar"],"dg-note-properties":{"tags":["botanica","gastronomie","trinidad","capsicum","capsicum-chinense","super-hot","7-pot","7-pot-brain-strain","cultivar"]}}
 ---
 
-# Ardeiul cu suprafața de creier
+# Ardeiul cu anatomie de creier
 
 *Capsicum chinense* · Intensitate extremă · 1.000.000–1.350.000 SHU
 
 
-Numele nu este o metaforă și nu este o exagerare de marketing. 7 Pot Brain Strain are o suprafață care seamănă, cu o fidelitate desconcertantă, cu cea a cortexului cerebral uman — cute adânci, neregulate, pliate unele peste altele, fără nicio simetrie aparentă. Această morfologie extremă nu a apărut prin selecție orientată spre estetică, ci ca efect secundar al selecției pentru concentrație maximă de capsaicinoide: cercetătorii și cultivatorii au observat că, în cadrul speciei *Capsicum chinense*, fructele cu suprafața mai deformată și mai rugosă tind să aibă o placentă mai dezvoltată și o densitate mai mare de glande producătoare de capsaicină pe unitatea de suprafață interioară.[^Bosland2012]
+Există cultivaruri al căror nume este o simplă etichetă, iar există altele în care numele și fructul formează un sistem de semne complet. 7 Pot Brain Strain aparține celei de-a doua categorii. Suprafața sa — frământată, circumvolutată, cu cute adânci care se ramifică neregulat — reproduce, cu o fidelitate care surprinde, textura cortexului cerebral uman. Nu este o asemănare vagă sau o licență poetică: este un caracter morfologic selectat deliberat, fixat genetic prin generații de alegeri repetate, urmărind un singur scop vizual.
 
-Selecția cultivarului este asociată cu David Cappiello, cultivator din SUA, care a izolat și stabilizat linia prin generații succesive de autopolenizare controlată, pornind din material genetic de origine trinitadiană. Denumirea *Brain Strain* — „tensiunea creierului" sau „efortul mental" — face trimitere simultană la aspectul fructului și la experiența consumului: o iuțeală care solicită complet capacitățile de toleranță ale sistemului nervos.
+Povestea acestui cultivar începe în 2010, când David Cappiello — cunoscut în comunitatea online de cultivatori sub porecla *Cappy* — a primit semințe de 7 Pot trinitadian de la un cultivator din Trinidad și Tobago. Plante provenite din acel lot au produs, sporadic, fructe cu o suprafață neobișnuit de deformată — mai ridată, mai protuberantă, mai densă în textura ei neregulată decât tipul standard. Cappiello a recunoscut valoarea caracterului și a salvat semințele acelor exemplare. A repetat operația sezon după sezon, alegând mereu cele mai „creionate" fructe, eliminând toate plantele cu suprafața prea netedă. Rezultatul, după mai multe generații de selecție orientată, a fost un cultivar în care deformarea suprafeței a devenit trăsătură dominantă și stabilă.[^PepperGeek2024]
 
 ---
 
@@ -17,99 +17,95 @@ Selecția cultivarului este asociată cu David Cappiello, cultivator din SUA, ca
 
 **Specie:** *[[Specii/Capsicum chinense\|Capsicum chinense]]* Jacq.
 **Familie:** [[Soiuri/7 Pot (familia)\|7 Pot]]
-**Selecționer documentat:** David Cappiello, SUA
-**Origine genetică:** Material de origine trinitadiană, stabilizat în SUA
-**Dimensiuni fruct:** 3–5 cm lungime, 3–5 cm diametru
-**Culoare la maturitate:** Roșu-aprins intens (linia standard); variante galbene și portocalii în liniile derivate
-**Suprafața fructului:** Extrem de rugosă, cu cute adânci și neregulate — cea mai deformată morfologie din familia 7 Pot
+**Selecționer documentat:** David Cappiello (*Cappy*), Carolina de Nord, SUA
+**Origine genetică:** Material de origine trinitadiană, selecționat în SUA prin selecție orientată fenotipic (nu hibridare)
+**An de apariție:** 2010 (primele distribuiri documentate în comunitatea de cultivatori)
+**Dimensiuni fruct:** 4–5 cm lungime, 3–4 cm diametru
+**Culoare la maturitate:** Roșu-aprins intens în linia principală; există variante galbene și maro stabilizate ulterior
+**Suprafața fructului:** Extrem de cutată, cu circumvoluții adânci și protuberanțe dense, cu aspect de creier — caracter diagnostic al cultivarului
 **Semințe:** Crem-gălbui, standard pentru specie
 
 ---
 
 ## Iuțeală și profil senzorial
 
-**Scala Scoville:** 1.000.000–1.350.000 SHU — interval mai îngust și mai consistent decât la [[Soiuri/7 Pot Douglah\|7 Pot Douglah]], reflectând o stabilitate genetică mai mare a liniei selecționate.[^Bosland2012]
+**Scala Scoville:** 1.000.000–1.350.000 SHU, cu o valoare de referință frecvent citată de 1.330.000 SHU în testări standardizate.[^MagicPlant]
 
-Consistența valorilor SHU de la o recoltă la alta este una dintre caracteristicile remarcate de cultivatorii cu experiență — Brain Strain tinde să producă fructe cu o iuțeală mai previzibilă decât alte soiuri din familie, o consecință a procesului riguros de stabilizare genetică prin generații multiple de autopolenizare.
+Un element morfologic intern contribuie direct la concentrația ridicată de capsaicinoide: pereții placentali ai fructelor Brain Strain sunt mai groși și mai abundenți comparativ cu alți membri ai familiei. Deoarece capsaicinoidele sunt sintetizate preponderent în placenta și în membrele interioare ale fructului — nu în pericarp —, această particularitate anatomică se traduce direct în intensitate senzorială mai ridicată față de fructele cu pereți mai subțiri.
 
 **Dinamica iuțelii:**
 
-- **Faza de latență:** 6–10 secunde, în care profilul aromatic este perceptibil — note florale și fructate caracteristice speciei, mai discrete decât la [[Soiuri/7 Pot Douglah\|7 Pot Douglah]], cu o componentă ușor acidulată.
-- **Faza de escaladare:** Rapidă și concentrată, atingând intensitatea maximă în 30–60 de secunde — una dintre cele mai rapide escaladări din familie.
-- **Faza de platou:** 25–40 de minute de persistență la intensitate ridicată, cu o senzație de arsură localizată uniform pe toată suprafața mucoasei bucale și extinzându-se spre faringe și esofag.
-- **Remisia:** Lentă. Particularitatea raportată frecvent de cultivatori și consumatori este o senzație de transpirație generalizată și o ușoară vasoconstricție nazală persistentă dincolo de remisia senzației orale — efecte ale descărcării simpatice cauzate de stimularea masivă a receptorilor TRPV1.[^Caterina1997]
+- **Faza de latență:** 8–12 secunde. Profilul aromatic inițial include note fructate și ușor fumurii, specifice liniei roșii.
+- **Faza de escaladare:** Rapidă și uniformă, atingând intensitatea maximă în 45–75 de secunde. Arderea acoperă integral cavitatea bucală și se propagă spre faringe.
+- **Faza de platou:** Una dintre cele mai lungi din familie — 30–45 de minute, cu intensitate constantă. Această persistență excepțională este citată frecvent de cultivatori ca trăsătură distinctivă față de alte linii 7 Pot.
+- **Remisia:** Lentă. Consumul de lipide rămâne metoda cea mai eficace de accelerare a remisiei, prin solubilizarea capsaicinoidelor de pe receptorii TRPV1.[^Caterina1997]
 
-**Profil aromatic:** Mai puțin complex decât al [[Soiuri/7 Pot Douglah\|7 Pot Douglah]], cu note florale standard ale speciei *C. chinense* — caise, fructe tropicale — și o aciditate mai pronunțată. Aroma este mai directă și mai puțin stratificată, ceea ce face ca iuțeala să preia controlul senzorial mai rapid decât la cultivarurile cu profil aromatic mai bogat.
+**Profil aromatic:** Fructat, cu note de fructe tropicale și o ușoară componentă florală în prima secundă de contact — ulterior complet eclipsat de iuțeală. Linia galbenă prezintă un profil aromatic ceva mai citric, cu note de mango copt.
 
 ---
 
-## Morfologie detaliată — Suprafața de diagnostic
+## Morfologie detaliată
 
 **Planta:**
 
-Compactă, cu o înălțime medie de 70–100 cm. Frunzele prezintă încrețitura caracteristică speciei, cu o textură ușor mai rigidă față de alte cultivaruri ale familiei. Ramificarea este densă, cu noduri scurte, producând o tufă bogată și uniformă.
+Tufa este viguroasă, cu o înălțime medie de 90–120 cm în condiții de cultură protejată, uneori atingând 150 cm în sol deschis. Ramificarea este densă și arborescență pronunțată — plantele mature au un aspect de arbust bine ramificat. Frunzele mari, intens încrețite, de verde-praz saturant. Producția de fructe este abundentă; un nod poate susține simultan 3–5 fructe în faze diferite de maturare.
 
 **Florile:**
 
-Grupate câte 2–5 per nod, cu morfologia standard a speciei — petale alb-verzui, peduncul subțire cu constricție la baza caliciului.
+Dispuse în grupuri de 3–5 per nod, cu petale alb-verzui. Constricția circulară la baza caliciului este bine vizibilă.
 
 **Fructul:**
 
-Elementul definitoriu al cultivarului este suprafața sa exterioară — un caracter morfologic care nu are corespondent în intensitate la niciun alt cultivar din familia 7 Pot:
+Elementul morfologic definitoriu este structura suprafeței — o rețea densă de circumvoluții și protuberanțe care acoperă uniform întregul pericarp. Forma generală este globuloasă spre cvadrată, cu o bază lată și un vârf adesea adâncit sau lobat. Spre deosebire de [[Soiuri/7 Pot Primo\|7 Pot Primo]], Brain Strain nu prezintă un apendice terminal alungit — deformarea sa este distribuită uniform pe toată suprafața, nu concentrată la vârf.
 
-- Fructul este globulos spre ovoid, cu baza largă și vârful ușor aplatizat sau cu un mic apendice neregulat.
-- Suprafața este acoperită de protuberanțe dense, rotunjite, separate de șanțuri adânci — o morfologie descrisă în mod repetat în literatura de cultivatori ca „aspect cerebral" (*brain-like*).
-- Această structură nu este uniformă: unele fructe prezintă cute mai adânci și mai regulate, altele mai haotice — variabilitatea morfologică intra-cultivar este mai pronunțată decât la [[Soiuri/7 Pot Primo\|7 Pot Primo]].
-- Pericarpul este subțire, ferm și ceros, cu o culoare roșu-aprins saturant la maturitate deplină.
-
-**Relația morfologie-biochimie:**
-
-Suprafața deformată a fructului nu este doar un caracter estetic. Cutele și protuberanțele epidermice externe corespund, pe fața interioară a pericarpului, unor zone cu o densitate mai mare de glande epidermice producătoare de capsaicinoide. Această corelație între morfologia externă și concentrația internă de capsaicină a fost observată empiric de cultivatori și este susținută de date fitochimice privind distribuția neuniformă a capsaicinoidelor în interiorul fructelor de *C. chinense*.[^Wahyuni2013]
+Pericarpul este subțire, ceros, cu un luciu mat caracteristic. Culoarea evoluează de la verde-pal la verde-intens și, la maturitate deplină, la roșu-aprins saturat. Varianta galbenă parcurge același traseu cromativ, cu maturitate în galben-citrin intens.
 
 ---
 
-## Stabilizarea genetică — procesul din spatele consistenței
+## Selecție și stabilizare genetică
 
-Brain Strain este unul dintre cultivarurile familiei 7 Pot cu cel mai documentat proces de selecție. David Cappiello a urmărit explicit fixarea caracterului morfologic extrem — suprafața cerebriformă — concomitent cu menținerea unui prag ridicat și consistent de capsaicinoide. Procesul a necesitat multiple generații de:
+Procesul de selecție practicat de Cappiello este un exemplu clar de selecție fenotipică intra-cultivar — metodologie distinctă față de hibridarea dirijată. Nu s-a introdus material genetic extern; s-a amplificat un caracter deja prezent latent în populația trinitadiană originală, printr-o presiune de selecție consecventă pe parcursul mai multor generații. Principiul este identic cu cel al amelioratorilor tradiționali de plante, cu diferența că a fost aplicat de un amator pasionat, fără infrastructură de laborator, cu instrumente minimale: ochi antrenat, răbdare și documentare riguroasă a liniei selecționate.[^SonoranSpice2025]
 
-1. **Selecție fenotipică** — alegerea plantelor-mamă cu fructele cel mai puternic deformate și mai intens colorate.
-2. **Autopolenizare controlată** — izolarea florilor înainte de antezodeschidere pentru a preveni contaminarea polenică de la soiurile vecine.
-3. **Testarea progenituri** — cultivarea semințelor din fiecare generație și eliminarea plantelor care nu reproduceau fidel caracterele țintă.
-
-Rezultatul este un cultivar cu o stabilitate fenotipică mai ridicată decât media familiei — majoritatea semințelor provenite din plante de linie curată reproduc caracterul morfologic distinctiv în proporție de 85–90%.[^Bosland2012]
+Stabilizarea genetică completă necesită un număr de generații de autopolenizare suficient pentru a fixa caracterul în homozigot. Liniile de Brain Strain disponibile astăzi pe piața de semințe prezintă o stabilitate bună a caracterului morfologic, cu o proporție mică de revenanți (fructe cu suprafață mai netedă) în liniile mai puțin îngrijit menținute.
 
 ---
 
 ## Cultivare — note specifice
 
-**Germinarea:** Temperatura optimă 28–32°C, durată 15–28 de zile — germinare relativ mai rapidă și mai uniformă față de [[Soiuri/7 Pot Douglah\|7 Pot Douglah]], consecință a stabilizării genetice avansate.
+**Germinarea:** Temperatura optimă a substratului este de 28–32°C, cu o durată de germinare de 18–35 de zile. Germinarea neuniformă este normală pentru specie.
 
-**Cerințe termice:** Temperaturi diurne de 28–34°C pentru producție optimă de capsaicinoide. Planta este sensibilă la variațiile mari de temperatură în faza de înflorire — oscilații de peste 10°C între zi și noapte pot provoca avortarea florilor.
+**Cerințe termice:** Temperaturi diurne de 28–34°C. Temperaturile nocturne sub 18°C provoacă avortarea florilor. Cultivarea în exterior este posibilă în zonele temperate doar în sezonul cald.
 
-**Durata până la maturitate:** 85–110 de zile de la transplantare — unul dintre cultivarurile mai rapide din familie.
+**Cerințe nutriționale:** Planta are nevoie de un aport mai ridicat de calciu și magneziu față de speciile *C. annuum* — un caracter observat empiric de cultivatori în legătură cu intensitatea fructificării. Deficiența de calciu se manifestă prin necroze apicale ale fructelor (blossom-end rot).
 
-**Producție per plantă:** Ridicată — 40–80 de fructe pe sezon în condiții optime, cu o distribuție relativ uniformă pe durata sezonului, fără valuri de producție foarte pronunțate.
+**Umiditate:** Minimum 60% umiditate atmosferică în faza de înflorire. Excesul de apă în substrat rămâne nociv.
 
-**Observație practică:** Fructele de Brain Strain sunt mai dificil de curățat față de soiurile cu suprafață netedă — cutele adânci rețin semințele și placenta, iar extragerea completă necesită mai mult timp. Aceasta nu este o problemă în utilizările unde fructele sunt procesate integral, dar devine relevantă în aplicațiile unde separarea pericarpului de placentă este necesară pentru controlul iuțelii.
+**Durata până la maturitate:** 90–120 de zile de la transplantare până la prima recoltă roșie.
+
+**Producție per plantă:** Bună spre abundentă. O plantă viguroasă în container de minimum 15 litri poate produce 40–70 de fructe pe sezon.
 
 ---
 
 ## Utilizări culinare
 
-Profilul de iuțeală consistent și previzibil face din Brain Strain un ingredient relativ mai ușor de dozat față de cultivarurile cu variabilitate SHU mai mare. Aplicațiile documentate includ:
+Concentrația ridicată de capsaicinoide și abundența pereților placentali impun utilizarea exclusiv prin diluție semnificativă. Profilul aromatic, mai puțin distinct decât al liniei Douglah, îl plasează în aplicații unde iuțeala este obiectivul principal:
 
-- **Sosuri ultra-picante standardizate:** Consistența valorilor SHU permite producătorilor industriali de sosuri să calibreze mai precis intensitatea finală a produsului față de soiurile cu variabilitate mai mare.
-- **Paste condimentare fermentate:** Fructele proaspete zdrobite cu sare și fermentate anaerob produc o pastă cu aciditate ridicată, utilizată ca agent de condimentare cu intensitate controlată.
-- **Extracte de capsaicină:** Concentrația ridicată și relativ constantă de capsaicinoide îl face un candidat eficient pentru extracția industrială a capsaicinei pure, utilizată în farmacologie și în produsele de securitate personală.
+- **Sosuri ultra-picante:** Proporție de 5–10% ardei față de volumul total al sosului. Pereții placentali groși eliberează cantități ridicate de capsaicinoide în lichid, producând sosuri cu intensitate senzorială remarcabilă chiar și la diluții mari.
+- **Pulberi condimentare:** Fructele deshidratate la 50–55°C produc o pulbere roșie cu concentrație ridicată, utilizabilă în doze foarte mici ca agent de condimentare.
+- **Extracte:** Datorită conținutului ridicat de placente și membrane, Brain Strain este apreciat pentru eficiența extracției capsaicinoidelor în solvenți organici sau uleiuri vegetale.
 
 ---
 
 ## Bibliografie
 
-[^Bosland2012]: Bosland, P.W. & Votava, E.J. (2012). *Peppers: Vegetable and Spice Capsicums*. CABI Publishing. [Referință fundamentală pentru taxonomia, genetica și biochimia cultivarurilor super-hot, inclusiv procesele de stabilizare genetică.]
+[^Bosland2012]: Bosland, P.W. & Votava, E.J. (2012). *Peppers: Vegetable and Spice Capsicums*. CABI Publishing.
 
-[^Wahyuni2013]: Wahyuni, Y. et al. (2013). *Metabolite biodiversity in pepper (Capsicum) fruits of thirty-two diverse accessions*. Phytochemistry, 93, 145–154. <https://doi.org/10.1016/j.phytochem.2013.02.010> [Date privind distribuția capsaicinoidelor în interiorul fructelor de *C. chinense* și corelația cu morfologia pericarpului.]
+[^PepperGeek2024]: PepperGeek (2024). *7 Pot Brain Strain Pepper — Scoville & Growing Guide*. <https://peppergeek.com/7-pot-brain-strain-pepper/> [Sursă documentară pentru istoria selecției și profilul cultivarului.]
 
-[^Caterina1997]: Caterina, M.J. et al. (1997). *The capsaicin receptor: a heat-activated ion channel in the pain pathway*. Nature, 389, 816–824. <https://doi.org/10.1038/39807> [Mecanismul de acțiune al capsaicinei și efectele sistemice ale stimulării masive a receptorilor TRPV1.]
+[^MagicPlant]: Magic Plant Farms. *7 Pot Brain Strain | 7 Pod Brain Strain*. <https://magicplantfarms.com/pepper-varieties/7-pot-brain-strain/>
 
-[^Kraft2014]: Kraft, K.H. et al. (2014). *Multiple lines of evidence for the origin of domesticated chili pepper, Capsicum annuum, in Mexico*. Proceedings of the National Academy of Sciences, 111(17), 6165–6170. <https://doi.org/10.1073/pnas.1308933111>
+[^Caterina1997]: Caterina, M.J. et al. (1997). *The capsaicin receptor: a heat-activated ion channel in the pain pathway*. Nature, 389, 816–824. <https://doi.org/10.1038/39807>
+
+[^SonoranSpice2025]: Sonoran Spice (2025). *All You Need to Know About 7-Pot Brain Strain Peppers*. <https://www.sonoranspice.com/blogs/sonoran-spice-product-guides/all-you-need-to-know-about-7-pot-brain-strain-peppers>
+
+[^Wahyuni2013]: Wahyuni, Y. et al. (2013). *Metabolite biodiversity in pepper (Capsicum) fruits of thirty-two diverse accessions*. Phytochemistry, 93, 145–154. <https://doi.org/10.1016/j.phytochem.2013.02.010>

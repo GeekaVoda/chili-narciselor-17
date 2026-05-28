@@ -11,7 +11,7 @@ Această moleculă nu a fost produsă de plante pentru uzul culinar al omului. R
 
 Dincolo de capsaicină, fiecare specie și fiecare varietate construiește un profil aromatic distinct — rezultatul combinațiilor variabile de esteri, alcooli și compuși volatili care dau naștere notelor de fructe tropicale, citrice, pământ sau fum. Iuțeala este parametrul cel mai vizibil, dar rareori cel mai important.
 
-Explorarea detaliată a cadrului biologic și a evoluției taxonomice a genului este disponibilă în secțiunea [[Specii/Cadrul taxonomic superior\|Cadrul taxonomic superior]].
+Explorarea detaliată a cadrului biologic și a evoluției taxonomice a genului este disponibilă în secțiunea [[Taxonomie/Cadrul taxonomic superior\|Cadrul taxonomic superior]].
 
 ![Genul Capsicum.png](/img/user/Resurse/ChatGPT/Genul%20Capsicum.png)
 

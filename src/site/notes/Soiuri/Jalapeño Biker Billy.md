@@ -1,71 +1,71 @@
 ---
-{"dg-publish":true,"permalink":"/Soiuri/Jalapeño Biker Billy/","tags":["botanica","gastronomie","mexic","capsicum","capsicum-annuum","jalapeno","jalapeno-biker-billy","cultivar"],"dg-note-properties":{"tags":["botanica","gastronomie","mexic","capsicum","capsicum-annuum","jalapeno","jalapeno-biker-billy","cultivar"]}}
+{"dg-publish":true,"permalink":"/Soiuri/Jalapeño Biker Billy/","tags":["botanica","gastronomie","SUA","capsicum","capsicum-annuum","jalapeno","biker-billy","hibrid","cultivar"],"dg-note-properties":{"tags":["botanica","gastronomie","SUA","capsicum","capsicum-annuum","jalapeno","biker-billy","hibrid","cultivar"]}}
 ---
 
-# Iuțeala dublă
+# Jalapeño Biker Billy
 
-*Capsicum annuum* · Intensitate medie spre ridicată · 10.000–30.000 SHU
+*Capsicum annuum* L. 'Biker Billy' · Intensitate moderată spre ridicată · 10.000–30.000 SHU
 
 
-Biker Billy este cultivarul care a dus iuțeala jalapeño-ului dincolo de limita sa standard — de 3 până la 4 ori mai iute față de linia canonică, dar cu aceeași morfologie, aceeași textură de pericarp și același profil aromatic de bază. Există ardei mai iuți, dar puțini dintre ei pot fi utilizați în aceleași aplicații culinare ca un jalapeño standard, dozați cu aceeași precizie și integrați în aceleași preparate fără a le modifica fundamental caracterul.
+Există cultivaruri cu o poveste de origine care se scrie singură: un motociclist vegetarian, o emisiune de televiziune cu acces public, și un ardei care îi poartă numele. Jalapeño Biker Billy este asociat cu Bill Hufnagle — cultivator și prezentator al emisiunii de televiziune prin cablu *Cooking with Fire*, o producție de acces public care a rulat șase ani. Hufnagle, cunoscut în comunitatea culinară americană drept „Biker Billy" pentru stilul său vestimentar de tip biker și pentru preferința sa declarată pentru vegetarianism, a dezvoltat această linie prin selecție din jalapeños standard, urmărind o iuțeală mai ridicată decât media comercială.[^HotPepper]
 
-Numele provine de la emisiunea de televiziune americană *Biker Billy Cooks with Fire* — găzduită de Bill Hufnagle, bucătar și motociclist din Pennsylvania, care a popularizat cultivarul în anii 1990 prin emisiunea și prin cartea sa cu același titlu. Această origine mediatică — un ardei lansat printr-o emisiune TV, nu printr-un program de ameliorare academică — îl face unul dintre puținele soiuri din seria noastră cu o poveste de marketing documentată.[^Hufnagle1995]
+Cultivarul a fost comercializat ulterior de Burpee — unul dintre cei mai vechi și mai cunoscuți producători de semințe din Statele Unite — sub denumirea *Biker Billy Jalapeño F1*, devenind unul dintre puținele jalapeños cu un hibrid F1 comercial named after a private individual, mai degrabă decât după o instituție de ameliorare sau un toponim.
 
 ---
 
 ## Identitate botanică
 
-**Specie:** *[[Specii/Capsicum annuum\|Capsicum annuum]]*
-**Familie:** [[Soiuri/Jalapeño\|Jalapeño]]
-**Origine selecție:** Statele Unite ale Americii — popularizat prin emisiunea *Biker Billy Cooks with Fire*
-**Dimensiuni fruct:** 7–12 cm lungime, 2,5–3,5 cm diametru
-**Culoare la maturitate:** Verde închis → roșu aprins
-**Formă:** Cilindrică, ușor conică — morfologie standard de jalapeño, cu fructe tendențial mai lungi
-**Suprafața fructului:** Netedă spre ușor ridată, cu corking la maturitate avansată
-**Semințe:** Crem-gălbui, standard pentru specie
+**Specie:** *[[Specii/Capsicum annuum\|Capsicum annuum]]* L.
+**Familie:** [[Soiuri/Jalapeño (familia)\|Jalapeño]]
+**Origine:** SUA; selecționer documentat: Bill Hufnagle (*Biker Billy*), cultivator și prezentator TV
+**Statut genetic:** Hibrid F1 comercializat de Burpee; ulterior disponibil și ca variantă open-pollinated prin alți distribuitori
+**Dimensiuni fruct:** 5–8 cm lungime, 2,5–3 cm diametru; similar tipului standard
+**Culoare la maturitate:** Verde-întunecat la cules; roșu la maturitate completă
+**Suprafața fructului:** Lucioasă; corking frecvent, mai pronunțat decât la liniile ameliorate industrial
+**Semințe:** Crem-gălbui, plate
 
 ---
 
 ## Iuțeală și profil senzorial
 
-**Scala Scoville:** 10.000–30.000 SHU — interval semnificativ mai ridicat față de jalapeño-ul standard (4.000–8.500 SHU), plasând cultivarul la granița dintre categoria medie și ridicată.[^Bosland2012]
+**Scala Scoville:** 10.000–30.000 SHU, cu valori diferit raportate în surse: Reimer Seeds citează 30.000 SHU; Tyler Farms indică 5.000–10.000 SHU; surse de pe forumuri de cultivatori citează valori mai ridicate în condiții de stres termic.[^ReimerSeeds][^TylerFarms]
 
-Variabilitatea intra-plantă este mai pronunțată față de soiurile comerciale standardizate — fructele de pe același exemplar pot diferi cu 5.000–8.000 SHU în funcție de poziția pe plantă și condițiile climatice ale sezonului.
+Această variabilitate reflectă o particularitate a cultivarului: Biker Billy este descris de cultivatori ca neobișnuit de sensibil la condițiile de cultivare — în verile calde și secetoase produce fructe semnificativ mai iuți decât în condiții de irigare optimă. Experiența documentată de un cultivator citat online este ilustrativă: fructele recoltate la începutul sezonului, în condiții răcoroase, aveau „o ușoară iuțeală"; aceleași fructe recoltate după un val de căldură au produs lacrimile.[^PepperMeister]
 
-**Dinamica iuțelii:** Instalare rapidă, vârf clar în 15–30 de secunde, persistență de 10–20 de minute. Profilul temporal este similar jalapeño-ului clasic, dar intensitatea de vârf este considerabil mai ridicată.
-
-**Profil aromatic:** Vegetal curat, cu note de ardei verde proaspăt și o ușoară aciditate — fidel caracterului jalapeño, fără note aromatice suplimentare față de iuțeala mai mare.
+**Profil aromatic:** Profilul jalapeñoului clasic — note vegetale, iarbă, ușoară amăreală — cu o intensitate mai marcată decât la cultivarurile comerciale standard.
 
 ---
 
-## Morfologie detaliată
+## Morfologie
 
-**Planta:** Viguroasă, cu o înălțime de 60–90 cm, ramificare bună și foliaj dens. Producția de fructe este abundentă. Rezistență bună la bolile foliare comune, raportată consistent de cultivatori în condițiile de câmp din SUA.
+**Planta:** Viguroasă, 60–90 cm, cu pericarp ceva mai gros față de jalapeñoii comerciali standard — avantaj pentru fermentare și preparare în sos hot sauce.[^TylerFarms]
 
-**Fructul:** Mai lung față de media jalapeño-ului standard — frecvent 10–12 cm. Pericarp gros și cărnos, apreciat atât pentru consumul proaspăt cât și pentru procesare.
+**Fructul:** Formă glonț-conică standard, cu umeri largi și vârf rotunjit. Corking-ul este frecvent și pronunțat — sursele de cultivatori menționează explicit corking-ul ca indiciu de recoltare și ca semn de calitate la această linie.
 
 ---
 
-## Utilizări culinare
+## Contextul cultural al numelui
 
-Profilul culinar urmează îndeaproape cel al jalapeño-ului clasic, cu diferența că iuțeala mai ridicată îl face mai potrivit pentru preparatele unde ardeiul este diluat sau echilibrat:
+*Cooking with Fire* a fost o emisiune de televiziune prin acces public produsă de Bill Hufnagle, care combina gătitul cu ardei iuți cu estetica biker-ului american. Emisiunea a rulat șase ani și a construit o comunitate de fani suficient de fidelă pentru ca un cultivar de jalapeño purtând numele gazdei să devină disponibil comercial prin unul dintre cei mai mari distribuitori de semințe americani.
 
-- **Murare:** Pericarpul gros rezistă excelent la murare în oțet sau saramură.
-- **Umplut și copt:** Dimensiunea mai mare și pericarpul gros îl fac ideal pentru *jalapeño poppers*.
-- **Salse:** Utilizat în salse unde este dorită o intensitate mai mare față de jalapeño-ul standard.
+Aceasta este o filieră de origine relativ neobișnuită pentru un cultivar de ardei documentat — nu o universitate agricolă, nu un program național de ameliorare, ci o emisiune TV de nișă și un om cu pasiune pentru iuțeală.
 
 ---
 
 ## Cultivare — note specifice
 
-**Germinarea:** 22–26°C, 8–14 zile. **Durata până la maturitate:** 70–85 zile până la verde comercial; 90–110 zile până la roșu. **Producție per plantă:** 30–50 de fructe pe sezon.
+**Germinare:** 22–28°C, 10–21 zile.
+**Cerințe termice:** Temperaturi diurne de 20–30°C. Iuțeala crește semnificativ în condiții de stres termic — caracter mai pronunțat decât la jalapeñoii comerciali standard.
+**Maturitate:** 75–85 zile de la transplantare (verde).
+**Producție:** Bună; recenziile cultivatorilor din Florida menționează producție abundentă și adaptabilitate la climatul umed.[^TylerFarms]
 
 ---
 
 ## Bibliografie
 
-[^Hufnagle1995]: Hufnagle, B. (1995). *Biker Billy Cooks with Fire*. Harvard Common Press. [Sursa culturală a denumirii cultivarului.]
-
 [^Bosland2012]: Bosland, P.W. & Votava, E.J. (2012). *Peppers: Vegetable and Spice Capsicums*. CABI Publishing.
-
-[^Kraft2014]: Kraft, K.H. et al. (2014). *Multiple lines of evidence for the origin of domesticated chili pepper, Capsicum annuum, in Mexico*. Proceedings of the National Academy of Sciences, 111(17), 6165–6170. <https://doi.org/10.1073/pnas.1308933111>
+[^HotPepper]: The Hot Pepper Forum. *BOLO Burpee Biker Billy Jalapeno F1*. <https://thehotpepper.com/threads/bolo-burpee-biker-billy-jalapeno-f1.77456/>
+[^ReimerSeeds]: Reimer Seeds. *Biker Billy Peppers, Biker Billy Pepper Seeds*. <https://www.reimerseeds.com/biker-billy-pepper-seeds>
+[^TylerFarms]: Tyler Farms. *Billy Biker Jalapeno Pepper Seeds*. <https://www.tyler-farms.com/billy-biker-jalapeno-pepper-seeds/>
+[^PepperMeister]: Pepper Meister. *Pepper Profile: Biker Billy Jalapeno*. <https://peppermeister.wordpress.com/2011/08/06/pepper-profile-biker-billy-jalapeno/>
+[^Caterina1997]: Caterina, M.J. et al. (1997). *The capsaicin receptor*. Nature, 389, 816–824. <https://doi.org/10.1038/39807>

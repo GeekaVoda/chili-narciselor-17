@@ -1,72 +1,79 @@
 ---
-{"dg-publish":true,"permalink":"/Soiuri/Jalapeño Variegated Mattapeno/","tags":["botanica","gastronomie","mexic","capsicum","capsicum-annuum","jalapeno","jalapeno-variegated","mattapeno","cultivar"],"dg-note-properties":{"tags":["botanica","gastronomie","mexic","capsicum","capsicum-annuum","jalapeno","jalapeno-variegated","mattapeno","cultivar"]}}
+{"dg-publish":true,"permalink":"/Soiuri/Jalapeño Variegated Mattapeno/","tags":["botanica","gastronomie","SUA","capsicum","capsicum-annuum","jalapeno","mattapeno","variegat","ornamental","cultivar"],"dg-note-properties":{"tags":["botanica","gastronomie","SUA","capsicum","capsicum-annuum","jalapeno","mattapeno","variegat","ornamental","cultivar"]}}
 ---
 
-# Ardeiul cu frunze pestrițe
+# Jalapeño Variegated Mattapeno
 
-*Capsicum annuum* · Intensitate medie · 4.000–8.000 SHU
+*Capsicum annuum* L. · Intensitate moderată · ~10.000 SHU
 
 
-Jalapeño Variegated Mattapeno este cultivarul care a ales să fie altceva — sau, mai precis, și altceva. Trăsătura sa definitorie nu este iuțeala, nici culoarea fructului, nici productivitatea — ci frunzele. Foliajul său prezintă o **variegație cromatică** pronunțată: pete, dungi și zone de culoare albă, crem sau galben-pal pe fondul verde al limbului foliar, distribuite neuniform și diferit de la o frunză la alta.
+Există cultivaruri care apar din greșeală — din acea atenție vigilentă care recunoaște ceva neobișnuit acolo unde altcineva ar fi trecut mai departe. Mattapeno este unul dintre ele. Matt O. — identificat în comunitatea de cultivatori de ardei de nișă sub prenumele Matt, distribuitorul semințelor prin MattsPeppers.com — a observat într-o seră comercială un răsad cu frunze albe în loc de verzi. În loc să îl elimine ca specimen defect, l-a cultivat, și-a salvat semințele și a distribuit linia în comunitatea pasionaților.[^PepperGeek]
 
-Denumirea *Mattapeno* combină *matte* (mat) și *jalapeño* — referire la textura mai puțin lucioasă a frunzelor variegatei față de foliajul standard, influențată de distribuția neuniformă a celulelor cu cloroplaste.
+Rezultatul este un jalapeño cu un caracter vizual fără echivalent în familie: frunze și tulpini cu un mozaic de alb și verde, uneori cu tonuri de crem, și fructe imature cu striații albe pe fondul verde. La maturitate, fructele devin roșii ca orice jalapeño standard — dar drumul până acolo este o demonstrație vie a variegației induse de o mutație spontană în sinteza clorofilei.
 
 ---
 
 ## Identitate botanică
 
-**Specie:** *[[Specii/Capsicum annuum\|Capsicum annuum]]*
-**Familie:** [[Soiuri/Jalapeño\|Jalapeño]]
-**Tip:** Cultivar ornamental cu utilizare culinară secundară
-**Origine:** Selecție și stabilizare a fenotipului variegat din populații de jalapeño
-**Dimensiuni fruct:** 5–8 cm lungime, 2–3 cm diametru
-**Culoare fructe:** Verde-albicios pestriț imatur → roșu aprins la maturitate
-**Frunze:** Verde cu pete, dungi sau zone albe, crem sau galben-pal — caracter diagnostic central
+**Specie:** *[[Specii/Capsicum annuum\|Capsicum annuum]]* L.
+**Familie:** [[Soiuri/Jalapeño (familia)\|Jalapeño]]
+**Origine:** SUA; descoperit de Matt O. ca mutant spontan într-o seră comercială; distribuit prin MattsPeppers.com
+**Statut genetic:** Varietate în curs de stabilizare (descrisă de PepperGeek ca „încă în dezvoltare și rafinare"); mutant de variegație derivat dintr-un jalapeño standard
+**Denumiri utilizate:** Mattapeno, Matta Peno, Variegated Jalapeño Mattapeno, Jalapeño Variegated Mattapeno
+**Dimensiuni fruct:** Mici spre medii — mai mici față de jalapeñoii comerciali standard; formă clasică jalapeño
+**Culoare la maturitate:** Verde cu striații albe (imatură) → roșu intens (maturitate completă)
+**Foliaj:** Variegat — mozaic de alb, crem și verde; unele plante prezintă lăstari aproape complet albi cu pete verzi
+**Suprafața fructului:** Striații albe vizibile pe fruct în stadiul verde
+**Semințe:** Crem-gălbui; distribuitor oferă semințe gratuit cu orice comandă de pe MattsPeppers.com
 
 ---
 
 ## Iuțeală și profil senzorial
 
-**Scala Scoville:** 4.000–8.000 SHU — identic cu jalapeño-ul standard. Variegația foliară nu influențează sinteza capsaicinoidelor, care are loc în placenta fructului.[^Bosland2012]
+**Scala Scoville:** ~10.000 SHU — conform specificațiilor comerciale ale Semi Strani (Italia), distribuitor european al liniei.[^SemiStrani]
 
-**Profil aromatic:** Vegetal curat, standard pentru jalapeño. Nicio modificare aromatică asociată fenotipului variegat.
-
----
-
-## Variegația foliară — mecanism biologic
-
-Variegația la Mattapeno este de tip **genetic stabil** — determinată de gene care controlează distribuția cloroplastelor în celule, transmisă la descendenți prin semințe cu un grad variabil de expresie.
-
-**Celulele fără cloroplaste funcționali** nu produc fotosinteză — planta în ansamblu este mai puțin eficientă energetic față de o plantă cu foliaj uniform verde, consecință directă a suprafeței foliare nefuncționale. Aceasta explică:
-- Înălțimea mai redusă (50–70 cm față de 70–90 cm la standard).
-- Creșterea mai lentă.
-- Productivitatea mai redusă (15–30 fructe/sezon).
-
-**Reproducerea prin semințe:** Semințele din plante variegatate produc descendenți cu grade diferite de expresie — unii cu foliaj intens pestrițat, alții cu variegație minimă. Multiplicarea prin semințe nu garantează reproducerea fidelă a fenotipului parental. Propagarea vegetativă prin butași reproduce fidel fenotipul.[^Bosland2012]
+Profilul aromatic este cel al jalapeñoului standard: note vegetale, iarbă proaspătă. Nu există rapoarte care să indice o diferență senzorială semnificativă față de linia parentală standard — variegația este un caracter morfologic al frunzajului și fructelor imature, nu o modificare a profilului biochimic al capsaicinoidelor.
 
 ---
 
-## Morfologie, cultivare și utilizări
+## Morfologie și variegația
 
-**Planta:** 50–70 cm înălțime, cu foliaj unic — nicio frunză nu seamănă exact cu cea vecină. Tulpini și nervuri foliare mai deschise la culoare față de standard.
+**Planta:** Compact-medie; foliajul variegat este caracterul definitoriu. Variegația la ardeii *Capsicum annuum* este produsă de o reducere a densității sau funcționalității cloroplastelor în celulele afectate — zonele albe/crem sunt lipsite de clorofilă activă, zonele verzi funcționând normal. Impactul asupra fotosintezei generale a plantei este variabil în funcție de distribuția variegației; plantele cu variegație extinsă pot fi mai puțin viguroase decât linia standard.[^PepperGeek]
 
-**Fructul:** Dimensiuni ușor mai reduse față de standard — consecință a capacității fotosinthetice limitate. Fructele imature prezintă un verde-albicios pestriț, virând la roșu la maturitate.
+**Fructul:** Dimensiuni mai mici față de jalapeñoii comerciali. Striațiile albe pe fructele imature verzi sunt produse de aceeași reducere a cloroplastelor în zonele respective ale pericarpului. La maturitate deplină, pigmentarea roșie carotenoidică este uniformă, iar striațiile albe dispar vizual.
 
-**Cerințe de lumină:** Expunere solară mai intensă față de soiurile cu foliaj verde integral — pentru compensarea suprafeței foliare nefuncționale.
+---
 
-**Cultivare:** Germinare la 22–26°C, 12–18 zile. Maturitate la 80–100 zile. Potrivit pentru cultivare ornamentală în ghivece și jardiniere.
+## Contextul comunitar al originii
 
-**Utilizări:**
-- **Ornamental-culinar:** Recoltare ocazională a fructelor pentru utilizare directă, cu planta amplasată decorativ.
-- **Consum proaspăt:** Identic jalapeño-ului clasic ca profil de iuțeală și aromă.
-- **Murare:** Dimensiunile mai mici permit murarea fructelor întregi în borcane cu aspect decorativ.
+Mattapeno face parte dintr-o tradiție documentată în comunitatea pasionaților de ardei de nișă: cultivatori amatori care identifică mutanți spontani cu caractere estetice neobișnuite, îi stabilizează prin autopolenizare pe mai multe generații și îi distribuie gratuit sau la cost marginal în cadrul comunității. Această practică a produs mai multe linii de jalapeño neconvenționale care circulă sub marca informală *Matt's Peppers* — printre care și NuMex Lemon Spice și Orange Spice citate în alte surse ale familiei.[^PepperGeek]
+
+Spre deosebire de cultivarurile NuMex sau TAM — care au o documentare academică completă și o identitate genetică fixată formal —, Mattapeno este „încă în dezvoltare și rafinare", conform observațiilor PepperGeek.[^PepperGeek] Caracterele sale nu sunt complet stabilizate, ceea ce înseamnă că o populație de plante Mattapeno poate prezenta o variabilitate semnificativă a gradului de variegație de la individ la individ.
+
+---
+
+## Utilizări culinare și ornamentale
+
+Dimensiunile mai mici și productivitatea mai modestă față de liniile standard îl recomandă mai degrabă pentru:
+
+- **Grădinărit ornamental:** Plantă de container sau bordură, cu aspectul vizual ca obiectiv principal.
+- **Utilizare culinară limitată:** Fructele, deși mai mici, sunt comestibile și iuți — potrivite pentru salse, murături sau condimentare directă.
+- **Colecție și schimb de semințe:** Principalul circuit de distribuție al liniei îl reprezintă rețelele de pasionați, nu piața comercială.
+
+---
+
+## Cultivare
+
+**Germinare:** 22–28°C, 10–21 zile.
+**Maturitate:** 75–85 zile de la transplantare (roșu).
+**Producție:** Moderată; plante cu variegație extinsă pot fi mai puțin productive decât jalapeñoii standard.
+**Stabilitate:** Variabilă — linia este în curs de stabilizare; cultivatorii pot obține plante cu grade diferite de variegație din aceleași semințe.
 
 ---
 
 ## Bibliografie
 
 [^Bosland2012]: Bosland, P.W. & Votava, E.J. (2012). *Peppers: Vegetable and Spice Capsicums*. CABI Publishing.
-
-[^Wahyuni2013]: Wahyuni, Y. et al. (2013). *Metabolite biodiversity in pepper (Capsicum) fruits of thirty-two diverse accessions*. Phytochemistry, 93, 145–154. <https://doi.org/10.1016/j.phytochem.2013.02.010>
-
-[^Kraft2014]: Kraft, K.H. et al. (2014). *Multiple lines of evidence for the origin of domesticated chili pepper, Capsicum annuum, in Mexico*. Proceedings of the National Academy of Sciences, 111(17), 6165–6170. <https://doi.org/10.1073/pnas.1308933111>
+[^PepperGeek]: Pepper Geek. *10 Types of Jalapeño Peppers — Variety Is The Spice Of Life!* (Secțiunea Mattapeño). <https://peppergeek.com/types-of-jalapeno-peppers/>
+[^SemiStrani]: Semi Strani di Carlo Martini (Italia). *Jalapeno Variegated Mattapeno Seeds*. <https://www.semistrani.it/Jalapeno-Variegated-Mattapeno-Pepper-Seeds>
+[^Caterina1997]: Caterina, M.J. et al. (1997). *The capsaicin receptor*. Nature, 389, 816–824. <https://doi.org/10.1038/39807>

@@ -68,7 +68,7 @@ O landrace este o varietate agricolă tradițională, adaptată la condițiile l
 
 Landraces au apărut fără selecție sistematică formală — prin cultivare extinsă în aceeași zonă geografică, cu schimb informal de sămânță, presiune de selecție naturală și selecție empirică de către cultivatori locali. Rezultatul este o populație genetic variabilă care supraviețuiește perturbărilor de mediu (secetă, boli, variații climatice) mai bine decât soiurile înalt inbred.
 
-**Distincție față de heirloom:** Un heirloom este de obicei relativ uniform și fixat; o landrace este prin definiție diversă. [[Soiuri/Ají Amarillo Cusqueño\|Ají Amarillo Cusqueño]] poate fi descris mai precis ca landrace regional decât ca cultivar în sens strict — populațiile cultivate în Peru prezintă variabilitate morfologică și de iuțeală care reflectă adaptarea la microclimele specifice.
+**Distincție față de heirloom:** Un heirloom este de obicei relativ uniform și fixat; o landrace este prin definiție diversă. [[Ají Amarillo Cusqueño\|Ají Amarillo Cusqueño]] poate fi descris mai precis ca landrace regional decât ca cultivar în sens strict — populațiile cultivate în Peru prezintă variabilitate morfologică și de iuțeală care reflectă adaptarea la microclimele specifice.
 
 ---
 

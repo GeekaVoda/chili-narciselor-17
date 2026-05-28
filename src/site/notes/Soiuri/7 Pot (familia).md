@@ -4,7 +4,7 @@
 
 # Familia ardeilor din Trinidad
 
-*Capsicum chinense* · Intensitate extremă · 800.000–1.800.000 SHU
+*Capsicum chinense* · Intensitate extremă · 800.000–1.853.986 SHU
 
 
 Numele spune totul și nu spune nimic în același timp. *Seven Pot* — șapte oale — este expresia din creolă trinitadiană care descrie capacitatea unui singur ardei de a condimenta șapte porții de mâncare. Nu este o metaforă: este o unitate de măsură practică, transmisă oral în gospodăriile din Trinidad timp de generații, înainte ca iuțeala să fie cuantificată în laboratoare și consemnată pe scale standardizate. În cultura culinară a insulei, ardeii din această familie nu erau o curiozitate sau un test de rezistență — erau un ingredient de zi cu zi, diluat cu grijă, adăugat cu precizie.
@@ -19,7 +19,7 @@ Trinidad și Tobago este un arhipelag situat la extremitatea sudică a Caraibelo
 
 Clima insulei — tropicală umedă, cu temperaturi constante între 20 și 34°C pe tot parcursul anului, umiditate atmosferică ridicată și soluri vulcanice fertile — a creat condiții ideale pentru maximizarea producției de capsaicinoide. Studiile fitochimice indică că același genotip de *Capsicum chinense* produce concentrații semnificativ mai mari de capsaicină în climatele tropicale umede față de culturile în sere temperate — o confirmare biologică a reputației ardeilor din Trinidad.[^Wahyuni2013]
 
-Cultivarea locală a ardeilor iuți face parte din tradiția agricolă a insulei de cel puțin câteva sute de ani, transmisă prin comunitățile de origine africană, indiană și creolă care au format societatea trinitadiană modernă. Ardeii erau și sunt un element central al bucătăriei locale — în special al preparatelor *curry* de influență indiană și al sosurilor *pepper sauce* servite ca acompaniament universal.
+Cultivarea locală a ardeilor iuți face parte din tradiția agricolă a insulei de cel puțin câteva sute de ani, transmisă prin comunitățile de origine africană, indiană și creolă care au format societatea trinitadiană modernă. Ardeii erau și sunt un element central al bucătăriei locale — în special al preparatelor *curry* de influență indiană și al sosurilor *pepper sauce* servite ca acompaniament universal. Zona Chaguanas, din centrul insulei, este recunoscută ca nucleu geografic al cultivarurilor care alcătuiesc familia 7 Pot — o regiune agricolă cu o lungă tradiție de cultivare a ardeilor iuți în gospodăriile familiale.
 
 ---
 
@@ -36,29 +36,22 @@ Din punct de vedere taxonomic, cultivarurile din familia 7 Pot nu au un statut n
 Deși cultivarurile individuale prezintă diferențe morfologice semnificative, familia 7 Pot partajează un set de caractere recognoscibile:
 
 **Planta:**
-- Habitus compact spre mediu, cu o înălțime de 60–120 cm în condiții de cultură protejată.
-- Frunze mari, de un verde-praz intens, cu suprafața puternic încrețită și reliefuri inter-nervurale proeminente — caracter tipic al speciei *C. chinense*.
-- Ramificare densă, cu noduri apropiate și o tendință de a produce simultan un număr mare de fructe.
+Habitus compact spre mediu, cu o înălțime de 60–120 cm în condiții de cultură protejată. Frunzele sunt mari, de un verde-praz intens, cu suprafața puternic încrețită și reliefuri inter-nervurale proeminente — caracter tipic al speciei *C. chinense*. Ramificarea este densă, cu noduri apropiate și o tendință de a produce simultan un număr mare de fructe.
 
 **Florile:**
-- Dispuse în grupuri de 3–5 per nod — caracter diagnostic al speciei.
-- Petale alb-verzui, fără pete colorate la bază.
-- Peduncul subțire, cu o constricție circulară distinctă la joncțiunea cu caliciul.
+Dispuse în grupuri de 3–5 per nod — caracter diagnostic al speciei. Petale alb-verzui, fără pete colorate la bază. Peduncul subțire, cu o constricție circulară distinctă la joncțiunea cu caliciul.
 
 **Fructele:**
-- Suprafață neregulată, rugoasă, adesea cu protuberanțe și cute epidermice proeminente — mai accentuate decât la majoritatea soiurilor de *C. chinense*.
-- Pericarp subțire până la mediu, cu o consistență ceroasă și crocantă.
-- Prezența frecventă a unui apendice terminal ascuțit sau a unor deformări caracteristice la vârful fructului.
-- Culori intense la maturitate: roșu-aprins, portocaliu-saturat, maro-ciocolatiu sau galben, în funcție de cultivar.
+Suprafață neregulată, rugoasă, adesea cu protuberanțe și cute epidermice proeminente. Pericarp subțire până la mediu, cu o consistență ceroasă. Prezența frecventă a unor deformări sau apendice terminale la vârful fructului. Culori intense la maturitate: roșu-aprins, portocaliu-saturat, maro-ciocolatiu sau galben, în funcție de cultivar. Familia este una dintre puținele din genul *Capsicum* care include în mod natural o linie cu fructe maro-ciocolatii la maturitate deplină — colorație produsă de o concentrație ridicată de antocianine în pericarp.
 
 **Semințele:**
-- Crem-gălbui, de dimensiuni medii spre mari, cu marginile ușor ondulate — caractere standard ale speciei.
+Crem-gălbui, de dimensiuni medii spre mari, cu marginile ușor ondulate — caractere standard ale speciei.
 
 ---
 
 ## Profilul de iuțeală al familiei
 
-**Interval general:** 800.000–1.800.000 SHU, cu variații semnificative între cultivaruri și între recoltele aceluiași cultivar în condiții diferite de mediu.
+**Interval general:** 800.000–1.853.986 SHU, cu variații semnificative între cultivaruri și între recoltele aceluiași cultivar în condiții diferite de mediu.
 
 Concentrația de capsaicinoide este determinată de interacțiunea dintre genotip și factorii de mediu — temperatură, umiditate, disponibilitatea nutrienților și stresul hidric. Același cultivar poate produce fructe cu valori SHU diferind cu 30–40% între sezoane sau locații de cultivare.[^Meckelmann2015]
 
@@ -68,13 +61,17 @@ Concentrația de capsaicinoide este determinată de interacțiunea dintre genoti
 
 ## Cultivarurile principale
 
-Familia 7 Pot cuprinde un număr mare de linii selecționate, dintre care trei au dobândit recunoaștere largă în comunitatea internațională de cultivatori și în literatura de specialitate:
+Familia 7 Pot cuprinde un număr mare de linii selecționate, dintre care cinci au dobândit recunoaștere solidă prin documentare, caractere morfologice stabile și prezență în literatura de specialitate sau în rețelele serioase de cultivatori:
 
-- **[[Soiuri/7 Pot Primo\|7 Pot Primo]]** — Cultivarul cu morfologia cea mai spectaculoasă: fructe cu un apendice terminal ascuțit și o suprafață intens cutată. Unul dintre cei mai iuți reprezentanți ai familiei, cu valori documentate care depășesc 1.473.480 SHU în testele HPLC.[^Bosland2012]
+- **[[Soiuri/7 Pot Primo\|7 Pot Primo]]** — Cultivarul cu morfologia cea mai spectaculoasă: fructe cu un apendice terminal ascuțit și răsucit, o suprafață intens cutată. Selecționat de Troy Primeaux din Louisiana, din material genetic trinitadian. Valori documentate care depășesc 1.473.480 SHU în testele HPLC.[^Bosland2012]
 
-- **[[Soiuri/7 Pot Douglah\|7 Pot Douglah]]** — Cultivarul cu cea mai neobișnuită colorație din familie: maro-ciocolatiu intens la maturitate deplină. Apreciat pentru profilul aromatic extrem de complex, considerat de mulți cultivatori drept cel mai bogat din întreaga familie.
+- **[[Soiuri/7 Pot Douglah\|7 Pot Douglah]]** — Cultivarul cu cea mai neobișnuită colorație din familie: maro-ciocolatiu intens la maturitate deplină. Denumirea reflectă un termen trinitadian cu rădăcini în bhojpuri, descriind originea sa mixtă. Apreciat pentru profilul aromatic excepțional de complex — fructat, nucifer și ușor afumat — și pentru valorile SHU care pot depăși 1.853.000.
 
-- **[[Soiuri/7 Pot Brain Strain\|7 Pot Brain Strain]]** — Cultivarul cu suprafața cea mai deformată și mai rugoasă, a cărui morfologie a inspirat direct denumirea. Valori SHU constant ridicate și o iuțeală cu persistență excepțională.
+- **[[Soiuri/7 Pot Brain Strain\|7 Pot Brain Strain]]** — Cultivarul cu suprafața cea mai deformată și mai rugoasă, a cărui morfologie a inspirat direct denumirea. Selecționat de David Cappiello din Carolina de Nord, din semințe de origine trinitadiană, prin selecție orientată spre maximizarea texturii creionate a pericarpului.
+
+- **[[Soiuri/7 Pot Jonah\|7 Pot Jonah]]** — Linie landrasă cu fructe mai mari și mai rotunde decât tipul de bază, cu un profil aromatic fructat pronunțat. Semințele originale provin de la un cultivator trinitadian pe nume Jonah Bajnath, de la care linia și-a împrumutat denumirea.
+
+- **[[Soiuri/7 Pot Barrackpore\|7 Pot Barrackpore]]** — Linie landrasă din sudul insulei Trinidad, cu fructe alungite care amintesc morfologic de *Bhut Jolokia*. Poartă numele orașului Barrackpore — localitate al cărei nume reflectă, la rândul său, istoria muncii indentured și legătura cu orașul omonim din Bengal.
 
 ---
 
@@ -82,11 +79,11 @@ Familia 7 Pot cuprinde un număr mare de linii selecționate, dintre care trei a
 
 Concentrația extremă de capsaicinoide impune în mod obiectiv o utilizare culinară bazată pe diluție, nu pe adăugare directă. Niciun preparat tradițional — nici măcar din bucătăria trinitadiană, unde acești ardei sunt nativi — nu utilizează fructe întregi de 7 Pot fără o reducere prealabilă a iuțelii.
 
-**Sosurile *pepper sauce*** din Trinidad reprezintă aplicația culinară tradițională autentică. Fructele sunt combinate cu oțet de trestie, muștar, usturoi și condimente locale, fermentate sau procesate la rece, producând un sos de masă diluat la o concentrație suportabilă. Proporția de ardei față de lichid este calibrată astfel încât sosul final să se situeze în zona 50.000–200.000 SHU — accesibil, dar cu caracter pronunțat.
+**Sosurile *pepper sauce*** din Trinidad reprezintă aplicația culinară tradițională autentică. Fructele sunt combinate cu oțet de trestie, muștar, usturoi și condimente locale, fermentate sau procesate la rece, producând un sos de masă diluat la o concentrație suportabilă. Proporția de ardei față de lichid este calibrată astfel încât sosul final să se situeze în zona 50.000–200.000 SHU.
 
-**Utilizările industriale** includ producția de extracte standardizate de capsaicină pentru industria farmaceutică (creme analgezice topice, plasturi transdermici), industria de securitate (spray-uri cu piper) și industria alimentară de nișă (sosuri ultra-picante, condimente concentrate).
+**Utilizările industriale** includ producția de extracte standardizate de capsaicină pentru industria farmaceutică (creme analgezice topice, plasturi transdermici), industria de securitate (spray-uri cu piper) și industria alimentară de nișă. O utilizare documentată locală — mai puțin cunoscută în afara insulei — este adăugarea extractului de capsaicină în vopsea pentru carene navale, exploatând proprietățile sale antifouling pentru a inhiba colonizarea cu alge și crustacee marine.
 
-**Manipularea** necesită echipament de protecție — mănuși nitrile, ochelari de protecție și, în cazul procesării în cantități mari, mască respiratorie. Vaporii de capsaicină eliberați la tăierea sau măcinarea fructelor proaspete irită mucoasele respiratorii și conjunctiva ocular&#259; cu o intensitate proporțională concentrației.[^Bosland2012]
+**Manipularea** necesită echipament de protecție — mănuși nitrile, ochelari de protecție și, în cazul procesării în cantități mari, mască respiratorie. Vaporii de capsaicină eliberați la tăierea sau măcinarea fructelor proaspete irită mucoasele respiratorii și conjunctiva oculară cu o intensitate proporțională concentrației.[^Bosland2012]
 
 ---
 
@@ -101,3 +98,5 @@ Concentrația extremă de capsaicinoide impune în mod obiectiv o utilizare culi
 [^Meckelmann2015]: Meckelmann, S.W. et al. (2015). *Phytochemicals in native Peruvian Capsicum pubescens (Rocoto)*. European Food Research and Technology, 240(5), 963–972. <https://doi.org/10.1007/s00217-015-2506-y> [Referință metodologică pentru variabilitatea capsaicinoidelor în funcție de condițiile de mediu.]
 
 [^DeWitt1999]: De Witt, D. & Bosland, P.W. (1999). *The Pepper Garden*. Ten Speed Press. [Context cultural și gastronomic privind utilizarea ardeilor super-hot în bucătăria trinitadiană.]
+
+[^NALIS]: National Library and Information System Authority of Trinidad and Tobago (NALIS). *Indian Arrival Day — Cultural Heritage Resources*. <https://www.nalis.gov.tt/resources/tt-content-guide/indian-arrival-day/>

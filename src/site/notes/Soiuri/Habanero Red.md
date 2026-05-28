@@ -1,101 +1,86 @@
 ---
-{"dg-publish":true,"permalink":"/Soiuri/Habanero Red/","tags":["botanica","gastronomie","mexic","caraibe","capsicum","capsicum-chinense","habanero","habanero-red","cultivar"],"dg-note-properties":{"tags":["botanica","gastronomie","mexic","caraibe","capsicum","capsicum-chinense","habanero","habanero-red","cultivar"]}}
+{"dg-publish":true,"permalink":"/Soiuri/Habanero Red/","tags":["botanica","gastronomie","mexic","SUA","capsicum","capsicum-chinense","habanero","red","red-savina","cultivar"],"dg-note-properties":{"tags":["botanica","gastronomie","mexic","SUA","capsicum","capsicum-chinense","habanero","red","red-savina","cultivar"]}}
 ---
 
-# Ardeiul roșu cu iuțeală directă
+# Habanero Red
 
-*Capsicum chinense* · Intensitate ridicată · 150.000–450.000 SHU
+*Capsicum chinense* Jacq. · Intensitate ridicată spre extremă · 150.000–577.000 SHU
 
 
-Habanero Red și [[Soiuri/Habanero Orange\|Habanero Orange]] sunt, genetic, variante ale aceleiași linii — diferența principală dintre ele este produsă de un singur parametru biochimic: raportul dintre **capsantină** (pigment roșu) și **beta-criptoxantină** (pigment portocaliu) în pericarpul fructului matur. La Orange, beta-criptoxantina domină sau echilibrează capsantina, producând portocaliu intens. La Red, capsantina domină clar, producând roșul aprins caracteristic.[^Wahyuni2013]
+Habanero roșu nu este un singur ardei — este un spectru. La capătul inferior se află liniile caraibiene roșii cu profil similar habanero-ului portocaliu; la capătul superior se află Red Savina, un cultivar selecționat dintr-un singur fruct mutant găsit la întâmplare în California, care a deținut 12 ani consecutivi recordul mondial de iuțeală și a primit prima protecție legală federală acordată vreodată unui ardei în Statele Unite.
 
-Această diferență de pigmentare nu este pur estetică. Studiile fitochimice indică că profilul carotenoidal influențează indirect și compoziția compușilor volatili aromatici — fructele roșii ale speciei *C. chinense* tind să aibă un profil aromatic ușor mai terestru și mai puțin floral față de variantele portocalii, cu o iuțeală care se instalează mai rapid și domină mai devreme senzorialul.[^Wahyuni2013]
-
-Habanero Red este linia preferată în industria de sosuri ultra-picante pentru piața americană și europeană — culoarea roșie aprinsă are o asociere vizuală mai directă cu iuțeala și pericolul față de portocaliu, o preferință de marketing confirmată de structura portofoliului majorității producătorilor de sosuri picante comerciale.
+Povestea Red Savina merită spusă cu precizie, fiindcă în forma ei exactă este mai interesantă decât oricare variantă simplificată: Frank Garcia, cofondator al GNS Spices din Walnut, California, pregătea în 1989 să are un câmp întreg de habaneros portocalii, refuzând să le vândă la prețul impus de cumpărătorul care renegociase contractul. În timp ce treceau cu tractorul, a observat un singur fruct roșu printre sute de fructe portocalii. L-a salvat. A cultivat semințele. A repetat selecția pe mai multe generații, orientând-o spre iuțeala maximă. Rezultatul a fost certificat de Guinness World Records în 1994 la 577.000 SHU.[^PepperScale]
 
 ---
 
 ## Identitate botanică
 
 **Specie:** *[[Specii/Capsicum chinense\|Capsicum chinense]]* Jacq.
-**Familie:** [[Habanero\|Habanero]]
-**Origine:** Peninsula Yucatán și insulele Caraibelor, cu selecție pentru culoare roșie stabilizată
-**Dimensiuni fruct:** 3–6 cm lungime, 2,5–4 cm lățime
-**Culoare la maturitate:** Roșu-aprins intens
-**Formă:** Lanterniformă cutată — morfologie identică cu Orange, diferențiată exclusiv prin culoare
-**Suprafața fructului:** Ceroasă, cu cute longitudinale moderate
-**Semințe:** Crem-gălbui, standard pentru specie
+**Familie:** [[Soiuri/Habanero (familia)\|Habanero]]
+**Origine:** Linia standard roșie — Caraibe și Yucatan; Red Savina — Walnut, California, SUA, din material mutant identificat în 1989
+**Statut genetic:** Linia roșie standard — landrasă caraibiano-mexicană; Red Savina — cultivar ameliorat prin selecție fenotipică, cu Plant Variety Protection USDA (PVP #9200255), valabil 1989–2011[^WikiRedSavina]
+**Dimensiuni fruct:**
+- Linia standard: 2,5–5 cm lungime, similar habanero orange
+- Red Savina: circa 5 × 3,5 cm — mai mare față de habanero standard
+**Culoare la maturitate:** Roșu-aprins intens; Red Savina are o nuanță roșu-focalizat distinctivă față de roșul mai deschis al Caribbean Red
+**Suprafața fructului:** Lucioasă, cu nervuri longitudinale; formă de lanternă lobată standard pentru familie
 
 ---
 
 ## Iuțeală și profil senzorial
 
-**Scala Scoville:** 150.000–450.000 SHU — interval care suprapune parțial cu Orange, dar cu media mai ridicată și cu o limită superioară mai sus. Această diferență nu este o regulă absolută — variabilitatea individuală este ridicată — dar este un pattern consistent documentat în comparațiile directe între linii cultivate în condiții identice.[^Bosland2012]
+**Scala Scoville:**
+- Linia roșie standard: 150.000–400.000 SHU
+- Red Savina: 350.000–577.000 SHU[^WikiRedSavina]
 
-**Dinamica iuțelii:**
+**Profil aromatic:** Fructat-citric, cu note de caise și o componentă vegetală mai pronunțată față de variantele portocalii sau piersică. La Red Savina, profilul este descris ca mai complex și mai intens față de habanero standard — o caracteristică valorificată în sosurile premium care utilizează Red Savina ca ingredient diferențiator.[^HarmonyPeppers]
 
-- **Faza de latență:** Mai scurtă față de Orange — 3–7 secunde. Profilul aromatic este perceptibil, dar iuțeala preia controlul mai rapid.
-- **Faza de escaladare:** Rapidă și concentrată, cu un atac mai direct față de variantele portocalii sau piersicii ale familiei.
-- **Faza de platou:** 20–30 de minute, cu o senzație de arsură uniformă pe toată suprafața mucoasei bucale și cu extindere spre faringe.
-- **Remisia:** Lentă. Lipidele din produsele lactate rămân cel mai eficient agent de neutralizare.
-
-**Profil aromatic:** Mai puțin floral față de [[Soiuri/Habanero Orange\|Habanero Orange]], cu note de fructe tropicale prezente dar mai atenuate — mango și caise în plan secundar față de iuțeala care preia rapid primul plan. O aciditate mai pronunțată față de variantele portocalii, cu o ușoară notă pământoasă în fundal — caracteristică fructelor roșii de *C. chinense* față de cele portocalii sau galbene.[^Wahyuni2013]
+**Dinamica iuțelii:** Identică cu familia — latentă de 5–10 secunde, escaladare rapidă, platou de 20–30 de minute.
 
 ---
 
-## Morfologie detaliată
+## Red Savina — documentarea completă
 
-**Planta:**
+### Descoperirea mutantului (1989)
 
-Morfologic identică cu [[Soiuri/Habanero Orange\|Habanero Orange]] — aceleași dimensiuni, aceeași densitate de ramificare, același foliaj verde-praz încrețit. Diferențierea dintre cele două linii nu este vizibilă la nivelul plantei înainte de apariția fructelor.
+Frank Garcia conducea GNS Spices, o afacere fondată împreună cu parteneri în Walnut, California, cu scopul de a cultiva habaneros local pentru piața nord-americană. Un cumpărător renegociase prețul contractat după plantare, iar Garcia a decis să are câmpul în loc să accepte prețul mai mic. Descrierea evenimentului, documentată de PepperScale și confirmată de mai multe surse: *„Frank a observat un ardei roșu ciudat printre habaneroii portocalii. L-a salvat de la arat. A uitat de el o perioadă, dar a decis în final să înceapă selecția cu semințele acestui habanero roșu misterios pentru a crea un produs unic pentru piață."*[^PepperScale]
 
-**Fructul:**
+### Selecția și înregistrarea (1989–1994)
 
-Aceeași formă lanterniformă cutată ca la Orange, cu dimensiuni similare. Elementul distinctiv este culoarea la maturitate — roșu-aprins intens, uniform, fără zonele portocalii sau galbene caracteristice liniei Orange. Pericarpul subțire și ceros are o textură identică, cu o rigiditate și crocantitate comparabilă.
+Metodologia exactă de selecție nu a fost niciodată publicată de Garcia — Wikipedia notează explicit: *„exact methodology that Garcia used to select the hottest breeding strains is not publicly known."*[^WikiRedSavina] Ceea ce se știe: înregistrarea cu USDA a cultivarului ca varietate nouă s-a produs în 1989, prin Plant Variety Protection Act (PVP #9200255). Aceasta a fost prima dată în istoria SUA când un ardei iute a primit protecție federală de proprietate intelectuală — un precedent juridic documentat.
 
-Traseul de maturare cromatică diferă: fructele imature sunt verzi, virând spre roșu direct, fără stadiul portocaliu intermediar prezent la Orange — o consecință a sintezei mai rapide de capsantină față de beta-criptoxantină în această linie.
+### Recordul Guinness (1994–2006)
+
+Certificarea Guinness din 1994 a plasat Red Savina la 577.000 SHU — valoare care a depășit orice ardei documentat anterior. Recordul a rămas necontestat 12 ani, până în 2006, când Dorset Naga a depășit-o informally, și definitiv în 2007, când Bhut Jolokia a primit certificarea Guinness la 1.041.427 SHU.[^HarmonyPeppers]
+
+Red Savina a fost, în cei 12 ani de record, ingredientul principal al unor spray-uri de autoapărare grad polițienesc — o utilizare industrială documentată similar cu cea a Bhut Jolokia în grenada indiană, dar anterioară cu peste un deceniu.[^ChiliPepperMadness]
+
+### Expirarea protecției (2011)
+
+Plant Variety Protection expiră după 20 de ani pentru soiurile anuale. Red Savina a intrat în domeniul public în 2011. De atunci, oricine poate cultiva și vinde semințe Red Savina fără acordul GNS Spices — un moment documentat în comunitatea cultivatorilor ca sfârşitul monopolului comercial al celui mai celebru habanero din lume.
 
 ---
 
-## Utilizări culinare și industriale
+## Caribbean Red — linia caraibiano-mexicană standard
 
-**Industria sosurilor picante:**
+Față de Red Savina — un cultivar cu o genealogie precis documentată —, **Caribbean Red Habanero** este termenul comercial folosit pentru liniile roșii standard cultivate în Caraibe și Mexic, cu o iuțeală de 100.000–400.000 SHU și dimensiuni mai mari față de habanero orange. Nu are o poveste de selecție la fel de documentată ca Red Savina, dar este mai disponibil comercial și mai utilizat în producția de sos hot sauce din Caraibe.[^GrowHotPeppers]
 
-Habanero Red este linia dominantă în producția industrială de sosuri picante din categoria habanero. Culoarea roșie aprinsă produce o cromatică mai intensă în produsul finit, preferată vizual de consumatorii americani și europeni față de portocaliul Orange. Concentrația mai ridicată de capsaicinoide facilitează standardizarea iuțelii produsului final la valori mai ridicate, cu cantități mai mici de ardei per lot de producție.[^Bosland2012]
+---
 
-**Gastronomia caraibiană:**
+## Utilizări culinare
 
-În insulele Caraibelor — în special în Trinidad și Barbados — linia roșie este frecvent utilizată în paralel cu sau în locul Scotch Bonnet-ului pentru prepararea sosurilor de tip *pepper sauce*. Profilul mai direct și mai puțin floral al Red îl face mai versatil în marinazii și preparate cu carne, unde complexitatea aromatică florentă a Orange ar putea fi acoperită de celelalte ingrediente.
-
-**Salse și sosuri proaspete:**
-
-Culoarea roșie contribuie la o cromatică mai familiară în salsele de tip mexican standard față de portocaliul Orange — o considerație practică pentru restaurantele și bucătăriile care urmăresc un aspect vizual consistent.
-
-**Uscare și pulbere:**
-
-Fructele deshidratate de Habanero Red produc o pulbere de culoare roșu-intens, similară vizual pulberii de cayenne, dar cu o concentrație de capsaicinoide de 5–10 ori mai ridicată. Confuzia accidentală dintre cele două pulberi este documentată ca sursă frecventă de incidente culinare.[^DeWitt1999]
+- **Sosuri hot sauce premium:** Red Savina este ingredientul de referință pentru sosurile cu iuțeală extremă din familia habanero — prețuit pentru că menține complexitatea aromatică a familiei la concentrații de capsaicinoide aproape duble față de habanero standard.
+- **Salse roșii yucatece:** Liniile roșii standard sunt utilizate în Yucatan în preparate unde culoarea roșie a sosului este parte din prezentarea vizuală — distinct față de salsele portocalii sau verzi.
+- **Marinate pentru carne:** Profilul fructat-citric al habanero roșu completează carne de porc și pui — utilizare documentată în bucătăria caribeeană și tex-mex.
 
 ---
 
 ## Cultivare — note specifice
 
-**Germinarea:** Temperatura optimă 28–32°C, durată 18–30 de zile — identică cu Orange.
-
-**Durata până la maturitate:** 85–110 de zile de la transplantare până la roșu deplin — ușor mai scurtă față de Orange, datorită sintezei mai rapide de capsantină.
-
-**Cerințe termice și de umiditate:** Identice cu familia generală — temperaturi diurne 28–34°C, umiditate atmosferică minimum 60% în faza de înflorire.
-
-**Producție per plantă:** 30–70 de fructe pe sezon în condiții optime — productivitate comparabilă sau ușor superioară față de Orange, datorită ciclului de maturare puțin mai scurt.
-
-**Varianta Caribbean Red:** O linie derivată din Habanero Red, selecționată explicit pentru iuțeală maximă (300.000–445.000 SHU) și uniformitate cromatică ridicată — utilizată preponderent în producția industrială de extracte de capsaicină și sosuri de nișă ultra-picante.
-
----
-
-## Profil biochimic
-
-**Capsaicinoide:** Capsaicina reprezintă 72–78% din totalul capsaicinoidelor, cu o concentrație totală care tinde spre limitele superioare ale speciei în condiții de stres hidric controlat. Dihidrocapsaicina ocupă 18–23%.[^Wahyuni2013]
-
-**Carotenoide:** Capsantina domină profilul — responsabilă pentru culoarea roșie și parte din profilul aromatic mai terestru față de liniile portocalii. Concentrația de vitamina C este similară Orange-ului — 100–180 mg/100 g substanță proaspătă.
+**Germinare:** 26–30°C, 14–21 de zile.
+**Durata până la maturitate:** 80–95 de zile de la transplantare.
+**Producție:** Red Savina produce circa 50 de fructe per plantă în condiții optime, conform documentărilor de la Harmony Springs Farm.[^HarmonyPeppers]
+**Semințe Red Savina:** Disponibile liber din 2011, când protecția PVP a expirat.
 
 ---
 
@@ -103,10 +88,14 @@ Fructele deshidratate de Habanero Red produc o pulbere de culoare roșu-intens, 
 
 [^Bosland2012]: Bosland, P.W. & Votava, E.J. (2012). *Peppers: Vegetable and Spice Capsicums*. CABI Publishing.
 
-[^Wahyuni2013]: Wahyuni, Y. et al. (2013). *Metabolite biodiversity in pepper (Capsicum) fruits of thirty-two diverse accessions*. Phytochemistry, 93, 145–154. <https://doi.org/10.1016/j.phytochem.2013.02.010>
+[^WikiRedSavina]: Wikipedia contributors. *Red Savina pepper*. Wikipedia, The Free Encyclopedia. <https://en.wikipedia.org/wiki/Red_Savina_pepper>
 
-[^DeWitt1999]: De Witt, D. & Bosland, P.W. (1999). *The Pepper Garden*. Ten Speed Press.
+[^PepperScale]: PepperScale. *Red Savina Habanero Guide: Heat, Flavor, Uses*. <https://pepperscale.com/red-savina-habanero/>
+
+[^HarmonyPeppers]: Harmony Springs Farm. *The Red Savina Habanero: History, Heat, and Growing Guide*. <https://www.harmonypeppers.com/post/blog-red-savina-habanero>
+
+[^ChiliPepperMadness]: Chili Pepper Madness. *Red Savina Habanero Peppers*. <https://www.chilipeppermadness.com/chili-pepper-types/superhot-chili-peppers/red-savina-habanero-chili-peppers/>
+
+[^GrowHotPeppers]: Grow Hot Peppers. *Habanero Pepper 101*. <https://growhotpeppers.com/habanero-pepper-101/>
 
 [^Caterina1997]: Caterina, M.J. et al. (1997). *The capsaicin receptor: a heat-activated ion channel in the pain pathway*. Nature, 389, 816–824. <https://doi.org/10.1038/39807>
-
-[^Jacquin1776]: Jacquin, N.J. von (1776). *Hortus Botanicus Vindobonensis*, Vol. III. Academia Caesarea, Viena.
