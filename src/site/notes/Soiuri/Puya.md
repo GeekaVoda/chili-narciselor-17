@@ -1,126 +1,83 @@
 ---
-{"dg-publish":true,"permalink":"/Soiuri/Puya/","tags":["botanica","gastronomie","mexic","capsicum","capsicum-annuum","guajillo","puya","ardei-uscat","cultivar"],"dg-note-properties":{"tags":["botanica","gastronomie","mexic","capsicum","capsicum-annuum","guajillo","puya","ardei-uscat","cultivar"]}}
+{"dg-publish":true,"permalink":"/Soiuri/Puya/","tags":["botanica","gastronomie","mexic","jalisco","guanajuato","capsicum","capsicum-annuum","puya","mirasol","uscat","cultivar"],"dg-note-properties":{"tags":["botanica","gastronomie","mexic","jalisco","guanajuato","capsicum","capsicum-annuum","puya","mirasol","uscat","cultivar"]}}
 ---
 
-# Ardeiul mic și iute al familiei Guajillo-Mirasol
+# Puya
 
-*Capsicum annuum* · Intensitate medie · 5.000–8.000 SHU
+*Capsicum annuum* L. · Intensitate medie · 5.000–8.000 SHU
 
 
-Puya este varianta familiei [[Guajillo — Mirasol\|Guajillo — Mirasol]] care a ales iuțeala în locul corpului. Mai mic, mai subțire și considerabil mai iute față de [[Soiuri/Guajillo\|Guajillo]] standard, Puya este ardeiul pe care bucătarii mexicani îl adaugă atunci când un sos de Guajillo standard nu este suficient de picant — sau când vor iuțeala Guajillo-ului dar în cantitate mai mică de material de ardei per porție.
+Puya este guajillo-ul care a renunțat la blândețe în favoarea intensității. Mai mic, mai iute, mai fructat — PepperScale formulează relația cu precizie: *„Cel mai iute posibil guajillo va fi la fel de iute ca cel mai blând posibil puya. De obicei, puya dublează iuțeala guajillo-ului."*[^PepperScaleKnow] Această diferență nu este de nuanță — este o schimbare de categorie: guajillo-ul este un ardei blând, puya este un ardei mediu spre iute, comparable cu jalapeño la capătul superior al scalei.
 
-Relația Puya-Guajillo este similară cu relația [[Soiuri/Serrano Huasteco\|Serrano Huasteco]]-[[Soiuri/Serrano Tampiqueño\|Serrano Tampiqueño]] din familia Serrano: aceeași specie, același profil aromatic de bază, dar dimensiuni mai mici și concentrație mai mare de capsaicinoide per fruct. Fructul mai mic are un raport placentă/pulpă mai ridicat, producând iuțeala mai mare la același profil aromatic general.
-
-Denumirea *Puya* — sau uneori *Pulla* — nu are o etimologie documentată clară. Unii autori o derivă din spaniolul *puyar* (a înțepa, a gâdila) — o referire metaforică la iuțeala mai pronunțată față de Guajillo standard. Alții o consideră o denumire de origine locală din regiunile de cultivare din centrul Mexicului, fără o sursă lingvistică verificabilă.[^Andrews1995]
+Prima atestare lingvistică documentată a numelui este precisă: *pōya* apare în dicționarul nahuatl-spaniol al lui **Alonso de Molina** din **1571** — una dintre cele mai vechi documentări ale unui ardei mexican specific într-un context lingvistic formal.[^AlibabaSpicePuya] Sensul spaniol al cuvântului *puyar* — a înțepa, a împunge — reflectă exact experiența senzorială: o iuțeală ascuțită, directă, care se instalează mai rapid decât guajillo-ul.
 
 ---
 
 ## Identitate botanică
 
-**Specie:** *[[Specii/Capsicum annuum\|Capsicum annuum]]*
-**Familie:** [[Guajillo — Mirasol\|Guajillo — Mirasol]]
-**Sinonime:** *Chile Puya*, *Pulla*, *Guajillo chico* (în unele piețe mexicane)
-**Origine:** Centrul și nord-centrul Mexicului — zone similare cu Guajillo standard
-**Dimensiuni fruct uscat:** 7–10 cm lungime, 1,5–2,5 cm lățime — mai mic față de Guajillo standard
-**Culoare uscată:** Roșu-brun intens, similar Guajillo-ului standard dar cu o nuanță ușor mai închisă
-**Formă uscată:** Alungită, subțire, cu vârful ascuțit — mai asemănătoare cu Cascabel sau Morita ca dimensiune, dar cu morfologie de Guajillo
-**Suprafața:** Semi-lucioasă, netedă
+**Specie:** *[[Specii/Capsicum annuum\|Capsicum annuum]]* L.
+**Familie:** [[Guajillo-Mirasol (familia)\|Guajillo-Mirasol]]
+**Origine:** Centrul Mexicului — Valley of Mexico, Jalisco, Guanajuato, Aguascalientes[^KnowThePepper][^SpicesInc]
+**Statut genetic:** Landrasă mexicană; listată ca landrasă endemică în studiul PNAS 2014[^PNAS2014]
+**Prima atestare lingvistică:** *pōya* în dicționarul lui Alonso de Molina, 1571[^AlibabaSpicePuya]
+**Denumiri sinonime:** Chile puya, chile pulla (grafia alternativă), guajillo puya[^CPMadnessPuya]
+**Forma proaspătă:** Mirasol mic — identic morfologic cu Mirasol elongat, dar mai mic
+**Dimensiuni uscate:** 7–10 cm lungime (3–4 inch) — mai scurt față de guajillo standard (10–15 cm)[^CPMadnessPuya]
+**Culoare uscată:** Roșu-crimson profund, uneori mai închis față de guajillo standard
+**Suprafața uscată:** Netedă, cu pieliță subțire
 
 ---
 
 ## Iuțeală și profil senzorial
 
-**Scala Scoville:** 5.000–8.000 SHU — de 2–3 ori mai iute față de [[Soiuri/Guajillo\|Guajillo]] standard (2.500–5.000 SHU), plasând Puya în categoria medie a scalei Scoville.[^Bosland2012]
+**Scala Scoville:** 5.000–8.000 SHU conform PepperScale și CPMadness[^PepperScalePuya][^CPMadnessPuya]; Spices Inc. citează 5.000–10.000 SHU.[^SpicesInc] Toate sursele confirmă că puya este semnificativ mai iute decât guajillo (2.500–5.000 SHU).
 
-Această iuțeală mai mare față de Guajillo standard este corelată direct cu dimensiunile mai mici ale fructului — raportul placentă/pulpă mai ridicat produce o concentrație mai mare de capsaicinoide per gram de fruct uscat.
+**Profilul aromatic:** Fructat, cu note de **cireașă și licoriță** — mai concentrat față de guajillo. PepperScale documentează *„o frumusețe fructată cu note de cireașă"*.[^PepperScalePuya] Spices Inc. confirmă: *„fructat și jucăuș, cu note de cireașă și licoriță care îi conferă profunzime."*[^SpicesInc] Alibaba Spice adaugă că unii spun că *„puya are gust ca un amestec între guajillo și Chile de Arbol"* — combinând fructatul guajillo-ului cu ascuțimea arbolului.[^AlibabaSpicePuya]
 
-**Dinamica iuțelii:**
-
-- **Faza de latență:** 4–7 secunde — ușor mai scurtă față de Guajillo standard.
-- **Faza de escaladare:** Mai directă față de Guajillo standard, cu un atac mai clar.
-- **Faza de platou:** 10–15 minute.
-- **Remisia:** Standard pentru familie.
-
-**Profil aromatic:**
-
-Fidel familiei Guajillo — fructe de pădure uscate, aciditate tanică și o notă de ceai verde — dar cu note mai concentrate față de Guajillo standard, datorită pericarpului mai subțire care lasă mai puțin spațiu pentru dulceața naturală a zaharurilor libere:
-
-- **Aciditatea mai pronunțată** față de Guajillo standard.
-- **Fructe de pădure uscate** — coacăze și vișine — mai intense și mai directe.
-- **Nota de ceai verde** — prezentă și la Puya, ușor mai accentuată față de Guajillo standard.
-- Absența relativa a dulceații — mai sec și mai direct față de Guajillo Ancho.
+Față de guajillo: puya este mai iute, mai fructat, mai acid — mai concentrat în toate dimensiunile senzoriale.
 
 ---
 
-## Morfologie detaliată
+## Morfologie
 
-**Planta:**
-
-Similară Mirasol-ului standard ca structură. Fructele proaspete (înainte de uscare) sunt mai mici față de Mirasol standard — 6–9 cm lungime, 1,5–2 cm diametru — cu aceeași orientare semi-erectă caracteristică familiei.
-
-**Fructul uscat:**
-
-- Lungime: 7–10 cm, lățime: 1,5–2,5 cm.
-- Pericarpul: 1,5–2,5 mm — mai subțire față de Guajillo standard, producând o textură mai fragilă la manipulare.
-- Suprafața mai netedă față de Ancho sau Pasilla.
-- Dimensiunile mai mici fac ca Puya să fie mai ușor confundat vizual cu alte soiuri mici (Cascabel, Morita) — diferența o face culoarea și profilul aromatic la frecare.
+**Fructul uscat:** Mai scurt și mai îngust față de guajillo standard — 7–10 cm lungime față de 10–15 cm. Forma conică-alungită cu vârf ascuțit se menține. Pieliță subțire, roșu-crimson, care poate deveni mai închisă la uscare îndelungată. Adesea confundat cu guajillo datorită similarității vizuale — diferența de lungime și culoarea ușor mai închisă sunt indicatori de identificare.[^CPMadnessPuya]
 
 ---
 
-## Locul în bucătăria mexicană
+## Puya în bucătăria mexicană centrală
 
-Puya este mai rar găsit în bucătăria mexicană de uz general față de Guajillo standard — dar are aplicații specifice unde iuțeala mai mare este o calitate, nu un accident:
+Know The Pepper documentează originea geografică și utilizarea tradițională: *„Puya are rădăcini adânci în centrul Mexicului de vest, unde a fost cultivat de generații în statele Jalisco, Guanajuato și Aguascalientes. Bucătarii tradiționali utilizau puya în primul rând în salsas de masă și sosuri de enchilada, prețuind luminozitatea fructată pe care o contribuia fără a împinge iuțeala peste niveluri confortabile."*[^KnowThePepper]
 
-**Sosuri roșii mai iuți:**
-
-Combinarea Puya cu Guajillo standard permite bucătarului să calibreze precis intensitatea termică a unui sos roșu mexican fără a schimba profilul aromatic de bază — Puya adaugă iuțeală, Guajillo adaugă volum și culoare.
-
-**Birria mai picantă:**
-
-Variantele de birria din regiunile cu preferință pentru iuțeală mai pronunțată utilizează Puya parțial sau în totalitate în locul Guajillo-ului standard — aceeași culoare roșie caracteristică, iuțeală mai ridicată.
-
-**Salse uscate pentru tacos:**
-
-*Chile de árbol* și Puya sunt frecvent combinați în salsele uscate de ardei prăjiți pentru tacos de stradă — Puya aduce profilul aromatic al familiei Guajillo la o iuțeală mai accesibilă față de chile de árbol pur.
-
-**Mole și sosuri complexe:**
-
-În unele variante regionale ale mole-ului din centrul Mexicului, Puya înlocuiește parțial Guajillo standard pentru a crește iuțeala fără a modifica profilul cromatic al sosului.
+Alibaba Spice documentează că, spre deosebire de guajillo — cu iuțeala sa blândă și utilizarea sa ca bază universală —, puya este preferat în preparate unde iuțeala directă și fructatul concentrat sunt obiectivul primar.[^AlibabaSpicePuya]
 
 ---
 
-## Distincția Puya-Guajillo în piețe
+## Utilizări culinare
 
-Puya este vândut în piețele mexicane fie separat, fie — mai frecvent — amestecat cu Guajillo standard sub eticheta generică „Guajillo". Distincțiile practice:
+- **Salsa de masă:** Aplicația tradițională primară — rehidratat și blendizat cu tomate, usturoi și sare, produce o salsa cu iuțeală medie și un fructat pronunțat.
+- **Sosuri de enchilada cu iuțeală:** Versiunea mai iute a sosului roșu de enchilada față de varianta cu guajillo.
+- **Sosuri pentru carne:** Pui, porc, vițel și pește — Chili Pepper Madness documentează aceste combinații clasice.[^CPMadnessPuya]
+- **Pizza și preparate fusion:** CPMadness documentează utilizarea în pizza — adăugat ca topping sau în sosul de bază pentru un profil picant-fructat.
+- **Substituție pentru guajillo:** PepperScale recomandă utilizarea a 0,7 unități de puya pentru fiecare unitate de guajillo cerută de rețetă, datorită iuțelii mai ridicate.[^AlibabaSpicePuya]
 
-| Caracter | Guajillo standard | Puya |
-|---|---|---|
-| **Lungimea** | 10–15 cm | 7–10 cm |
-| **Lățimea** | 2,5–4 cm | 1,5–2,5 cm |
-| **Iuțeala** | 2.500–5.000 SHU | 5.000–8.000 SHU |
-| **Aroma la frecare** | Fructe de pădure, acid moderat | Fructe de pădure, acid mai pronunțat |
-| **Sunetul la scuturare** | Prezent, moderat | Prezent, mai intens — semințele mai libere față de volumul mai mic |
+**Rehydratare:** Identică cu guajillo — înmuiere în apă caldă 10–15 minute. Semințele se îndepărtează după rehydratare pentru a evita amăreala.
 
 ---
 
-## Cultivare — note specifice
+## Cultivare — notă
 
-**Germinarea:** Temperatura optimă 22–26°C, durată 8–14 zile.
-
-**Durata până la maturitate:** 65–80 de zile de la transplantare — ușor mai rapid față de Guajillo standard, o consecință a dimensiunilor mai mici ale fructelor care ating maturitatea mai repede.
-
-**Producție per plantă:** 30–60 de fructe pe sezon — mai ridicată numeric față de Guajillo standard, datorită dimensiunilor mai mici per fruct.
-
-**Disponibilitate comercială:** Puya este disponibil în piețele specializate de ingrediente mexicane din SUA, Europa și Asia — mai rar față de Guajillo standard, dar în creștere odată cu interesul internațional pentru autenticitatea bucătăriei mexicane.
+Identică cu guajillo-ul standard. Puya este Mirasol-ul mai mic, cultivat în aceleași condiții semi-aride din centrul Mexicului, recoltat și uscat similar.
 
 ---
 
 ## Bibliografie
 
-[^Andrews1995]: Andrews, J. (1995). *Peppers: The Domesticated Capsicums* (revised edition). University of Texas Press.
-
 [^Bosland2012]: Bosland, P.W. & Votava, E.J. (2012). *Peppers: Vegetable and Spice Capsicums*. CABI Publishing.
-
-[^Kennedy1986]: Kennedy, D. (1986). *The Cuisines of Mexico* (revised edition). Harper & Row, New York.
-
-[^Long1998]: Long-Solís, J. (1998). *Capsicum y cultura: la historia del chilli*. Fondo de Cultura Económica.
+[^WikiGuajillo]: Wikipedia contributors. *Guajillo chili*. (Distincția guajillo vs. puya; *puyar* = a împunge). <https://en.wikipedia.org/wiki/Guajillo_chili>
+[^CPMadnessPuya]: Chili Pepper Madness. *Puya Chili Peppers (Chile Puya)*. (5.000–8.000 SHU, 3–4 inch, profil fructat). <https://www.chilipeppermadness.com/chili-pepper-types/medium-heat-chili-peppers/puya-chili-peppers/>
+[^PepperScalePuya]: PepperScale. *Puya Pepper Guide: Heat, Flavor, Uses*. (Dublează iuțeala guajillo-ului; note de cireașă). <https://pepperscale.com/puya-pepper/>
+[^PepperScaleKnow]: PepperScale. *Guajillo Pepper Guide*. <https://pepperscale.com/guajillo-pepper/>
+[^SpicesInc]: Spices Inc. *What Are Puya Chiles*. (5.000–10.000 SHU; Valley of Mexico; note de cireașă și licoriță). <https://spicesinc.com/blogs/what-are-puya-chiles>
+[^AlibabaSpicePuya]: Alibaba Spice. *Puya Pepper: Flavor Profile, Uses & Substitutes Explained*. (Alonso de Molina 1571; substituție 0,7:1 față de guajillo). <https://spice.alibaba.com/spice-basics/puya-pepper>
+[^KnowThePepper]: Know The Pepper. *Puya Pepper: 5K–8K SHU, Flavor & Cooking Tips*. (Jalisco, Guanajuato, Aguascalientes; utilizare tradițională). <https://knowthepepper.com/peppers/puya/>
+[^PNAS2014]: Kraft, K.H. et al. (2014). *Multiple lines of evidence for the origin of domesticated chili pepper, Capsicum annuum, in Mexico*. PNAS, 111(17), 6165–6170. <https://doi.org/10.1073/pnas.1308933111>

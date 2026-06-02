@@ -1,119 +1,73 @@
 ---
-{"dg-publish":true,"permalink":"/Soiuri/Ancho/","tags":["botanica","gastronomie","capsicum","capsicum-annuum","annuum","ancho","poblano","mexic","ardei-uscat"],"dg-note-properties":{"tags":["botanica","gastronomie","capsicum","capsicum-annuum","annuum","ancho","poblano","mexic","ardei-uscat"]}}
+{"dg-publish":true,"permalink":"/Soiuri/Ancho/","tags":["botanica","gastronomie","mexic","puebla","capsicum","capsicum-annuum","ancho","uscat","mole","cultivar"],"dg-note-properties":{"tags":["botanica","gastronomie","mexic","puebla","capsicum","capsicum-annuum","ancho","uscat","mole","cultivar"]}}
 ---
 
-# Latul din Puebla
+# Ancho
 
-*Capsicum annuum* · Intensitate redusă · 1.000–2.000 SHU
+*Capsicum annuum* L. (formă uscată) · Intensitate blândă · 1.000–2.000 SHU
 
 
-Ancho înseamnă „lat" în spaniolă — o descriere morfologică directă a siluetei sale: plat, larg la umeri, cu o formă de inimă aplatizată și un vârf rotunjit care îl face inconfundabil printre ardeii uscați mexicani. Este poblano-ul roșu maturizat complet, apoi uscat; produs final al unui ciclu de viață mai lung decât cel al poblano-ului verde pe care îl găsim în chiles rellenos. Cel mai accesibil și mai larg distribuit dintre membrii [[Gastronomie/La Santa Trinidad\|La Santa Trinidad]], ancho este ardeiul de bază al mole-ului mexican — nu pentru iuțeală, ci pentru dulceața concentrată și corpul pe care le aduce oricărui sos.
+Ancho nu este un ardei distinct față de [[Soiuri/Poblano\|Poblano]] — este același ardei, transformat prin uscare. Această transformare nu este cosmetică: produce o modificare biochimică profundă. Zaharurile din fructul proaspăt se concentrează și caramelizează parțial; umiditatea scade de la 80–90% la sub 15%; compușii aromatici volatili se recombină producând note noi — prune uscate, stafide, cacao, piper negru — absente în poblano-ul verde proaspăt.[^AlibabaAncho] Rezultatul este un ingredient cu o identitate culinară proprie față de forma proaspătă, similar cu relația dintre jalapeño proaspăt și [[Jalapeño — Chipotle\|chipotle]].
 
-→ *Pagina de familie: [[Gastronomie/La Santa Trinidad\|La Santa Trinidad]]*
-
----
-
-## Identitate botanică
-
-**Specie:** *[[Specii/Capsicum annuum\|Capsicum annuum]]* var. *annuum*
-**Familie botanică:** Solanaceae
-**Ardei proaspăt corespunzător:** Poblano (*chile poblano*) — stadiu roșu matur
-**Origine geografică:** Statul Puebla, Mexic central; cultivat și în alte state mexicane
-**Tip varietate:** Cultivar tradițional mexican, heirloom, open-pollinated
-**Denumiri sinonime:** *chile ancho*, *ancho pepper*, *dried poblano* (în engleză); uneori confundat comercial cu *mulato* sau *pasilla* în SUA
-**Dimensiuni fruct uscat:** 10–12 cm lungime, 7–9 cm lățime maximă — formă lată, inimă aplatizată, tapering spre un vârf rotunjit
-**Culoare uscată:** Brun-roșcat închis spre mahon; în lumină slabă poate părea negru
-**Formă uscată:** Latplanată, cu riduri bogate și umeri largi — „ancho" este o descriere morfologică exactă
-**Pericarp uscat:** Semi-gros, ceros, pliabil la calitate bună; fragil la exemplare vechi
+*Ancho* în spaniolă înseamnă *larg* sau *lat* — o referire directă la forma fructului uscat: plat, în formă de inimă, cu umerii largi caracteristici poblano-ului, contractat și ridatat prin deshidratare.[^WikiPoblano]
 
 ---
 
-## Relația poblano → ancho
+## Identitate botanică și nomenclaturală
 
-Poblano și ancho **nu sunt doi ardei diferiți** — sunt același fruct în stadii diferite ale ciclului de viață, cu două utilizări culinare complet distincte.
-
-**Poblano verde** (stadiu imatur): recoltat verde, consumat proaspăt sau prăjit; baza pentru chiles rellenos, rajas poblanas. Aromă vegetală, iarbă, iuțeală blândă (1.000–2.500 SHU). Disponibil internațional ca ardei proaspăt.
-
-**Poblano roșu** (stadiu matur): lăsat pe plantă până la maturitate completă roșie; recoltat și uscat la soare sau la aer. Devine ancho. Zaharurile acumulate în stadiul roșu se concentrează prin uscare, producând profilul dulce-fructat caracteristic.
-
-**Mulato** provine din aceeași plantă (poblano), dar dintr-o varietate care virează la brun — nu la roșu — la maturitate completă. Distincția este botanică și de linie varietală, nu doar de stadiu de recoltare. *See [[Soiuri/Mulato\|Mulato]].*
-
----
-
-## Iuțeală și profil senzorial
-
-**Scala Scoville:** 1.000–2.000 SHU — cel mai blând dintre membrii triadei. Variabilitate documentată chiar în cadrul aceleiași plante — poblano este cunoscut pentru inconsistența sa de iuțeală între fructe individuale.
-
-**Profil aromatic:** Dulce, fructat, complex — note de prune, cireșe uscate, stafide și o undă de cacao la fundalul olfactiv. Anchoul bun de calitate are un miros de prune care se simte la simpla frecare a pielii. Nota fumegândă discretă menționată de unele surse provine din procesul de uscare la soare, nu dintr-o afumare deliberată.
-
-Estragolul și pirazinele formate prin reacții Maillard în timpul uscării contribuie la complexitatea aromatică — o caracteristică imposibil de reprodus prin utilizarea poblano-ului proaspăt ca substitut în sosuri.
+**Specie:** *[[Specii/Capsicum annuum\|Capsicum annuum]]* L.
+**Familie:** [[Poblano-Ancho (familia)\|Poblano-Ancho]]
+**Origine:** Statul Puebla, Mexic; forma uscată a poblano-ului roșu matur
+**Statut:** Ingredient cu identitate culinară autonomă față de forma proaspătă; nu este un cultivar distinct
+**Distincție față de Mulato:** Ancho = poblano roșu uscat (mai deschis la culoare, mai fructat); Mulato = poblano brun uscat (mai închis, profil ciocolată-licoriță)[^WikiMulato]
+**Confuzie documentată în SUA:** Ancho este uneori vândut ca *pasilla* în California și în alte state — o eroare documentată de DeWitt & Bosland și de Wikipedia[^WikiPoblano]
+**Dimensiuni uscate:** 10–12 cm lungime, 7–8 cm lățime — mai lat față de mulato sau pasilla
+**Culoare:** Brun-roșcat spre mahon; nu atinge negrul profund al mulato-ului
+**Suprafața uscată:** Ridată, pergamentoasă, ușor flexibilă la temperatura camerei; un ardei casant este oxidat și de calitate inferioară
 
 ---
 
-## Morfologie detaliată a plantei (poblano)
+## Profilul aromatic — transformarea prin uscare
 
-**Planta:**
+Alibaba Spice documentează comparația dintre ancho și mulato cu precizie: *„Anchos sunt mai roșcate și mai fructate. Mulatos sunt uscate de mulat mai târziu (aproape negru), producând amăreală de cafea."*[^AlibabaAncho]
 
-Arbust compact, 60–90 cm înălțime, bine ramificat. Florile sunt albe, fără pete — trăsătură tipică *C. annuum*. Frunzele sunt mari față de alte soiuri *annuum*, de culoare verde-închis. Planta este viguroasă și productivă în condiții optime.
+Profilul ancho include: prune uscate, stafide, cacao blândă, piele de roșii coapte, cu o aciditate discretă și o dulceață terestră. PepperScale confirmă: *„Mulato chilis au o aromă mai afumată și mai dulce cu note puternice de licoriță și ciocolată"* față de ancho — o diferență de ton, nu de natură.[^PepperScaleMultato]
 
-**Fructul (poblano proaspăt):**
-
-- Lungime: 10–15 cm; lățime: 5–7 cm — formă lată, triunghi-inimă
-- Pericarp gros, ceros, verde-închis la imaturat; virează la roșu (→ ancho) sau brun (→ mulato) la maturitate completă
-- Suprafață netedă, cu coaste longitudinale ușoare
-
-**Fructul uscat (ancho):**
-
-- Formă aplatizată, inimă largă, cu riduri bogate
-- Dimensiuni: 10–12 cm lungime, 7–9 cm lățime maximă
-- Culoare brun-mahon spre roșcat; niciodată neagru pur (spre deosebire de mulato sau pasilla)
-- Calitate: pliabil și ușor ceros → fragil și mat = exemplare vechi sau prost depozitate
+**Concentrație capsaicinoide:** Deshidratarea concentrează capsaicinoidele față de fructul proaspăt — SHU de 1.000–2.000 față de 1.000–1.500 al poblano-ului verde. Diferența este modestă: ancho rămâne un ardei blând.
 
 ---
 
-## Cultivare — note specifice
+## Procesul de uscare
 
-**Germinarea:** Temperatura optimă 22–26°C, durată 7–14 zile.
+Ripe red poblanos sunt deshidratate tradițional la soare — un proces care durează mai multe zile în climatul Pueblei. Deshidratarea industrială se face la temperaturi controlate de 50–60°C. USDA FoodData Central stabilește că anchos autentice au conținut de umiditate sub 15% — critic pentru stabilitate la raft și concentrarea aromei.[^AlibabaAncho]
 
-**Durata până la maturitate:** 65–80 de zile de la transplantare până la stadiul verde de chiles rellenos; stadiul roșu matur pentru ancho necesită 30–45 de zile suplimentare pe plantă.
-
-**Expunere solară:** Lumină directă integrală.
-
-**Sol:** Fertil, bine drenat, pH 6,0–7,0. Poblano este mai pretențios față de umiditate decât jalapeño sau serrano.
-
-**Uscarea:** Poblano-ul roșu recoltat se usucă optim la soare sau la aer, agățat în snopi, timp de câteva săptămâni. Uscarea la temperaturi ridicate accelerează procesul dar reduce complexitatea aromtică.
+Indicatorul de calitate la cumpărare: ancho-ul de calitate bună este flexibil, nu casant. Alibaba Spice recomandă pieele de piață din America Latină care vând anchos în pungi sigilate cu date de recoltare față de variantele din recipiente deschise unde oxidarea degradează aroma în 2 luni.[^AlibabaAncho]
 
 ---
 
-## Utilizări culinare
+## Ancho în bucătăria mexicană
 
-**Ancho reîncorporat (rehydrated):** Îndepărtarea cozii și semințelor, prăjire ușoară în tigaie uscată (30 secunde per parte), urmată de hidratare în apă caldă (15–20 minute), apoi blender pentru pastă sau sos.
+**Mole Poblano:** Sosul iconic al Pueblei — ancho este baza fructată și blândă care balansează complexitatea mulato-ului și adâncimea pasillei. Rețetele tradiționale utilizează 3–5 anchos la o porție de sos pentru 6–8 persoane, rehidratate, prăjite uscat și blendizate cu celelalte ingrediente.[^FridasCocina]
 
-**Mole poblano și variantele sale:** Ancho furnizează baza dulce și corpul oricărei variante de mole. Este cel mai frecvent ardei uscat din tripla combinație ancho + mulato + pasilla.
+**Rehidratare:** Anchos se înmoaie în apă caldă 20–30 de minute până devin moi și flexibile. Apa de înmuiere păstrează aromele și poate fi utilizată în sos. Alternativ: prăjire uscată în tigaie câteva secunde pe fiecare parte înainte de rehidratare — intensifică aroma.
 
-**Adobo și marinade:** Pasta de ancho hidratat este baza adobo-ului mexican — marinada pentru carne înainte de coacere sau afumat.
+**Pulbere de ancho:** Anchos uscate și măcinate produc o pulbere brun-roșcată cu un profil aromatic distinct față de cayenne sau chili powder comercial — mai dulce, mai terestr, fără iuțeala agresivă a cayenne-ului. Utilizată ca condiment universal în bucătăria tex-mex și mexicană.
 
-**Enchilada sauce, tamale, supe:** Ancho apare în majoritatea sosurilor roșii mexicane compuse, fie singur, fie în combinație cu guajillo.
-
-**Praf de ardei (ancho powder):** Ardeii uscați calcinați în tigaie uscată și măcinați produc o pulbere cu profil aromatic complet diferit față de cayenne sau paprica — utilizată ca condiment de finisaj sau ca bază de rub pentru carne.
+**Mole negru (cu mulato):** Ancho contribuie fructatul; mulato contribuie adâncimea. Substituirea unuia cu celălalt produce un sos dezechilibrat — o eroare frecventă documentată de Serious Eats.[^AlibabaAncho]
 
 ---
 
-## Confuzii nomenclaturale — notă
+## Cultivare — notă
 
-**Ancho vs. Mulato:** Cea mai frecventă confuzie în cadrul grupului poblano. Ambii sunt late, bruni și ridați. Distincția: ancho are nuanțe roșcate și un profil mai dulce-fructat; mulato este mai brun-negru și mai complex-amar. Pe piețele nord-americane, mulato este frecvent vândut drept ancho sau ca „ardei poblano uscat" fără distincție.
-
-**Ancho vs. Pasilla:** Confuzie sistematică pe piețele din California și nordul Mexicului, unde poblano proaspăt este etichetat *pasilla*. Anchoul uscat este mai lat și mai scurt decât pasilla negro; profilul aromatic (dulce vs. taninos-pământos) este semnificativ diferit.
-
-**Ancho vs. Mulato** (distincție de proces): Unele surse descriu mulato ca „ancho mai copt" — simplistă, deoarece distincția nu este doar de timp de recoltare, ci și de varietate parentală. Nu orice poblano lăsat mai mult pe plantă devine mulato — virarea la brun versus roșu depinde de linia varietală specifică a plantei.
+Ancho nu se cultivă — se procesează. Materia primă este poblano-ul roșu matur, documentat în [[Soiuri/Poblano\|Poblano]]. Producția comercială este concentrată în statul Puebla și în zonele vecine din Mexic.
 
 ---
 
 ## Bibliografie
 
-- Wikipedia. *Poblano*. en.wikipedia.org. Accesat mai 2026. <https://en.wikipedia.org/wiki/Poblano>
-- Specialty Produce. *Dried Ancho Chile Peppers Information and Facts*. specialtyproduce.com. Accesat mai 2026. <https://specialtyproduce.com/produce/Dried_Ancho_Chile_Peppers_796.php>
-- Spices Inc. *Ancho Chile*. spicesinc.com. Accesat mai 2026. <https://spicesinc.com/ancho-chile>
-- Mexico in My Kitchen. *Everything About Ancho Chiles*. mexicoinmykitchen.com. Accesat mai 2026. <https://www.mexicoinmykitchen.com/ancho-chiles/>
-- Bosland, P.W. & Votava, E.J. (2012). *Peppers: Vegetable and Spice Capsicums*. 2nd ed. CABI Publishing.
-- Kraft, K.H. et al. (2014). Multiple lines of evidence for the origin of domesticated chili pepper, *Capsicum annuum*, in Mexico. *Proceedings of the National Academy of Sciences*, 111(17): 6165–6170. <https://doi.org/10.1073/pnas.1308933111>
+[^Bosland2012]: Bosland, P.W. & Votava, E.J. (2012). *Peppers: Vegetable and Spice Capsicums*. CABI Publishing.
+[^WikiPoblano]: Wikipedia contributors. *Poblano*. Wikipedia, The Free Encyclopedia. <https://en.wikipedia.org/wiki/Poblano>
+[^WikiMulato]: Wikipedia contributors. *Mulato pepper*. Wikipedia, The Free Encyclopedia. <https://en.wikipedia.org/wiki/Mulato_pepper>
+[^AlibabaAncho]: Alibaba Spice. *What is an Ancho Chile*. (Comparație ancho vs mulato; umiditate USDA; calitate pieliță). <https://spice.alibaba.com/spice-basics/what-is-an-ancho-chile>
+[^PepperScaleMultato]: PepperScale. *Mulato Pepper Guide: Heat, Flavor, Uses*. <https://pepperscale.com/mulato-pepper/>
+[^FridasCocina]: Frida's Cocina TX. *The Mexican Chile Poblano: History, Varieties, Flavors & Essential Uses*. <https://www.fridascocinatx.com/blog/the-mexican-chile-poblano-a-comprehensive-guide-to-mexicos-most-versatile-pepper>

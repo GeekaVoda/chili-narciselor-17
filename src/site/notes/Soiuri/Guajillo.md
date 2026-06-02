@@ -1,130 +1,88 @@
 ---
-{"dg-publish":true,"permalink":"/Soiuri/Guajillo/","tags":["botanica","gastronomie","capsicum","capsicum-annuum","annuum","guajillo","mirasol","mexic","ardei-uscat"],"dg-note-properties":{"tags":["botanica","gastronomie","capsicum","capsicum-annuum","annuum","guajillo","mirasol","mexic","ardei-uscat"]}}
+{"dg-publish":true,"permalink":"/Soiuri/Guajillo/","tags":["botanica","gastronomie","mexic","zacatecas","capsicum","capsicum-annuum","guajillo","uscat","mole","cultivar"],"dg-note-properties":{"tags":["botanica","gastronomie","mexic","zacatecas","capsicum","capsicum-annuum","guajillo","uscat","mole","cultivar"]}}
 ---
 
-# Ardeiul care privește spre soare
+# Guajillo
 
-*Capsicum annuum* · Intensitate redusă spre medie · 2.500–5.000 SHU
+*Capsicum annuum* L. (formă uscată) · Intensitate blândă spre medie · 2.500–5.000 SHU
 
 
-Mirasol înseamnă „privind spre soare" — și chiar așa cresc fructele pe plantă: erect, cu vârful îndreptat în sus, față de tendința pendentă a majorității ardeilor cultivați. Uscate, aceste fructe roșu-vișinii devin guajillo — al doilea cel mai folosit ardei uscat din bucătăria mexicană, după ancho, și membrul triadei responsabil pentru claritate, aciditate și lumina aromatică pe care ceilalți ardei mai întunecoși nu o pot furniza singuri. Guajillo nu aduce dulceață sau profunzime de tutun; aduce o notă vie de fructe de pădure și tea verde care ridică sosul și îl împiedică să devină opac.
+Al doilea ardei uscat ca popularitate în Mexic după Ancho. Această ierarhie simplă — Ancho primul, Guajillo al doilea — rezumă decenii de producție agricolă, zeci de mii de tone de fructe uscate anual și o prezență în bucătăria mexicană care depășește cu mult granițele geografice ale zonelor de origine. Guajillo a ieșit din podișul Zacatecas și a ajuns în bucătăriile texano-mexicane, în sosurile enchilada din California și în rețetele de mole din restaurantele mexicane din Europa.[^WikiGuajillo]
 
-→ *Pagina de familie: [[Gastronomie/La Santa Trinidad\|La Santa Trinidad]]*
-
----
-
-## Identitate botanică
-
-**Specie:** *[[Specii/Capsicum annuum\|Capsicum annuum]]* var. *annuum*
-**Familie:** [[Soiuri/Guajillo Mirasol (familia)\|Guajillo-Mirasol]]
-**Ardei proaspăt corespunzător:** Mirasol (*chile mirasol*) — fruct proaspăt, recoltat roșu
-**Origine geografică:** Centrul și nordul Mexicului; principalele zone de cultivare: Zacatecas, Aguascalientes, Durango, San Luis Potosí
-**Tip varietate:** Cultivar tradițional mexican, heirloom, open-pollinated; landrace regional
-**Denumiri sinonime:** *chile guajillo*, *guajillo chili*, *guajillo pepper*; forma proaspătă: *mirasol*, *chile mirasol*
-**Dimensiuni fruct uscat:** 10–15 cm lungime, 2–3 cm lățime — formă alungită, conică, mai îngustă decât anchoul sau mulato
-**Culoare uscată:** Roșu-vișiniu intens spre roșu-brun, cu luciu caracteristic; pielea este relativ netedă față de anchoul sau pasilla ridați
-**Formă uscată:** Alungit, conic, taper spre vârf ascuțit; piele semi-netedă, lăcuită
-**Pericarp uscat:** Subțire spre mediu, piele leathery (ceroasă-tăbăcită), semitransparentă în lumină
+Ceea ce distinge guajillo-ul de toți ceilalți ardei uscați mexicani documentați în proiect este rolul său ca **ardelul culorii** în bucătăria mexicană. Capsantina și capsorubina — carotenoidele responsabile de culoarea roșie a ardeilor — sunt concentrate în pericarpul subțire al guajillo-ului uscat la o densitate care produce una dintre cele mai saturate nuanțe roșii din întreaga bucătărie mexicană.[^SpecProdGuajillo] Un sos de guajillo are o culoare roșie aprinsă care nu poate fi replicată cu Ancho sau cu Pasilla.
 
 ---
 
-## Relația mirasol → guajillo
+## Identitate botanică și nomenclaturală
 
-Mirasol și guajillo urmează același principiu de dualitate nomenclaturală caracteristic ardeilor mexicani: fructul proaspăt și cel uscat au nume complet diferite, deoarece sunt tratate ca ingrediente distincte cu utilizări culinar separabile.
-
-**Mirasol proaspăt:** recoltat roșu, rar comercializat în afara Mexicului; aromă vie, fructată, ușor acidă.
-
-**Guajillo uscat:** forma universală de comercializare; concentrarea zahărurilor și a compușilor fenolici prin uscare intensifică nota de fructe de pădure și produce o aciditate mai structurată.
-
-Denumirea *guajillo* derivă probabil din termenul regional care descrie aspectul pielii uscate — lăcuită, ușor rigidă — deși etimologia nu este uniform documentată în surse botanice.
-
-**Nota privind Mirasol vs. Ají Mirasol peruan:** Termenul *mirasol* apare și în Peru pentru a denumi ají amarillo uscat la soare (*C. baccatum*). Cele două sunt specii diferite și ingrediente complet distincte — confuzia este posibilă la nivel de denumire.
+**Specie:** *[[Specii/Capsicum annuum\|Capsicum annuum]]* L.
+**Familie:** [[Guajillo-Mirasol (familia)\|Guajillo-Mirasol]]
+**Origine:** Forma uscată a [[Soiuri/Mirasol\|Mirasol-ului]] elongat; producție concentrată în Zacatecas, Aguascalientes, San Luis Potosí și Durango
+**Statut:** Ingredient cu identitate culinară autonomă față de forma proaspătă; nu este un cultivar distinct
+**Etimologie:** Din nahuatl *huaxin* — termenul aztec pentru un tip de pâstârnă; Woodland Foods documentează că aztecii îl considerau sacru și îl utilizau în ritualuri[^WoodlandFoods]
+**Denumiri sinonime:** Chile guajillo, chile guaco[^WikiGuajillo]
+**Dimensiuni uscate:** 10–15 cm lungime, circa 2,5 cm lățime — lung și îngust, ușor curbat[^Grokipedia]
+**Culoare:** Roșu-mahon intens spre brun-roșcat la uscare deplină; pieliță lucioasă și netedă
+**Suprafața uscată:** Netedă și lucioasă — distinctă față de suprafața ridată a anchoului sau negrul profund al mulato-ului; pliabilă când este proaspăt uscat
 
 ---
 
 ## Iuțeală și profil senzorial
 
-**Scala Scoville:** 2.500–5.000 SHU — interval mediu-blând; ușor mai iute decât anchoul (1.000–2.000 SHU) și comparabil cu jalapeño la limita inferioară. Variabilitate documentată în funcție de sezon (an ploios = mai blând, an secetos = mai iute).
+**Scala Scoville:** 2.500–5.000 SHU — de două până la cinci ori mai iute față de Ancho (1.000–1.500 SHU).[^WikiGuajillo] PepperScale contextualitzează: *„Dacă ați băut sosul Tabasco Original, știți exact ce să așteptați de la iuțeala unui guajillo."*[^PepperScaleGuajillo]
 
-**Profil aromatic:** Aciditate vie și note de fructe de pădure (afine, coacăze roșii, cranberry) în prim-plan; note de ceai verde și o tanacitate ușor astringentă în mijloc; o iuțeală moderată și persistentă, fără debut brusc. Guajillo este singurul ardei din triadă cu un profil predominant acid-fructat — o trăsătură care îl diferențiază fundamental de profilul dulce-cald al anchoului sau de profunzimea pământoasă a pasillei și mulato-ului.
+**Profilul aromatic:** Fructat și acid, cu note de **coacăze, afine și ceai verde** — un profil caracterizat consistent în surse multiple. PepperScale descrie: *„fructat și ușor acid (cu note de afine și ceai)"*[^PepperScaleGuajillo]; Broke Bank Vegan adaugă: *„dulceață fructată cu note de fructe de pădure și o subtilă notă afumată care adaugă profunzime"*.[^BrokeBankVegan] Această componentă de ceai verde-acid este specifică guajillo-ului și nu apare în profilul altor ardei uscați mexicani documentați în proiect.
 
-Pielea relativ netedă și subțire permite hidratarea rapidă și extracția eficientă a pigmenților roșii intensi — guajillo furnizează culoarea caracteristică roșu-cărămizie a multor sosuri mexicane clasice.
-
----
-
-## Morfologie detaliată a plantei (mirasol)
-
-**Planta:**
-
-Compactă spre medie, 60–90 cm înălțime, cu habitus erect specific. Frunze verzi-mediu, standard *C. annuum*. Florile sunt albe, fără pete. Fructele cresc erect, cu vârful îndreptat în sus — orientare care a dat denumirea *mirasol* și care este o trăsătură morfologică stabilă a acestei linii varietale.
-
-**Fructul (mirasol proaspăt):**
-
-- Lungime: 8–12 cm; diametru: 1,5–2,5 cm — alungit, conic, subțire
-- Culoare: verde → roșu intens la maturitate
-- Pericarp subțire spre mediu; suprafată netedă, lucioasă
-- Orientare erectă pe plantă
-
-**Fructul uscat (guajillo):**
-
-- Lungime: 10–15 cm; lățime: 2–3 cm
-- Culoare roșu-vișiniu intens, cu pielea semi-lăcuită
-- Suprafată mai netedă față de anchoul sau pasilla — trăsătură de identificare rapidă
-- Pliabil la calitate bună; pielea se înmoaie rapid la hidratare
+Față de Ancho: guajillo este mai iute, mai acid, mai fructat — mai puțin terestr și mai puțin dulce. Față de Pasilla: guajillo este mai fructat și mai luminos; pasilla este mai terestr și cu note de stafide.
 
 ---
 
-## Cultivare — note specifice
+## Morfologie
 
-**Germinarea:** Temperatura optimă 22–26°C, durată 7–14 zile.
+**Fructul uscat:** Forma sa lungă și îngustă este caracterul morfologic diagnostic față de Ancho (lat-inimă) și Cascabel (sferic). Suprafața netedă și lucioasă, de culoare roșu-mahon, este distinctă față de pieliță ridată a anchoului. Pieliță pliabilă când este proaspăt uscat — indicator de calitate. Guajillo oxidat devine casant și pierde aroma în 2 luni.
 
-**Durata până la maturitate:** 70–80 de zile de la transplantare până la roșu matur.
+---
 
-**Expunere solară:** Lumină directă integrală. Adaptare documentată la climatele semiaride ale nordului Mexicului — toleranță la secetă mai bună decât poblano.
+## Guajillo ca ardelul culorii
 
-**Sol:** Fertil spre mediu, bine drenat. Cultivat extensiv în zonele semiaride din Zacatecas și Durango, ceea ce sugerează o toleranță la sol mai puțin fertil față de varietățile mai pretențioase.
+Specialty Produce documentează explicit că *„capsantina și capsorubina concentrate în pericarpul guajillo-ului uscat produc una dintre cele mai intense culori roșii din toți ardeii uscați mexicani"*.[^SpecProdGuajillo] Această proprietate colorantă face din guajillo un ingredient industrial important: extractele de guajillo sunt utilizate ca coloranți naturali în industria alimentară pentru sosuri, marinate și preparate procesate unde intensitatea culorii roșii este cerință de specificație.
 
-**Uscarea:** La soare sau la aer, natural, câteva săptămâni. Pielea subțire facilitează uscarea rapidă și uniformă.
+---
 
-### Varietăți principale
+## Guajillo în Trinitatea mexicană — versiunea nordică
 
-Există două tipuri principale de guajillo în cultivare comercială mexicană:
-
-**Guajillo mare** (*Guajillo largo*): 10–15 cm lungime, mai lat; furnizează mai multă pulpă, aromă mai blândă; tipul standard în exporturi.
-
-**Guajillo Puya** (*chile puya*): mai mic (6–10 cm), mai îngust; mai iute (5.000–8.000 SHU); utilizat de bucătarii mexicani care vor iuțeala guajillo-ului cu mai puțin volum.
+PepperScale documentează că guajillo face parte dintr-o versiune a Trinității mexicane a ardeilor uscați: **Ancho + Pasilla + Guajillo** — utilizată în mole-ul din nordul Mexicului și în bucătăria texano-mexicană, diferită de triada Ancho + Mulato + Pasilla din bucătăria oaxacană.[^PepperScaleGuajillo] Guajillo este cel mai iute dintre cele trei și contribuie luminozitatea fructată și culoarea roșie saturată care balansează dulceața anchoului și adâncimea pasillei.
 
 ---
 
 ## Utilizări culinare
 
-**Mole negro oaxacan și mole rojo:** Guajillo furnizează culoarea roșie intensă și aciditatea în mole-urile care necesită luminozitate față de versiunile exclusiv cu anchouri și mulato.
+**Adobo:** Marinată pe bază de guajillo rehidratat și blendizat cu usturoi, oțet, condimente și oregano. Baza aromatică standard pentru carnitas, chile colorado și preparate de porc din nordul Mexicului.
 
-**Adobo:** Marinata clasică de adobo mexican (usturoi, oregano, oțet, ardei uscați) utilizează guajillo ca sursă principală de culoare și aciditate.
+**Salsa roja:** Guajillo rehidratat cu tomate, usturoi și condimente — sosul roșu de bază al bucătăriei mexicane de zi cu zi.
 
-**Enchilada sauce:** Guajillo + ancho este combinația de bază a celui mai comun sos roșu de enchiladas din bucătăria mexicană contemporană.
+**Enchilada sauce:** Guajillo este ingredientul principal al sosului roșu autentic pentru enchiladas — culoarea saturată și aciditatea luminoasă sunt contribuțiile definitorii.
 
-**Pozole rojo, birria, carnitas:** Guajillo apare consecvent în sosurile roșii ale preparatelor mexicane lente.
+**Birria:** Tocăniță de capră sau vită cu guajillo și condimente — preparatul iconic din Jalisco, popular global în varianta tacos de birria.
 
-**Salsa guajillo:** Ardeii hidratați, prăjiți și blendați cu usturoi și sare produc o salsă cu culoare aprinsă și aciditate clară — una dintre cele mai simple și mai eficiente salse mexicane de gătit.
+**Mole:** Guajillo în triada nordică — Ancho + Pasilla + Guajillo.
+
+**Toasting înainte de rehidratare:** Guajillo se prăjește uscat în tigaie 20–30 de secunde pe fiecare parte înainte de înmuiere în apă caldă — procesul intensifică aroma. Atenție: prăjit prea mult devine amar.
 
 ---
 
-## Confuzii nomenclaturale — notă
+## Cultivare — notă
 
-**Guajillo vs. Mirasol peruan (Ají Mirasol):** Termenul *mirasol* se referă în Mexic la fructul proaspăt al guajillo. În Peru, *ají mirasol* desemnează *Capsicum baccatum* (ají amarillo) uscat la soare — specii și profiluri complet diferite. Confuzia este posibilă la nivel de denumire în contexte internaționale.
-
-**Guajillo vs. Ancho:** Adesea confundați sau utilizați interschimbabil în rețete anglofone. Guajillo este mai lung, mai subțire, mai roșu și mai acid; anchoul este mai lat, mai întunecat și mai dulce. Înlocuirea funcționează parțial în sosuri complexe, dar modifică profilul de culoare și aciditate.
-
-**Guajillo vs. Puya:** Puya este un guajillo mai mic și mai iute — nu un alt ardei, ci o selecție a aceleiași linii varietale. Sunt uneori confundați și comercializați ambii sub eticheta „guajillo".
+Guajillo nu se cultivă ca ingredient distinct față de Mirasol — este Mirasol-ul elongat uscat. Producția comercială este concentrată în Zacatecas — principalul stat producător al Mexicului.
 
 ---
 
 ## Bibliografie
 
-- Wikipedia. *Guajillo chili*. en.wikipedia.org. Accesat mai 2026. <https://en.wikipedia.org/wiki/Guajillo_chili>
-- Spices Inc. *What Are Guajillo Chiles*. spicesinc.com. Accesat mai 2026. <https://spicesinc.com/blogs/what-are-guajillo-chiles>
-- Specialty Produce. *Dried Guajillo Chile Peppers Information and Facts*. specialtyproduce.com. Accesat mai 2026. <https://specialtyproduce.com/produce/Dried_Guajillo_Chile_Peppers_794.php>
-- Chili Pepper Madness. *Mirasol Peppers*. chilipeppermadness.com. Accesat mai 2026. <https://www.chilipeppermadness.com/chili-pepper-types/sweet-mild-chili-peppers/mirasol-chili-peppers/>
-- Know The Pepper. *Ancho, Guajillo & Pasilla: The Holy Trinity*. knowthepepper.com. Accesat mai 2026. <https://knowthepepper.com/guides/mexican-dried-chile-trinity/>
-- Bosland, P.W. & Votava, E.J. (2012). *Peppers: Vegetable and Spice Capsicums*. 2nd ed. CABI Publishing.
+[^Bosland2012]: Bosland, P.W. & Votava, E.J. (2012). *Peppers: Vegetable and Spice Capsicums*. CABI Publishing.
+[^WikiGuajillo]: Wikipedia contributors. *Guajillo chili*. Wikipedia, The Free Encyclopedia. <https://en.wikipedia.org/wiki/Guajillo_chili>
+[^SpecProdGuajillo]: Specialty Produce. *Dried Guajillo Chile Peppers Information and Facts*. <https://specialtyproduce.com/produce/Dried_Guajillo_Chile_Peppers_794.php>
+[^PepperScaleGuajillo]: PepperScale. *Guajillo Pepper Guide: Heat, Flavor, Pairings, And More*. <https://pepperscale.com/guajillo-pepper/>
+[^WoodlandFoods]: Woodland Foods. *Whole Guajillo Chiles*. (Origine nahuatl *huaxin*, utilizare aztecă rituală). <https://shop.woodlandfoods.com/products/whole-guajillo-chiles-/c-23/p-15995>
+[^Grokipedia]: Grokipedia. *Guajillo chili*. (10–15 cm, climat semi-arid). <https://grokipedia.com/page/Guajillo_chili>
+[^BrokeBankVegan]: Broke Bank Vegan. *Chile Guajillo Guide*. <https://brokebankvegan.com/chile-guajillo/>

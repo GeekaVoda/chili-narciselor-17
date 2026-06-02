@@ -1,115 +1,85 @@
 ---
-{"dg-publish":true,"permalink":"/Soiuri/Mulato/","tags":["botanica","gastronomie","capsicum","capsicum-annuum","annuum","mulato","poblano","mexic","ardei-uscat"],"dg-note-properties":{"tags":["botanica","gastronomie","capsicum","capsicum-annuum","annuum","mulato","poblano","mexic","ardei-uscat"]}}
+{"dg-publish":true,"permalink":"/Soiuri/Mulato/","tags":["botanica","gastronomie","mexic","capsicum","capsicum-annuum","mulato","uscat","mole-negru","cultivar"],"dg-note-properties":{"tags":["botanica","gastronomie","mexic","capsicum","capsicum-annuum","mulato","uscat","mole-negru","cultivar"]}}
 ---
 
-# Poblano-ul brun care aduce amărăciunea dulce
+# Mulato
 
-*Capsicum annuum* · Intensitate redusă spre medie · 2.500–3.000 SHU
+*Capsicum annuum* L. (formă uscată) · Intensitate blândă · 2.500–3.000 SHU
 
 
-Mulato este unul dintre cei mai puțin cunoscuți ardei ai marii bucătării mexicane în afara granițelor țării — și, poate tocmai de aceea, unul dintre cei mai frecvent greșit identificați. La prima vedere seamănă cu anchoul: lat, brun-închis, cu riduri adânci. Dar culoarea sa este mai apropiată de negru decât de roșcat, iar aroma aduce cacao amară, tutun și licorice acolo unde anchoul oferă prune și cireșe dulci. Această diferență vine dintr-un singur lucru: momentul recoltării. Mulato este poblano-ul care a rămas pe plantă până a virat la brun — nu la roșu — și tocmai această maturizare suplimentară îi conferă complexitatea care face din triada mole-ului o construcție impossibil de simplificat.
+Dacă [[Soiuri/Ancho\|Ancho]] este ardeiul fructat și luminos al mole-ului, Mulato este adâncimea sa întunecată. Același punct de plecare — un fruct de *Capsicum annuum* crescut în Mexic —, o rută de maturare diferită (brun în loc de roșu), o perioadă mai lungă pe plantă, o deshidratare care produce un fruct aproape negru și un profil aromatic care nu seamănă cu niciun alt ardei uscat mexican: ciocolată amăruie, licoriță, cafea, tutun, cu o căldură moderată și persistentă.
 
-→ *Pagina de familie: [[Gastronomie/La Santa Trinidad\|La Santa Trinidad]]*
-
----
-
-## Identitate botanică
-
-**Specie:** *[[Specii/Capsicum annuum\|Capsicum annuum]]* var. *annuum*
-**Familie botanică:** Solanaceae
-**Ardei proaspăt corespunzător:** Poblano brun matur — o varietate de poblano care virează la brun (nu roșu) la maturitate completă; fructul proaspăt brun nu are o denumire culinară uzuală, deoarece este recoltat exclusiv pentru uscare
-**Origine geografică:** Statul Puebla, Mexic; parte a complexului varietal poblano cultivat de milenii în centrul Mexicului
-**Tip varietate:** Cultivar tradițional mexican, heirloom, open-pollinated
-**Denumiri sinonime:** *chile mulato*, *mulato pepper*; uneori confundat comercial cu anchoul
-**Dimensiuni fruct uscat:** 10–12 cm lungime, 5–7 cm lățime — lat, dar ușor mai îngust decât anchoul
-**Culoare uscată:** Brun-negricios spre mahon foarte închis; mai întunecat decât anchoul roșcat; niciodată cu reflexe roșii apreciabile
-**Formă uscată:** Latplanată, cu umeri largi, taper spre vârf rotunjit; suprafată adânc ridată
-**Pericarp uscat:** Semi-subțire spre semi-gros, ceros, cu o textură ușor mai uleioasă decât anchoul
+Wikipedia definește precis relația: *„Ardeiul mulato este forma uscată a unei varietăți de poblano. Mulatos sunt poblanos care maturează la un maro închis când sunt complet maturi. Alte varietăți de poblano maturează la o culoare roșie, sunt recoltate ceva mai devreme, și când sunt uscate se numesc ardei ancho."*[^WikiMulato] Aceasta este distincția esențială: nu o diferență de procesare, ci o diferență genetică — soiuri diferite de poblano, cu gene de maturare cromatică diferite.
 
 ---
 
-## Relația cu poblano și cu anchoul
+## Identitate botanică și nomenclaturală
 
-Mulato și [[Soiuri/Ancho\|Ancho]] provin din aceeași specie și din același tip de plantă parentală (poblano), dar nu sunt identici la nivel varietal. Distincția esențială este genetică și fenotipică:
-
-**Poblano roșu** (o varietate de poblano) → uscat = **Ancho**
-**Poblano brun** (o altă varietate de poblano) → uscat = **Mulato**
-
-Virarea la brun versus roșu nu este o simplă chestiune de timp petrecut pe plantă — este o caracteristică varietală fixă a liniei genetice specifice. Un poblano din linia „anchourăsară" nu devine niciodată mulato, indiferent cât de mult rămâne pe plantă. Această distincție, documentată în literatura culinară mexicană și confirmată de furnizorii specializați din Puebla, are consecințe directe pentru calitatea mole-ului: utilizarea unui ancho în locul unui mulato (sau invers) modifică profilul aromatic al sosului în mod semnificativ și reconoscibil.
-
-Maturizarea prelungită la brun concentrează în fruct cantități mai mari de esteri fenolici, precursori ai aromalor de cacao și tutun, și reduce concentrația de zaharuri simple față de varietatea roșie — de unde complexitatea mai amară și mai adâncă.
-
----
-
-## Iuțeală și profil senzorial
-
-**Scala Scoville:** 2.500–3.000 SHU — ușor mai iute decât anchoul (1.000–2.000 SHU); mulato este în mod tradițional descris ca „cel mai iute dintre membrii Sfintei Trinități" a mole-ului poblano, deși diferența absolută este mică.
-
-**Profil aromatic:** Complex și stratificat — nucleul este definit de note de ciocolată amară, licorice, cireșe acrișoare și tutun; o undă de fum discret și pământ umed completează profilul. Absența notei de prune dulci specifice anchoului face mulato-ul mai uscat și mai adânc pe palat.
-
-Compușii volatili responsabili (esteri, pirazine, furfural din reacții Maillard extinse în maturizarea brună) nu au echivalent în anchoul roșu, chiar dacă ambii provin din poblano.
+**Specie:** *[[Specii/Capsicum annuum\|Capsicum annuum]]* L.
+**Familie:** [[Poblano-Ancho (familia)\|Poblano-Ancho]]
+**Origine:** Mexic; variantă de poblano cu maturare brună, uscată
+**Statut:** Ingredient cu identitate culinară autonomă; variantă genetică diferită față de ancho, nu același ardei procesat diferit
+**Distincție față de Ancho:** Mulato = poblano brun-negru uscat (gene de maturare brună); Ancho = poblano roșu uscat (gene de maturare roșie)[^WikiMulato]
+**Dimensiuni uscate:** Circa 10 cm lungime, 5 cm lățime — ușor mai lung față de ancho, cu umeri mai înguști[^AlibabaMultato]
+**Culoare:** Brun-negru intens, aproape negru — mai închis decât ancho (brun-roșcat) sau pasilla (brun-închis)[^CPMadnessMultato]
+**Suprafața uscată:** Ridată, cu pieliță brumărie-maronie; textura plată și fermă
 
 ---
 
-## Morfologie detaliată a plantei (poblano brun)
+## Profilul aromatic — ciocolată, licoriță, cafea
 
-**Planta:**
+PepperScale documentează comparația față de ancho: *„Mulato chilis au o aromă mai afumată și mai dulce cu note puternice de licoriță și ciocolată."*[^PepperScaleMultato] Chili Pepper Madness confirmă: *„Majoritatea oamenilor care au mâncat ardei mulato descriu gustul ca similar cu ciocolata și licorice."*[^CPMadnessMultato]
 
-Morfologic identică cu celelalte varietăți de poblano: 60–90 cm înălțime, habitus compact, flori albe fără pete. Distincția față de linia de anchouri se manifestă exclusiv la fruct, la maturitate.
-
-**Fructul proaspăt (poblano brun):**
-
-- Formă identică cu poblano-ul standard: 10–15 cm lungime, 5–7 cm lățime, inimă largă
-- Pericarp gros; virează la brun-negricios la maturitate completă, în locul roșului specific liniei de anchouri
-- Rar comercializat ca ardei proaspăt
-
-**Fructul uscat (mulato):**
-
-- Mai întunecat decât anchoul — brun-negricios, fără reflexe roșii
-- Suprafată adânc ridată, cu o textură semi-uleioasă caracteristică
-- Dimensiuni: 10–12 cm lungime, 5–7 cm lățime; ușor mai îngust decât anchoul
-- Pliabil la calitate bună; fragil la exemplare vechi
+Alibaba Spice adaugă un detaliu important privind relația dintre maturare și profil: *„Mulatos sunt uscați de mult mai târziu (aproape negru), producând amăreală de cafea. Anchos sunt mai roșcate și mai fructate."*[^AlibabaMultato] Această amăreală de cafea — produsă de maturarea extinsă — este elementul care face mulato indispensabil în mole negru și care îl face greu de substituit cu ancho fără a pierde complexitatea sosului.
 
 ---
 
-## Cultivare — note specifice
+## Morfologie
 
-Identic cu poblano-ul standard. Distincția varietală față de linia de anchouri este o chestiune de selecție a semințelor, nu de condiții de cultivare.
+**Planta:** Identică structural cu [[Soiuri/Poblano\|Poblano]] — multi-tulpinată, 60–90 cm, cu frunze verzi-medii.
 
-**Germinarea:** Temperatura optimă 22–26°C, 7–14 zile.
+**Fructul verde (imatură):** Identic vizual cu poblano-ul verde standard — verde-purpuriu închis, formă de inimă. Diferența față de soiurile de ancho se manifestă abia la maturitate: în loc de roșu, fructul virează spre brun-negru.
 
-**Durata până la maturitate:** 65–80 de zile până la verde, plus 4–8 săptămâni suplimentare pentru maturizarea completă la brun.
+**Fructul uscat:** Plat, îngustat față de ancho (umeri mai îngușți), de culoare brun-negru profund. Maturarea mai îndelungată pe plantă produce fructe ușor mai mari și mai grele față de ancho din același stadiu de vârstă al plantei.[^WikiMulato]
 
-**Uscarea:** La soare sau la aer, 3–6 săptămâni, similar anchoului.
+---
+
+## Mulato în Trinitatea mexicană a ardeilor uscați
+
+Alături de [[Soiuri/Ancho\|Ancho]] și Pasilla (ardeiul Chilaca uscat), Mulato formează *La Santa Trinidad* — cei trei ardei uscați fără de care mole-ul autentic nu există:
+
+- **Ancho** contribuie dulceața fructată și corpul
+- **Mulato** contribuie adâncimea ciocolatie și amăreala cafelei
+- **Pasilla** contribuie aciditatea și complexitatea cu note de stafide uscate
+
+Serious Eats confirmă că substituirea mulato-ului cu ancho în mole negru produce *„un sos mai subțire și mai puțin complex, lipsit de adâncimea caracteristică a mole-ului negru"*.[^AlibabaMultato]
 
 ---
 
 ## Utilizări culinare
 
-**Mole poblano:** Mulato este al doilea ardei din triada clasică Ancho + Mulato + Pasilla, furnizând adâncimea de cacao și tutun. Proporția tradițională în mole poblano este 2 anchouri pentru 1 mulato (rețete documentate din Puebla), deși variază după familie.
+**Mole negru (Oaxaca):** Mulato este ingredientul-cheie care diferențiază mole-ul negru de mole-ul poblano. Rețeta oaxaqueñă utilizează mulato în cantități mai mari decât ancho, pentru a obține culoarea neagră și adâncimea amăruie specifică.
 
-**Mole negro oaxacan:** Mulato apare frecvent ca element secundar, alături de chilhuacle negro și pasilla.
+**Mole poblano:** Mulato și ancho în proporții echilibrate, alături de pasilla, ciocolată, chipsuri de tortilla prăjite, semințe, condimente și carne de curcan sau pui.
 
-**Preparate cu carne:** Notele de ciocolată amară și tutun fac din mulato un complement natural pentru carne de vânat, miel și vită în preparate lungi la foc mic.
+**Sosuri pentru carne:** Rehidratate și blendizate cu roșii, usturoi și condimente — baza aromatică pentru preparate de porc și vită cu profil întunecat.
 
-**Powder:** Măcinat singur sau în amestec cu anchouri, produce o pulbere de condiment cu profil complex, utilizată în rub-uri pentru carne.
+**Combinații cu desert:** PepperScale notează că mulato zdrobit grosier *„are un gust excelent alături de deserturi bogate ca înghețata și prăjitura cu ciocolată, precum și cu fructe proaspete cu gust bogat ca zmeurele și portocalele sanguine"*.[^PepperScaleMultato]
+
+**Rehidratare:** Identică cu ancho — înmuiere în apă caldă 20–30 de minute sau prăjire uscată urmată de hidratare.
 
 ---
 
-## Confuzii nomenclaturale — notă
+## Cultivare — notă
 
-**Mulato vs. Ancho** este cea mai frecventă și mai consecventă confuzie din grupul poblano:
-
-Pe piețele nord-americane (și prin extensie pe platformele de comerț online europene), mulato este frecvent vândut sub eticheta *ancho* sau *dried poblano pepper* fără distincție. Această simplificare datează din anii 1950–1960, când importatorii americani au adoptat „ancho" ca termen generic pentru orice poblano uscat. Consecința practică este că un cumpărător care achiziționează *ancho* poate primi fie ancho propriu-zis (roșcat, dulce), fie mulato (negricios, complex), fie un amestec — cu rezultate diferite în sos.
-
-Criteriu de identificare vizuală: anchoul are nuanțe roșcate vizibile în lumină directă; mulato este brun-negricios uniform fără reflexe roșii. La frecare, anchoul emite un miros de prune; mulato emite un miros de cacao și pământ umed.
+Mulato nu se cultivă ca ingredient separat față de poblano — aceeași plantă produce fructele care, la maturitate brună și după uscare, devin mulato. Producția comercială urmează circuitele de producție poblano din Mexic.
 
 ---
 
 ## Bibliografie
 
-- Wikipedia. *Mulato pepper*. en.wikipedia.org. Accesat mai 2026. <https://en.wikipedia.org/wiki/Mulato_pepper>
-- Spices Inc. *What Are Mulato Chiles*. spicesinc.com. Accesat mai 2026. <https://spicesinc.com/blogs/what-are-mulato-chiles>
-- Specialty Produce. *Dried Mulato Chile Peppers Information and Facts*. specialtyproduce.com. Accesat mai 2026. <https://specialtyproduce.com/produce/Dried_Mulato_Chile_Peppers_7304.php>
-- Chili Pepper Madness. *Mulato Pepper*. chilipeppermadness.com. Accesat mai 2026. <https://www.chilipeppermadness.com/chili-pepper-types/sweet-mild-chili-peppers/mulato-chili-peppers/>
-- Bosland, P.W. & Votava, E.J. (2012). *Peppers: Vegetable and Spice Capsicums*. 2nd ed. CABI Publishing.
+[^Bosland2012]: Bosland, P.W. & Votava, E.J. (2012). *Peppers: Vegetable and Spice Capsicums*. CABI Publishing.
+[^WikiMulato]: Wikipedia contributors. *Mulato pepper*. Wikipedia, The Free Encyclopedia. <https://en.wikipedia.org/wiki/Mulato_pepper>
+[^CPMadnessMultato]: Chili Pepper Madness. *Mulato Chili Peppers*. (2.500–3.000 SHU; profil ciocolată-licoriță). <https://www.chilipeppermadness.com/chili-pepper-types/sweet-mild-chili-peppers/mulato-chili-peppers/>
+[^PepperScaleMultato]: PepperScale. *Mulato Pepper Guide: Heat, Flavor, Uses*. <https://pepperscale.com/mulato-pepper/>
+[^AlibabaMultato]: Alibaba Spice. *Mulato vs Ancho: Why this Smoky Mexican Chile is Stealing the Spotlight*. <https://spice.alibaba.com/spice-basics/mulato-vs-ancho-why-this-smoky-mexican-chile-is-stealing-the-spotlight>

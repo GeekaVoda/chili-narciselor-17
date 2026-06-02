@@ -227,7 +227,7 @@ Succesorul direct al Carolina Reaper, creat de același selecționer — Ed Curl
 
 ---
 
-### Familia [[Soiuri/Primotalii (familie)\|Primotalii]]
+### Familia [[Primotalii (familie)\|Primotalii]]
 *Cultivar canonic: [[Soiuri/Primotalii Red\|Primotalii Red]]*
 *Notă: hibrid C. chinense — 7 Pot Primo × Fatalii, Chris Saunders, 2012*
 

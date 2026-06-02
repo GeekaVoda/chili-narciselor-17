@@ -1,121 +1,82 @@
 ---
-{"dg-publish":true,"permalink":"/Soiuri/Tiburon/","tags":["botanica","gastronomie","mexic","capsicum","capsicum-annuum","poblano","tiburon","cultivar"],"dg-note-properties":{"tags":["botanica","gastronomie","mexic","capsicum","capsicum-annuum","poblano","tiburon","cultivar"]}}
+{"dg-publish":true,"permalink":"/Soiuri/Tiburon/","tags":["botanica","gastronomie","capsicum","capsicum-annuum","poblano","tiburon","hibrid-f1","cultivar"],"dg-note-properties":{"tags":["botanica","gastronomie","capsicum","capsicum-annuum","poblano","tiburon","hibrid-f1","cultivar"]}}
 ---
 
-# Ardeiul rezistent al industriei
+# Tiburon
 
-*Capsicum annuum* · Intensitate joasă · 1.000–2.000 SHU
+*Capsicum annuum* L. 'Tiburon' F1 · Intensitate blândă · 1.000–2.000 SHU
 
 
-Tiburon — „rechin" în spaniolă — este cultivarul care a rezolvat pentru familia [[Soiuri/Poblano Ancho (familia)\|Poblano-Ancho]] aceeași problemă pe care [[Soiuri/Charleston Hot\|Charleston Hot]] a rezolvat-o pentru familia Cayenne: cum să obții un ardei cu profilul morfologic și culinar al liniei tradiționale, dar cu o rezistență documentată la patogenii care decimează culturile intensive. Selecționat și înregistrat de **semănătorile comerciale americane** în colaborare cu cercetători din California și Texas, Tiburon este liderul de piață al segmentului Poblano în producția industrială din sud-vestul Statelor Unite.[^Bosland2012]
+*Tiburón* înseamnă în spaniolă *rechin* — un nume care evocă mai degrabă agresivitate decât blândețe, mai mult ocean decât câmpiile fertile ale Pueblei. Hibridul F1 care poartă acest nume nu este agresiv în niciun sens culinar, dar este documentat consistent ca unul dintre cele mai productive soiuri de poblano disponibile comercial: fructe de până la 18 cm (7 inch) — mari față de poblano-ul standard de 10–15 cm —, randamente ridicate pe sezon și o rezistență la patogeni documentată care îl face recomandat de Extensia Oregon State University printre *„soiurile bune pentru condițiile de cultivare din Oregon"*.[^OSU]
 
-Denumirea evocă robustețea — un rechin în marea culturilor intensive, rezistent la loviturile pe care patogenii le aplică soiurilor tradiționale susceptibile. Nu este un cultivar cu o poveste romantică sau cu rădăcini în tradiția culinară mexicană de secole. Este un instrument agronomic precis, creat pentru a produce un ardei Poblano comercial viabil în condiții de presiune patogenică ridicată.
+LSU AgCenter îl menționează explicit ca una dintre liniile recomandate pentru producția de ardei ancho în Louisiana, alături de Ancho 101, San Juan și San Martin — o confirmare a adaptabilității sale la climele umede din sudul SUA, diferite de clima uscată a Pueblei.[^LSUAgCenter]
 
 ---
 
 ## Identitate botanică
 
-**Specie:** *[[Specii/Capsicum annuum\|Capsicum annuum]]*
-**Familie:** [[Soiuri/Poblano Ancho (familia)\|Poblano-Ancho]]
-**Tip:** Cultivar comercial F1 (hibrid de prima generație) — nu se reproduce fidel prin semințe
-**Origine:** Selecție comercială americană — California și Texas
-**Dimensiuni fruct:** 12–16 cm lungime, 7–10 cm lățime — dimensiuni mari, standardizate
-**Culoare la maturitate tehnică:** Verde-închis mat, uniform
-**Formă:** Cordiformă, cu umeri largi și simetrici — mai uniformă față de liniile tradiționale
-**Suprafața fructului:** Netedă, fără lobări sau depresiuni neregulate
-**Semințe:** Crem-gălbui, standard pentru specie
+**Specie:** *[[Specii/Capsicum annuum\|Capsicum annuum]]* L.
+**Familie:** [[Poblano-Ancho (familia)\|Poblano-Ancho]]
+**Origine:** Hibrid F1 comercial; producătorul original nu este identificat explicit în sursele disponibile
+**Statut genetic:** Hibrid F1 — semințele nu reproduc fidel caracterele parentale; achiziție anuală necesară
+**Dimensiuni fruct:** 15–18 cm (6–7 inch) lungime, 6–9 cm (2,5–3,5 inch) lățime — printre cele mai mari poblano-uri documentate comercial[^CPMadnessTiburon][^WESeeds]
+**Culoare la maturitate:** Verde-închis intens de la stadii timpurii → roșu la maturitate deplină
+**Suprafața fructului:** Lucioasă, netedă, cu 3 lobi; verde-închis chiar și în stadiile imature timpurii — mai saturat față de alte soiuri[^Seedway]
+**Pericarp:** Mediu-gros; potrivit atât pentru consum proaspăt cât și pentru uscare și uscare în ancho
+**Rezistență documentată:** Mozaic viral (Mosaic Virus)[^WESeeds]
+**Maturitate:** 65–80 zile de la transplantare[^WESeeds][^CPMadnessTiburon]
 
 ---
 
 ## Iuțeală și profil senzorial
 
-**Scala Scoville:** 1.000–2.000 SHU — identică cu [[Soiuri/Poblano\|Poblano]] tradițional, confirmând că selecția pentru rezistență nu a modificat profilul de iuțeală.[^Bosland2012]
+**Scala Scoville:** 1.000–2.000 SHU — intervalul standard al familiei poblano.[^WESeeds][^CPMadnessTiburon]
 
-**Profil aromatic:** Vegetal curat, similar Poblano-ului tradițional — ușor mai neutru față de liniile tradiționale cu variabilitate genetică mai mare, o consecință a stabilizării genetice mai riguroase a cultivarului hibrid. Profilul este reproductibil și predictibil de la un lot la altul — o calitate esențială pentru industria alimentară.
-
----
-
-## Rezistențele la patogeni — elementul definitoriu
-
-**Rezistența la TMV (rasele 0, 1, 2, 3):**
-
-Tiburon poartă gena de rezistență **L4** — superioară genei L3 prezente la [[Soiuri/Charleston Hot\|Charleston Hot]], acoperind și rasa 3 a virusului mozaicului tutunului, care a devenit dominantă în unele zone din California și Texas în urma selecției negative exercitate de utilizarea soiurilor cu rezistență L3. Această acoperire mai largă față de rasele virusale este un avantaj semnificativ în zonele cu presiune virală intensă și istorică.[^Bosland2012]
-
-**Rezistența la *Phytophthora capsici*:**
-
-Rezistență parțială documentată față de ciuperca de sol care produce ofilirea și moartea rapidă a plantelor în condiții de umiditate excesivă. Mai eficientă decât rezistența [[Soiuri/Magnifico\|Magnifico]], dar nu absolută — managementul drenajului solului rămâne esențial chiar la Tiburon.
-
-**Rezistența la *Xanthomonas campestris* pv. *vesicatoria* (pătarea bacteriană):**
-
-O rezistență parțială față de bacteria care produce pete necrotice pe frunze și fructe — relevantă în climatele cu umiditate ridicată și precipitații frecvente din California centrală și Texas de Sud.
+**Profilul aromatic:** Identic cu poblano-ul standard — terestr, ușor afumat în stare proaspătă; mai dulce și mai complex când este copt. Dimensiunile mai mari față de poblano standard nu modifică profilul senzorial de bază — iuțeala și aroma sunt distribuite în toată masa pericarpului, iar concentrația rămâne similară.
 
 ---
 
-## Statutul de hibrid F1 — implicații practice
+## Morfologie
 
-Tiburon este un **hibrid F1** — obținut prin încrucișarea controlată a două linii parentale pure, producând o generație de plante cu caractere superioare (vigor hibrid, uniformitate, rezistențe). Această origine are implicații practice importante pentru cultivatori:
+**Planta:** Înaltă, 75–90 cm (30–36 inch), viguroasă, cu ramificare bună.[^HOSS] Seedway documentează că Tiburon prezintă *„set fiabil, timpuriu pentru tip, și cele mai ridicate randamente disponibile"* — un rezumat concis al caracterelor agronomice definitorii.[^Seedway]
 
-**Avantaje:**
-
-- **Uniformitate maximă:** Toate plantele din lot sunt genetic identice — dimensiunile fructelor, culoarea, forma și iuțeala sunt extrem de uniforme față de soiurile de polenizare liberă.
-- **Vigor hibrid (*heterosis*):** Plantele F1 tind să fie mai viguroase, cu o creștere mai rapidă și o producție mai ridicată față de liniile parentale pure.
-- **Rezistențe stabile:** Rezistențele la patogeni sunt programate genetic și stabile în întreaga populație — nu există variabilitate de lot în privința rezistenței.
-
-**Dezavantaje:**
-
-- **Semințele nu se reproduc fidel:** Semințele recoltate din fructele de Tiburon produc în generația F2 o segregare a caracterelor parentale — plante cu caractere mixte, neuniforme, fără rezistențele garantate ale parentului F1.
-- **Dependența de producătorul de semințe:** Cultivatorii trebuie să cumpere semințe noi în fiecare sezon — nu pot produce propriul material săditor.
-- **Costul mai ridicat al semințelor:** Semințele hibride F1 sunt semnificativ mai scumpe față de soiurile de polenizare liberă.[^Bosland2012]
+**Fructul:** Dimensiunile de până la 7 inch (18 cm) plasează Tiburon în categoria poblano-urilor extra-large — aceeași categorie cu Masivo și cu soiurile tip Ancho Villa. Forma cu 3 lobi este caracteristică poblano-ului și facilitează curățarea după coacere. WESeeds descrie fructele ca *„în formă de corn, cu 3 lobi, cu pereți foarte groși, lucios, neted și mai mare decât se așteaptă, ajungând până la 7 inch"*.[^WESeeds]
 
 ---
 
-## Morfologie detaliată
+## Tiburon în producția comercială
 
-**Planta:**
+OSU Extension documentează Tiburon ca una dintre variantele recomandate pentru cultivatorii comerciali din Oregon care produc poblano/ancho pentru piețele hispanice din nord-vestul SUA.[^OSU] LSU AgCenter recomandă explicit Tiburon pentru producătorii din Louisiana care doresc să cultive ardei tip ancho — o utilizare care implică uscarea fructelor roșii mature.[^LSUAgCenter]
 
-Viguroasă și uniformă — o consecință directă a vigorului hibrid. Înălțimea variază între 70–100 cm, cu o structură ramificată bine echilibrată. Foliajul este dens și verde-intens, oferind o bună protecție a fructelor față de arsura solară directă.
-
-**Fructul:**
-
-Cel mai uniform morfologic din familie — variația de dimensiune și formă între fructe din același lot este minimă față de liniile tradiționale cu variabilitate genetică mai mare.
-
-- Lungime: 12–16 cm, mai mare față de media liniilor tradiționale.
-- Lățime: 7–10 cm la umeri — umeri largi și simetrici, fără lobări sau deformări.
-- Pericarpul: 6–9 mm — gros și cărnos, similar sau superior liniilor tradiționale, produs de vigorul hibrid.
-- Suprafața netedă, fără depresiunile și neregularitățile prezente la liniile tradiționale — preferată în retail pentru aspectul vizual mai îngrijit.
-
----
-
-## Cultivare — note specifice
-
-**Germinarea:** Temperatura optimă 22–26°C, durată 8–12 zile — ușor mai rapidă față de liniile tradiționale, o consecință a vigorului hibrid.
-
-**Durata până la maturitate:** 60–75 de zile de la transplantare până la verde-închis recoltabil — mai rapid față de liniile tradiționale, permițând recoltări mai timpurii și cicluri de producție mai scurte.
-
-**Compatibilitate cu mecanizarea:** Uniformitatea morfologică și vigoarea plantei fac Tiburon optim pentru culturile mecanizate — recoltarea cu mașini este mai eficientă față de soiurile cu variabilitate mare de formă și dimensiune.
-
-**Densitatea de plantare:** Permite densități de 30.000–50.000 de plante per hectar în culturile intensive, cu management corespunzător al irigării și fertilizării.
-
-**Producție per plantă:** 12–20 de fructe pe sezon — mai ridicată față de liniile tradiționale, datorită vigorului hibrid și rezistenței la boli care mențin sănătatea plantei pe întreaga durată a sezonului.
+Această dublă documentare — recomandare atât pentru consum proaspăt (chile rellenos) cât și pentru uscare (ancho) — confirmă versatilitatea cultivarului față de soiurile de poblano optimizate exclusiv pentru una dintre cele două utilizări.
 
 ---
 
 ## Utilizări culinare
 
-Profilul culinar este identic cu [[Soiuri/Poblano\|Poblano]] tradițional — Tiburon este cultivat pentru utilizări identice, nu pentru un profil senzorial distinct:
+- **Chile Relleno:** Dimensiunile extra-large facilitează umplerea generoasă — un avantaj față de soiurile mai mici unde raportul umplutura/ardei este mai redus.
+- **Uscat ca ancho:** HOSS documentează că *„dacă sunt lăsate să se matureze pe plantă și să se usuce, se numesc anchos"*.[^HOSS] Dimensiunile mari produc un ancho cu mai multă carne pe pod față de soiurile standard.
+- **Congelare:** Copt, curățat și congelat — procedura standard pentru conservare pe termen lung.
+- **Sosuri și salsas:** Prăjit și blendizat.
 
-- **Chile Relleno** — umplere și prăjire în ou bătut.
-- **Rajas con crema** — fâșii prăjite cu smântână.
-- **Procesare industrială** — feliat și conservat, sau prăjit și congelat pentru industria alimentară.
+---
 
-Dimensiunile mai mari față de media tradițională oferă un avantaj practic la umplere — capacitatea internă mai mare permite umpluturi mai generoase fără risc de rupere a pericarpului.
+## Cultivare
+
+**Germinare:** 22–28°C, 10–21 zile.
+**Maturitate verde:** 65 zile (WESeeds) — timpuriu față de poblano-ul standard heirloom (75–80 zile).[^WESeeds]
+**Rezistență:** Mozaic viral documentat.
+**Adaptabilitate:** Documentat ca productiv în climele umede din Oregon și Louisiana — condiții diferite de originea Puebla.[^OSU][^LSUAgCenter]
+**Producție:** *„Cele mai ridicate randamente disponibile"* pentru tip (Seedway).[^Seedway]
 
 ---
 
 ## Bibliografie
 
-[^Bosland2012]: Bosland, P.W. & Votava, E.J. (2012). *Peppers: Vegetable and Spice Capsicums*. CABI Publishing. [Referință pentru parametrii agronomici, rezistențele la patogeni și statutul de hibrid F1 al cultivarului Tiburon.]
-
-[^Andrews1995]: Andrews, J. (1995). *Peppers: The Domesticated Capsicums* (revised edition). University of Texas Press.
-
-[^USDA]: USDA FoodData Central. *Peppers, poblano, raw*. U.S. Department of Agriculture. <https://fdc.nal.usda.gov/>
+[^Bosland2012]: Bosland, P.W. & Votava, E.J. (2012). *Peppers: Vegetable and Spice Capsicums*. CABI Publishing.
+[^CPMadnessTiburon]: Chili Pepper Madness. *Tiburon Hybrid Chili Pepper*. (1.000–2.000 SHU; 5–7 inch; 70–80 zile). <https://www.chilipeppermadness.com/chili-pepper-types/tiburon-hybrid/>
+[^HOSS]: HOSS Tools. *Tiburon Poblano Pepper F1*. (7 inch, proaspăt = poblano, uscat = ancho). <https://growhoss.com/products/tiburon-poblano-pepper>
+[^WESeeds]: WESeeds. *Tiburon Hybrid Pepper Seeds*. (65 zile, rezistență Mosaic Virus, 7 inch, 3 lobi). <https://www.weseeds.com/tiburon-hybrid-pepper-seeds-p-2404.html/>
+[^Seedway]: Seedway. *Tiburon Poblano Pepper*. (Set fiabil, timpuriu, randamente maxime). <https://www.seedway.com/product/tiburon-poblano-pepper-treated-seed/>
+[^OSU]: OSU Extension Service. *Grow Your Own Peppers*. (Tiburon recomandat pentru Oregon). <https://extension.oregonstate.edu/catalog/ec-1227-grow-your-own-peppers>
+[^LSUAgCenter]: LSU AgCenter. *Peppers*. (Tiburon recomandat pentru producția de ancho în Louisiana). <https://www.lsuagcenter.com/~/media/system/5/5/6/4/55646c0ef9404ad2073c46b006e13b51/peppers%20rev%204-17%20lsupdf.pdf>
