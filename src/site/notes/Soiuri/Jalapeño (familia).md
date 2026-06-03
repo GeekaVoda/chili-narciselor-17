@@ -71,7 +71,7 @@ Familia jalapeño cuprinde cultivaruri cu origini și naturi fundamental diferit
 
 **[[Soiuri/Jalapeño Telica\|Jalapeño Telica]]** — Hibrid F1 comercial cu fructe extra-large de 12–14 cm — printre cele mai mari jalapeños comerciale documentate. Rezistență documentată la BLS, PVY și TMV. Denumit după vulcanul Telica din Nicaragua, unul dintre cei mai activi din America Centrală, cu 46 de erupții istorice documentate din 1527.
 
-**[[Soiuri/Jalapeño Variegated Mattapeno\|Jalapeño Variegated Mattapeno]]** — Mutant spontan descoperit de Matt O. într-o seră comercială americană; frunzaj și fructe imature cu mozaic alb-verde produs de o reducere a cloroplastelor în celulele afectate. Linie în curs de stabilizare genetică, distribuită informal prin MattsPeppers.com. Caracter ornamental proeminent.
+**[[Soiuri/Variegated Mattapeno\|Variegated Mattapeno]]** — Mutant spontan descoperit de Matt O. într-o seră comercială americană; frunzaj și fructe imature cu mozaic alb-verde produs de o reducere a cloroplastelor în celulele afectate. Linie în curs de stabilizare genetică, distribuită informal prin MattsPeppers.com. Caracter ornamental proeminent.
 
 ---
 

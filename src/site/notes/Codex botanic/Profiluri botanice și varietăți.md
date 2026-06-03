@@ -48,7 +48,7 @@ Cel mai cunoscut ardei iute la nivel global. Originar din statul Veracruz, Mexic
 - [[Soiuri/Jalapeño Early\|Jalapeño Early]]
 - [[Soiuri/Jalapeño Purple\|Jalapeño Purple]]
 - [[Soiuri/Jalapeño Telica\|Jalapeño Telica]]
-- [[Soiuri/Jalapeño Variegated Mattapeno\|Jalapeño Variegated Mattapeno]]
+- [[Soiuri/Variegated Mattapeno\|Variegated Mattapeno]]
 
 ---
 
