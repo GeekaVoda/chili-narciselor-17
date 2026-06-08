@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/Historia/File de istorie/","tags":["istorie","capsicum","ardei-iute","precolumbian","gastronomie","botanica"],"dg-note-properties":{"tags":["istorie","capsicum","ardei-iute","precolumbian","gastronomie","botanica"]}}
 ---
 
+
 # Ardeiul iute — opt milenii de prezență umană
 
 
@@ -23,7 +24,7 @@ Aceste date plasează domesticirea ardeiului iute printre cele mai timpurii din 
 
 Genetica modernă a confirmat că domesticirea nu s-a produs o singură dată, într-un singur loc. Cele cinci specii cultivate au origini geografice distincte — *C. annuum* în Mexic și America Centrală, *C. chinense* și *C. frutescens* în bazinul amazonian și în Caraibe, *C. baccatum* în văile boliviene, *C. pubescens* pe versanții andini înalți. Cinci domesticiri independente, pe un continent care nu știa de sine că este un continent.[^Kraft2014]
 
-![Evolutia domesticirii ardeilor.png](/img/user/Resurse/ChatGPT/Evolutia%20domesticirii%20ardeilor.png)
+![[Evolutia domesticirii ardeilor.png\|Evolutia domesticirii ardeilor.png]]
 
 ---
 
@@ -41,7 +42,7 @@ Ardeiul iute era prezent și în ritualurile aztece. Era oferit zeilor, era part
 
 Ceea ce unea toate aceste culturi era înțelegerea empirică a ceva pe care știința modernă l-a confirmat abia în secolul XX: ardeiul iute conservă alimentele, protejează împotriva infecțiilor bacteriene și furnizează vitamina C în cantități remarcabile. Nu știau de ce funcționează. Știau că funcționează.
 
-![Ardeiul ca ingredient antic.png](/img/user/Resurse/ChatGPT/Ardeiul%20ca%20ingredient%20antic.png)
+![[Ardeiul ca ingredient antic.png\|Ardeiul ca ingredient antic.png]]
 
 ---
 

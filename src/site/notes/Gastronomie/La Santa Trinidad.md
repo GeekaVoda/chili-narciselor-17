@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/Gastronomie/La Santa Trinidad/","tags":["botanica","gastronomie","capsicum","capsicum-annuum","mexic","triada","mole","ardei-uscati"],"dg-note-properties":{"tags":["botanica","gastronomie","capsicum","capsicum-annuum","mexic","triada","mole","ardei-uscati"]}}
 ---
 
+
 # Triada ardeilor mexicani uscați
 
 *Capsicum annuum* · Intensitate redusă spre medie · 1.000–5.000 SHU
@@ -25,10 +26,10 @@ Ambele configurații sunt reale, folosite simultan în bucătăria mexicană, ș
 
 | Ardei uscat | Ardei proaspăt | Specie | Origine | SHU | Profil aromatic dominant |
 |---|---|---|---|---|---|
-| [[Soiuri/Ancho\|Ancho]] | Poblano (roșu matur) | *C. annuum* | Puebla | 1.000–2.000 | Dulce, prune, cireșe uscate, cacao |
-| [[Soiuri/Mulato\|Mulato]] | Poblano (brun matur) | *C. annuum* | Puebla | 2.500–3.000 | Cacao, tutun, lemn dulce, cirese |
-| [[Soiuri/Pasilla Negro\|Pasilla Negro]] | [[Soiuri/Chilaca\|Chilaca]] | *C. annuum* | Guanajuato, Jalisco, Michoacán | 1.000–3.999 | Pământos, stafidă, anason, taninos |
-| [[Soiuri/Guajillo\|Guajillo]] | Mirasol | *C. annuum* | Zacatecas, Aguascalientes, Durango | 2.500–5.000 | Fructe de pădure, tea verde, taninos, aciditate |
+| [[Resurse/BKP_Soiuri/Ancho\|Ancho]] | Poblano (roșu matur) | *C. annuum* | Puebla | 1.000–2.000 | Dulce, prune, cireșe uscate, cacao |
+| [[Resurse/BKP_Soiuri/Mulato\|Mulato]] | Poblano (brun matur) | *C. annuum* | Puebla | 2.500–3.000 | Cacao, tutun, lemn dulce, cirese |
+| [[Resurse/BKP_Soiuri/Pasilla Negro\|Pasilla Negro]] | [[Resurse/BKP_Soiuri/Chilaca\|Chilaca]] | *C. annuum* | Guanajuato, Jalisco, Michoacán | 1.000–3.999 | Pământos, stafidă, anason, taninos |
+| [[Resurse/BKP_Soiuri/Guajillo\|Guajillo]] | Mirasol | *C. annuum* | Zacatecas, Aguascalientes, Durango | 2.500–5.000 | Fructe de pădure, tea verde, taninos, aciditate |
 
 *Pasilla are pagina sa de familie: [[Pasilla Familie\|Pasilla Familie]]*
 
@@ -63,7 +64,7 @@ Toți membrii triadei respectă principiul de bază al bucătăriei mexicane cu 
 
 ## Confuzii nomenclaturale frecvente
 
-**Ancho vs. Mulato:** Ambii provin din poblano și sunt vizual similari — mari, lați, brun-închis spre negru. Distincția esențială este culoarea la maturitate a populismului-mamă și, prin urmare, profilul aromatic: ancho este mai roșcat și mai dulce, mulato este mai brun-negru și mai complex. Pe piețele nord-americane, mulato este adesea confundat cu anchoul sau vândut sub același nume. *Vezi [[Soiuri/Mulato\|Mulato]] și [[Soiuri/Ancho\|Ancho]] pentru detalii.*
+**Ancho vs. Mulato:** Ambii provin din poblano și sunt vizual similari — mari, lați, brun-închis spre negru. Distincția esențială este culoarea la maturitate a populismului-mamă și, prin urmare, profilul aromatic: ancho este mai roșcat și mai dulce, mulato este mai brun-negru și mai complex. Pe piețele nord-americane, mulato este adesea confundat cu anchoul sau vândut sub același nume. *Vezi [[Resurse/BKP_Soiuri/Mulato\|Mulato]] și [[Resurse/BKP_Soiuri/Ancho\|Ancho]] pentru detalii.*
 
 **Pasilla vs. Poblano (proaspăt):** Eroare sistematică documentată pe piețele americane din anii 1970 — *see [[Pasilla Familie\|Pasilla Familie]] pentru tratamentul complet.*
 

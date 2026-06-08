@@ -2,12 +2,11 @@
 {"dg-publish":true,"permalink":"/Capsicum/Scara Scoville/","tags":["capsicum","scoville","capsaicina","capsaicinoide","TRPV1","HPLC","iuteala","fitochimie","botanica"],"dg-note-properties":{"tags":["capsicum","scoville","capsaicina","capsaicinoide","TRPV1","HPLC","iuteala","fitochimie","botanica"]}}
 ---
 
+
 # Istoria, chimia și măsurarea iuțelii
 
 
 Iuțeala nu este un gust. Nu este percepută de papilele gustative alături de dulce, sărat, acru sau amar. Este o reacție neurologică — o senzație de arsură declanșată chimic, fără ca temperatura reală a alimentului să fi crescut cu un grad. Această distincție, aparent tehnică, explică de ce scara Scoville există și de ce măsurarea iuțelii a fost, vreme de decenii, o problemă fără o soluție obiectivă simplă.
-
-![Scara Scoville.png](/img/user/Resurse/ChatGPT/Scara%20Scoville.png)
 
 ---
 

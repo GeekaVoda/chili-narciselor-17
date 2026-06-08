@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/Bun venit/Grădina cu chili de pe Narciselor 17/","tags":["capsicum","ardei-iute","chili","botanica","solanaceae","gastronomie","istorie-culinara","cultivare","index","home","gardenEntry"],"dg-note-properties":{"tags":["capsicum","ardei-iute","chili","botanica","solanaceae","gastronomie","istorie-culinara","cultivare","index","home","gardenEntry"]}}
 ---
 
+
 # Povestea, culorile și gustul celor cinci specii de ardei iute care au cucerit lumea
 
 
@@ -21,7 +22,7 @@ Din această confuzie s-a născut una dintre cele mai profunde transformări cul
 ## Arhitectura unei pasiuni: [[Taxonomie/Cele cinci specii majore\|Cele cinci specii majore]]
 Și alte lucruri inedite despre acestea...
 
-Toată diversitatea ardeilor iuți pe care o cunoaștem astăzi — de la micul și ancestralul Chiltepín / Bird Pepper al deșerturilor mexicane, până la ardeii super-hot cu recorduri certificate de laboratoare universitare, de la [[Soiuri/Rocoto Rojo\|Rocoto Rojo]] cărnos al teraselor andine la [[Soiuri/Habanero Orange\|Habanero Orange]] cu aroma sa de caise și flori tropicale — se sprijină pe cinci specii botanice distincte, domesticite separat, în locuri și epoci diferite, de comunități care nu se cunoșteau între ele. Toate aceste specii, apartin unui singur gen: [[Capsicum/Genul Capsicum\|Genul Capsicum]]
+Toată diversitatea ardeilor iuți pe care o cunoaștem astăzi — de la micul și ancestralul Chiltepín / Bird Pepper al deșerturilor mexicane, până la ardeii super-hot cu recorduri certificate de laboratoare universitare, de la [[Resurse/BKP_Soiuri/Rocoto Rojo\|Rocoto Rojo]] cărnos al teraselor andine la [[Resurse/BKP_Soiuri/Habanero Orange\|Habanero Orange]] cu aroma sa de caise și flori tropicale — se sprijină pe cinci specii botanice distincte, domesticite separat, în locuri și epoci diferite, de comunități care nu se cunoșteau între ele. Toate aceste specii, apartin unui singur gen: [[Capsicum/Genul Capsicum\|Genul Capsicum]]
 
 Fiecare specie are o personalitate proprie. [[Specii/Capsicum annuum\|Capsicum annuum]] — cea mai răspândită — a dat lumii jalapeño-ul, cayenne-ul, paprika și boiaua. [[Specii/Capsicum chinense\|Capsicum chinense]] — cu profilul aromatic cel mai complex din gen — a produs habanero-ul și toate soiurile super-hot care au captat imaginația colecționarilor moderni. [[Specii/Capsicum frutescens\|Capsicum frutescens]] s-a naturalizat în Africa și în Asia tropicală atât de complet încât a ajuns să fie considerată endemică. [[Specii/Capsicum baccatum\|Capsicum baccatum]] a rămas fidelă Anzilor și a construit pilonul gastronomiei peruviene. [[Specii/Capsicum pubescens\|Capsicum pubescens]], cea mai izolată genetic, crește la altitudini la care nicio altă specie din gen nu supraviețuiește — cu flori violet, semințe negre și o longevitate de până la un deceniu.
 
@@ -67,6 +68,6 @@ https://maps.app.goo.gl/A5BKJ9tjqw7ucupB8
 
 [[Narciselor 17/Gradina Narciselor 17\|Grădina Chili: Narciselor 17]] este un proiect documentar personal, construit pe surse academice, botanice și istorice. Informațiile prezentate nu sunt destinate uzului medical sau agronomic profesional și nu substituie consultanța de specialitate. Fiecare capitol include o secțiune de bibliografie care detaliază sursele utilizate.
 
-**Notă de transparență:** Conținutul acestui site a fost structurat și redactat de către autor în colaborare cu asistenții AI Claude (Anthropic, pentru text și verificarea surselor) și ChatGPT (pentru elementele grafice). Menționez că elementele vizuale pot conține inadvertențe sau date inexacte, neavând un caracter strict academic sau botanic.
+**Notă de transparență:** Conținutul acestui site a fost structurat și redactat de către autor în colaborare cu asistentul AI Claude (Anthropic), pentru generarea conținutului și verificarea/corelarea surselor. Menționez că elementele vizuale provin din surse externe și pot conține inadvertențe sau date inexacte, neavând un caracter strict academic ori botanic.
 
 **Bun venit.**

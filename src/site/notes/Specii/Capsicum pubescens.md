@@ -2,12 +2,11 @@
 {"dg-publish":true,"permalink":"/Specii/Capsicum pubescens/","tags":["capsicum","capsicum-pubescens","botanica","taxonomie","solanaceae","rocoto","chile-manzano","gastronomie","anzi","peru","bolivia","altitudine","cultivare"],"dg-note-properties":{"tags":["capsicum","capsicum-pubescens","botanica","taxonomie","solanaceae","rocoto","chile-manzano","gastronomie","anzi","peru","bolivia","altitudine","cultivare"]}}
 ---
 
+
 # Monografie botanică, istoric și gastronomie
 
 
 Există o singură specie din genul *Capsicum* care nu poate fi hibridizată cu niciuna dintre celelalte patru surori cultivate. O singură specie cu flori violet-intens și semințe negre. O singură specie care crește acolo unde celelalte mor — pe crestele Anzilor, la altitudini la care frigul nopții coboară spre zero și unde aerul rarefiat face imposibilă supraviețuirea oricărui alt ardei cultivat. *Capsicum pubescens* nu a cucerit lumea. A ales să rămână acasă, pe terasele agricole incașe din Peru și Bolivia, și a devenit acolo un simbol cultural de neînlocuit — ardeiul cu mere grele și cărnoa­se, cu o iuțeală densă și profundă, pe care comunitățile andine îl cultivă cu aceleași tehnici de milenii.
-
-![Capsicum pubescens.png](/img/user/Resurse/ChatGPT/Capsicum%20pubescens.png)
 
 ---
 

@@ -2,12 +2,11 @@
 {"dg-publish":true,"permalink":"/Specii/Capsicum annuum/","tags":["capsicum","capsicum-annuum","botanica","taxonomie","solanaceae","jalapeño","cayenne","poblano","paprika","mole","cultivare","gastronomie"],"dg-note-properties":{"tags":["capsicum","capsicum-annuum","botanica","taxonomie","solanaceae","jalapeño","cayenne","poblano","paprika","mole","cultivare","gastronomie"]}}
 ---
 
+
 # Monografie botanică, istoric și gastronomie
 
 
 *Capsicum annuum* este specia care a învățat lumea să consume ardei iute. Nu pentru că ar fi cea mai iute sau cea mai spectaculoasă dintre cele cinci specii cultivate ale genului, ci pentru că este cea mai adaptabilă. De la ardeiul gras fără urmă de iuțeală până la Cayenne-ul intens și direct, de la sosurile *mole* ale Mexicului precolumbian până la boiaua maghiară și zacusca românească — toate sunt expresii ale aceleiași specii, modelate de climă, de selecție agronomică și de tradițiile culinare ale comunităților care le-au adoptat.
-
-![Capsicum annuum.png](/img/user/Resurse/ChatGPT/Capsicum%20annuum.png)
 
 ---
 
@@ -154,7 +153,7 @@ La cultivarele dulci (ardeiul gras), o mutație genetică recesivă blochează c
 - *Gogoșarul*: Formă aplatizată, globuloasă, puternic lobată, cu pericarp extrem de gros și dulceață pronunțată.
 - *Kapia*: Formă conică, aplatizată, de culoare roșu-închis, optimizată pentru coacere.
 
-### [[Soiuri/Poblano\|Poblano]] / [[Soiuri/Ancho\|Ancho]]
+### [[Resurse/BKP_Soiuri/Poblano\|Poblano]] / [[Resurse/BKP_Soiuri/Ancho\|Ancho]]
 
 **Origine și istorie**: Cultivar tradițional din statul **Puebla, Mexic**. Denumirea „Poblano" desemnează fructul în stare proaspătă; varianta deshidratată își schimbă denumirea în **Ancho** (larg), devenind un ingredient definitoriu al gastronomiei mexicane.
 

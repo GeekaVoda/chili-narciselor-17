@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/Gastronomie/Salsa/Mole Negro/","tags":["gastronomie","mexic","mole","mole-negro","capsicum-annuum","chilhuacle-negro","mulato","pasilla","reteta","oaxaca"],"dg-note-properties":{"tags":["gastronomie","mexic","mole","mole-negro","capsicum-annuum","chilhuacle-negro","mulato","pasilla","reteta","oaxaca"]}}
 ---
 
+
 # Sosul mai puțin diplomatic
 
 
@@ -15,8 +16,8 @@ Față de [[Gastronomie/Salsa/Mole Poblano\|Mole Poblano]], Mole Negro este mai 
 
 ### Componenta de ardei
 
-- **6 ardei [[Chilhuacle Negro\|Chilhuacle Negro]]** — esențiali pentru gustul autentic; pot fi înlocuiți cu [[Soiuri/Guajillo\|Guajillo]] foarte copți dacă nu sunt disponibili.
-- **4 ardei [[Soiuri/Mulato\|Mulato]]**.
+- **6 ardei [[Chilhuacle Negro\|Chilhuacle Negro]]** — esențiali pentru gustul autentic; pot fi înlocuiți cu [[Resurse/BKP_Soiuri/Guajillo\|Guajillo]] foarte copți dacă nu sunt disponibili.
+- **4 ardei [[Resurse/BKP_Soiuri/Mulato\|Mulato]]**.
 - **4 ardei [[Pasilla_Claude\|Pasilla_Claude]]**.
 
 ### Elementele de textură și dulceață

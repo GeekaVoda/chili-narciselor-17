@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/Gastronomie/Salsa/Pico de Gallo/","tags":["gastronomie","mexic","salsa","pico-de-gallo","capsicum-annuum","jalapeno","serrano","reteta"],"dg-note-properties":{"tags":["gastronomie","mexic","salsa","pico-de-gallo","capsicum-annuum","jalapeno","serrano","reteta"]}}
 ---
 
+
 # Salsa Fresca
 
 
@@ -27,7 +28,7 @@ Forma ancestrală precolumbiană care i-ar putea fi considerată precursoare com
 
 - **4 roșii mari, coapte** (tip Roma sau similare) — tocate cubulețe mici de 5–7 mm, cu tot cu suc.
 - **1 ceapă albă medie** — tocată fin. *Ceapa albă, nu roșie — diferența de aromă este semnificativă în contextul unui preparat crud.*
-- **2–3 ardei [[Jalapeño_Claude\|Jalapeño_Claude]] sau [[Serrano\|Serrano]]** — curățați de semințe și tocați fin. Cantitatea se ajustează după toleranța la iuțeală.
+- **2–3 ardei [[Jalapeño_Claude\|Jalapeño_Claude]] sau [[Familii si soiuri/Serrano/Serrano\|Serrano]]** — curățați de semințe și tocați fin. Cantitatea se ajustează după toleranța la iuțeală.
 - **1 legătură de coriandru proaspăt** — doar frunzele, tocate grosier.
 - **Sucul a 2 lime-uri** — proaspăt stors, nu îmbuteliat.
 - **Sare** după gust.

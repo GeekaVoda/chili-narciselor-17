@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/Capsicum/Certificarea HPLC/","tags":["botanica","stiinta","metodologie","hplc","scoville","capsaicina","masurare"],"dg-note-properties":{"tags":["botanica","stiinta","metodologie","hplc","scoville","capsaicina","masurare"]}}
 ---
 
+
 # Cum se măsoară cu adevărat iuțeala unui ardei
 
 

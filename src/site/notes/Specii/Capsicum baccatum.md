@@ -2,12 +2,11 @@
 {"dg-publish":true,"permalink":"/Specii/Capsicum baccatum/","tags":["capsicum","capsicum-baccatum","botanica","taxonomie","solanaceae","aji-amarillo","aji-panca","lemon-drop","bishops-crown","gastronomie","anzi","peru","bolivia","cultivare"],"dg-note-properties":{"tags":["capsicum","capsicum-baccatum","botanica","taxonomie","solanaceae","aji-amarillo","aji-panca","lemon-drop","bishops-crown","gastronomie","anzi","peru","bolivia","cultivare"]}}
 ---
 
+
 # Monografie botanică, istoric și gastronomie
 
 
 Dacă există o specie din genul *Capsicum* care poartă în ea istoria unui întreg sistem de civilizații, aceea este *Capsicum baccatum*. Nu a cucerit lumea cu aceeași viteză ca *Capsicum annuum* și nu produce recorduri de iuțeală ca *Capsicum chinense*. Locul său este mai discret și mai profund: este specia care a hrănit și a definit cultural lumea andină timp de aproape cinci milenii, de la siturile funerare de pe coasta peruană până în farfuriile din Lima de astăzi. Aroma sa — fructată, caldă, cu note de mango și citrice tropicale — este una dintre cele mai complexe din întreg genul și rămâne, în mare parte, o experiență accesibilă doar în perimetrul continentului sud-american.
-
-![Capsicum baccatum.png](/img/user/Resurse/ChatGPT/Capsicum%20baccatum.png)
 
 ---
 
@@ -122,7 +121,7 @@ Specia se individualizează printr-o concentrație excepțională de **esteri al
 
 ## III. Cultivarele principale
 
-### [[Soiuri/Ají Amarillo\|Ají Amarillo]]
+### [[Resurse/BKP_Soiuri/Ají Amarillo\|Ají Amarillo]]
 
 **Origine și istorie**: Cultivarul arhetipal al regiunii andine și pilonul central al culturii agricole din Peru. Cultivat de mii de ani pe coastele și în văile peruviane, a fost denumit de primii cronicari spanioli „ají escabeche" sau „ají verde", din cauza culorii din stadiul imatur. Denumirea actuală — „Amarillo" (galben) — face trimitere la culoarea pe care o capătă în timpul procesului de gătire, deși fructul matur este de un portocaliu intens.
 

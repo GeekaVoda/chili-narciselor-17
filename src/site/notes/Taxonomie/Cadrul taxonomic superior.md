@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/Taxonomie/Cadrul taxonomic superior/","tags":["capsicum","taxonomie","botanica","solanaceae","solanales","magnoliophyta","fitochimie","alcaloizi","capsaicina"],"dg-note-properties":{"tags":["capsicum","taxonomie","botanica","solanaceae","solanales","magnoliophyta","fitochimie","alcaloizi","capsaicina"]}}
 ---
 
+
 # De la regnul Plantae la genul Capsicum
 
 
@@ -14,8 +15,6 @@
 Paracelsus nu vorbea despre ardei iuți. Vorbea despre medicină și despre limita dintre leac și toxic. Dar fraza sa descrie cu o precizie remarcabilă exact locul pe care îl ocupă genul *Capsicum* în familia sa botanică: o rudă a unor plante cu reputație sumbră, care a ales o altă cale — nu toxicitate, ci o senzație termică pură, controlată și, pentru miliarde de oameni, de neînlocuit.
 
 Această pagină trasează drumul taxonomic de la nivelul cel mai larg — Regnul vegetal — până la familia *Solanaceae*, familia din care face parte genul *Capsicum*. Nu este o lectură obligatorie pentru a înțelege soiurile sau gastronomia. Este însă contextul care face ca totul să aibă sens: de ce ardeiul iute este înrudit cu tomatele și cartofii, de ce familia sa produce unele dintre cele mai periculoase substanțe din natură și de ce capsaicina este, în acest tablou, o excepție fascinantă.
-
-![Cadrul taxonomic al genului Capsicum.png](/img/user/Resurse/ChatGPT/Cadrul%20taxonomic%20al%20genului%20Capsicum.png)
 
 ---
 

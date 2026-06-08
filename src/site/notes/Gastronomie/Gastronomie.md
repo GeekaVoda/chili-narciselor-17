@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/Gastronomie/Gastronomie/","tags":["gastronomie","capsicum","ardei-iute","mexic","peru","italia","index"],"dg-note-properties":{"tags":["gastronomie","capsicum","ardei-iute","mexic","peru","italia","index"]}}
 ---
 
+
 # Ardeiul iute în bucătăriile lumii
 
 
@@ -19,7 +20,7 @@ Nicio altă bucătărie din lume nu are o relație mai profundă și mai divers�
 Pagina-umbrelă a universului mole — cel mai complex sos din gastronomia mexicană și, posibil, din gastronomia mondială. Originea disputată între Puebla și Oaxaca, structura pe familii de rețete și locul ardeilor uscați ca fundație aromatică.
 
 ### [[Gastronomie/Salsa/Mole Poblano\|Mole Poblano]]
-Versiunea din Puebla — considerată de mulți referința canonică. [[Gastronomie/La Santa Trinidad\|La Santa Trinidad]] a ardeilor uscați: [[Soiuri/Ancho\|Ancho]], [[Soiuri/Mulato\|Mulato]] și [[Soiuri/Pasilla Bajío\|Pasilla Bajío]], alături de ciocolată neagră, semințe de susan și zeci de alte ingrediente.
+Versiunea din Puebla — considerată de mulți referința canonică. [[Gastronomie/La Santa Trinidad\|La Santa Trinidad]] a ardeilor uscați: [[Resurse/BKP_Soiuri/Ancho\|Ancho]], [[Resurse/BKP_Soiuri/Mulato\|Mulato]] și [[Resurse/BKP_Soiuri/Pasilla Bajío\|Pasilla Bajío]], alături de ciocolată neagră, semințe de susan și zeci de alte ingrediente.
 
 ### [[Gastronomie/Salsa/Mole Negro\|Mole Negro]]
 Versiunea oaxacană — mai întunecată, mai fumată, mai complexă. Chilhuacle negro, Pasilla de Oaxaca și tehnica prăjirii ardeilor până la carbonizare controlată — o operație care separă mole negro de orice alt sos din lume.
@@ -37,9 +38,9 @@ Salsa proaspătă în forma sa cea mai directă — roșii, ceapă, coriandru, l
 
 ## Peru — ají și identitate
 
-Gastronomia peruiană — recunoscută internațional ca una dintre cele mai complexe și mai apreciate din lume — are la baza sa o materie primă indispensabilă: [[Soiuri/Ají Amarillo\|Ají Amarillo]], ardeiul portocaliu cu aromă de mango și caise care intră în ceviche, în causa rellena, în ají de gallina și în aproape orice altceva. Fără *el aderezo* pe bază de pastă de Ají Amarillo, bucătăria peruiană contemporană nu există în forma sa actuală.
+Gastronomia peruiană — recunoscută internațional ca una dintre cele mai complexe și mai apreciate din lume — are la baza sa o materie primă indispensabilă: [[Resurse/BKP_Soiuri/Ají Amarillo\|Ají Amarillo]], ardeiul portocaliu cu aromă de mango și caise care intră în ceviche, în causa rellena, în ají de gallina și în aproape orice altceva. Fără *el aderezo* pe bază de pastă de Ají Amarillo, bucătăria peruiană contemporană nu există în forma sa actuală.
 
-Paginile dedicate familiei [[Soiuri/Ají Amarillo\|Ají Amarillo]] și ecotipurilor sale — [[Soiuri/Ají Mirasol\|Ají Mirasol]], [[Soiuri/Ají Escabeche\|Ají Escabeche]], Ají Amarillo Cusqueño — documentează atât botanica, cât și utilizările gastronomice specifice.
+Paginile dedicate familiei [[Resurse/BKP_Soiuri/Ají Amarillo\|Ají Amarillo]] și ecotipurilor sale — [[Resurse/BKP_Soiuri/Ají Mirasol\|Ají Mirasol]], [[Resurse/BKP_Soiuri/Ají Escabeche\|Ají Escabeche]], Ají Amarillo Cusqueño — documentează atât botanica, cât și utilizările gastronomice specifice.
 
 ---
 
@@ -47,7 +48,7 @@ Paginile dedicate familiei [[Soiuri/Ají Amarillo\|Ají Amarillo]] și ecotipuri
 
 Sudul Italiei a adoptat ardeiul iute în prima jumătate a secolului al XVI-lea și l-a integrat cu o profunzime pe care nordul peninsulei nu a atins-o niciodată. Calabria, Basilicata și Sicilia au construit în jurul lui *Capsicum* o întreagă cultură a conservelor, a mezelurilor și a condimentelor care definesc identitatea culinară regională.
 
-Paginile din [[Peperoncino\|familia Peperoncino]] — de la [[Soiuri/Peperoncino Calabrese\|Peperoncino Calabrese]] la [[Soiuri/Peperoncino di Senise\|Peperoncino di Senise DOP]] — documentează soiurile, tehnicile și preparatele specifice.
+Paginile din [[Peperoncino\|familia Peperoncino]] — de la [[Resurse/BKP_Soiuri/Peperoncino Calabrese\|Peperoncino Calabrese]] la [[Resurse/BKP_Soiuri/Peperoncino di Senise\|Peperoncino di Senise DOP]] — documentează soiurile, tehnicile și preparatele specifice.
 
 ---
 
@@ -61,7 +62,7 @@ Un ardei american transportat de portughezi în Africa, adoptat de comunitățil
 
 Pe întregul site, termenii **pastă** sau **paste** desemnează exclusiv produsele obținute din pulpa de ardei iute — pasta de Ají Amarillo, pasta de chipotle, crema di peperoncino. Nu produsele făinoase specifice bucătăriei italiene.
 
-Termenii **ardei uscat**, **chile uscat** sau **chile sec** desemnează ardeii deshidratați utilizați ca ingredient de bază în sosurile mexicane — [[Soiuri/Ancho\|Ancho]], [[Soiuri/Guajillo\|Guajillo]], [[Soiuri/Pasilla Bajío\|Pasilla Bajío]], [[Soiuri/Mulato\|Mulato]] — și nu trebuie confundați cu ardeii iuți uscați și măcinați în pulbere, care sunt documentați separat.
+Termenii **ardei uscat**, **chile uscat** sau **chile sec** desemnează ardeii deshidratați utilizați ca ingredient de bază în sosurile mexicane — [[Resurse/BKP_Soiuri/Ancho\|Ancho]], [[Resurse/BKP_Soiuri/Guajillo\|Guajillo]], [[Resurse/BKP_Soiuri/Pasilla Bajío\|Pasilla Bajío]], [[Resurse/BKP_Soiuri/Mulato\|Mulato]] — și nu trebuie confundați cu ardeii iuți uscați și măcinați în pulbere, care sunt documentați separat.
 
 ---
 

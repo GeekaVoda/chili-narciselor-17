@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/Capsicum/Cultivarul Canonic/","tags":["botanica","metodologie","cultivar","nomenclatura","heirloom","hibrid","selectie","capsicum"],"dg-note-properties":{"tags":["botanica","metodologie","cultivar","nomenclatura","heirloom","hibrid","selectie","capsicum"]}}
 ---
 
+
 # Ghid de terminologie pentru fișele de ardei
 
 
@@ -32,7 +33,7 @@ Un cultivar heirloom este un soi deschis-polenizat cu o istorie documentată de 
 - Nicio intervenție de hibridizare controlată în istoria recentă documentată
 - Identitate adesea legată de o regiune, o familie sau o comunitate care l-a menținut
 
-**Exemple pe site:** [[Soiuri/Serrano Tampiqueño\|Serrano Tampiqueño]], [[Soiuri/Cayenne Buist's Yellow\|Cayenne Buist's Yellow]], [[Soiuri/Chiltepín Bird Pepper\|Chiltepín Bird Pepper]] (soi sălbatic cu utilizare umană documentată), [[Soiuri/Pasilla Negro\|Pasilla Negro]], [[Soiuri/Ancho\|Ancho]]
+**Exemple pe site:** [[Resurse/BKP_Soiuri/Serrano Tampiqueño\|Serrano Tampiqueño]], [[Resurse/BKP_Soiuri/Cayenne Buist's Yellow\|Cayenne Buist's Yellow]], [[Resurse/BKP_Soiuri/Chiltepín Bird Pepper\|Chiltepín Bird Pepper]] (soi sălbatic cu utilizare umană documentată), [[Resurse/BKP_Soiuri/Pasilla Negro\|Pasilla Negro]], [[Resurse/BKP_Soiuri/Ancho\|Ancho]]
 
 **Limitare:** Termenul *heirloom* nu este reglementat comercial — orice producător poate eticheta orice soi drept *heirloom* fără verificare. Relevanța documentării istorice (cataloage, surse academice, tradiție orală verificabilă) este criteriul de calitate.
 
@@ -79,9 +80,9 @@ Un cultivar modern este rezultatul unui proces de încrucișare controlată și 
 **Procesul de stabilizare:** Când doi cultivari sunt încrucișați deliberat, generația F1 este uniformă (heterosis), dar nu stabilă — nu produce urmași fideli. Generațiile F2–F7 exihibă segregare genetică variabilă. Prin selecție sistematică a plantelor care exprimă caracterele dorite în fiecare generație, diversitatea se reduce treptat. Convenția practicienilor din comunitatea de ardei consideră că **generația F8** reprezintă pragul minim de stabilitate acceptabilă — la F8, probabilitatea ca o plantă să exprime alte caractere decât cele dorite scade la un nivel acceptabil comercial.
 
 **Exemple pe site:**
-- [[Soiuri/Zebrange\|Zebrange]] — *C. baccatum*, stabilizat la F8 (2023), creat de Laurent Minet (Belgia)
-- [[Soiuri/Primotalii Red\|Primotalii Red]] — *C. chinense*, stabilizat din încrucișarea 7 Pot Primo × Fatalii (Chris Saunders, UK, ~2012)
-- [[Soiuri/Primotalii Golden\|Primotalii Golden]] — *C. chinense*, în curs de stabilizare la data redactării (mai 2026)
+- [[Resurse/BKP_Soiuri/Zebrange\|Zebrange]] — *C. baccatum*, stabilizat la F8 (2023), creat de Laurent Minet (Belgia)
+- [[Resurse/BKP_Soiuri/Primotalii Red\|Primotalii Red]] — *C. chinense*, stabilizat din încrucișarea 7 Pot Primo × Fatalii (Chris Saunders, UK, ~2012)
+- [[Resurse/BKP_Soiuri/Primotalii Golden\|Primotalii Golden]] — *C. chinense*, în curs de stabilizare la data redactării (mai 2026)
 
 ---
 
@@ -121,7 +122,7 @@ Pe fișele individuale, tipul de cultivar apare ca informație de identificare s
 
 **Stabilizat (cu număr de generație)** → Numărul generației (ex. F8) indică gradul de predictibilitate: cu cât mai mare, cu atât mai stabil. Un cultivar la F4 poate produce în continuare variabilitate semnificativă; unul la F8+ este considerabil mai predictibil.
 
-**În curs de stabilizare** → Variabilitate documentată; semințele pot produce plante cu caractere neconforme față de descriere; calificativul apare explicit la [[Soiuri/Primotalii Chocolate\|Primotalii Chocolate]] și [[Soiuri/Primotalii Golden\|Primotalii Golden]].
+**În curs de stabilizare** → Variabilitate documentată; semințele pot produce plante cu caractere neconforme față de descriere; calificativul apare explicit la [[Resurse/BKP_Soiuri/Primotalii Chocolate\|Primotalii Chocolate]] și [[Resurse/BKP_Soiuri/Primotalii Golden\|Primotalii Golden]].
 
 ---
 

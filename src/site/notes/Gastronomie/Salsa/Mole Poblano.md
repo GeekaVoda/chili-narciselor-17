@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/Gastronomie/Salsa/Mole Poblano/","tags":["gastronomie","mexic","mole","mole-poblano","capsicum-annuum","ancho","mulato","pasilla","reteta","puebla"],"dg-note-properties":{"tags":["gastronomie","mexic","mole","mole-poblano","capsicum-annuum","ancho","mulato","pasilla","reteta","puebla"]}}
 ---
 
+
 # Preparatul național mexican
 
 
@@ -17,8 +18,8 @@ Mole Poblano este un preparat care necesită o succesiune precisă de tehnici de
 
 ### Baza de ardei uscați
 
-- **4 ardei [[Soiuri/Ancho\|Ancho]]** — pentru dulceață și textură.
-- **4 ardei [[Soiuri/Mulato\|Mulato]]** — pentru aromă de ciocolată și fum.
+- **4 ardei [[Resurse/BKP_Soiuri/Ancho\|Ancho]]** — pentru dulceață și textură.
+- **4 ardei [[Resurse/BKP_Soiuri/Mulato\|Mulato]]** — pentru aromă de ciocolată și fum.
 - **3 ardei [[Pasilla_Claude\|Pasilla_Claude]]** — pentru profunzime și culoare.
 
 ### Agenți de textură și arome

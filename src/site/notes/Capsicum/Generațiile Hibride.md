@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/Capsicum/Generațiile Hibride/","tags":["botanica","genetica","metodologie","hibridare","selectie","generatii","F1","F2","stabilizare","capsicum"],"dg-note-properties":{"tags":["botanica","genetica","metodologie","hibridare","selectie","generatii","F1","F2","stabilizare","capsicum"]}}
 ---
 
+
 # De la F1 la stabilizare: Genetică aplicată în ameliorarea ardeilor
 
 
@@ -77,7 +78,7 @@ Unde *n* este numărul generației (F1 = n1, F2 = n2 etc.).
 
 Prin convenție acceptată în comunitatea de amelioratori de ardei — atât profesioniști, cât și independenți — **F8 reprezintă pragul minim de stabilitate practică**. La această generație, heterozigozitatea reziduală teoretică este sub 1%, iar planta cultivată din sămânță salvată va produce urmași cu probabilitate ridicată identici cu ea.
 
-Această convenție apare explicit în literatura de ameliorare a ardeilor (de ex. ChilePeppers.com: *„odată ce selecția este dusă cu succes la a 7-a generație (F7), semințele din acele plante (F8) ar trebui să producă în mod fiabil plante cu caracterele dorite"*) și este utilizată de cultivatori cunoscuți din comunitatea de superhots (ex. Laurent Minet pentru [[Soiuri/Zebrange\|Zebrange]], fixat la F8 în 2023).
+Această convenție apare explicit în literatura de ameliorare a ardeilor (de ex. ChilePeppers.com: *„odată ce selecția este dusă cu succes la a 7-a generație (F7), semințele din acele plante (F8) ar trebui să producă în mod fiabil plante cu caracterele dorite"*) și este utilizată de cultivatori cunoscuți din comunitatea de superhots (ex. Laurent Minet pentru [[Resurse/BKP_Soiuri/Zebrange\|Zebrange]], fixat la F8 în 2023).
 
 **Important:** F8 nu înseamnă că variabilitatea a dispărut complet — înseamnă că a scăzut la un nivel acceptabil pentru utilizare practică. Unele caractere controlate de mai multe gene (poligenic) pot continua să segrege mai mult decât altele.
 
@@ -150,7 +151,7 @@ Cunoașterea dominanței caracterelor specifice genului *Capsicum* este esenția
 - Absența iuțelii (alela nefuncțională *pun1* la ardeii dulci)
 - Anumite culori de maturizare (portocaliu, galben în unele genotipuri *C. chinense*)
 
-**Transmiterea culorii ciocolatii:** Colorația brună-ciocolatie (*chocolate*) în soiuri ca [[Soiuri/Primotalii Chocolate\|Primotalii Chocolate]] sau [[Soiuri/7 Pot Douglah\|7 Pot Douglah]] este controlată de gene cu comportament poligenic parțial — ceea ce explică variabilitatea mai mare și dificultatea de stabilizare a fenotipurilor chocolate față de cele roșii.
+**Transmiterea culorii ciocolatii:** Colorația brună-ciocolatie (*chocolate*) în soiuri ca [[Resurse/BKP_Soiuri/Primotalii Chocolate\|Primotalii Chocolate]] sau [[Resurse/BKP_Soiuri/7 Pot Douglah\|7 Pot Douglah]] este controlată de gene cu comportament poligenic parțial — ceea ce explică variabilitatea mai mare și dificultatea de stabilizare a fenotipurilor chocolate față de cele roșii.
 
 ---
 
@@ -159,10 +160,10 @@ Cunoașterea dominanței caracterelor specifice genului *Capsicum* este esenția
 | Notație pe fișă | Semnificație practică |
 |---|---|
 | *Heirloom, open-pollinated* | Fără generație specificată — soi stabil de mult timp, semințele cresc fidel |
-| *Stabilizat F8 (2023)* | Proces de selecție finalizat; semințele sunt fiabile; ex. [[Soiuri/Zebrange\|Zebrange]] |
+| *Stabilizat F8 (2023)* | Proces de selecție finalizat; semințele sunt fiabile; ex. [[Resurse/BKP_Soiuri/Zebrange\|Zebrange]] |
 | *Cultivar modern, stabilizat* | Stabil, fără număr de generație specificat public |
-| *Parțial stabilizat* | Variabilitate documentată; ex. [[Soiuri/Primotalii Chocolate\|Primotalii Chocolate]] |
-| *În curs de stabilizare* | Variabilitate semnificativă așteptată; ex. [[Soiuri/Primotalii Golden\|Primotalii Golden]] |
+| *Parțial stabilizat* | Variabilitate documentată; ex. [[Resurse/BKP_Soiuri/Primotalii Chocolate\|Primotalii Chocolate]] |
+| *În curs de stabilizare* | Variabilitate semnificativă așteptată; ex. [[Resurse/BKP_Soiuri/Primotalii Golden\|Primotalii Golden]] |
 
 ---
 

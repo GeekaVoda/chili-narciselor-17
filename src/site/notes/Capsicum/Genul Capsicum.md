@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/Capsicum/Genul Capsicum/","tags":["capsicum","solanaceae","taxonomie","botanica","capsaicina","TRPV1","fitochimie","nutritie","biomedicina","schimb-columbian"],"dg-note-properties":{"tags":["capsicum","solanaceae","taxonomie","botanica","capsaicina","TRPV1","fitochimie","nutritie","biomedicina","schimb-columbian"]}}
 ---
 
+
 # Biologie, diversitate și cucerire tăcută
 
 
@@ -13,7 +14,6 @@ Dincolo de capsaicină, fiecare specie și fiecare varietate construiește un pr
 
 Explorarea detaliată a cadrului biologic și a evoluției taxonomice a genului este disponibilă în secțiunea [[Taxonomie/Cadrul taxonomic superior\|Cadrul taxonomic superior]].
 
-![Genul Capsicum.png](/img/user/Resurse/ChatGPT/Genul%20Capsicum.png)
 
 Genul *Capsicum* nu este pur și simplu o categorie botanică. Este unul dintre cele mai documentate exemple de cucerire biologică pașnică din istoria plantelor cultivate — un gen care a plecat dintr-un colț al Americii de Sud și, în mai puțin de un secol de la primul contact european, a redefinit gastronomia a zeci de culturi de pe trei continente. Paginile care urmează trasează coordonatele acestei călătorii: de la rădăcinile taxonomice și etimologice, la chimia care face din ardei iute un subiect de interes pentru farmacologie și medicină.
 
@@ -36,8 +36,6 @@ Această reputație a generat o rezistență culturală semnificativă în momen
 Aclimatizarea și adoptarea lor au necesitat secole de selecție agronomică și presiune demografică. Transformarea acestor plante din curiozități botanice suspecte în piloni ai securității alimentare globale — cartoful devenind baza calorică a Europei de Nord, tomatele și ardeii redefinind profilul nutrițional al bazinului mediteranean și al Asiei — reprezintă una dintre cele mai mari revoluții agricole din istoria civilizației.
 
 ---
-
-![Cadrul taxonomic al genului Capsicum.png](/img/user/Resurse/ChatGPT/Cadrul%20taxonomic%20al%20genului%20Capsicum.png)
 
 ## II. Genul Capsicum — Etimologie, morfologie și dinamică istorică
 

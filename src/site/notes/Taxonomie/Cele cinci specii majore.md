@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/Taxonomie/Cele cinci specii majore/","tags":["capsicum","ardei-iute","chili","botanica","solanaceae","gastronomie","istorie-culinara","cultivare","index","home"],"dg-note-properties":{"tags":["capsicum","ardei-iute","chili","botanica","solanaceae","gastronomie","istorie-culinara","cultivare","index","home"]}}
 ---
 
+
 # Cinci cărți diferite, scrise în aceeași limbă.
 
 
@@ -10,8 +11,6 @@ Diversitatea actuală a ardeilor iuți — mii de soiuri, cultivaruri și ecotip
 Fiecare specie a ales, prin coevoluție și prin selecție umană, o nișă a lumii pe care să o transforme: _Capsicum annuum_ a ales universalitatea, răspândindu-se în aproape fiecare bucătărie de pe planetă. _Capsicum chinense_ a ales intensitatea — aromatică și termică în egală măsură — rămânând fidelă bazinului amazonian și Caraibelor până când exploratorii au dus-o mai departe. _Capsicum frutescens_ a ales tropicele și s-a naturalizat în savanele africane și în arhipelagele asiatice atât de complet, încât generații întregi de oameni au crescut crezând că este a lor. _Capsicum baccatum_ a rămas în Anzi, ancorată de altitudini și de tradițiile agricole ale civilizațiilor precolumbiene din Peru și Bolivia. _Capsicum pubescens_, cea mai izolată genetic dintre toate, a urcat mai sus decât oricare dintre suratele sale și a rămas acolo — cu florile ei violet și semințele negre, ca un semn distinctiv inconfundabil al celor mai vechi terase andine.
 
 Cele cinci specii nu sunt capitole separate ale aceleiași cărți. Sunt cinci cărți diferite, scrise în aceeași limbă.
-
-![Cele cinci specii majore.png](/img/user/Resurse/ChatGPT/Cele%20cinci%20specii%20majore.png)
 
 ### [[Specii/Capsicum annuum\|Capsicum annuum]] — Specia universală
 

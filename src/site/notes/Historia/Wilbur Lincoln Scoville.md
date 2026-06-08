@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/Historia/Wilbur Lincoln Scoville/","tags":["biografie","farmacie","scoville","stiinta","historia","capsaicina","masurare"],"dg-note-properties":{"tags":["biografie","farmacie","scoville","stiinta","historia","capsaicina","masurare"]}}
 ---
 
+
 # Farmacistul care a măsurat iuțeala
 
 *22 ianuarie 1865, Bridgeport, Connecticut — 10 martie 1942, Gainesville, Florida*

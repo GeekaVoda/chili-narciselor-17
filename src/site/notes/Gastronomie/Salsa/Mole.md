@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/Gastronomie/Salsa/Mole/","tags":["gastronomie","mexic","mole","capsicum-annuum","ardei-uscat","reteta","patrimoniuunesco"],"dg-note-properties":{"tags":["gastronomie","mexic","mole","capsicum-annuum","ardei-uscat","reteta","patrimoniuunesco"]}}
 ---
 
+
 # Sosul cu patruzeci de ingrediente
 
 
@@ -27,7 +28,7 @@ Ceea ce este cert: ambele tradiții sunt autentice, cu rădăcini profunde, și 
 
 Mole nu este o singură rețetă, ci o întreagă categorie de sosuri. Un mole autentic poate conține între 20 și 40 de ingrediente, grupate în patru categorii principale:
 
-- **Ardei iuți:** Componenta de bază, utilizând de regulă varietăți uscate precum [[Soiuri/Ancho\|Ancho]], [[Soiuri/Mulato\|Mulato]] și [[Soiuri/Pasilla\|Pasilla]]. Fiecare soi aduce o contribuție distinctă: dulceață, fum, profunzime sau culoare.
+- **Ardei iuți:** Componenta de bază, utilizând de regulă varietăți uscate precum [[Resurse/BKP_Soiuri/Ancho\|Ancho]], [[Resurse/BKP_Soiuri/Mulato\|Mulato]] și [[Resurse/BKP_Soiuri/Pasilla\|Pasilla]]. Fiecare soi aduce o contribuție distinctă: dulceață, fum, profunzime sau culoare.
 
 - **Agenți de textură:** Semințe de dovleac (pepitas), susan, arahide, migdale sau tortilla și pâine prăjită — pentru densitatea specifică, onctuoasă, care face mole-ul diferit de orice alt sos.
 

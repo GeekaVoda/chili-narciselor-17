@@ -2,12 +2,11 @@
 {"dg-publish":true,"permalink":"/Specii/Capsicum frutescens/","tags":["capsicum","capsicum-frutescens","botanica","taxonomie","solanaceae","tabasco","malagueta","piri-piri","siling-labuyo","gastronomie","africa","brazilia","cultivare"],"dg-note-properties":{"tags":["capsicum","capsicum-frutescens","botanica","taxonomie","solanaceae","tabasco","malagueta","piri-piri","siling-labuyo","gastronomie","africa","brazilia","cultivare"]}}
 ---
 
+
 # Monografie botanică, istoric și gastronomie
 
 
 Dintre cele cinci specii cultivate ale genului *Capsicum*, *Capsicum frutescens* este cea care a ales calea discreției. Fructele sale sunt mici, aproape modeste ca dimensiune. Nu produce recorduri de iuțeală și nu are varietăți cu forme spectaculoase. Ceea ce are, în schimb, este o iuțeală curată, directă și extrem de stabilă — calități care au făcut din ea materia primă ideală pentru industria globală a sosurilor fermentate și pentru condimentarea de zi cu zi a unor întregi civilizații. De la butoaiele de stejar din Louisiana până în savanele Mozambicului, *Capsicum frutescens* a construit o prezență tăcută și de neînlocuit.
-
-![Capsicum frutescens.png](/img/user/Resurse/ChatGPT/Capsicum%20frutescens.png)
 
 ---
 

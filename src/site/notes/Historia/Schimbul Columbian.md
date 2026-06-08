@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/Historia/Schimbul Columbian/","tags":["istorie","schimb-columbian","capsicum","botanica","gastronomie"],"dg-note-properties":{"tags":["istorie","schimb-columbian","capsicum","botanica","gastronomie"]}}
 ---
 
+
 # Cea mai rapidă revoluție culinară din istoria omenirii
 
 
@@ -10,8 +11,6 @@
 Nu a găsit piperul. A găsit ceva diferit — o plantă pe care indigenii taíno o numeau *ají* și pe care medicul expediției, Diego Álvarez Chanca, a descris-o în 1494 drept „mai iute decât piperul și mai aromatică". Această greșeală de identificare — confundarea ardeilor iuți cu piperul, bazată pe efectul termic similar — a dat genului *Capsicum* denumirea populară de *pepper* în engleză, *poivre* în franceză și *pepe* în italiană, denumiri care persistă până astăzi în ciuda absenței oricărei relații botanice între cele două plante.
 
 Din această confuzie s-a născut una dintre cele mai profunde transformări culinare din istoria omenirii.
-
-![Schimbul Columbian.png](/img/user/Resurse/ChatGPT/Schimbul%20Columbian.png)
 
 ---
 
@@ -69,8 +68,6 @@ O rută mai puțin documentată, dar la fel de importantă, a fost **Galeonul de
 
 **Siling Labuyo** din Filipine poartă în numele său termenul *labuyo* — „sălbatic" — o mărturie a naturalizării complete a plantei în ecosistemul local, până la punctul în care populația locală a uitat că era un import.[^Andrews1995]
 
-![Raspandirea globala a speciilor.png](/img/user/Resurse/ChatGPT/Raspandirea%20globala%20a%20speciilor.png)
-
 ---
 
 ## De ce s-a răspândit atât de rapid?
@@ -81,7 +78,7 @@ Viteza cu care *Capsicum* a cucerit bucătăriile lumii — în mai puțin de un
 
 **Adaptabilitatea biologică.** *Capsicum annuum* și *C. frutescens* sunt plante adaptabile, cu cerințe modeste de sol și cu o plasticitate fenotipică remarcabilă. Aceeași specie poate crește în deșertul mexican, în tropicele asiatice, pe coastele mediteraneene și pe terasele andine — adaptând-se la condițiile locale și producând ecotipuri distincte în câteva generații.
 
-**Dispersia prin avifaună.** Soiurile de *C. frutescens* cu fructe mici și erecte — [[African Bird's Eye\|African Bird's Eye]], [[Soiuri/Siling Labuyo\|Siling Labuyo]], [[Soiuri/Prik Kee Nu\|Prik Kee Nu]] — s-au naturalizat spontan în ecosistemele tropicale, diseminate de păsările frugivore locale insensibile la capsaicină. Această naturalizare a produs populații viabile independent de cultivarea umană, accelerând răspândirea geografică dincolo de limitele rutelor comerciale.[^Tewksbury2001]
+**Dispersia prin avifaună.** Soiurile de *C. frutescens* cu fructe mici și erecte — [[African Bird's Eye\|African Bird's Eye]], [[Resurse/BKP_Soiuri/Siling Labuyo\|Siling Labuyo]], [[Resurse/BKP_Soiuri/Prik Kee Nu\|Prik Kee Nu]] — s-au naturalizat spontan în ecosistemele tropicale, diseminate de păsările frugivore locale insensibile la capsaicină. Această naturalizare a produs populații viabile independent de cultivarea umană, accelerând răspândirea geografică dincolo de limitele rutelor comerciale.[^Tewksbury2001]
 
 **Valoarea nutrițională.** Ardeii iuți sunt surse excepționale de vitamina C — conținând de 2–3 ori mai mult decât citricele, per unitate de greutate. În comununitățile cu acces limitat la fructe proaspete și cu risc ridicat de scorbut, această valoare nutrițională — necunoscută ca atare înainte de identificarea vitaminei C în secolul XX, dar percepută empiric — a accelerat adoptarea.
 
@@ -99,7 +96,7 @@ Schimbul Columbian nu a fost o simplă redistribuire geografică a plantelor. A 
 
 **Italia fără peperoncino.** *Nduja*, *pasta all'arrabbiata*, *olio santo*, *peperoni cruschi* — toate sunt produse ale unui ardei american adoptat de sudul Italiei în prima jumătate a secolului al XVI-lea.
 
-**Thailanda fără curry verde și roșu.** Pastele de curry thai — *gaeng phet*, *gaeng khiao wan* — sunt construite pe [[Soiuri/Prik Kee Nu\|Prik Kee Nu]], un ardei american. Bucătăria thai de dinaintea introducerii *Capsicum* folosea piperul alb și alte condimente; iuțeala sa caracteristică actuală este post-columbiană.
+**Thailanda fără curry verde și roșu.** Pastele de curry thai — *gaeng phet*, *gaeng khiao wan* — sunt construite pe [[Resurse/BKP_Soiuri/Prik Kee Nu\|Prik Kee Nu]], un ardei american. Bucătăria thai de dinaintea introducerii *Capsicum* folosea piperul alb și alte condimente; iuțeala sa caracteristică actuală este post-columbiană.
 
 ---
 

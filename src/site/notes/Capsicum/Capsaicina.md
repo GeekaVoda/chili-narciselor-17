@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/Capsicum/Capsaicina/","tags":["capsicum","capsaicina","biologie","farmacologie","trpv1","chimie"],"dg-note-properties":{"tags":["capsicum","capsaicina","biologie","farmacologie","trpv1","chimie"]}}
 ---
 
+
 # Molecula care arde fără să ardă
 
 
@@ -15,8 +16,6 @@ Capsaicina — denumire chimică *trans-8-methyl-N-vanillyl-6-nonenamidă* — e
 
 Capsaicina pură este un cristal incolor sau alb-gălbui, inodor la temperatura camerei, cu un punct de topire de 62–65°C. Este liposolubilă — se dizolvă în grăsimi, uleiuri și alcool, dar nu în apă. Această proprietate explică de ce laptele sau smântâna sunt mai eficiente decât apa în atenuarea senzației de iuțeală: lipidele solubilizează și îndepărtează capsaicina de pe mucoase, în timp ce apa nu face decât să o redistribuie.
 
-![Capsaicina.png](/img/user/Resurse/ChatGPT/Capsaicina.png)
-
 ---
 
 ## Rolul biologic originar
@@ -29,7 +28,7 @@ Capsaicina este, prin urmare, un **filtru de dispersori**: descurajează mamifer
 
 Concentrația de capsaicinoide variază între soiuri și în funcție de condițiile de mediu. Stresul hidric moderat, temperaturile ridicate și radiația UV intensă stimulează sinteza capsaicinoidelor — un mecanism de apărare suplimentar față de dăunători și patogeni. Această variabilitate explică de ce același soiu poate produce fructe cu iuțeli diferite în sezoane sau locații diferite.
 
-![Biosinteza capsaicinei.png](/img/user/Resurse/ChatGPT/Biosinteza%20capsaicinei.png)
+![[Biosinteza capsaicinei.png\|Biosinteza capsaicinei.png]]
 
 ---
 

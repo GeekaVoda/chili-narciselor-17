@@ -2,12 +2,11 @@
 {"dg-publish":true,"permalink":"/Specii/Capsicum chinense/","tags":["capsicum","capsicum-chinense","botanica","taxonomie","solanaceae","habanero","scotch-bonnet","bhut-jolokia","trinidad-moruga-scorpion","super-hot","gastronomie","caraibe","amazon","cultivare"],"dg-note-properties":{"tags":["capsicum","capsicum-chinense","botanica","taxonomie","solanaceae","habanero","scotch-bonnet","bhut-jolokia","trinidad-moruga-scorpion","super-hot","gastronomie","caraibe","amazon","cultivare"]}}
 ---
 
+
 # Monografie botanică, istoric și gastronomie
 
 
 *Capsicum chinense* nu are nicio legătură cu China. Numele său este rezultatul unei erori de clasificare din 1776, rămasă valabilă conform codului internațional de nomenclatură botanică, în ciuda faptului că originea speciei este strict amazoniană. Acest paradox nomenclatural este, în fond, o introducere potrivită pentru o specie care nu se comportă după reguli obișnuite: produce cea mai mare concentrație de capsaicinoide din întreg genul, dar în același timp ascunde, sub stratul de iuțeală extremă, un profil aromatic complex — note de caise, lychee, trandafir și fructe exotice — pe care puțini consumatori au răbdarea să îl descopere. Este specia care a generat recordurile mondiale de iuțeală și, în egală măsură, unele dintre cele mai rafinate sosuri din gastronomia caraibiană.
-
-![Capsicum chinense.png](/img/user/Resurse/ChatGPT/Capsicum%20chinense.png)
 
 ---
 
