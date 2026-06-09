@@ -35,30 +35,30 @@ Specia cu cea mai largă distribuție globală din gen și cu cel mai mare numă
 
 ---
 
-### Familia [[Resurse/BKP_Soiuri/Jalapeño (familia)\|Jalapeño]]
+### Familia [[Jalapeño (familia)\|Jalapeño]]
 *Cultivar canonic: Jalapeño*
 
 Cel mai cunoscut ardei iute la nivel global. Originar din statul Veracruz, Mexic, cultivat de secole și standardizat comercial în a doua jumătate a secolului XX. Pericarpul gros și iuțeala moderată îl fac versatil culinar. Forma afumată și uscată poartă denumirea de **Chipotle** — un ingredient cu identitate gastronomică proprie.
 
 - Jalapeño canonic
-- [[Resurse/BKP_Soiuri/Jalapeño Biker Billy\|Jalapeño Biker Billy]]
-- [[Resurse/BKP_Soiuri/Jalapeño Brown\|Jalapeño Brown]]
-- [[Resurse/BKP_Soiuri/Jalapeño Early\|Jalapeño Early]]
-- [[Resurse/BKP_Soiuri/Jalapeño Purple\|Jalapeño Purple]]
-- [[Resurse/BKP_Soiuri/Jalapeño Telica\|Jalapeño Telica]]
+- [[Jalapeño Biker Billy\|Jalapeño Biker Billy]]
+- [[Jalapeño Brown\|Jalapeño Brown]]
+- [[Jalapeño Early\|Jalapeño Early]]
+- [[Jalapeño Purple\|Jalapeño Purple]]
+- [[Jalapeño Telica\|Jalapeño Telica]]
 - [[Resurse/BKP_Soiuri/Variegated Mattapeno\|Variegated Mattapeno]]
 
 ---
 
-### Familia [[Resurse/BKP_Soiuri/Serrano (familia)\|Serrano]]
-*Cultivar canonic: [[Resurse/BKP_Soiuri/Serrano Tampiqueño\|Serrano Tampiqueño]]*
+### Familia [[Serrano (familia)\|Serrano]]
+*Cultivar canonic: [[Serrano Tampiqueño\|Serrano Tampiqueño]]*
 
 Al doilea cel mai consumat ardei proaspăt din Mexic. Originar din Sierra Madre Oriental, cu o iuțeală de 3–5 ori mai mare față de jalapeño și un profil aromatic mai acid și mai direct. Preferat de bucătarii mexicani tradiționali pentru salsele crude și guacamole.
 
-- [[Resurse/BKP_Soiuri/Serrano Tampiqueño\|Serrano Tampiqueño]]
-- [[Resurse/BKP_Soiuri/Serrano Hidalgo\|Serrano Hidalgo]]
-- [[Resurse/BKP_Soiuri/Serrano Tipico\|Serrano Tipico]]
-- [[Resurse/BKP_Soiuri/Serrano Huasteco\|Serrano Huasteco]]
+- [[Serrano Tampiqueño\|Serrano Tampiqueño]]
+- [[Serrano Hidalgo\|Serrano Hidalgo]]
+- [[Serrano Tipico\|Serrano Tipico]]
+- [[Serrano Huasteco\|Serrano Huasteco]]
 
 ---
 
@@ -122,7 +122,7 @@ Familie nouă, cu origine în San Joaquin Valley, California. Frecvent confundat
 
 ---
 
-### Familia [[Resurse/BKP_Soiuri/Peperoncino (familia)\|Peperoncino]]
+### Familia [[Familii si soiuri/Peperoncino/▼ Peperoncino\|Peperoncino]]
 *Cultivar canonic: [[Resurse/BKP_Soiuri/Peperoncino Calabrese\|Peperoncino Calabrese]]*
 
 Singura familie din proiect cu rădăcini complet post-columbiene în aria sa de referință culturală. Ardeii au ajuns în Italia în prima jumătate a secolului al XVI-lea prin rutele comerciale spaniole și au fost adoptați cu o profunzime remarcabilă de comunitățile din sudul peninsulei — Calabria, Basilicata, Sicilia. Familia acoperă un spectru larg de iuțeală și utilizare: de la [[Resurse/BKP_Soiuri/Friggitello\|Friggitello]]-ul practic lipsit de capsaicinoide, destinat prăjirii directe în ulei de măsline, până la [[Resurse/BKP_Soiuri/Diavolicchio\|Diavolicchio]]-ul mic și iute al sosurilor picante. [[Resurse/BKP_Soiuri/Peperoncino di Senise\|Peperoncino di Senise]] din Basilicata beneficiază de Denominazione di Origine Protetta (DOP) — singurul ardei italian cu această recunoaștere europeană.
@@ -205,14 +205,14 @@ Validat academic de New Mexico State University în 2012 ca cel mai iute ardei d
 
 ---
 
-### Familia [[Resurse/BKP_Soiuri/Carolina Reaper (familia)\|Carolina Reaper]]
-*Cultivar canonic: [[Resurse/BKP_Soiuri/Carolina Reaper Red\|Carolina Reaper Red]] (HP22B)*
+### Familia [[Carolina Reaper (familia)\|Carolina Reaper]]
+*Cultivar canonic: [[Carolina Reaper Red\|Carolina Reaper Red]] (HP22B)*
 
 Singura familie din proiect al cărei cultivar canonic a deținut recordul mondial de iuțeală de două ori. Creat de Ed Curlin (*Smokin' Ed*) din Fort Mill, Carolina de Sud, prin hibridizare deliberată și stabilizare genetică controlată pe mai mult de un deceniu. Certificat Guinness în 2013 cu 1.641.183 SHU. Morfologia sa — suprafața extrem de deformată și apendicele terminal lung și răsucit elicoidal — este cea mai spectaculoasă din categoria super-hot.
 
-- [[Resurse/BKP_Soiuri/Carolina Reaper Red\|Carolina Reaper Red]]
-- [[Resurse/BKP_Soiuri/Carolina Reaper Yellow\|Carolina Reaper Yellow]]
-- [[Resurse/BKP_Soiuri/Carolina Reaper Chocolate\|Carolina Reaper Chocolate]]
+- [[Carolina Reaper Red\|Carolina Reaper Red]]
+- [[Carolina Reaper Yellow\|Carolina Reaper Yellow]]
+- [[Carolina Reaper Chocolate\|Carolina Reaper Chocolate]]
 
 ---
 

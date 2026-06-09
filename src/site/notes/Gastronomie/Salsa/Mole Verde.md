@@ -20,7 +20,7 @@ Mole Verde se diferențiază de celelalte variante prin utilizarea exclusivă a 
 
 - **800g tomatillos** — proaspeți, curățați de coajă și spălați.
 - **3 ardei [[Resurse/BKP_Soiuri/Poblano\|Poblano]]** — curățați de semințe și tăiați cuburi.
-- **3–5 ardei [[Familii si soiuri/Serrano/Serrano\|Serrano]] sau [[Jalapeño_Claude\|Jalapeño_Claude]]** — în funcție de nivelul de iuțeală dorit.
+- **3–5 ardei [[Serrano\|Serrano]] sau [[Jalapeño_Claude\|Jalapeño_Claude]]** — în funcție de nivelul de iuțeală dorit.
 - **1 ceapă albă medie**.
 - **4 căței de usturoi**.
 

@@ -33,7 +33,7 @@ Un cultivar heirloom este un soi deschis-polenizat cu o istorie documentată de 
 - Nicio intervenție de hibridizare controlată în istoria recentă documentată
 - Identitate adesea legată de o regiune, o familie sau o comunitate care l-a menținut
 
-**Exemple pe site:** [[Resurse/BKP_Soiuri/Serrano Tampiqueño\|Serrano Tampiqueño]], [[Resurse/BKP_Soiuri/Cayenne Buist's Yellow\|Cayenne Buist's Yellow]], [[Resurse/BKP_Soiuri/Chiltepín Bird Pepper\|Chiltepín Bird Pepper]] (soi sălbatic cu utilizare umană documentată), [[Resurse/BKP_Soiuri/Pasilla Negro\|Pasilla Negro]], [[Resurse/BKP_Soiuri/Ancho\|Ancho]]
+**Exemple pe site:** [[Serrano Tampiqueño\|Serrano Tampiqueño]], [[Resurse/BKP_Soiuri/Cayenne Buist's Yellow\|Cayenne Buist's Yellow]], [[Resurse/BKP_Soiuri/Chiltepín Bird Pepper\|Chiltepín Bird Pepper]] (soi sălbatic cu utilizare umană documentată), [[Resurse/BKP_Soiuri/Pasilla Negro\|Pasilla Negro]], [[Resurse/BKP_Soiuri/Ancho\|Ancho]]
 
 **Limitare:** Termenul *heirloom* nu este reglementat comercial — orice producător poate eticheta orice soi drept *heirloom* fără verificare. Relevanța documentării istorice (cataloage, surse academice, tradiție orală verificabilă) este criteriul de calitate.
 
