@@ -1,79 +1,41 @@
 ---
-{"dg-publish":true,"permalink":"/Gastronomie/Salsa/Pico de Gallo/","tags":["gastronomie","mexic","salsa","pico-de-gallo","capsicum-annuum","jalapeno","serrano","reteta"],"dg-note-properties":{"tags":["gastronomie","mexic","salsa","pico-de-gallo","capsicum-annuum","jalapeno","serrano","reteta"]}}
+{"dg-publish":true,"permalink":"/Gastronomie/Salsa/Pico de Gallo/","title":"Pico de Gallo","tags":["preparat-culinar","salsa","capsicum-annuum","mexic","salsa-cruda","culinar"],"dg-note-properties":{"title":"Pico de Gallo","tip_entitate":"preparat-culinar","familie_botanica":"Solanaceae","gen":"capsicum","specie":"capsicum-annuum","grup_preparat":"salsa","statut_specific":"proaspăt (crud)","ardei_componenti":["[[Soiuri și varietăți/▲ Serrano\|▲ Serrano]]","[[Soiuri și varietăți/▲ Jalapeño\|▲ Jalapeño]]"],"variante_nume":["salsa mexicana","salsa bandera","salsa fresca","salsa picada"],"origine":"Mexic","regiune_culinara":"mexicană","prima_atestare":"rădăcină precolumbiană; nume de origine incertă","utilizare_principala":"culinară","calitate_documentare":"ridicată","nota_clasificare":"Membru al grupului de preparat culinar „salsa”, în subfamilia salselor crude. Câmpul entitate_sursa nu se aplică — preparatul nu derivă dintr-un ardei canonic unic, ci din ardei verzi proaspeți (serrano, jalapeño), consemnați în „ardei_componenti”.","tags":["preparat-culinar","salsa","capsicum-annuum","mexic","salsa-cruda","culinar"]}}
 ---
 
 
-# Salsa Fresca
+# Ciocul cocoșului, un nume fără certitudine
+
+*Capsicum annuum · Preparat culinar · Mexic*
 
 
-Pico de Gallo este cel mai simplu și cel mai onest preparat din familia [[Gastronomie/Salsa/Salsa\|Salsa]]. Nu are nevoie de foc, de blender sau de tehnici complexe. Cere doar ingrediente proaspete, un cuțit bun și respectul față de proporții. Este, în fond, o salată — dar o salată cu o precizie structurală care o face mai dificil de executat corect decât pare la prima vedere.
+Puține salse mexicane poartă un nume mai enigmatic. „Pico de gallo” înseamnă, literal, „ciocul cocoșului”, dar nimeni nu știe cu certitudine de ce o salsa de roșii, ceapă și ardei verde a ajuns să fie botezată așa. Ceea ce se vede limpede este cu totul altceva: culorile ei — roșul roșiei, albul cepei, verdele ardeiului și al coriandrului — sunt culorile drapelului mexican, motiv pentru care i se mai spune și *salsa bandera*. Este o salsa crudă, tăiată mărunt, nu măcinată, în care fiecare ingredient își păstrează forma și textura, iar prospețimea este întreaga ei rațiune de a fi.
 
-![Pico De Galo 1.png](/img/user/Resurse/@site_related/Pico%20De%20Galo%201.png)
+## Rolul ardeilor componenți
 
-Etimologia numelui este ea însăși o mică enigmă documentată. Trei teorii circulă în literatura gastronomică mexicană. Prima și cea mai acceptată susține că numele provine din spaniolă și înseamnă literal „ciocul cocoșului" — o referire la modul tradițional de a consuma preparatul: ciupit direct cu degetele, câte puțin, *como picotea un gallo* (cum ciugulește un cocoș). A doua teorie leagă numele de aspectul vizual al preparatului — culorile roșu, alb și verde ale ingredientelor tocate ar aminti de penajul unui cocoș. A treia, mai puțin documentată, sugerează că termenul descria inițial o combinație de fructe cu chili și lime — variantă care există și astăzi în statul Jalisco sub același nume, dar complet diferită ca ingrediente față de salsa de roșii pe care o cunoaște restul lumii.
+Ardeiul dă preparatului iuțeala și partea de verde. Cel tradițional este [[Soiuri și varietăți/▲ Serrano\|▲ Serrano]], mic, subțire și arzător, folosit proaspăt și tăiat mărunt, cu tot cu semințe atunci când se dorește mai iute. În lipsa lui, ori pentru un gust ceva mai blând, se folosește adesea [[Soiuri și varietăți/▲ Jalapeño\|▲ Jalapeño]] verde. Iuțeala se reglează simplu, prin cantitatea de ardei și prin scoaterea ori păstrarea nervurilor și semințelor, astfel încât aceeași rețetă poate merge de la o urmă discretă până la o arsură serioasă. Aici ardeiul nu se macină, ci se taie în bucăți mici și distincte, care se simt sub dinte alături de celelalte ingrediente. În unele regiuni, mai ales în sud-estul țării, rolul lui este preluat de habanero, care schimbă profilul spre o iuțeală mult mai intensă. Pe lângă iuțeală, ardeiul verde și coriandrul aduc și verdele care, alături de roșul roșiei și de albul cepei, întregește tricolorul din care preparatul își trage numele de *salsa bandera*.
 
-Această din urmă particularitate merită reținută: în Mexic, **„Pico de Gallo" nu înseamnă același lucru în toate regiunile**. În Jalisco, termenul desemnează o combinație de fructe proaspete — jicamă, castraveți, portocale, mango — presărate cu chili în pulbere, suc de lime și sare. Este un preparat de stradă complet diferit față de salsa de roșii numită la fel în restul țării și în întreaga lume hispanofonă și anglofonă. Această ambiguitate regională este documentată și ilustrează cât de dificilă este standardizarea terminologiei culinare mexicane.
+## Numele și confuziile lui
 
----
+Originea numelui „pico de gallo” nu este documentată, iar în lipsa unei explicații sigure au apărut mai multe teorii. Cea mai răspândită spune că ingredientele, tăiate în cuburi mici, seamănă cu boabele pe care le ciugulește un cocoș. Autoarea culinară Sharon Tyler Herbst a propus o altă explicație: numele ar veni de la felul în care se mânca odinioară salsa, luând bucăți mici între degetul mare și arătător, într-un gest care amintește de ciugulit. În nordul Mexicului, mai ales în Sonora, se crede că însuși ardeiul serrano are forma unui cioc de cocoș. Bucătarul și autorul Rick Bayless, în volumul *Authentic Mexican*, leagă de asemenea numele de asemănarea ingredientelor mărunțite cu hrana păsărilor, iar unii propun un simplu joc de cuvinte cu verbul *picar*, „a înțepa”, potrivit pentru o salsa iute. Nicio versiune nu este confirmată, iar sursele sunt de acord asupra unui singur lucru: adevărata origine a numelui rămâne necunoscută.
 
-## Originea și contextul istoric
+La această incertitudine se adaugă o confuzie de nume reală. În multe regiuni ale Mexicului, „pico de gallo” nu desemnează salsa de roșii, ci o gustare de fructe: în Jalisco se prepară cu jícama, oregano, castravete, ananas, portocală, mango și xoconostle — un fruct acrișor al nopalului —, iar în nord cu felii de portocală, lămâie, ceapă și serrano. Din acest motiv, mulți gastronomi consideră că numele consacrat al salsei de roșii ar fi, de fapt, *salsa mexicana*, iar „pico de gallo” i s-ar fi lipit ulterior. În Yucatán, rolul salsei proaspete de masă este preluat de *xnipec* — „nasul câinelui” în limba maya —, făcută cu habanero. Aceeași denumire acoperă, așadar, preparate foarte diferite, de la salsa de masă până la cocteiluri de fructe cu chili, ceea ce face din „pico de gallo” unul dintre numele cele mai alunecoase ale bucătăriei mexicane. Există chiar o dezbatere veche despre însăși natura preparatului: nefiind lichid, unii îl socotesc mai degrabă o salată decât o salsa.
 
-Pico de Gallo în forma sa actuală — roșii, ceapă, ardei iute, coriandru, lime — este un preparat post-columbian, imposibil de replicat înainte de 1492. Roșia și ardeiul iute sunt americane, dar lime-ul și coriandrul au fost introduse de europeni. Preparatul, în forma sa completă, este deci un produs al fuziunii dintre bucătăria indigenă mezoamericană și ingredientele aduse de colonizatori — un exemplu clasic al Schimbului Columbian reflectat în farfurie.
+## Tehnica preparării
 
-Forma ancestrală precolumbiană care i-ar putea fi considerată precursoare combina *xoconostle* (un tip de cactus acid nativ din Mexic), ardei iuți proaspeți și sare — o mixtură crudă, acră și iute, consumată ca acompaniament pentru proteine. Aciditatea citrică a lime-ului a înlocuit aciditatea naturală a fructului de cactus după contactul european, producând combinația pe care o cunoaștem astăzi.
+Prepararea este simplă, dar cere precizie. Roșiile se taie în cuburi mici, adesea după scoaterea semințelor pentru a nu lăsa prea multă zeamă; ceapa albă și ardeiul verde se toacă mărunt, la fel coriandrul; totul se amestecă și se drege cu suc de lămâie și sare. Cuțitul bine ascuțit este esențial: tăietura curată și uniformă dă preparatului aspectul lui caracteristic și menține fiecare ingredient distinct. Proporțiile se potrivesc după gust — de regulă roșia domină, ceapa și ardeiul o echilibrează, iar coriandrul și lămâia dau nota proaspătă și acidă —, dar nu există o rețetă fixă, ci un raport pe care fiecare bucătar îl reglează. Salsa conține puțin lichid, ceea ce o face potrivită nu doar ca sos de masă, ci și ca umplutură pentru tacos ori fajitas. Se servește proaspătă, cel mai adesea imediat, alături de totopos ori peste diverse preparate; păstrată prea mult, ceapa și coriandrul își pierd prospețimea, iar salsa lasă apă. Tocmai fiindcă e crudă și versatilă, apare la orice oră a zilei — de la ouăle cu *salsa bandera* de la micul dejun până la tacos și tostadas de peste zi —, iar unii bucătari o lasă câteva minute la rece înainte de servire, cât să se lege aromele.
 
----
+## Rol cultural
 
-## Ingrediente — pentru 4 porții
+Prin culorile ei, pico de gallo a devenit una dintre cele mai recognoscibile salse ale Mexicului, purtând pe masă tricolorul național. Este o prezență obișnuită a bucătăriei de zi cu zi, servită ca *botana* cu totopos, presărată peste molletes, tacos ori ouă, și oferită ca aderezo alături de nenumărate feluri. Fiind crudă și rapidă, se pregătește în orice gospodărie, iar simplitatea ingredientelor o face un reper al prospețimii în bucătăria mexicană. Rădăcinile ei coboară adânc: roșia, ardeiul și coriandrul, tăiate proaspăt, făceau parte din dieta mesoamericană cu mult înainte de sosirea spaniolilor, iar salsele crude de acest fel însoțeau mâncarea încă de atunci. În vremurile din urmă, preparatul a depășit granițele Mexicului și a devenit o prezență obișnuită în bucătăria internațională, servit alături de nachos ori peste feluri felurite. Ca membru al familiei [[Gastronomie/Salsa/▲ Salsa\|▲ Salsa]] și parte a bucătăriei tradiționale mexicane, recunoscută de UNESCO în 2010, ea arată cât de mult poate spune un preparat simplu despre identitatea culinară a unei țări.
 
-- **4 roșii mari, coapte** (tip Roma sau similare) — tocate cubulețe mici de 5–7 mm, cu tot cu suc.
-- **1 ceapă albă medie** — tocată fin. *Ceapa albă, nu roșie — diferența de aromă este semnificativă în contextul unui preparat crud.*
-- **2–3 ardei [[Jalapeño_Claude\|Jalapeño_Claude]] sau [[Serrano\|Serrano]]** — curățați de semințe și tocați fin. Cantitatea se ajustează după toleranța la iuțeală.
-- **1 legătură de coriandru proaspăt** — doar frunzele, tocate grosier.
-- **Sucul a 2 lime-uri** — proaspăt stors, nu îmbuteliat.
-- **Sare** după gust.
+## Citat
 
----
-
-## Procedura de preparare
-
-### 1. Pregătirea roșiilor
-
-Se taie roșiile în cubulețe mici și uniforme. Dacă roșiile sunt foarte zemoase, se pot scurge parțial de lichid — dar sucul propriu al roșiilor este cel care „leagă" preparatul în absența oricărui agent de emulsionare, deci nu se elimină complet.
-
-### 2. Tocarea ingredientelor
-
-Ceapa și ardeii se toacă fin, uniform. Uniformitatea tăieturii nu este doar estetică — influențează direct echilibrul de aromă al fiecărei înghițituri. Coriandrul se toacă grosier, nu fin: frunzele intacte sau semi-intacte eliberează aroma mai lent și mai uniform decât pasta de coriandru.
-
-### 3. Asamblarea
-
-Se combină toate ingredientele într-un bol. Se stoarce sucul de lime direct peste amestec și se adaugă sare. Se amestecă ușor, fără a zdrobi roșiile.
-
-### 4. Macerarea
-
-Acesta este pasul cel mai adesea omis și cel mai important: se lasă preparatul la macerat la temperatura camerei timp de **10–15 minute** înainte de servire. În acest interval, sarea extrage parțial sucul din roșii și ceapă, lime-ul începe să „gătească" chimic suprafețele de contact, iar aromele se integrează. Pico de Gallo servit imediat după asamblare are ingrediente, nu un preparat.
-
----
-
-## Note tehnice și culturale
-
-**Despre coriandru:** Este ingredientul cel mai controversat al rețetei — există o sensibilitate genetică documentată (gena OR6A2) care face ca aproximativ 4–14% din populație să perceapă coriandrul ca având gust de săpun. În Mexic, omiterea coriandrului dintr-un Pico de Gallo este considerată o abatere serioasă de la rețetă. În adaptările internaționale, este adesea înlocuit sau redus.
-
-**Despre lime vs. lămâie:** Sucul de lămâie galbenă (*limón amarillo*) nu este un substituent fidel pentru lime în acest preparat. Profilul acid al lime-ului este mai ascuțit și mai aromatic, contribuind distinct la echilibrul final. Rețetele mexicane autentice nu folosesc niciodată lămâie galbenă în Pico de Gallo.
-
-**Despre ardei:** Jalapeño produce un Pico de Gallo mai blând, cu note vegetale clare. Serrano produce o iuțeală mai ascuțită și mai directă. Combinația dintre cele două este utilizată frecvent pentru un profil echilibrat. Semințele se elimină pentru a controla iuțeala, nu pentru că ar afecta textura.
-
-**Temperatura de servire:** Pico de Gallo se servește la temperatura camerei, nu rece. Frigul atenuează aromele volatile și înăsprește textura ceapei crude. Dacă a fost refrigerat, se scoate cu 15–20 de minute înainte de servire.
-
----
-
-*Pico de Gallo este acompaniamentul universal al tacos, enchiladas și quesadillas, dar și elementul de contrast textural și acid pentru preparate grase — carnitas, birria, chiles rellenos. Poate fi consumat și ca atare, cu tortilla chips sau tostadas.*
-
----
+„În Jalisco, pico de gallo se prepară cu jícama, ananas, portocală, mango și serrano.”
+— Larousse Cocina, *Diccionario enciclopédico de la Gastronomía Mexicana*, fișa „Pico de gallo”, despre versiunea de fructe care poartă același nume ca salsa de roșii.
 
 ## Bibliografie
 
-- **Kennedy, D.** (1972). *The Cuisines of Mexico*. Harper & Row. [Clasificarea și tehnicile de preparare ale salselor proaspete mexicane, inclusiv Pico de Gallo].
-- **Pilcher, J. M.** (1998). *¡Que vivan los tamales! Food and the Making of Mexican Identity*. University of New Mexico Press. [Contextul cultural și regional al variantelor de salsa fresca în Mexic].
-- **Crosby, A. W.** (1972). *The Columbian Exchange: Biological and Cultural Consequences of 1492*. Greenwood Press. [Cadrul istoric al fuziunii culinare dintre ingredientele americane și cele europene post-1492].
-- **Menella, J. A., et al.** (2010). *Putting the Sense of Smell to the Test*. Chemical Senses. [Date despre sensibilitatea genetică la coriandru și distribuția sa în populație].
+- *Pico de gallo*, Wikipedia (versiunile în spaniolă și engleză, consultate 2026) — denumiri, ingrediente și teoriile despre nume.
+- Larousse Cocina, *Diccionario enciclopédico de la Gastronomía Mexicana*, fișa „Pico de gallo” — variantele regionale, inclusiv cele de fructe.
+- Herbst, Sharon Tyler — ipoteza etimologică privind modul de a mânca salsa, consemnată în literatura culinară.
+- Utah State University Extension, „Pico de Gallo” — descrierea preparatului și a denumirilor alternative.

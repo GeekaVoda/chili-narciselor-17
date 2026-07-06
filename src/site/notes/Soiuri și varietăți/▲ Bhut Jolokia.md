@@ -1,0 +1,107 @@
+---
+{"dg-publish":true,"permalink":"/Soiuri și varietăți/▲ Bhut Jolokia/","title":"▲ Bhut Jolokia","tags":["landrasa","bhut-jolokia","capsicum-chinense","superhot","iuteala-extrema","nord-est-india","assam","culinar"],"dg-note-properties":{"title":"▲ Bhut Jolokia","tip_entitate":"landrasă","familie_botanica":"Solanaceae","gen":"capsicum","specie":"capsicum-chinense","grup_soi":"bhut jolokia","statut_genetic":"landrasă","tip_origine":"cultivat","afinitate_genetica":["capsicum-chinense","capsicum-frutescens"],"variante_nume":["Bhoot Jolokia","Bih Jolokia","U-Morok","Tezpur chili"],"sinonime":["Naga Jolokia","Ghost Pepper"],"shu_min":855000,"shu_max":1041427,"origine":"India de nord-est (Assam, Nagaland, Manipur) și Bangladesh — landrasă tradițională a bazinului Brahmaputra; protejată prin indicație geografică (GI) în nord-estul Indiei","prima_atestare":"atestare științifică modernă prin Mathur et al. (Current Science, 2000) și Bosland & Baral (HortScience, 2007); certificare Guinness World Records în 2007","regiune_culinara":"India de nord-est (Assam, Nagaland, Manipur)","utilizare_principala":"culinară","calitate_documentare":"ridicată","nota_clasificare":"„Landrasă din nord-estul Indiei, încadrată unanim de surse la Capsicum chinense Jacq., cu introgresiune naturală documentată din Capsicum frutescens (Bosland și Baral, 2007); nu este un hibrid F1 dirijat, ci o landrasă cu introgresiune spontană, de aceea apartenența interspecifică se exprimă prin «afinitate_genetica», nu prin câmpul «interspecific». «Naga Jolokia» este sinonim al acestui ardei din Assam; linia Naga Morich (Bangladesh) și formele desprinse din ea — Dorset Naga, Naga Viper — se tratează ca grup de soi separat. Numele «bhut» se redă drept «fantomă» în assameză; etimologia rivală «din Bhutan» este respinsă de surse.\"","tags":["landrasa","bhut-jolokia","capsicum-chinense","superhot","iuteala-extrema","nord-est-india","assam","culinar"]}}
+---
+
+
+# Fantoma din Assam
+
+*Capsicum chinense · Landrasă · 855.000–1.041.427 SHU*
+
+Bhut Jolokia este o landrasă a speciei *Capsicum chinense*, crescută de generații în grădinile din nord-estul Indiei și recunoscută, în 2007, drept cel mai iute ardei din lume — primul care a trecut, oficial, pragul de un milion de unități Scoville. Este un ardei contestat la fiecare nivel al identității sale: la specie, fiindcă morfologia îl dă drept *chinense*, dar genele lui poartă urma unei a doua specii; la nume, fiindcă în aceeași regiune i se spune când „fantomă”, când „otravă”, când „rege”; și chiar la rost, fiindcă același fruct care condimentează tocănițele din Assam a fost încercat și ca încărcătură pentru grenade de mână. Teza acestei pagini este că tocmai aceste ambiguități — taxonomică, lingvistică și de întrebuințare — alcătuiesc identitatea ardeiului, nu o tulbură. În spatele tuturor stă o singură pricină biologică: clima caldă și umedă a bazinului Brahmaputra, care împinge producția de capsaicină la un nivel rar întâlnit.
+
+> „...there may have been genetic introgression from *Capsicum frutescens* L. into 'Bhut Jolokia'.”
+> — Paul W. Bosland & Jit B. Baral, *HortScience* 42(2), 2007
+> *Traducere: „...e posibil să fi existat o introgresiune genetică din Capsicum frutescens L. în «Bhut Jolokia».”*
+
+## Identitate botanică
+
+- **Familie botanică:** Solanaceae
+- **Gen:** *Capsicum* ([[Genuri și specii/🌶 Genul Capsicum\|🌶 Genul Capsicum]])
+- **Specie:** *Capsicum chinense* Jacq. ([[Genuri și specii/🌿 Capsicum chinense\|🌿 Capsicum chinense]]), cu introgresiune din *Capsicum frutescens* L.
+- **Grup de soi:** bhut jolokia
+- **Origine:** India de nord-est — Assam, Nagaland, Manipur — și Bangladesh; landrasă a bazinului Brahmaputra
+- **Statut genetic:** landrasă (deschis-polenizată)
+- **Talia plantei:** tufoasă, înaltă, viguroasă, frecvent 0,75–1,2 m, uneori mai mult în sezon lung
+- **Dimensiuni fruct:** circa 5–8,5 cm lungime și 2,5–3 cm lățime
+- **Formă:** alungit-conică, ușor curbată, cu suprafața ondulată, mată și ușor zbârcită, terminată într-un vârf subțire
+- **Culoare:** verde → roșu intens la maturitate (formele cromatice selectate ajung brun, piersică, alb sau galben)
+- **Pereți (pericarp):** subțiri spre potriviți; fruct relativ ușor, cu aspect de păstaie alungită
+- **Floare:** corolă alb-crem, cu filamente purpurii și antere albăstrui; flori pendente, adesea câte două la nod
+- **Semințe:** mici, plate, gălbui, prinse pe placenta internă
+
+## Numele: fantomă, otravă, șarpe sau rege?
+
+Puține soiuri își poartă identitatea atât de neclar în nume ca acesta, fiindcă fiecare ținut din care vine i-a dat altul, iar fiecare nume spune altceva despre el. La nord de Brahmaputra, în Assam, i se spune îndeobște *bhut jolokia* (ভোট জলকীয়া), unde *jolokia* înseamnă „ardei”, iar *bhut* se traduce drept „fantomă” — o numire pe care sursele o leagă de felul în care arsura se strecoară pe nesimțite și lovește abia după câteva clipe. Tot în Assam circulă și numele *bih jolokia*, „ardeiul-otravă”, de la *bih*, „otravă”, care denumește fără ocol tăria fructului. În Manipur devine *u-morok*, „ardeiul-copac”, după statura înaltă a plantei, iar în Nagaland este *raja mircha*, „regele ardeilor”, numit în engleză și *Naga King Chilli*. După orașul Tezpur, din Assam, a fost numit uneori și „ardeiul de Tezpur”.
+
+În jurul lui s-au țesut și două confuzii etimologice care merită limpezite, fiindcă pagini întregi le repetă greșit. Cea dintâi privește chiar numele *bhut*: o tradiție populară susține că ar veni de la „Bhutan”, adică „ardeiul bhutanez”, introdus prin negustori. Sursele resping această ipoteză din două motive: forma assameză pentru „din Bhutan” nu este *bhut*, ci *bhuitiya*, iar ardeiul nu a crescut niciodată firesc în clima temperată a Bhutanului. „Fantomă” rămâne, prin urmare, citirea întemeiată. A doua confuzie privește numele *naga*, care apare în forma *Naga Jolokia*. Cuvântul sanscrit *नाग* (nāga) înseamnă într-adevăr „șarpe” ori „cobră”, iar unii citesc astfel numele drept „ardeiul-șarpe”. Totuși, în cazul acestui fruct, sursele leagă numele mai degrabă de Nagaland și de poporul Naga, pe ale căror dealuri crește, decât de reptilă. Etnonimul „Naga” are, la rândul lui, o origine disputată și probabil nesanscrită — a fost atribuit triburilor de către vecinii lor ahomi, meitei și birmani, cu sensuri precum „gol” sau „cu cercei” —, astfel că legătura directă cu cobra rămâne o suprapunere de sunete, nu o filiație dovedită. „Ardeiul-șarpe” este o lectură seducătoare, dar nu cea documentată.
+
+Acest hățiș de nume nu este doar pitoresc; el are și o consecință juridică. Ardeiul se bucură de protecție prin indicație geografică (GI) în nord-estul Indiei, statul Nagaland obținând recunoașterea pentru *Naga King Chilli*. Protecția restrânge folosirea denumirii la fructele crescute în regiunile de obârșie — Assam, Nagaland, Manipur —, legând astfel numele de un teritoriu anume, așa cum se întâmplă cu produsele cu denumire de origine. Pentru limpezimea grupului de soi, se cuvine spus că *Naga Jolokia* este unul și același cu *bhut jolokia* din Assam, descris aici; landrasa-soră *Naga Morich* din Bangladesh și formele desprinse din ea alcătuiesc o linie aparte, tratată separat.
+
+## Originea și enigma taxonomică
+
+Specia *Capsicum chinense* nu este, în ciuda numelui pe care i l-a dat botanistul Nikolaus von Jacquin, originară din China; ea s-a născut în bazinul amazonian și în Caraibe, de unde s-a răspândit, pe filierele negoțului de după secolul al XVI-lea, până în Asia de sud și de sud-est. Ajuns în nord-estul Indiei, ardeiul a fost preluat de comunitățile locale și cultivat secol după secol în condițiile de aici — căldură mare, umiditate ridicată, ploi musonice abundente —, până când a devenit o landrasă proprie regiunii, adaptată solului și climei ei.
+
+Aici intervine enigma care a făcut faima științifică a acestui ardei. Multă vreme s-a discutat dacă *bhut jolokia* aparține speciei *Capsicum frutescens* sau *Capsicum chinense*. Studiul lui Paul Bosland și Jit Baral, publicat în *HortScience* în 2007, a dat un răspuns nuanțat: după caractere morfologice — frunza încrețită, florile pendente câte două la nod, strangularea redusă dintre caliciu și codiță — ardeiul este un *Capsicum chinense*, însă analiza markerilor moleculari de tip RAPD a relevat că, în trecut, ar fi avut loc o introgresiune de gene din *Capsicum frutescens*. De aici și formula prin care l-au descris autorii: un hibrid interspecific natural, putativ. Cercetări ulterioare au adâncit tabloul: analiza filogenetică a regiunii ITS din ADN-ul ribozomal a plasat accesiunile de *bhut jolokia* într-o cladă distinctă, separată atât de *C. frutescens*, cât și de *C. chinense*.
+
+Această dublă apartenență hotărăște și modul în care ardeiul este clasificat în acest proiect. *Bhut jolokia* nu este un hibrid F1 obținut prin încrucișare dirijată într-o seră, ci o landrasă stabilizată prin cultivare tradițională, care poartă în genomul ei urma unei vechi întâlniri între două specii. De aceea este tratat drept landrasă a speciei *Capsicum chinense*, iar introgresiunea se consemnează ca afinitate genetică față de ambele specii, nu ca o hibridare formală. Enigma rămâne, însă, parte din identitatea fructului: un ardei care, la o privire, este limpede *chinense*, dar care, în adâncul genelor, ține minte și o altă specie.
+
+## Caractere botanice
+
+### Morfologie
+
+Planta este o tufă erbacee înaltă și viguroasă, care în sezon lung depășește adesea un metru, cu tulpini ferme și frunze mari, verzi, ușor încrețite — semnul speciei *chinense*. Florile poartă și ele acest semn, dar cu o particularitate: corola este alb-crem, însă filamentele staminelor sunt purpurii, iar anterele bat în albastru, detaliu observat și descris în studiul lui Bosland și Baral. Florile apar pendente, frecvent câte două la un nod, și sunt autofertile, astfel că planta leagă rod fără ajutorul polenizatorilor.
+
+Fructul este, botanic, o **bacă** — cărnos, indehiscent, cu semințele prinse pe o placentă internă —, chiar dacă forma lui alungită îi dă, la prima vedere, aspectul de păstaie. Are 5–8,5 cm lungime și 2,5–3 cm lățime, o siluetă conică, ușor curbată, care se îngustează spre un vârf subțire, iar suprafața este ondulată, mată și ușor zbârcită, departe de luciul neted al multor rude din specia lui. La îmbinarea cu codița, strangularea inelară tipică speciei *chinense* este prezentă, dar redusă — un alt amănunt notat de cercetători. Pereții (pericarpul) sunt subțiri spre potriviți, ceea ce face fructul ușor și potrivit uscării, iar pulpa relativ puțină lasă loc unui interior bogat în țesut placentar. Fructul se coace din verde, printr-o scurtă fază portocalie, până la un roșu intens la forma de referință.
+
+### Fiziologie și ciclu de viață
+
+Ca toți ardeii speciei *chinense*, *bhut jolokia* cere un sezon lung și cald. Germinația este înceată și pretențioasă la căldură, iar de la semănat până la primele fructe coapte trec frecvent multe luni; în clima sa de obârșie, planta se comportă ca o perenă de scurtă durată, în vreme ce în culturile temperate este crescută ca anuală. Recoltarea în Assam se face spre sfârșitul verii și în toamnă, după ploile musonice.
+
+Iuțeala se naște în țesutul placentar și în pereții despărțitori dinăuntrul fructului, unde glande microscopice produc capsaicinoidele din doi precursori — un fragment aromatic derivat din fenilalanină și un acid gras ramificat derivat din valină —, îmbinați de enzima capsaicin-sintază. Ceea ce face din acest ardei un caz aparte este influența climei asupra acestui proces. Un studiu indian a comparat aceleași plante crescute la Tezpur, în Assamul umed, și la Gwalior, într-un climat mult mai arid, cu temperaturi asemănătoare, dar cu mult mai puține ploi: în clima uscată, iuțeala fructelor a scăzut cu peste jumătate. Concluzia leagă direct umiditatea și regimul de ploi de cantitatea de capsaicină acumulată, ceea ce explică de ce tocmai bazinul Brahmaputra, cu musonul lui, a dat naștere unuia dintre cei mai iuți ardei din lume — și de ce același soi, mutat în alt climat, își pierde o parte din foc.
+
+## Iuțeală și profil senzorial
+
+### Scala Scoville
+
+*Bhut jolokia* se așază în lumea superhoturilor, a ardeilor de peste un milion de unități Scoville. Spre deosebire de multe landrase, el are însă o cifră obținută riguros: în 2007, în urma testelor coordonate de Institutul Chile Pepper de la New Mexico State University, fructul a fost certificat de Guinness World Records drept cel mai iute din lume. Valoarea cea mai citată, de 1.001.304 SHU, provine din analize prin cromatografie de lichide de înaltă performanță (HPLC) efectuate pe probe uscate culese din nord-estul Indiei, cu o medie de 1.001.304 ± 99.290 SHU și valori individuale care s-au întins, în acel studiu, de la circa 855.000 până la peste 1.112.000 SHU. Această împrăștiere nu este o eroare de măsură, ci reflectă variabilitatea firească a unei landrase și efectul puternic al climei descris mai sus.
+
+Pentru a înțelege ce înseamnă o asemenea valoare, merită amintit cum se stabilește ea. Unitatea provine de la testul organoleptic propus de Wilbur Scoville în 1912, în care un extract de ardei era diluat treptat până când degustătorii nu mai percepeau arsura — o metodă subiectivă, dependentă de palat. Astăzi valoarea corectă se obține instrumental, prin HPLC, care separă și cuantifică fiecare capsaicinoidă și apoi o convertește în unități Scoville. Faptul că *bhut jolokia* dispune de o astfel de măsurătoare publicată îl deosebește de multe forme tradiționale, ale căror cifre rămân aproximări horticole.
+
+### Dinamica iuțelii
+
+Senzația are tiparul ardeilor superhot din specia *chinense*: un debut ușor întârziat, o escaladare amplă și un platou adânc, care stăruie îndelung după înghițire și coboară în gât. Numele *bhut* — „fantomă” — surprinde tocmai acest debut amânat: arsura nu lovește pe loc, ci se strecoară și cuprinde gura după câteva clipe, când e prea târziu să mai fie oprită.
+
+În spatele senzației stă capsaicina, moleculă lipofilă care se leagă de receptorul TRPV1 din mucoasă — același canal ionic deschis în mod normal de temperaturi de peste 42–43 °C; prinsă în el, îl menține deschis și lasă calciul să intre în celula nervoasă, astfel că semnalul ajuns la creier este citit drept arsură, deși nu există nici căldură reală, nici vreo leziune. La intensitatea acestui ardei, senzația trece cu mult pragul plăcut pentru cei mai mulți, iar manipularea fructelor cere mănuși și prudență, fiindcă uleiul iute irită pielea, ochii și căile respiratorii. Apa nu domolește arsura, ci doar o întinde; cea mai eficientă atenuare trece prin grăsimile și proteinele laptelui, fiindcă cazeina leagă capătul lipofil al capsaicinei și o desprinde de pe receptori.
+
+### Profil aromatic
+
+Dincolo de foc, *bhut jolokia* are o aromă care îl recomandă printre ardeii extremi cu gust, nu doar cu iuțeală. Sursele îi descriu un profil fructat și floral, cu accente dulci-fumurii și o notă care amintește de fructele roșii și de mirodeniile preparatelor indiene. Această undă aromatică se simte în scurtul răgaz dinaintea arsurii și revine, ca un fundal, după ce focul începe să se stingă; ea este motivul pentru care fructul își găsește loc în chutney-uri, murături și sosuri, unde aduce parfum, nu numai căldură. Fereastra de gust este însă scurtă, fiindcă iuțeala urcă repede și acoperă nuanțele fine.
+
+## Grupul de soi
+
+Grupul *bhut jolokia* se organizează în jurul landrasei roșii de referință din Assam, descrisă aici, din care s-au desprins, prin selecție, mai multe forme cromatice. Acestea nu sunt landrase regionale vechi, ci selecții stabilizate de cultivatori în comunitatea internațională a pasionaților de ardei, fixate după culoarea pe care fructul o capătă la maturitate. [[Soiuri și varietăți/Bhut Jolokia Chocolate\|Bhut Jolokia Chocolate]] este forma brună, în care antocianii și clorofila reziduală dau coaja ciocolatie; [[Soiuri și varietăți/Bhut Jolokia Peach\|Bhut Jolokia Peach]] se oprește la o nuanță piersică, gălbui-portocalie; [[Soiuri și varietăți/Bhut Jolokia White\|Bhut Jolokia White]] este forma rară, alb-fildeș; iar [[Soiuri și varietăți/Bhut Jolokia Yellow\|Bhut Jolokia Yellow]] coace într-un galben deschis. Toate păstrează silueta alungită și suprafața ondulată a tipului, deosebindu-se prin culoare, iar documentarea lor provine, în lipsa unor măsurători de laborator proprii, din surse horticole.
+
+Câteva hotare cer limpezite, fiindcă apartenența la categoria superhot creează apropieri înșelătoare. Landrasa-soră *Naga Morich*, din Bangladesh, și formele crescute din ea — selecția engleză *Dorset Naga* și hibridul instabil *Naga Viper* — alcătuiesc o linie distinctă, cu istorie și obârșie proprii, tratată ca grup de soi separat. Tot astfel, încrucișările moderne care pornesc de la *bhut jolokia* spre alte tipuri superhot, oricât de iuți, sunt cultivaruri derivate, nu reprezentanți ai acestei landrase.
+
+## Cultivare
+
+*Bhut jolokia* cere căldură multă, soare deplin și un sezon lung, cu temperaturi de creștere bine peste pragul de 18 °C sub care planta suferă. În climatele temperate se seamănă foarte devreme la adăpost, fiindcă germinația este înceată și pretențioasă, și se transplantează abia după ce trece orice pericol de îngheț, când nopțile se mențin calde. Planta răsplătește un sol bine drenat, ușor acid, bogat în materie organică, și o udare constantă, care păstrează solul reavăn fără exces; dată fiind legătura dovedită dintre umiditate și iuțeală, fructele crescute în condiții calde și umede ating cel mai înalt nivel de foc. Fertilizatorii prea bogați în azot dau frunziș în dauna rodului și se evită.
+
+Fiind deschis-polenizată, landrasa își păstrează caracterele din sămânță, dar se polenizează ușor încrucișat cu alți ardei din apropiere, mai ales din aceeași specie, așa că păstrarea liniei curate cere izolare; aceste încrucișări întâmplătoare explică, de altfel, o parte din variabilitatea formelor regionale. Fructele coapte se folosesc proaspete, se usucă întregi — operație lesnicioasă, fiindcă pereții subțiri pierd repede apa — sau se macină în pudră, întotdeauna în cantități mici, potrivite iuțelii lor extreme, și întotdeauna cu mănuși, fiindcă uleiul iute pătrunde în piele și se transferă cu ușurință la ochi.
+
+## Întrebuințări și dimensiunea non-culinară
+
+În bucătăria din nord-estul Indiei, *bhut jolokia* este un ingredient de iuțeală și de aromă, folosit cu cumpătare. Intră în chutney-uri și murături, în preparate cu carne de porc și pește, în feluri precum cele servite la tarabele cu mâncare Naga, și se usucă pentru a fi păstrat peste an. La o iuțeală de ordinul milioanelor de unități Scoville, o cantitate minimă schimbă cu totul un fel de mâncare, iar consumul lui a prilejuit, de-a lungul anilor, numeroase întreceri și provocări — un fenomen care a dus la avertismente medicale privind riscurile înghițirii unor fructe întregi.
+
+Pereții subțiri, care fac fructul atât de lesne de uscat, au deschis însă și o întrebuințare neașteptată, departe de farfurie. Organizația indiană de cercetare pentru apărare (DRDO) a studiat folosirea capsaicinei concentrate din *bhut jolokia* în scopuri de securitate: au fost testate grenade de mână și sprayuri pe bază de ardei, gândite pentru forțele de ordine în controlul revoltelor și combaterea insurgenței, ca alternativă mai puțin letală. În același registru, în satele din Assam, pasta de ardei întinsă pe garduri sau fumul fructelor arse este folosită de multă vreme ca repelent împotriva elefanților sălbatici care intră în culturi — o apărare ieftină și nevătămătoare. Astfel, firul care pornește din pereții subțiri ai fructului ajunge, prin uscare și concentrare a iuțelii, până la o întrebuințare pe care nicio bucătărie nu o cuprinde: aceea de a ține la distanță, prin arsură, fie mulțimile, fie turmele. Ce se poate spune cu temei este că *bhut jolokia* a trecut, în câteva decenii, de la o raritate a grădinilor din nord-estul Indiei la unul dintre cele mai cunoscute simboluri ale iuțelii extreme din lume.
+
+## Bibliografie
+
+- Bosland, P. W., Baral, J. B. *'Bhut Jolokia' — The World's Hottest Known Chile Pepper is a Putative Naturally Occurring Interspecific Hybrid*. HortScience 42(2):222–224, 2007 — identificarea speciei, introgresiunea din *C. frutescens*, morfologia florii și a fructului, atingerea pragului de un milion de SHU.
+- Mathur, R., Dangi, R. S., Das, S. C., Malhotra, R. C. *The hottest chilli variety in India*. Current Science 79:287–288, 2000 — atestarea științifică timpurie a iuțelii.
+- *Molecular characterization of 'Bhut Jolokia' the hottest chilli*. Journal of Biosciences, 2012 — analiza filogenetică a regiunii ITS și clada distinctă a accesiunilor.
+- *Ghost pepper* și *Naga Jolokia pepper*. Wikipedia — nomenclatura regională, etimologia numelor, efectul climei (studiul Tezpur–Gwalior) și statutul de record.
+- Bosland, P. W., Votava, E. J. *Peppers: Vegetable and Spice Capsicums*, ed. a 2-a. CABI, Wallingford, 2012 — botanică, fiziologie și biosinteza capsaicinei la genul *Capsicum*.
+- Yang, F., Zheng, J. *Understand spiciness: mechanism of TRPV1 channel activation by capsaicin*. Protein & Cell, 2017 — mecanismul molecular al pungenței.
+- Geographical Indications Registry (India) — protecția prin indicație geografică a denumirii *Naga King Chilli* / *bhut jolokia* în nord-estul Indiei.
+- *Scoville Heat Units — măsurare prin HPLC și conversia capsaicinoidelor*. USDA FoodData Central — metoda instrumentală de cuantificare.
