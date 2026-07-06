@@ -3,11 +3,11 @@
     "Bun venit",
     "Taxonomica",
     "Gastronomie",
-    "Corpus Codicum",
     "Genuri și specii",
-    "Pagini de istorie",
     "Soiuri și varietăți",
     "Știința Capsicum",
+    "Pagini de istorie",
+    "Corpus Codicum",
     "Gradina Narciselor 17"
   ],
   "/Bun venit": [
@@ -58,10 +58,6 @@
     "Pimentón de la Vera",
     "Pimentón de Murcia"
   ],
-  "/Corpus Codicum": [
-    "🌱 Codex botanicus",
-    "🏺 Codex gastronomicus"
-  ],
   "/Genuri și specii": [
     "🌶 Genul Capsicum",
     "🌿 Capsicum annuum",
@@ -69,11 +65,6 @@
     "🌿 Capsicum chinense",
     "🌿 Capsicum frutescens",
     "🌿 Capsicum pubescens"
-  ],
-  "/Pagini de istorie": [
-    "🏛 File de istorie",
-    "🔗 Schimbul Columbian",
-    "🧑‍🔬 Wilbur Lincoln Scoville"
   ],
   "/Soiuri și varietăți": [
     "▲ 7 Pot",
@@ -223,6 +214,15 @@
     "Bolile ardeiului",
     "Cultivarea ardeiului",
     "Fitochimie și valoare nutritivă"
+  ],
+  "/Pagini de istorie": [
+    "🏛 File de istorie",
+    "🔗 Schimbul Columbian",
+    "🧑‍🔬 Wilbur Lincoln Scoville"
+  ],
+  "/Corpus Codicum": [
+    "🌱 Codex botanicus",
+    "🏺 Codex gastronomicus"
   ],
   "/Gradina Narciselor 17": [
     "🌼 Gradina Narciselor 17"
