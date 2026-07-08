@@ -3,7 +3,7 @@
 ---
 
 
-# Din cinci specii, o mie de soiuri
+# Cele cinci specii, grupurile pomologice și soiurile lor
 
 *Index al secțiunii Botanică · Cele cinci specii, grupurile pomologice și soiurile lor*
 

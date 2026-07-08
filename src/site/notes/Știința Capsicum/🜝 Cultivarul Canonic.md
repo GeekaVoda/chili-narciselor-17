@@ -33,7 +33,7 @@ Un cultivar heirloom este un soi deschis-polenizat cu o istorie documentată de 
 - Nicio intervenție de hibridizare controlată în istoria recentă documentată;
 - Identitate adesea legată de o regiune, o familie sau o comunitate care l-a menținut.
 
-**Exemple pe site:** [[Soiuri și varietăți/Serrano Tampiqueño\|Serrano Tampiqueño]], [[Soiuri și varietăți/Cayenne Buist's Yellow\|Cayenne Buist's Yellow]], [[Chiltepín Bird Pepper\|Chiltepín Bird Pepper]] (soi sălbatic cu utilizare umană documentată), [[Pasilla Negro\|Pasilla Negro]], [[Soiuri și varietăți/Ancho\|Ancho]].
+**Exemple pe site:** [[Soiuri și varietăți/Serrano Tampiqueño\|Serrano Tampiqueño]], [[Soiuri și varietăți/Cayenne Buist's Yellow\|Cayenne Buist's Yellow]], [[Soiuri și varietăți/▲ Chiltepín (Tepin)\|▲ Chiltepín (Tepin)]] (soi sălbatic cu utilizare umană documentată), [[Soiuri și varietăți/Pasilla_Bajío\|Pasilla_Bajío]], [[Soiuri și varietăți/Ancho\|Ancho]].
 
 **Limitare:** Termenul *heirloom* nu este reglementat comercial — orice producător poate eticheta orice soi drept *heirloom* fără verificare. Relevanța documentării istorice (cataloage, surse academice, tradiție orală verificabilă) este criteriul de calitate.
 
@@ -69,7 +69,7 @@ O landrasă este o varietate agricolă tradițională, adaptată la condițiile 
 
 Landrasele au apărut fără selecție sistematică formală — prin cultivare extinsă în aceeași zonă geografică, cu schimb informal de sămânță, presiune de selecție naturală și selecție empirică de către cultivatori locali. Rezultatul este o populație genetic variabilă care supraviețuiește perturbărilor de mediu (secetă, boli, variații climatice) mai bine decât soiurile puternic consangvinizate.
 
-**Distincție față de heirloom:** Un heirloom este de obicei relativ uniform și fixat; o landrasă este prin definiție diversă. [[Ají Amarillo Cusqueño\|Ají Amarillo Cusqueño]] poate fi descris mai precis ca landrasă regională decât ca cultivar în sens strict — populațiile cultivate în Peru prezintă variabilitate morfologică și de iuțeală care reflectă adaptarea la microclimele specifice.
+**Distincție față de heirloom:** Un heirloom este de obicei relativ uniform și fixat; o landrasă este prin definiție diversă. *Ají Amarillo Cusqueño* poate fi descris mai precis ca landrasă regională decât ca cultivar în sens strict — populațiile cultivate în Peru prezintă variabilitate morfologică și de iuțeală care reflectă adaptarea la microclimele specifice.
 
 ---
 
@@ -81,7 +81,7 @@ Un cultivar modern este rezultatul unui proces de încrucișare controlată și 
 
 **Exemple pe site:**
 - [[Soiuri și varietăți/Zebrange\|Zebrange]] — *C. baccatum*, stabilizat la F8 (2023), creat de Laurent Minet (Belgia);
-- [[Primotalii Red\|Primotalii Red]] — *C. chinense*, stabilizat din încrucișarea 7 Pot Primo × Fatalii (Chris Saunders, Marea Britanie, ~2012);
+- [[Soiuri și varietăți/▲ Primotalii\|Primotalii Red]] — *C. chinense*, stabilizat din încrucișarea 7 Pot Primo × Fatalii (Chris Saunders, Marea Britanie, ~2012);
 - [[Soiuri și varietăți/Primotalii Golden\|Primotalii Golden]] — *C. chinense*, în curs de stabilizare la data redactării (mai 2026).
 
 ---

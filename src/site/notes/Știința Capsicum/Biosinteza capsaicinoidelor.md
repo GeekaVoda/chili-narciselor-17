@@ -6,7 +6,7 @@
 # Cum își fabrică ardeiul focul
 
 
-Iuțeala nu este o substanță pe care planta o găsește gata făcută, ci produsul final al unei căi metabolice precise, controlate genetic și modelate de mediu. [[Știința Capsicum/🜚 Capsaicina\|🜚 Capsaicina]] și rudele ei nu apar întâmplător: sunt asamblate, moleculă cu moleculă, într-un singur țesut al fructului, prin întâlnirea a două lanțuri biochimice complet distincte. Înțelegerea acestei căi explică nu doar *de unde* vine iuțeala, ci și de ce un ardei este iute și altul dulce, de ce placenta arde iar pulpa nu, și de ce același soi produce fructe mai mult sau mai puțin tari de la un sezon la altul.
+Iuțeala nu este o substanță pe care planta o găsește gata făcută, ci produsul final al unei căi metabolice precise, controlate genetic și modelate de mediu. [[Știința Capsicum/🜚 Capsaicina\|Capsaicina]] și rudele ei nu apar întâmplător: sunt asamblate, moleculă cu moleculă, într-un singur țesut al fructului, prin întâlnirea a două lanțuri biochimice complet distincte. Înțelegerea acestei căi explică nu doar *de unde* vine iuțeala, ci și de ce un ardei este iute și altul dulce, de ce placenta arde iar pulpa nu, și de ce același soi produce fructe mai mult sau mai puțin tari de la un sezon la altul.
 
 ---
 

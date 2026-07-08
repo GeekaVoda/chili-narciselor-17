@@ -11,17 +11,17 @@
 
 ---
 
-În toamna anului 1492, când corăbiile lui Cristofor Columb au atins uscatul în arhipelagul Bahamas, mirodenia căutată era piperul negru al Indiilor, marfa care mișca flotele epocii și pentru care fusese finanțată întreaga traversare. Pe insulele calde ale Caraibelor nu creștea piper. Creștea o plantă pe care băștinașii taíno o numeau *ají* și pe care medicul expediției, Diego Álvarez Chanca, avea s-o descrie doi ani mai târziu drept mai iute și mai aromată decât piperul cunoscut în Spania. Dintr-o asemănare de gust, iar nu dintr-o înrudire de neam, ardeiul a primit un nume străin — *pepper*, *poivre*, *pepe* — pe care îl poartă și astăzi.
+În toamna anului 1492, când corăbiile lui Cristofor Columb au atins uscatul în arhipelagul Bahamas, mirodenia căutată era piperul negru al Indiilor. Drumul spre el, ținut în mâna negustorilor arabi și a Imperiului Otoman, era lung, primejdios și nespus de costisitor, iar Coroana spaniolă finanțase expediția tocmai în nădejdea unei căi maritime apusene către aceste condimente. Pe insulele calde ale Caraibelor nu creștea însă piper. Creștea o plantă pe care băștinașii taíno o numeau _ají_ și pe care medicul expediției, Diego Álvarez Chanca, avea s-o descrie doi ani mai târziu drept mai iute și mai aromată decât piperul cunoscut în Spania. Din această asemănare — arsura apropiată, iar nu vreo înrudire de neam — ardeiul a moștenit un nume străin: _pepper_ în engleză, _poivre_ în franceză, _pepe_ în italiană, denumiri care îl însoțesc până astăzi, în ciuda absenței oricărei legături botanice între cele două plante.
 
-Ce a urmat a fost una dintre cele mai profunde transformări culinare din istoria omenirii. Purtat peste Atlantic pe aceleași drumuri care căutaseră piperul, ardeiul a prins rădăcini în câmpia maghiară, pe coasta calabreză, în podișurile Africii și în bucătăriile Asiei, adoptat în câteva generații de popoare care nu-l cunoscuseră vreodată. Cum s-a petrecut această cucerire tăcută — pe ce corăbii, în ce mâini și cu ce urmări — se poate citi pe larg în [[Pagini de istorie/🏛 File de istorie\|🏛 File de istorie]] și în [[Pagini de istorie/🔗 Schimbul Columbian\|🔗 Schimbul Columbian]].
+Ce a urmat a fost una dintre cele mai profunde transformări culinare din istoria omenirii. Purtat peste Atlantic pe aceleași drumuri care căutaseră piperul, ardeiul a prins rădăcini în câmpia maghiară, pe coasta calabreză, în podișurile Africii și în bucătăriile Asiei, adoptat în câteva generații de popoare care nu-l cunoscuseră vreodată. Cum s-a petrecut această cucerire tăcută — drumurile, oamenii și urmările ei — este spusă pe larg în [[Pagini de istorie/🏛 File de istorie\|File de istorie]] și în [[Pagini de istorie/🔗 Schimbul Columbian\|Schimbul Columbian]].
 
-Grădina cu chili de pe Narciselor 17 adună povestea acestei plante venite din Lumea Nouă: planta și fructul ei, apoi drumul lung al fructului către farfurie.
+Grădina cu chili de pe Narciselor 17 [[Gradina Narciselor 17/🌼 Gradina Narciselor 17\|🌼]] adună povestea acestei plante venite din Lumea Nouă: planta și fructul ei, apoi drumul lung al fructului către farfurie.
 
 ---
 
 ## Culorile și aromele
 
-Un coș de ardei iuți este, înainte de orice, o priveliște. Fructele pornesc verzi și crude, iar la copt se despart pe drumuri felurite: unele trec în roșu deschis, altele în vișiniul închis al ardeiului panca uscat pe coasta peruană, altele în brunul-ciocolatiu al soiurilor zise *chocolate*, câteva în auriul cald al ardeiului datil din Florida ori al micului *Lemon Drop* andin, iar câteva rămân în violetul-cerneală al soiurilor cu fruct purpuriu. Aceeași plantă, întoarsă către soare, ține în ea o paletă întreagă.
+Un coș ori un șirag de ardei iuți pus la uscat este, înainte de orice, o priveliște. Fructele pornesc verzi și crude, iar la copt se despart pe drumuri felurite: unele trec în roșu deschis, altele în vișiniul închis al ardeiului panca uscat pe coasta peruană, altele în brunul-ciocolatiu al soiurilor zise *chocolate*, câteva în auriul cald al ardeiului datil din Florida ori al micului *Lemon Drop* andin, iar câteva rămân în violetul-cerneală al soiurilor cu fruct purpuriu. Aceeași plantă, întoarsă către soare, ține în ea o paletă întreagă.
 
 ![alena-unsplash.png](/img/user/Resurse/@site_related/alena-unsplash.png)
 > Culorile. (Thx, Alena Lavrova / Unsplash)
@@ -65,12 +65,12 @@ Adevărata măsură a acestei plante se vede abia pe masă. Ajuns condiment de n
 
 Uscat și măcinat, dă boielele: [[Gastronomie/Pimentón/▲ Pimentón\|pimentónul iberic]], afumat în fum de stejar la La Vera, și boiaua pe care [[Gastronomie/Magyar paprika/▲ Magyar paprika\|câmpia maghiară]] a dus-o la opt grade de dulceață și foc. Fermentat ori pus în oțet, dă sosurile de masă: [[Gastronomie/Especialidades/Louisiana Tabasco Sauce\|sosul Tabasco]] din Louisiana, cunoscut în aproape două sute de țări, ori [[Gastronomie/Especialidades/Molho de Piri-Piri\|piri-piri]] adus în Portugalia de peste mări. Pisat pe piatră vulcanică în bucătăria mexicană, dă [[Gastronomie/Salsa/▲ Salsa\|salsele]] proaspete și, prin măcinarea stratificată a ardeilor uscați, [[Gastronomie/Mole/▲ Mole\|mole-urile]] oaxacane, socotite printre felurile de căpătâi ale țării. Iar frecat în cremă pe coasta andină, dă pastele dulci-afumate din care se construiește gustul criol.
 
-Întreaga secțiune de bucătărie — produse, sosuri, feluri și eseuri — se deschide din [[Corpus Codicum/🏺 Codex gastronomicus\|Gastronomie]].
-
 ![pexels-amaliamaria11-6292069.jpg](/img/user/Resurse/@site_related/pexels-amaliamaria11-6292069.jpg)
 > Thx, Amalia Maria / Pexels
 
-*Pe întreg site-ul, termenii „pastă” ori „paste” desemnează exclusiv produsele obținute din pulpa de ardei iute, nu produsele făinoase specifice bucătăriei italiene.*
+Întreaga secțiune de bucătărie — produse, sosuri, feluri și eseuri — se deschide din [[Corpus Codicum/🏺 Codex gastronomicus\|Gastronomie]].
+
+>*Pe întreg site-ul, termenii „pastă” ori „paste” desemnează exclusiv produsele obținute din pulpa de ardei iute, nu produsele făinoase specifice bucătăriei italiene.*
 
 ---
 
@@ -78,7 +78,7 @@ Uscat și măcinat, dă boielele: [[Gastronomie/Pimentón/▲ Pimentón\|piment�
 
 Proiectul este împărțit în patru direcții, fiecare cu paginile ei.
 
-**a) Istorie și geografie** — Cum a cucerit ardeiul iute lumea: traseele de răspândire, adoptarea în culturi care nu se cunoșteau între ele și schimbările pe care le-a adus în bucătăriile a zeci de popoare. Povestea întreagă, în [[Pagini de istorie/🏛 File de istorie\|🏛 File de istorie]] și în [[Pagini de istorie/🔗 Schimbul Columbian\|🔗 Schimbul Columbian]].
+**a) Istorie și geografie** — Cum a cucerit ardeiul iute lumea: traseele de răspândire, adoptarea în culturi care nu se cunoșteau între ele și schimbările pe care le-a adus în bucătăriile a zeci de popoare. Povestea întreagă, în [[Pagini de istorie/🏛 File de istorie\|File de istorie]] și în [[Pagini de istorie/🔗 Schimbul Columbian\|Schimbul Columbian]].
 
 **b) Botanică și taxonomie** — De la [[Taxonomica/🪜 Cadrul taxonomic superior\|cadrul taxonomic superior]] al familiei Solanaceae, prin monografiile celor cinci specii cultivate, până la [[Corpus Codicum/🌱 Codex botanicus\|Codexul botanic]] — ghidul complet al grupurilor și soiurilor documentate. Tot aici stau reperele care ajută citirea oricărei fișe: [[Știința Capsicum/🜝 Cultivarul Canonic\|ce înseamnă un soi, de la heirloom la cultivarul modern]], [[Știința Capsicum/🜞 Generațiile Hibride\|logica hibrizilor și a stabilizării genetice]] și [[Știința Capsicum/🜜 Certificarea HPLC\|cum se măsoară cu adevărat gradele de iuțeală]].
 

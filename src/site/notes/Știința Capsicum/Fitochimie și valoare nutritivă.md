@@ -6,7 +6,7 @@
 # Ardeiul dincolo de iuțeală
 
 
-Despre ardei se vorbește aproape întotdeauna prin prisma iuțelii. Dar [[Știința Capsicum/🜚 Capsaicina\|🜚 Capsaicina]] și rudele ei sunt doar o parte, adesea minoritară, din bogăția chimică a fructului. Dincolo de foc, ardeiul este una dintre cele mai dense surse vegetale de micronutrienți: o concentrație remarcabilă de vitamina C, un spectru larg de pigmenți carotenoizi — dintre care unii proprii doar acestui gen —, flavonoide și compuși fenolici cu efect antioxidant. Această pagină trece în revistă profilul fitochimic și valoarea nutritivă a genului *Capsicum*, dincolo de compușii care ard.
+Despre ardei se vorbește aproape întotdeauna prin prisma iuțelii. Dar [[Știința Capsicum/🜚 Capsaicina\|Capsaicina]] și rudele ei sunt doar o parte, adesea minoritară, din bogăția chimică a fructului. Dincolo de foc, ardeiul este una dintre cele mai dense surse vegetale de micronutrienți: o concentrație remarcabilă de vitamina C, un spectru larg de pigmenți carotenoizi — dintre care unii proprii doar acestui gen —, flavonoide și compuși fenolici cu efect antioxidant. Această pagină trece în revistă profilul fitochimic și valoarea nutritivă a genului *Capsicum*, dincolo de compușii care ard.
 
 ---
 
@@ -42,7 +42,7 @@ Pe lângă vitamine și pigmenți, ardeiul conține o gamă bogată de **compuș
 
 ## Capsaicinoidele în ansamblul fitochimic
 
-Capsaicinoidele fac și ele parte, firește, din profilul fitochimic al ardeiului, ca metaboliți secundari specifici genului. Rolul lor biologic, mecanismul de acțiune și aplicațiile farmacologice sunt tratate separat, în paginile despre [[Știința Capsicum/🜚 Capsaicina\|🜚 Capsaicina]] și despre [[Știința Capsicum/Biosinteza capsaicinoidelor\|biosinteza lor]]. În economia acestei pagini, este util de reținut doar că iuțeala reprezintă o singură fațetă a chimiei fructului: la ardeii nepicanti — ardei gras, gogoșar, majoritatea soiurilor de boia dulce — capsaicinoidele lipsesc aproape complet, dar bogăția în vitamina C, carotenoide și flavonoide rămâne intactă. Valoarea nutritivă a ardeiului nu depinde, așadar, de iuțeala lui.
+Capsaicinoidele fac și ele parte, firește, din profilul fitochimic al ardeiului, ca metaboliți secundari specifici genului. Rolul lor biologic, mecanismul de acțiune și aplicațiile farmacologice sunt tratate separat, în paginile despre [[Știința Capsicum/🜚 Capsaicina\|Capsaicina]] și despre [[Știința Capsicum/Biosinteza capsaicinoidelor\|biosinteza lor]]. În economia acestei pagini, este util de reținut doar că iuțeala reprezintă o singură fațetă a chimiei fructului: la ardeii nepicanti — ardei gras, gogoșar, majoritatea soiurilor de boia dulce — capsaicinoidele lipsesc aproape complet, dar bogăția în vitamina C, carotenoide și flavonoide rămâne intactă. Valoarea nutritivă a ardeiului nu depinde, așadar, de iuțeala lui.
 
 ---
 

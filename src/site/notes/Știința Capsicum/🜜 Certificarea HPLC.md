@@ -66,7 +66,7 @@ SHU = ppmH × 15
 
 Unele protocoale folosesc factorul 16 în locul lui 15, valoare derivată din echivalarea capsaicinei pure cu aproximativ 16.000.000 SHU. Ambele convenții păstrează continuitatea cu datele istorice acumulate pe parcursul deceniilor de utilizare a scalei; diferența dintre ele explică o parte din variația valorilor SHU raportate pentru același soi.
 
-**Notă privind coeficienții pe compus:** Nu toate capsaicinoidele au aceeași contribuție la iuțeală. [[Știința Capsicum/🜚 Nordihidrocapsaicina\|🜚 Nordihidrocapsaicina]] are un coeficient de echivalare SHU de aproximativ 9,3, față de circa 16,1 pentru capsaicină și [[Știința Capsicum/🜚 Dihidrocapsaicina\|dihidrocapsaicină]] (González-Zamora et al., 2015). Capsaicina și dihidrocapsaicina reprezintă împreună aproximativ 90% din conținutul total de capsaicinoide al unui ardei, motiv pentru care multe protocoale simplificate calculează SHU doar pe baza acestor doi compuși.
+**Notă privind coeficienții pe compus:** Nu toate capsaicinoidele au aceeași contribuție la iuțeală. [[Știința Capsicum/🜚 Nordihidrocapsaicina\|Nordihidrocapsaicina]] are un coeficient de echivalare SHU de aproximativ 9,3, față de circa 16,1 pentru capsaicină și [[Știința Capsicum/🜚 Dihidrocapsaicina\|dihidrocapsaicină]] (González-Zamora et al., 2015). Capsaicina și dihidrocapsaicina reprezintă împreună aproximativ 90% din conținutul total de capsaicinoide al unui ardei, motiv pentru care multe protocoale simplificate calculează SHU doar pe baza acestor doi compuși.
 
 ---
 

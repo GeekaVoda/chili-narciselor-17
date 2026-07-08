@@ -6,7 +6,7 @@
 # Focul minor, scurt și blând
 
 
-Dacă [[Știința Capsicum/🜚 Capsaicina\|🜚 Capsaicina]] și [[Știința Capsicum/🜚 Dihidrocapsaicina\|🜚 Dihidrocapsaicina]] sunt cei doi stâlpi ai iuțelii, **nordihidrocapsaicina** este al treilea membru al familiei — mai discret, mai puțin abundent și mai blând, dar cu o contribuție proprie la profilul senzorial al ardeiului. Prezentă în proporții mici, ea nu determină intensitatea de vârf a unui soi, ci nuanțează debutul și textura senzației: o iuțeală mai puțin agresivă, resimțită devreme și retrasă repede.
+Dacă [[Știința Capsicum/🜚 Capsaicina\|capsaicina]] și [[Știința Capsicum/🜚 Dihidrocapsaicina\|dihidrocapsaicina]] sunt cei doi stâlpi ai iuțelii, **nordihidrocapsaicina** este al treilea membru al familiei — mai discret, mai puțin abundent și mai blând, dar cu o contribuție proprie la profilul senzorial al ardeiului. Prezentă în proporții mici, ea nu determină intensitatea de vârf a unui soi, ci nuanțează debutul și textura senzației: o iuțeală mai puțin agresivă, resimțită devreme și retrasă repede.
 
 ---
 

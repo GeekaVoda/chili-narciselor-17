@@ -1,63 +1,40 @@
 ---
-{"dg-publish":true,"permalink":"/Gradina Narciselor 17/🌼 Gradina Narciselor 17/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/Gradina Narciselor 17/🌼 Gradina Narciselor 17/","title":"Gradina Narciselor 17","tags":["gradina","jurnal-cultura","breazu","iasi","cultivare","observatii","capsicum","index"],"dg-note-properties":{"title":"Gradina Narciselor 17","nota_clasificare":"Pagină-index a ramurii practice a proiectului, în afara taxonomiei de entități Capsicum; poartă doar dg-publish, title și tags, fără câmpuri botanice ori tip_entitate, fiindcă subiectul nu este o entitate a genului, ci un jurnal de cultură al unui loc anume.","tags":["gradina","jurnal-cultura","breazu","iasi","cultivare","observatii","capsicum","index"]}}
 ---
 
 
-## `Under Construction`
+# Grădina de pe Narciselor 17 — un an cu ardeii, notat zi de zi
 
-### Data plantare soiuri: vineri, 15.05.2026
+Există un fel de a cunoaște ardeiul care nu se învață din cărți. Poți citi tot ce s-a scris despre pragurile lui de temperatură, despre drumul de la sămânță la fruct și despre bolile care îl pândesc, și tot îți rămâne de aflat cum se poartă *acest* soi, în *acest* pământ, sub cerul unei anume veri. Pagina de față deschide partea practică a proiectului: documentarea directă a unei grădini reale, ținută la Breazu, lângă Iași, unde cele cinci specii ale genului trec, an de an, prin proba locului.
 
-### Sol (grădină):
-- [[Bird's Eye (familia)\|Bird's Eye (familia)]]
-- [[Resurse/BKP_Soiuri/Pasilla Bajío\|Resurse/BKP_Soiuri/Pasilla Bajío]] 
-- [[Resurse/BKP_Soiuri/Variegated Mattapeno\|Resurse/BKP_Soiuri/Variegated Mattapeno]]
-- [[Soiuri și varietăți/Zebrange\|Zebrange]]
-- [[Resurse/BKP_Soiuri/Ancho\|Resurse/BKP_Soiuri/Ancho]]
-- [[Poblano\|Poblano]]
-- [[Rocoto Costa Rica\|Rocoto Costa Rica]]
-- [[Rocoto Ají Largo\|Rocoto Ají Largo]]
-- [[Rocoto Montúfar\|Rocoto Montúfar]]
-- [[Resurse/BKP_Soiuri/Ciliegia Piccante\|Resurse/BKP_Soiuri/Ciliegia Piccante]]
-- [[Soiuri si varietati/Jalapeno_old/Jalapeño Biker Billy\|Soiuri si varietati/Jalapeno_old/Jalapeño Biker Billy]]
-- [[Soiuri si varietati/Jalapeno_old/Jalapeño Brown\|Soiuri si varietati/Jalapeno_old/Jalapeño Brown]]
-- [[Soiuri si varietati/Jalapeno_old/Jalapeño Early\|Soiuri si varietati/Jalapeno_old/Jalapeño Early]]
-- [[Soiuri si varietati/Jalapeno_old/Jalapeño Purple\|Soiuri si varietati/Jalapeno_old/Jalapeño Purple]]
-- [[Soiuri si varietati/Jalapeno_old/Jalapeño Telica\|Soiuri si varietati/Jalapeno_old/Jalapeño Telica]]
-- [[Resurse/BKP_Soiuri/Variegated Mattapeno\|Resurse/BKP_Soiuri/Variegated Mattapeno]]
-- [[Serrano (familia)\|Serrano (familia)]]
-- [[Fresno Long\|Fresno Long]]
-- [[Chiltepín Bird Pepper\|Chiltepín Bird Pepper]]
-- [[Piri Piri African\|Piri Piri African]] (1 rasad)
-### Ghivece:
-- [[Carolina Reaper Red\|Carolina Reaper Red]]
-- [[Primotalii Red\|Primotalii Red]]
-- [[Bird's Eye (familia)\|Bird's Eye (familia)]]
-- [[Resurse/BKP_Soiuri/Pasilla Bajío\|Resurse/BKP_Soiuri/Pasilla Bajío]] 
-- [[Resurse/BKP_Soiuri/Variegated Mattapeno\|Resurse/BKP_Soiuri/Variegated Mattapeno]]
-- [[Soiuri și varietăți/Zebrange\|Zebrange]]
-- [[Poblano Ancho (familia)\|Poblano Ancho (familia)]]
-- [[Rocoto Costa Rica\|Rocoto Costa Rica]]
-- [[Rocoto Ají Largo\|Rocoto Ají Largo]]
-- [[Rocoto Montúfar\|Rocoto Montúfar]]
-- [[Resurse/BKP_Soiuri/Ciliegia Piccante\|Resurse/BKP_Soiuri/Ciliegia Piccante]]
-- [[Piri Piri African\|Piri Piri African]] (2 ghivece)
+Dacă pagina [[Știința Capsicum/Cultivarea ardeiului\|Cultivarea ardeiului]] adună metodele generale, valabile oriunde se cultivă *Capsicum*, ramura aceasta face lucrul celălalt: consemnează ce s-a întâmplat efectiv aici — ce s-a semănat și când, cum a răspuns fiecare soi, ce s-a măsurat la recoltă și ce a mers ori nu a mers într-un sezon anume. Este un caiet de observație, ținut cu rigoarea pe care o cere orice fel de documentare serioasă.
 
+---
 
-Rețetă substrat:
+## Locul
 
-Îngrașământ:
+Coordonatele, clima, solul și expunerea nu sunt un decor, ci chiar cadrul care hotărăște ce se poate cultiva și cu ce rezultat. Condițiile stațiunii — încadrarea climatică a zonei Iași, pragurile de îngheț, natura terenului și microclimatul curții — sunt descrise în pagina: [[Gradina Narciselor 17/📍 Localitatea Breazu\|📍 Localitatea Breazu]].
 
-Măsuri preventive: 
-- (25.05.2026): zeama bordeleza, stropit pe frunze, zona apropiată de sol (plante fără muguri)
-- (28.06.2026): zeama bordeleza, stropit pe frunze, zona apropiată de sol
+Locație: Breazu, comuna Rediu, județul Iași, România — 47°13'49.8"N 27°29'34.7"E.
 
-STATUS general plante 
-- (26.05.2026): în ușoară creștere, semne de înmugurire la Cilliegia Piccante (ghiveci)
+---
 
+## Cum se documentează
 
+O observație are valoare doar dacă este culeasă după un criteriu limpede și repetat la fel de la un an la altul. Pagina [[Gradina Narciselor 17/📊 Fișa de observație\|📊 Fișa de observație]] fixează metodologia întregii ramuri: ce variabile se urmăresc — de la fenologie la morfometria fructului, de la producție la starea fitosanitară —, în ce unități se notează și cu ce cadență. Este referința după care se completează toate tabelele de date.
 
+---
 
+## Jurnalul sezonului
 
+Cronologia propriu-zisă a fiecărui an — semănatul, plantatul, tratamentele, însemnările de status — se ține într-un jurnal datat, câte unul pe sezon. Sezonul în curs se află în [[Gradina Narciselor 17/📔 Jurnal de cultură 2026\|📔 Jurnal de cultură 2026]].
 
+---
+
+## Soiurile în cultură
+
+Ce anume crește aici, unde și în câte exemplare — în pământ sau în ghivece — se ține în [[Gradina Narciselor 17/🪴 Registrul soiurilor\|🪴 Registrul soiurilor]], tabelul-master al sezonului, cu legături către fișele botanice ale soiurilor documentate în enciclopedie.
+
+---
 
 ![nrcs_17_main.png](/img/user/Resurse/@site_related/nrcs_17_main.png)

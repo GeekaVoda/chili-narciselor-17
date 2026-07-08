@@ -5,7 +5,7 @@
 
 # Un dar al Lumii Noi
 
-*Cele cinci specii cultivate ale genului Capsicum · portret și navigare*
+*Cele cinci specii cultivate ale genului Capsicum · cinci cărți diferite, scrise în aceeași limbă*
 
 
 Diversitatea actuală a ardeilor iuți — mii de soiuri, cultivare și ecotipuri răspândite pe toate continentele locuite — se sprijină pe cinci linii botanice distincte, domesticite separat, în locuri și epoci diferite, de comunități care nu se cunoșteau între ele. Nu este vorba despre variații ale aceleiași plante, ci despre cinci specii cu istorii proprii, cu caractere morfologice irepetabile și cu trasee culturale care s-au intersectat abia odată cu marile explorații ale modernității.

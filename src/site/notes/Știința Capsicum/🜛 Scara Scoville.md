@@ -33,8 +33,8 @@ Responsabili pentru senzația de arsură sunt **capsaicinoidele** — o familie 
 
 Cei mai importanți doi compuși din această familie sunt:
 
-- **[[Știința Capsicum/🜚 Capsaicina\|🜚 Capsaicina]]** ($C_{18}H_{27}NO_3$) — reprezintă, în funcție de soi, aproximativ **50–70%** din totalul capsaicinoidelor dintr-un ardei iute. Produce iuțeala imediată, violentă, resimțită în cerul gurii și pe limbă.
-- **[[Știința Capsicum/🜚 Dihidrocapsaicina\|🜚 Dihidrocapsaicina]]** — reprezintă aproximativ **20–30%** din compoziție. Produce o iuțeală mai lentă, prelungită, resimțită mai ales în zona gâtului.
+- **[[Știința Capsicum/🜚 Capsaicina\|Capsaicina]]** ($C_{18}H_{27}NO_3$) — reprezintă, în funcție de soi, aproximativ **50–70%** din totalul capsaicinoidelor dintr-un ardei iute. Produce iuțeala imediată, violentă, resimțită în cerul gurii și pe limbă.
+- **[[Știința Capsicum/🜚 Dihidrocapsaicina\|Dihidrocapsaicina]]** — reprezintă aproximativ **20–30%** din compoziție. Produce o iuțeală mai lentă, prelungită, resimțită mai ales în zona gâtului.
 
 Împreună, capsaicina și dihidrocapsaicina alcătuiesc în jur de **90%** din conținutul total de capsaicinoide al unui ardei; restul revine unor compuși minori — [[Știința Capsicum/🜚 Nordihidrocapsaicina\|nordihidrocapsaicina]], homocapsaicina și homodihidrocapsaicina.
 
@@ -61,7 +61,7 @@ Rezultatul brut al aparatului este exprimat în unități ASTA. Conversia spre s
 
 ## IV. Clasificarea iuțelii pe scara SHU
 
-Cele cinci specii cultivate ale genului *[[Genul Capsicum\|Capsicum]]* acoperă o plajă de variație remarcabilă — de la zero, în cazul ardeiului gras, până la pragul chimic pur al capsaicinei izolate în laborator.
+Cele cinci specii cultivate ale genului *[[Genuri și specii/🌶 Genul Capsicum\|Capsicum]]* acoperă o plajă de variație remarcabilă — de la zero, în cazul ardeiului gras, până la pragul chimic pur al capsaicinei izolate în laborator.
 
 | Valoare (SHU) | Tipul de intensitate | Varietăți reprezentative |
 | :--- | :--- | :--- |

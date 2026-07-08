@@ -6,7 +6,7 @@
 # Al doilea foc al ardeiului
 
 
-Când vorbim despre iuțeala unui ardei, atenția se îndreaptă aproape reflex către [[Știința Capsicum/🜚 Capsaicina\|🜚 Capsaicina]]. Există însă o a doua moleculă care contribuie aproape la fel de mult la senzația de arsură și care, în multe soiuri, se apropie de capsaicină ca abundență: **dihidrocapsaicina**. Nu este o simplă impuritate sau un compus secundar, ci un capsaicinoid de sine stătător, cu o structură aproape identică, o potență comparabilă și o semnătură senzorială proprie — mai lentă, mai profundă, mai persistentă.
+Când vorbim despre iuțeala unui ardei, atenția se îndreaptă aproape reflex către [[Știința Capsicum/🜚 Capsaicina\|capsaicină]]. Există însă o a doua moleculă care contribuie aproape la fel de mult la senzația de arsură și care, în multe soiuri, se apropie de capsaicină ca abundență: **dihidrocapsaicina**. Nu este o simplă impuritate sau un compus secundar, ci un capsaicinoid de sine stătător, cu o structură aproape identică, o potență comparabilă și o semnătură senzorială proprie — mai lentă, mai profundă, mai persistentă.
 
 ---
 
