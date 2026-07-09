@@ -82,11 +82,14 @@ Proiectul este împărțit în patru direcții, fiecare cu paginile ei.
 
 **b) Botanică și taxonomie** — De la [[Taxonomica/🪜 Cadrul taxonomic superior\|cadrul taxonomic superior]] al familiei Solanaceae, prin monografiile celor cinci specii cultivate, până la [[Corpus Codicum/🌱 Codex botanicus\|Codexul botanic]] — ghidul complet al grupurilor și soiurilor documentate. Tot aici stau reperele care ajută citirea oricărei fișe: [[Știința Capsicum/🜝 Cultivarul Canonic\|ce înseamnă un soi, de la heirloom la cultivarul modern]], [[Știința Capsicum/🜞 Generațiile Hibride\|logica hibrizilor și a stabilizării genetice]] și [[Știința Capsicum/🜜 Certificarea HPLC\|cum se măsoară cu adevărat gradele de iuțeală]].
 
-**c) Gastronomie** — Ardeiul iute în bucătăriile lumii: boiele, sosuri îmbuteliate, salse, moleuri, paste fermentate și tradiții cu identitate documentată, adunate în [[Corpus Codicum/🏺 Codex gastronomicus\|Codexul gastronomic]].
+**c) Gastronomie** — Ardeiul iute în bucătăriile lumii: boiele, sosuri îmbuteliate, salse, mole-uri, paste fermentate și tradiții cu identitate documentată, adunate în [[Corpus Codicum/🏺 Codex gastronomicus\|Codexul gastronomic]].
 
 **d) Grădina** — Documentarea directă a cultivării: selecția soiurilor, aclimatizarea, drumul de la răsad la recoltă și observațiile legate de condițiile locului. Începe din [[Gradina Narciselor 17/🌼 Gradina Narciselor 17\|Grădina Chili: Narciselor 17]].
 Locație: Breazu, Jud. Iași, România - 47°13'49.8"N 27°29'34.7"E
 https://maps.app.goo.gl/A5BKJ9tjqw7ucupB8
+
+![Colaj 072026.png](/img/user/Resurse/Gradina-Nrcs17/Colaj%20072026.png)
+> *Chile Peter, Jalapeño, Chile de árbol, Carolina Reaper, Chile Poblano, Rocotillo - mi favorito !*
 
 ---
 
@@ -97,6 +100,3 @@ https://maps.app.goo.gl/A5BKJ9tjqw7ucupB8
 **Notă de transparență:** Conținutul acestui site a fost structurat și redactat de către autor în colaborare cu asistentul AI Claude (Anthropic), pentru generarea conținutului și verificarea/corelarea surselor. Menționez că elementele vizuale provin din surse externe și pot conține inadvertențe sau date inexacte, neavând un caracter strict academic ori botanic.
 
 **Bun venit.**
-
-![pexels-eva-bronzini.png](/img/user/Resurse/@site_related/pexels-eva-bronzini.png)
-> *Gracias, Eva Bronzini / Pexels*

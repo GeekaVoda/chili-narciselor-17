@@ -9,6 +9,8 @@ Registrul strânge, într-un singur loc, tot ce se află în cultură într-un s
 
 Distincția dintre sol și ghiveci nu este una de comoditate. Cele două regimuri de cultură diferă prin căldura rădăcinii, prin rezerva de apă și prin substrat, iar același soi se poate purta vizibil altfel de la unul la altul. Urmărirea în paralel a acestei diferențe este unul dintre firele pe care le poate scoate la iveală un sezon de observație atentă.
 
+![Colaj 072026.png](/img/user/Resurse/Gradina-Nrcs17/Colaj%20072026.png)
+
 ---
 
 ## Soiurile în cultură
