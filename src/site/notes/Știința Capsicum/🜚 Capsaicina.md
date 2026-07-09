@@ -28,8 +28,6 @@ Capsaicina este, prin urmare, un **filtru de dispersori**: descurajează mamifer
 
 Concentrația de capsaicinoide variază între soiuri și în funcție de condițiile de mediu. Stresul hidric moderat, temperaturile ridicate și radiația UV intensă stimulează sinteza capsaicinoidelor — un mecanism de apărare suplimentar față de dăunători și patogeni. Această variabilitate explică de ce același soi poate produce fructe cu iuțeli diferite în sezoane sau locații diferite.
 
-![[Biosinteza capsaicinei.png\|Biosinteza capsaicinei.png]]
-
 ---
 
 ## Mecanismul de acțiune — receptorul TRPV1
