@@ -50,7 +50,7 @@ Medicul expediției, **Diego Álvarez Chanca**, a descris-o în 1494 cu mai mult
 
 Columb a adus semințe la întoarcerea sa din prima expediție, în 1493. Plantele au crescut cu ușurință în grădinile din Spania și Portugalia — *Capsicum annuum* este o specie adaptabilă, cu cerințe modeste. Primii botaniști europeni le-au descris cu entuziasm: **Leonhart Fuchs** în *De Historia Stirpium* (1542), **Pietro Andrea Mattioli** în comentariile sale la Dioscoride (1544), **Carolus Clusius** în grădinile imperiale vieneze. Planta era nouă; fascinația era imediată.
 
-Ceea ce a urmat este povestea [[Schimbului Columbian\|Schimbului Columbian]] — una dintre cele mai rapide transformări botanice și culinare din istoria omenirii.
+Ceea ce a urmat este povestea [[Pagini de istorie/🔗 Schimbul Columbian\|Schimbului Columbian]]. Termenul a fost introdus în circuitul academic în 1972 de către istoricul american Alfred W. Crosby, în lucrarea sa fundamentală The Columbian Exchange. Din perspectivă istorică și socială, acest fenomen a reprezentat unul dintre cele mai importante evenimente de globalizare biologică și culturală din istoria omenirii, modificând ireversibil ecosistemele și demografia de pe ambele părți ale Atlanticului.
 
 ---
 
@@ -76,7 +76,7 @@ Timp de opt milenii, oamenii au știut că ardeiul iute funcționează — ca al
 
 **John Clough Thresh** a izolat și a descris capsaicina în 1876 — prima identificare chimică a moleculei active. Dar structura sa chimică completă a fost stabilită abia în 1919 de **E.K. Nelson**, iar sinteza totală în laborator — în 1930, de **Ernst Späth** și **Stephen F. Darling**.[^Thresh1876]
 
-**Wilbur Scoville** a propus în 1912 testul său organoleptic de măsurare a iuțelii — o metodă simplă, bazată pe diluție și pe un panel de degustători umani, care a dat naștere [[Scalei Scoville\|Scalei Scoville]] și care a dominat industria timp de decenii, până la introducerea cromatografiei lichide de înaltă performanță (HPLC) ca metodă standard de referință.[^Scoville1912]
+**Wilbur Scoville** a propus în 1912 testul său organoleptic de măsurare a iuțelii — o metodă simplă, bazată pe diluție și pe un panel de degustători umani, care a dat naștere [[Știința Capsicum/🜛 Scara Scoville\|Scarii Scoville]] și care a dominat industria timp de decenii, până la introducerea cromatografiei lichide de înaltă performanță (HPLC) ca metodă standard de referință.[^Scoville1912]
 
 Descoperirea cu adevărat revoluționară a venit în 1997, când **Michael Caterina** și echipa sa de la Universitatea California San Francisco au identificat **receptorul TRPV1** — canalul ionic care răspunde la capsaicină, la căldură și la pH acid. Această descoperire a explicat de ce capsaicina „arde” fără să ardă în sens fizic: ea activează exact același receptor pe care îl activează temperatura ridicată. Creierul primește un semnal de „foc” în absența oricărui foc. Confuzia este perfectă și este biologică.[^Caterina1997]
 

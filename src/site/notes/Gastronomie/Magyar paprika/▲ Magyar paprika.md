@@ -13,6 +13,9 @@ Boiaua ungurească este pulberea roșie obținută prin uscarea și măcinarea a
 > — George Lang, *The Cuisine of Hungary*, 1971
 > *Traducere: „Boiaua este pentru bucătăria maghiară ceea ce este spiritul pentru conversația ei.”*
 
+![pexels-bonaventure-fernandez-paprika.jpg](/img/user/Resurse/@site_related/pexels-bonaventure-fernandez-paprika.jpg)
+> Paprika (*Köszönöm, Bonaventure Fernandez / Pexels)
+
 ## Identitate
 
 - **Familie botanică:** Solanaceae

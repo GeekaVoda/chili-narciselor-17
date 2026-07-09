@@ -12,19 +12,21 @@
 
 Trebuie făcută o precizare, fiindcă termenul circulă în două configurații, ambele documentate. Prima, cea la care se referă această pagină, este triada mole-ului poblan: **ancho, mulato și pasilla**. A doua, mai des întâlnită în scrisul culinar internațional, înlocuiește mulato cu guajillo — **ancho, guajillo și pasilla** — și servește ca reper pentru adobo, sosuri roșii și numeroase alte preparate. Cele două nu se exclud; sunt combinații paralele, folosite după regiune, preparat și disponibilitate.
 
-![[Mulato Pasilla Ancho.png\|Mulato Pasilla Ancho.png]]
-
 ## Cei trei ardei
 
 Toți trei sunt forme uscate ale unor ardei proaspeți din centrul Mexicului, aparținând aceleiași specii, dar cu profiluri distincte.
 
-| Ardei uscat | Ardei proaspăt    | Origine | Iuțeală (SHU) | Profil dominant |
-|---|---|---|---|---|
-| Ancho | poblano copt roșu | Puebla | ~1.000–2.000 | dulce, prune, cireșe uscate, cacao |
-| Mulato | poblano copt brun | Puebla | ~1.000–2.000 | ciocolată amară, tutun, cafea, lemn dulce |
-| Pasilla | [[Soiuri și varietăți/▲ Chilaca\|▲ Chilaca]]     | Guanajuato, Jalisco, Michoacán | ~1.000–4.000 | pământos, stafidă, prună, taninos |
+| Ardei uscat | Ardei proaspăt    | Origine                        | Iuțeală (SHU) | Profil dominant                           |
+| ----------- | ----------------- | ------------------------------ | ------------- | ----------------------------------------- |
+| Ancho       | poblano copt roșu | Puebla                         | ~1.000–2.000  | dulce, prune, cireșe uscate, cacao        |
+| Mulato      | poblano copt brun | Puebla                         | ~1.000–2.000  | ciocolată amară, tutun, cafea, lemn dulce |
+| Pasilla     | [[Soiuri și varietăți/▲ Chilaca\|▲ Chilaca]]     | Guanajuato, Jalisco, Michoacán | ~1.000–4.000  | pământos, stafidă, prună, taninos         |
 
 [[Soiuri și varietăți/Ancho\|Ancho]] este forma uscată a poblano-ului lăsat să se coacă până la roșu. Numele lui înseamnă „lat”, după forma turtită și largă a fructului, și este cel mai folosit ardei uscat din Mexic — prezent în adobo-uri, sosuri și moleuri de la un capăt la altul al țării. Mulato provine din același poblano, dar cules abia după ce s-a maturizat până la brun-ciocolatiu; canonicul lui proaspăt este [[Soiuri și varietăți/▲ Poblano\|▲ Poblano]]. Prelungirea coacerii, urmată de uscare, îi împinge profilul spre note mai adânci și mai dulci, de ciocolată, cafea și tutun, pe care fructul roșu nu le dezvoltă. [[Soiuri și varietăți/Pasilla Bajío\|Pasilla Bajío]], în fine, este forma uscată a chilacăi — numele *pasilla*, „strugurel”, îi vine de la aspectul zbârcit și întunecat —, cu un gust pământos de stafidă și prună și o structură tanică mai pronunțată. Culoarea ei foarte închisă îi aduce și denumirea alternativă de *chile negro*, folosită mai ales în centrul Mexicului.
+
+
+![la_santa_trinidad.jpg](/img/user/Resurse/@site_related/la_santa_trinidad.jpg)
+> *La santa trinidad*
 
 ## Trei ardei, tipuri pomologice diferite
 

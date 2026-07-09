@@ -78,7 +78,7 @@ Viteza cu care *Capsicum* a cucerit bucătăriile lumii — în mai puțin de un
 
 **Adaptabilitatea biologică.** *Capsicum annuum* și *C. frutescens* sunt plante adaptabile, cu cerințe modeste de sol și cu o plasticitate fenotipică remarcabilă. Aceeași specie poate crește în deșertul mexican, în tropicele asiatice, pe coastele mediteraneene și pe terasele andine — adaptându-se la condițiile locale și producând ecotipuri distincte în câteva generații.
 
-**Dispersia prin avifaună.** Soiurile de *C. frutescens* cu fructe mici și erecte — [[African Bird's Eye\|African Bird's Eye]], [[Soiuri și varietăți/Siling Labuyo\|Siling Labuyo]], [[Prik Kee Nu\|Prik Kee Nu]] — s-au naturalizat spontan în ecosistemele tropicale, diseminate de păsările frugivore locale insensibile la capsaicină. Această naturalizare a produs populații viabile independent de cultivarea umană, accelerând răspândirea geografică dincolo de limitele rutelor comerciale.[^Tewksbury2001]
+**Dispersia prin avifaună.** Soiurile de *C. frutescens* cu fructe mici și erecte — varietățile Bird's Eye, [[Soiuri și varietăți/Siling Labuyo\|Siling Labuyo]], [[Soiuri și varietăți/▲ Prik Kee Nu\|▲ Prik Kee Nu]] — s-au naturalizat spontan în ecosistemele tropicale, diseminate de păsările frugivore locale insensibile la capsaicină. Această naturalizare a produs populații viabile independent de cultivarea umană, accelerând răspândirea geografică dincolo de limitele rutelor comerciale.[^Tewksbury2001]
 
 **Valoarea nutrițională.** Ardeii iuți sunt surse excepționale de vitamina C — conținând de 2–3 ori mai mult decât citricele, per unitate de greutate. În comunitățile cu acces limitat la fructe proaspete și cu risc ridicat de scorbut, această valoare nutrițională — necunoscută ca atare înainte de identificarea vitaminei C în secolul XX, dar percepută empiric — a accelerat adoptarea.
 
@@ -96,7 +96,7 @@ Schimbul Columbian nu a fost o simplă redistribuire geografică a plantelor. A 
 
 **Italia fără peperoncino.** *Nduja*, *pasta all'arrabbiata*, *olio santo*, *peperoni cruschi* — toate sunt produse ale unui ardei american adoptat de sudul Italiei în prima jumătate a secolului al XVI-lea.
 
-**Thailanda fără curry verde și roșu.** Pastele de curry thai — *gaeng phet*, *gaeng khiao wan* — sunt construite pe [[Prik Kee Nu\|Prik Kee Nu]], un ardei american. Bucătăria thai de dinaintea introducerii *Capsicum* folosea piperul alb și alte condimente; iuțeala sa caracteristică actuală este post-columbiană.
+**Thailanda fără curry verde și roșu.** Pastele de curry thai — *gaeng phet*, *gaeng khiao wan* — sunt construite pe [[Soiuri și varietăți/▲ Prik Kee Nu\|▲ Prik Kee Nu]], un ardei american. Bucătăria thai de dinaintea introducerii *Capsicum* folosea piperul alb și alte condimente; iuțeala sa caracteristică actuală este post-columbiană.
 
 ---
 

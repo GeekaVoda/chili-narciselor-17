@@ -10,6 +10,9 @@
 
 Cuvântul „salsa” este european: vine din latinescul *salsus*, „sărat”, și a ajuns în bucătăria mexicană odată cu limba spaniolă. Lucrul pe care îl numește în Mexic este însă mult mai vechi decât numele lui. Cu mult înainte de sosirea spaniolilor, populațiile mesoamericane măcinau ardei, roșii și ierburi pe piatră, în amestecuri iuți care însoțeau mâncarea — sosuri pe care le numeau, în nahuatl, *mulli*. Salsa mexicană de masă este moștenitoarea directă a acestor preparate: un nume colonial așezat peste un obiect strămoșesc, măcinat și astăzi, cel mai autentic, în molcajetele de piatră vulcanică.
 
+![salsa_red.png](/img/user/Resurse/@site_related/salsa_red.png)
+> *Salsa*
+
 ## Originea preparatului
 
 Rădăcina salselor mexicane se află în familia precolumbiană a *mulli*-urilor — preparate măcinate ori pisate, care conțineau invariabil ardei. Cercetările de la Larousse Cocina arată că din această familie s-au desprins doi mari piloni ai bucătăriei de azi: [[Gastronomie/Mole/▲ Mole\|▲ Mole]], adică guisele gătite servite cu un element vegetal sau animal, și salsa de masă, preparatul crud ori gătit cu care se condimentează mâncarea în momentul consumului. Cuvântul *mulli* supraviețuiește până astăzi în chiar numele unor preparate — *guacamole* (din *ahuacatl*, avocado, și *molli*), *huaxmole*, *tesmole* —, mărturie a acestei descendențe comune.

@@ -10,6 +10,9 @@
 
 Puține salse mexicane poartă un nume mai enigmatic. „Pico de gallo” înseamnă, literal, „ciocul cocoșului”, dar nimeni nu știe cu certitudine de ce o salsa de roșii, ceapă și ardei verde a ajuns să fie botezată așa. Ceea ce se vede limpede este cu totul altceva: culorile ei — roșul roșiei, albul cepei, verdele ardeiului și al coriandrului — sunt culorile drapelului mexican, motiv pentru care i se mai spune și *salsa bandera*. Este o salsa crudă, tăiată mărunt, nu măcinată, în care fiecare ingredient își păstrează forma și textura, iar prospețimea este întreaga ei rațiune de a fi.
 
+![Pico De Galo.png](/img/user/Resurse/@site_related/Pico%20De%20Galo.png)
+> *Pico de gallo*
+
 ## Rolul ardeilor componenți
 
 Ardeiul dă preparatului iuțeala și partea de verde. Cel tradițional este [[Soiuri și varietăți/▲ Serrano\|▲ Serrano]], mic, subțire și arzător, folosit proaspăt și tăiat mărunt, cu tot cu semințe atunci când se dorește mai iute. În lipsa lui, ori pentru un gust ceva mai blând, se folosește adesea [[Soiuri și varietăți/▲ Jalapeño\|▲ Jalapeño]] verde. Iuțeala se reglează simplu, prin cantitatea de ardei și prin scoaterea ori păstrarea nervurilor și semințelor, astfel încât aceeași rețetă poate merge de la o urmă discretă până la o arsură serioasă. Aici ardeiul nu se macină, ci se taie în bucăți mici și distincte, care se simt sub dinte alături de celelalte ingrediente. În unele regiuni, mai ales în sud-estul țării, rolul lui este preluat de habanero, care schimbă profilul spre o iuțeală mult mai intensă. Pe lângă iuțeală, ardeiul verde și coriandrul aduc și verdele care, alături de roșul roșiei și de albul cepei, întregește tricolorul din care preparatul își trage numele de *salsa bandera*.

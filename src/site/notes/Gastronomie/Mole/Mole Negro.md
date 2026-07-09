@@ -10,6 +10,9 @@
 
 Nicio culoare din bucătăria mexicană nu se obține cu mai multă îndrăzneală decât negrul acestui mole. El nu vine dintr-un colorant, ci din foc: ardei, semințe și tortilla duse până la carbonizare, apoi transformate într-un fel de cerneală care înnegrește sosul și îi dă un gust adânc, mineral, de cenușă caldă. În jurul acestui gest stă un ardei anume, chilhuacle negru, endemic Oaxacăi și tot mai greu de găsit — un fruct care definește preparatul și îl face, în același timp, fragil. Considerat cel mai complex dintre moleurile oaxacane, mole negro adună zeci de ingrediente într-o singură aromă densă și stratificată, în care dulceața, amăreala și fumul conviețuiesc în echilibru.
 
+![mole_brown.png](/img/user/Resurse/@site_related/mole_brown.png)
+> *Mole negru*
+
 ## Originea și vechimea
 
 Rădăcina preparatului coboară în bucătăria precolumbiană. Vechile cronici amintesc că populațiile mexica măcinau laolaltă ardei, roșii, cacao și mirodenii, în amestecuri groase pe care le numeau *mulli*, servite la mesele demnitarilor. Odată cu sosirea spaniolilor și cu întâlnirea celor două bucătării, aceste preparate au evoluat, primind ingrediente noi — migdale, susan, scorțișoară, cuișoare — până la forma complexă de astăzi. Linia neagră a moleurilor oaxacane s-a desprins astfel dintr-o tradiție veche a sosurilor de ardei măcinat, în care culoarea închisă și nota amăruie erau căutate dinadins. Documentarea așază preparatul actual ca punct de sosire al unei evoluții lungi, nu ca invenție a unui singur moment.

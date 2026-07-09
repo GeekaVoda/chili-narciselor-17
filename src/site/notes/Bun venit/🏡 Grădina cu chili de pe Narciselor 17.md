@@ -24,12 +24,12 @@ Grădina cu chili de pe Narciselor 17 [[Gradina Narciselor 17/🌼 Gradina Narci
 Un coș ori un șirag de ardei iuți pus la uscat este, înainte de orice, o priveliște. Fructele pornesc verzi și crude, iar la copt se despart pe drumuri felurite: unele trec în roșu deschis, altele în vișiniul închis al ardeiului panca uscat pe coasta peruană, altele în brunul-ciocolatiu al soiurilor zise *chocolate*, câteva în auriul cald al ardeiului datil din Florida ori al micului *Lemon Drop* andin, iar câteva rămân în violetul-cerneală al soiurilor cu fruct purpuriu. Aceeași plantă, întoarsă către soare, ține în ea o paletă întreagă.
 
 ![alena-unsplash.png](/img/user/Resurse/@site_related/alena-unsplash.png)
-> Culorile. (Thx, Alena Lavrova / Unsplash)
+> Culorile. (*Gracias, Alena Lavrova / Unsplash*)
 
 Sub culoare stă aroma, iar aroma nu se aseamănă cu iuțeala. Soiurile speciei *chinense* — habanero și rudele lui caraibiene — poartă note limpezi de caise, mango și flori tropicale, simțite înaintea arsurii. Ardeii andini ai speciei *baccatum* aduc o prospețime citrică, de coajă de lămâie, așezată peste un fond dulce. Ardeii mexicani uscați la soare capătă, dimpotrivă, gusturi grave de pământ, fum și prune uscate, pe care bucătăria oaxacană le adună în moleuri. Iuțeala este doar unul dintre firele acestei țesături, iar rareori cel mai important: un ardei se ține minte mai degrabă după aromă decât după foc.
 
 ![pexels-ax-markazi-babaiyan-108384970-9575086.jpg](/img/user/Resurse/@site_related/pexels-ax-markazi-babaiyan-108384970-9575086.jpg)
-> Aromele. (Thx, Markazi Babayan / Pexels)
+> Aromele. (*Gracias, Markazi Babayan / Pexels*)
 
 ---
 
@@ -44,7 +44,7 @@ Printre landrasele vechi ale speciei *annuum* își are locul și ardeiul iute r
 Portretele întregi ale celor cinci specii sunt punctul de plecare al oricărei explorări mai adânci și a cunoașterii în detaliu: [[Taxonomica/🔱 Cele cinci specii majore\|Cele cinci specii majore]].
 
 ![roy-zeigerman-0yej-I070qE-unsplash.jpg](/img/user/Resurse/@site_related/roy-zeigerman-0yej-I070qE-unsplash.jpg)
-> Varietăți de ardei iute din diferite specii. (Thx, Roy Zeigerman / Unsplash)
+> Ardei iute din diferite specii. (*Gracias, Roy Zeigerman / Unsplash*)
 
 ---
 
@@ -55,7 +55,7 @@ Rămâne, la urmă, arsura — partea cea mai vestită și cea mai lesne exagera
 Despre [[Știința Capsicum/Biosinteza capsaicinoidelor\|felul în care ardeiul își face focul]], despre [[Știința Capsicum/🜚 Capsaicina\|ce anume arde cu adevărat]] și despre [[Știința Capsicum/🜛 Scara Scoville\|cât de tare arde, de la soiurile aproape dulci până la superhot]] veți afla totul mai departe, în paginile lor. Aici este de ajuns spus că arsura se poate măsura, dar gustul nu se lasă redus la o singură cifră.
 
 ![pexels-bonaventure-fernandez-744363-33440717.jpg](/img/user/Resurse/@site_related/pexels-bonaventure-fernandez-744363-33440717.jpg)
-> Thx, Bonaventure Fernandez / Pexels
+> Focul. (*Gracias, Bonaventure Fernandez / Pexels*)
 
 ---
 
@@ -66,7 +66,7 @@ Adevărata măsură a acestei plante se vede abia pe masă. Ajuns condiment de n
 Uscat și măcinat, dă boielele: [[Gastronomie/Pimentón/▲ Pimentón\|pimentónul iberic]], afumat în fum de stejar la La Vera, și boiaua pe care [[Gastronomie/Magyar paprika/▲ Magyar paprika\|câmpia maghiară]] a dus-o la opt grade de dulceață și foc. Fermentat ori pus în oțet, dă sosurile de masă: [[Gastronomie/Especialidades/Louisiana Tabasco Sauce\|sosul Tabasco]] din Louisiana, cunoscut în aproape două sute de țări, ori [[Gastronomie/Especialidades/Molho de Piri-Piri\|piri-piri]] adus în Portugalia de peste mări. Pisat pe piatră vulcanică în bucătăria mexicană, dă [[Gastronomie/Salsa/▲ Salsa\|salsele]] proaspete și, prin măcinarea stratificată a ardeilor uscați, [[Gastronomie/Mole/▲ Mole\|mole-urile]] oaxacane, socotite printre felurile de căpătâi ale țării. Iar frecat în cremă pe coasta andină, dă pastele dulci-afumate din care se construiește gustul criol.
 
 ![pexels-amaliamaria11-6292069.jpg](/img/user/Resurse/@site_related/pexels-amaliamaria11-6292069.jpg)
-> Thx, Amalia Maria / Pexels
+> *Gracias, Amalia Maria / Pexels*
 
 Întreaga secțiune de bucătărie — produse, sosuri, feluri și eseuri — se deschide din [[Corpus Codicum/🏺 Codex gastronomicus\|Gastronomie]].
 
@@ -99,4 +99,4 @@ https://maps.app.goo.gl/A5BKJ9tjqw7ucupB8
 **Bun venit.**
 
 ![pexels-eva-bronzini.png](/img/user/Resurse/@site_related/pexels-eva-bronzini.png)
-> Thx, Eva Bronzini / Pexels
+> *Gracias, Eva Bronzini / Pexels*
