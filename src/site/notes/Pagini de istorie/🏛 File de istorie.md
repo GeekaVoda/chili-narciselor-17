@@ -3,7 +3,7 @@
 ---
 
 
-# Ardeiul iute — opt milenii de prezență umană
+# Ardeiul iute: Un companion milenar al omenirii
 
 
 Există plante care au însoțit omenirea de la marginea istoriei scrise. Grâul, orezul, vita-de-vie — ingrediente atât de vechi în dieta umană, încât originea lor pare să se piardă în mit. Ardeiul iute aparține aceleiași categorii, cu o diferență: nu a cucerit lumea prin calorii sau prin randament, ci prin gust. Printr-o moleculă care arde și care, paradoxal, a creat dependență în sute de culturi care nu l-au cunoscut decât după secolul al XVI-lea.
