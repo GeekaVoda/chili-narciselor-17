@@ -89,7 +89,7 @@ Locație: Breazu, Jud. Iași, România - 47°13'49.8"N 27°29'34.7"E
 https://maps.app.goo.gl/A5BKJ9tjqw7ucupB8
 
 ![Colaj 072026.png](/img/user/Resurse/Gradina-Nrcs17/Colaj%20072026.png)
-> *Chile Peter, Jalapeño, Chile de árbol, Carolina Reaper, Chile Poblano, Rocotillo - mi favorito !*
+> Iulie 2026 - *Chile Peter, Jalapeño, Chile de árbol, Carolina Reaper, Chile Poblano, Rocotillo - mi favorito !*
 
 ---
 
