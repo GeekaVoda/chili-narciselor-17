@@ -17,30 +17,28 @@ Distincția dintre sol și ghiveci nu este una de comoditate. Cele două regimur
 
 În sezonul 2026, întregul material provine din răsaduri repicate, cumpărate de la un singur furnizor; detalierea căilor de aprovizionare și trasabilitatea pe sezoane se află în [[Gradina Narciselor 17/🌰 Proveniența materialului\|🌰 Proveniența materialului]]. Coloana de proveniență este pregătită pentru sezoanele în care sursele vor fi diferite, de la sămânță cumpărată la sămânță proprie.
 
-| Soi | Sol | Ghiveci | Proveniență | Note |
-|---|:---:|:---:|---|---|
-| Bird's Eye (familia) | ● | ● | răsad cumpărat | |
-| Pasilla Bajío | ● | ● | răsad cumpărat | |
-| Variegated Mattapeno | ● | ● | răsad cumpărat | |
-| Zebrange | ● | ● | răsad cumpărat | |
-| Ancho | ● | | răsad cumpărat | |
-| Poblano | ● | | răsad cumpărat | |
-| Poblano Ancho (familia) | | ● | răsad cumpărat | |
-| Rocoto Costa Rica | ● | ● | răsad cumpărat | |
-| Rocoto Ají Largo | ● | ● | răsad cumpărat | |
-| Rocoto Montúfar | ● | ● | răsad cumpărat | |
-| Ciliegia Piccante | ● | ● | răsad cumpărat | primele semne de înmugurire (ghiveci, 26.05.2026) |
-| Jalapeño Biker Billy | ● | | răsad cumpărat | |
-| Jalapeño Brown | ● | | răsad cumpărat | |
-| Jalapeño Early | ● | | răsad cumpărat | |
-| Jalapeño Purple | ● | | răsad cumpărat | |
-| Jalapeño Telica | ● | | răsad cumpărat | |
-| Serrano (familia) | ● | | răsad cumpărat | |
-| Fresno Long | ● | | răsad cumpărat | |
-| Chiltepín Bird Pepper | ● | | răsad cumpărat | |
-| Carolina Reaper Red | | ● | răsad cumpărat | |
-| Primotalii Red | | ● | răsad cumpărat | |
-| Piri Piri African | ● | ● | răsad cumpărat | 1 răsad în sol, 2 exemplare în ghivece |
+| Soi                   | Sol | Ghiveci | Proveniență    | Note                                                                                       |
+| --------------------- | :-: | :-----: | -------------- | ------------------------------------------------------------------------------------------ |
+| Bird's Eye (familia)  |  ●  |    ●    | răsad cumpărat |                                                                                            |
+| Pasilla Bajío         |  ●  |    ●    | răsad cumpărat |                                                                                            |
+| Variegated Mattapeno  |  ●  |    ●    | răsad cumpărat |                                                                                            |
+| Zebrange              |  ●  |    ●    | răsad cumpărat |                                                                                            |
+| Poblano/Ancho         |  ●  |    ●    | răsad cumpărat |                                                                                            |
+| Rocoto Costa Rica     |  ●  |    ●    | răsad cumpărat |                                                                                            |
+| Rocoto Ají Largo      |  ●  |    ●    | răsad cumpărat |                                                                                            |
+| Rocoto Montúfar       |  ●  |    ●    | răsad cumpărat |                                                                                            |
+| Ciliegia Piccante     |  ●  |    ●    | răsad cumpărat | primele semne de înmugurire (ghiveci, 26.05.2026)                                          |
+| Jalapeño Biker Billy  |  ●  |         | răsad cumpărat |                                                                                            |
+| Jalapeño Brown        |  ●  |         | răsad cumpărat |                                                                                            |
+| Jalapeño Early        |  ●  |         | răsad cumpărat |                                                                                            |
+| Jalapeño Purple       |  ●  |         | răsad cumpărat |                                                                                            |
+| Jalapeño Telica       |  ●  |         | răsad cumpărat |                                                                                            |
+| Serrano (familia)     |  ●  |         | răsad cumpărat |                                                                                            |
+| Fresno Long           |  ●  |         | răsad cumpărat |                                                                                            |
+| Chiltepín Bird Pepper |  ●  |         | răsad cumpărat |                                                                                            |
+| Carolina Reaper Red   |     |    ●    | răsad cumpărat |                                                                                            |
+| Primotalii Red        |     |    ●    | răsad cumpărat | Bolnăvicios, 1 din 3 a supraviețuit. Însemnare din 10.07.2026                              |
+| Piri Piri African     |  ●  |    ●    | răsad cumpărat | 1 răsad în sol, 2 exemplare în ghivece - posibil Chile de Árbol - însemnare din 10.07.2026 |
 
 ---
 
