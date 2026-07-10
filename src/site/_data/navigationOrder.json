@@ -8,7 +8,8 @@
     "Știința Capsicum",
     "Pagini de istorie",
     "Corpus Codicum",
-    "Gradina Narciselor 17"
+    "Gradina Narciselor 17",
+    "Appendices et Epilogus"
   ],
   "/Bun venit": [
     "🏡 Grădina cu chili de pe Narciselor 17"
@@ -225,6 +226,14 @@
     "🏺 Codex gastronomicus"
   ],
   "/Gradina Narciselor 17": [
-    "🌼 Gradina Narciselor 17"
+    "🌼 Gradina Narciselor 17",
+    "🌰 Proveniența materialului",
+    "📊 Fișa de observație",
+    "📍 Localitatea Breazu",
+    "📔 Jurnal de cultură 2026",
+    "🪴 Registrul soiurilor"
+  ],
+  "/Appendices et Epilogus": [
+    "Conspectus Bibliographicus"
   ]
 }
