@@ -15,7 +15,7 @@ Dacă pagina [[Știința Capsicum/Cultivarea ardeiului\|Cultivarea ardeiului]] a
 
 Coordonatele, clima, solul și expunerea nu sunt un decor, ci chiar cadrul care hotărăște ce se poate cultiva și cu ce rezultat. Condițiile stațiunii — încadrarea climatică a zonei Iași, pragurile de îngheț, natura terenului și microclimatul curții — sunt descrise în pagina: [[Gradina Narciselor 17/📍 Localitatea Breazu\|📍 Localitatea Breazu]].
 
-Locație: Breazu, comuna Rediu, județul Iași, România — 47°13'49.8"N 27°29'34.7"E.
+Locație: Breazu, comuna Rediu, județul Iași, România.
 
 ---
 
