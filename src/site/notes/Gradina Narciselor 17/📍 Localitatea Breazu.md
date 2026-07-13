@@ -11,7 +11,7 @@ Toată documentarea practică a acestui proiect se sprijină pe un singur loc, i
 
 ## Așezarea
 
-Grădina se află la Breazu, în comuna Rediu, județul Iași, la marginea de nord-vest a municipiului Iași, în nord-estul României. Coordonatele punctului de cultură sunt 47°13'49.8"N 27°29'34.7"E, într-o zonă de podiș, la contactul dintre Câmpia Moldovei și dealurile care o mărginesc.
+Grădina se află la Breazu, în comuna Rediu, județul Iași, la marginea de nord-vest a municipiului Iași, în nord-estul României, într-o zonă de podiș, la contactul dintre Câmpia Moldovei și dealurile care o mărginesc.
 
 | Reper | Valoare |
 |---|---|

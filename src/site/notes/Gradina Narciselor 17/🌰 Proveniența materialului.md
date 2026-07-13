@@ -23,9 +23,9 @@ Trasabilitatea materialului nu este un amănunt administrativ. Ea explică, la n
 
 ## Trasabilitatea pe sezoane
 
-| Sezon | Cale | Sursă | Observații |
-|---|---|---|---|
-| 2026 | răsad cumpărat | piata-de-ardei-iuti.ro | toate soiurile provin din răsaduri repicate, achiziționate |
+| Sezon | Cale           | Sursă               | Observații                                                 |
+| ----- | -------------- | ------------------- | ---------------------------------------------------------- |
+| 2026  | răsad cumpărat | piata-de-ardei-iuti | toate soiurile provin din răsaduri repicate, achiziționate |
 
 Sursa comercială de mai sus este consemnată ca dată de trasabilitate a grădinii — un fapt despre proveniența materialului, la fel ca o coordonată a locului —, nu ca sursă documentară a proiectului.
 

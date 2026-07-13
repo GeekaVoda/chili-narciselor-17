@@ -11,10 +11,10 @@ Jurnalul strânge, în ordinea zilelor, tot ce s-a petrecut în grădină de-a l
 
 ## Montarea sezonului
 
-| Reper | Valoare |
-|---|---|
-| Data plantării soiurilor | vineri, 15.05.2026 |
-| Proveniența materialului | răsaduri repicate, cumpărate de la piata-de-ardei-iuti.ro |
+| Reper | Valoare                                                |
+| ------------------------ | ------------------------------------------------------ |
+| Data plantării soiurilor | vineri, 15.05.2026                                     |
+| Proveniența materialului | răsaduri repicate, cumpărate de la piata-de-ardei-iuti |
 
 Trasabilitatea completă a materialului de plantare — cu cele trei căi de aprovizionare și evidența pe sezoane — se ține în [[Gradina Narciselor 17/🌰 Proveniența materialului\|🌰 Proveniența materialului]].
 
@@ -29,7 +29,7 @@ Trasabilitatea completă a materialului de plantare — cu cele trei căi de apr
 Fiecare intrare se notează datat, cu tipul evenimentului — tratament, observație de status ori intervenție — și cu amănuntele care contează pentru urmărirea ulterioară.
 
 ### 15.05.2026 — Plantare
-Plantarea soiurilor sezonului, în sol și în ghivece, potrivit distribuției din [[Gradina Narciselor 17/🪴 Registrul soiurilor\|🪴 Registrul soiurilor]]. Întregul material a provenit din răsaduri repicate, cumpărate de la piata-de-ardei-iuti.ro.
+Plantarea soiurilor sezonului, în sol și în ghivece, potrivit distribuției din [[Gradina Narciselor 17/🪴 Registrul soiurilor\|🪴 Registrul soiurilor]]. Întregul material a provenit din răsaduri repicate, cumpărate de la piata-de-ardei-iuti.
 
 ### 25.05.2026 — Măsură preventivă
 Zeamă bordeleză, stropit pe frunze, în zona apropiată de sol. Aplicat pe plantele încă fără muguri.

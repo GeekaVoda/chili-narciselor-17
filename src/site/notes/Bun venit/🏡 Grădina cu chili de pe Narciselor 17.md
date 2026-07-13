@@ -85,7 +85,7 @@ Proiectul este împărțit în patru direcții, fiecare cu paginile ei.
 **c) Gastronomie** — Ardeiul iute în bucătăriile lumii: boiele, sosuri îmbuteliate, salse, mole-uri, paste fermentate și tradiții cu identitate documentată, adunate în [[Corpus Codicum/🏺 Codex gastronomicus\|Codexul gastronomic]].
 
 **d) Grădina** — Documentarea directă a cultivării: selecția soiurilor, aclimatizarea, drumul de la răsad la recoltă și observațiile legate de condițiile locului. Începe din [[Gradina Narciselor 17/🌼 Gradina Narciselor 17\|Grădina Chili: Narciselor 17]].
-Locație: Breazu, Jud. Iași, România - 47°13'49.8"N 27°29'34.7"E
+Locație: Breazu, Jud. Iași, România;
 https://maps.app.goo.gl/A5BKJ9tjqw7ucupB8
 
 ![Colaj 072026.png](/img/user/Resurse/Gradina-Nrcs17/Colaj%20072026.png)
