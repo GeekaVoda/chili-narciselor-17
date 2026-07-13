@@ -27,7 +27,7 @@ Trasabilitatea materialului nu este un amănunt administrativ. Ea explică, la n
 | ----- | -------------- | ------------------- | ---------------------------------------------------------- |
 | 2026  | răsad cumpărat | piata-de-ardei-iuti | toate soiurile provin din răsaduri repicate, achiziționate |
 
-Sursa comercială de mai sus este consemnată ca dată de trasabilitate a grădinii — un fapt despre proveniența materialului, la fel ca o coordonată a locului —, nu ca sursă documentară a proiectului.
+Sursa comercială de mai sus este consemnată ca dată de trasabilitate a culturilor din grădină — un fapt despre proveniența materialului.
 
 Proveniența fiecărui soi în parte se ține în coloana dedicată din [[Gradina Narciselor 17/🪴 Registrul soiurilor\|🪴 Registrul soiurilor]], iar montarea concretă a fiecărui sezon se consemnează în jurnalul anului, de pildă [[Gradina Narciselor 17/📔 Jurnal de cultură 2026\|📔 Jurnal de cultură 2026]].
 
