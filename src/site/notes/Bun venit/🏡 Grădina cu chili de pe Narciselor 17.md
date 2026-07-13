@@ -86,7 +86,6 @@ Proiectul este împărțit în patru direcții, fiecare cu paginile ei.
 
 **d) Grădina** — Documentarea directă a cultivării: selecția soiurilor, aclimatizarea, drumul de la răsad la recoltă și observațiile legate de condițiile locului. Începe din [[Gradina Narciselor 17/🌼 Gradina Narciselor 17\|Grădina Chili: Narciselor 17]].
 Locație: Breazu, Jud. Iași, România;
-https://maps.app.goo.gl/A5BKJ9tjqw7ucupB8
 
 ![Colaj 072026.png](/img/user/Resurse/Gradina-Nrcs17/Colaj%20072026.png)
 > Iunie 2026 - *Chile Peter, Jalapeño, Chile de árbol, Carolina Reaper, Chile Poblano, Rocotillo, el de las soberbias flores violetas (Rocotillo, cel cu superbe flori violet)!* 

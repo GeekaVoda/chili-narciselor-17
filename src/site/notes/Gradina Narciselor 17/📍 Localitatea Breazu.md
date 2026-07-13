@@ -13,12 +13,11 @@ Toată documentarea practică a acestui proiect se sprijină pe un singur loc, i
 
 Grădina se află la Breazu, în comuna Rediu, județul Iași, la marginea de nord-vest a municipiului Iași, în nord-estul României, într-o zonă de podiș, la contactul dintre Câmpia Moldovei și dealurile care o mărginesc.
 
-| Reper | Valoare |
-|---|---|
-| Localitate | Breazu, com. Rediu, jud. Iași |
-| Coordonate | 47°13'49.8"N 27°29'34.7"E |
-| Altitudine | *(de completat — valoarea locală)* |
-| Expunere dominantă | *(de completat)* |
+| Reper              | Valoare                            |
+| ------------------ | ---------------------------------- |
+| Localitate         | Breazu, com. Rediu, jud. Iași      |
+| Altitudine         | *(de completat — valoarea locală)* |
+| Expunere dominantă | *(de completat)*                   |
 
 ---
 
