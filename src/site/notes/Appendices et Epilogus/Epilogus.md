@@ -21,8 +21,8 @@ Conținutul acestui site l-am structurat și redactat, împreună cu asistentul 
 Ușa grădinii rămâne deschisă. 
 
 Cu drag,
-Virgil Staverescu
-Mirela Staverescu
+Virgil Staverescu (gradina.narciselor.17@proton.me)
+Mirela Staverescu 
 
 
 ![pexels-zunaid-hasan-219257405-34890256.jpg](/img/user/Resurse/@site_related/pexels-zunaid-hasan-219257405-34890256.jpg)
