@@ -18,11 +18,8 @@ Nu este un tratat și nici un manual de cultură. Este documentarea personală a
 Conținutul acestui site l-am structurat și redactat, împreună cu asistentul AI Claude (Anthropic), folosit pentru așternerea textului și pentru verificarea și corelarea surselor. Deciziile editoriale finale îmi aparțin. Imaginile pot proveni din surse externe și pot păstra mici inadvertențe; ele nu au valoare strict academică ori botanică.
 
 
-Ușa grădinii rămâne deschisă. 
-
 Cu drag,
-Virgil Staverescu (gradina.narciselor.17@proton.me)
-Mirela Staverescu 
+Virgil & Mirela (gradina.narciselor.17@proton.me)
 
 
 ![pexels-zunaid-hasan-219257405-34890256.jpg](/img/user/Resurse/@site_related/pexels-zunaid-hasan-219257405-34890256.jpg)
