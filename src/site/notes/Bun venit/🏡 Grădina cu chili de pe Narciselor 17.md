@@ -98,7 +98,7 @@ Locație: Breazu, Jud. Iași, România;
 
 ## O notă despre acest proiect
 
-[[Gradina Narciselor 17/🌼 Gradina Narciselor 17\|Grădina Chili: Narciselor 17]] este un proiect documentar personal, construit pe [[Appendices et Epilogus/Conspectus bibliographicus\|surse academice, botanice și istorice]]. Informațiile prezentate nu sunt destinate uzului medical sau agronomic profesional și nu substituie consultanța de specialitate. Fiecare capitol include o secțiune de bibliografie care detaliază sursele utilizate.
+[[Gradina Narciselor 17/🌼 Gradina Narciselor 17\|Grădina Chili: Narciselor 17]] este un proiect documentar personal, construit pe [[Appendices et Epilogus/Bibliographia\|surse academice, botanice și istorice]]. Informațiile prezentate nu sunt destinate uzului medical sau agronomic profesional și nu substituie consultanța de specialitate. Fiecare capitol include o secțiune de bibliografie care detaliază sursele utilizate.
 
 **Notă de transparență:** Conținutul acestui site a fost structurat și redactat de către autor în colaborare cu asistentul AI Claude (Anthropic), pentru generarea conținutului și verificarea/corelarea surselor. Menționez că elementele vizuale provin din surse externe și pot conține inadvertențe sau date inexacte, neavând un caracter strict academic ori botanic.
 

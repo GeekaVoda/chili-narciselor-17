@@ -11,7 +11,7 @@ Nu este un tratat și nici un manual de cultură. Este documentarea personală a
 
 ## O notă despre acest proiect
 
-[[Gradina Narciselor 17/🌼 Gradina Narciselor 17\|Grădina Chili: Narciselor 17]] este un proiect documentar personal, ridicat pe [[Appendices et Epilogus/Conspectus bibliographicus\|surse academice, botanice și istorice]]. Cele scrise aici nu au menire medicală ori agronomică profesională și nu țin locul consultanței de specialitate. Fiecare capitol se încheie cu bibliografia lui, unde sursele pot fi verificate una câte una.
+[[Gradina Narciselor 17/🌼 Gradina Narciselor 17\|Grădina Chili: Narciselor 17]] este un proiect documentar personal, ridicat pe [[Appendices et Epilogus/Bibliographia\|surse academice, botanice și istorice]]. Cele scrise aici nu au menire medicală ori agronomică profesională și nu țin locul consultanței de specialitate. Fiecare capitol se încheie cu bibliografia lui, unde sursele pot fi verificate una câte una.
 
 ## Notă de transparență
 
