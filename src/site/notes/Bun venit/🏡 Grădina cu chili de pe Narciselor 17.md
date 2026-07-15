@@ -88,7 +88,7 @@ Proiectul este împărțit în patru direcții, fiecare cu paginile ei.
 Locație: Breazu, Jud. Iași, România;
 
 ![Colaj 072026.png](/img/user/Resurse/Gradina-Nrcs17/Colaj%20072026.png)
-> Iunie 2026 - *Chile Peter, Jalapeño, Chile de árbol, Carolina Reaper, Chile Poblano, Rocotillo, el de las soberbias flores violetas (Rocotillo, cel cu superbe flori violet)!* 
+> Iunie 2026 - *Chile Peter, Jalapeño, Explosive Ember, Carolina Reaper, Chile Poblano, Rocotillo, el de las soberbias flores violetas (Rocotillo, cel cu superbe flori violet)!* 
 
 
 ![Colaj 072026_2.png](/img/user/Resurse/Gradina-Nrcs17/Colaj%20072026_2.png)
@@ -100,6 +100,6 @@ Locație: Breazu, Jud. Iași, România;
 
 [[Gradina Narciselor 17/🌼 Gradina Narciselor 17\|Grădina Chili: Narciselor 17]] este un proiect documentar personal, construit pe [[Appendices et Epilogus/Bibliographia\|surse academice, botanice și istorice]]. Informațiile prezentate nu sunt destinate uzului medical sau agronomic profesional și nu substituie consultanța de specialitate. Fiecare capitol include o secțiune de bibliografie care detaliază sursele utilizate.
 
-**Notă de transparență:** Conținutul acestui site a fost structurat și redactat de către autor în colaborare cu asistentul AI Claude (Anthropic), pentru generarea conținutului și verificarea/corelarea surselor. Menționez că elementele vizuale provin din surse externe și pot conține inadvertențe sau date inexacte, neavând un caracter strict academic ori botanic.
+**Notă de transparență:** Conținutul acestui site a fost structurat și redactat de către autor în colaborare cu asistenții AI Claude (Anthropic) & Gemini (Google), pentru generarea conținutului și verificarea/corelarea surselor. Menționez că elementele vizuale provin din surse externe și pot conține inadvertențe sau date inexacte, neavând un caracter strict academic ori botanic.
 
 **Bun venit.**

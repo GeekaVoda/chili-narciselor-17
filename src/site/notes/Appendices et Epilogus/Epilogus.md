@@ -5,9 +5,9 @@
 
 # Gânduri la foc mic
 
-Aici se închide parcursul început în pagina de gardă, cu ardeiul luat drept piper și cu numele străin rămas până astăzi. Între acel punct și acesta stau cinci specii, câteva sute de soiuri și drumurile lor de răspândire, iar la capăt grădina din Breazu care a prilejuit documentarea.
+Aici se încheie călătoria începută în primele pagini, cu povestea ardeiului confundat cândva cu piperul – o neînțelegere istorică ce i-a pecetluit numele până astăzi. Între acel moment și cel de față stau cinci specii botanice, sute de varietăți răspândite pe toate continentele și, la capătul tuturor, grădina din Breazu, locul care a dat viață acestei documentări.
 
-Nu este un tratat și nici un manual de cultură. Este documentarea personală a unei plante care merită cunoscută: istoria ei, botanica ei și gusturile pe care le-a lăsat în bucătăriile lumii. Paginile rămân deschise recitirii, iar reperele bibliografice, controlului și verificărilor temeinice. Dar și criticii dumneavoastră, dragi cititori !
+Nu veți găsi aici un tratat rigid și nici un manual tehnic. Este, în esență, o căutare personală dedicată unei plante remarcabile: istoria ei, botanica și amprenta vie pe care a lăsat-o în culturile și bucătăriile lumii. Paginile acestea rămân deschise pentru studiu și verificare, dar mai ales pentru gândurile și observațiile dumneavoastră, dragi cititori.
 
 ## O notă despre acest proiect
 
@@ -15,7 +15,7 @@ Nu este un tratat și nici un manual de cultură. Este documentarea personală a
 
 ## Notă de transparență
 
-Conținutul acestui site l-am structurat și redactat, împreună cu asistentul AI Claude (Anthropic), folosit pentru așternerea textului și pentru verificarea și corelarea surselor. Deciziile editoriale finale îmi aparțin. Imaginile pot proveni din surse externe și pot păstra mici inadvertențe; ele nu au valoare strict academică ori botanică.
+Conținutul acestui site l-am structurat și redactat, împreună cu asistenții AI Claude (Anthropic) & Gemini (Google), folosiți pentru așternerea textului și pentru verificarea și corelarea surselor. Deciziile editoriale finale îmi aparțin. Imaginile pot proveni din surse externe și pot păstra mici inadvertențe; ele nu au valoare strict academică ori botanică.
 
 
 Cu drag,
