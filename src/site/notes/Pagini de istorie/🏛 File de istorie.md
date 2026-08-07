@@ -6,9 +6,7 @@
 # Ardeiul iute: Un companion milenar al omenirii
 
 
-Există plante care au însoțit omenirea de la marginea istoriei scrise. Grâul, orezul, vita-de-vie — ingrediente atât de vechi în dieta umană, încât originea lor pare să se piardă în mit. Ardeiul iute aparține aceleiași categorii, cu o diferență: nu a cucerit lumea prin calorii sau prin randament, ci prin gust. Printr-o moleculă care arde și care, paradoxal, a creat dependență în sute de culturi care nu l-au cunoscut decât după secolul al XVI-lea.
-
-Opt milenii de prezență umană documentată. Cinci specii domesticite. O singură moleculă la baza tuturor.
+Istoria ardeiului iute începe în America Centrală și de Sud, unde a fost cultivat cu mii de ani înainte de sosirea europenilor. Spre deosebire de grâu sau orez, care s-au impus prin valoarea lor nutritivă, ardeiul iute a devenit indispensabil datorită aromei și iuțelii sale caracteristice. Răspândit la nivel global începând cu secolul al XVI-lea, s-a adaptat rapid în climate diverse, iar cele cinci specii domesticite inițial au fost integrate natural în tradițiile culinare ale Europei, Asiei și Africii.
 
 ---
 
@@ -22,7 +20,7 @@ La **Tehuacan**, în centrul Mexicului, semințe carbonizate de *Capsicum annuum
 
 Aceste date plasează domesticirea ardeiului iute printre cele mai timpurii din istoria agriculturii americane — contemporană sau anterioară domesticirii porumbului, a cartofului și a fasolei. Nu este o coincidență. Ardeiul iute nu era un condiment opțional în dieta precolumbiană. Era vitamina C a comunităților fără citrice, era conservantul natural al cărnii în climatele calde, era aroma care transforma calitativ o mâncare simplă de fasole și porumb fiert. Era necesar.
 
-Genetica modernă a confirmat că domesticirea nu s-a produs o singură dată, într-un singur loc. Cele cinci specii cultivate au origini geografice distincte — *C. annuum* în Mexic și America Centrală, *C. chinense* și *C. frutescens* în bazinul amazonian și în Caraibe, *C. baccatum* în văile boliviene, *C. pubescens* pe versanții andini înalți. Cinci domesticiri independente, pe un continent care nu știa de sine că este un continent.[^Kraft2014]
+Genetica modernă a confirmat că domesticirea nu s-a produs o singură dată, într-un singur loc. Cele cinci specii cultivate au origini geografice distincte — *C. annuum* în Mexic și America Centrală, *C. chinense* și *C. frutescens* în bazinul amazonian și în Caraibe, *C. baccatum* în văile boliviene, *C. pubescens* pe versanții andini înalți. Cele cinci specii au fost domesticite independent în regiuni diferite ale continentului american.[^Kraft2014]
 
 ---
 
@@ -72,7 +70,7 @@ Viteza cu care *Capsicum* a fost adoptat în culturi care nu îl cunoscuseră ni
 
 ## Știința ardeiului — de la empiric la documentat
 
-Timp de opt milenii, oamenii au știut că ardeiul iute funcționează — ca aliment, conservant, ca medicament — fără să știe de ce. Știința modernă a început să răspundă la această întrebare abia în a doua jumătate a secolului al XIX-lea.
+Timp de opt milenii, ardeiul iute a fost folosit în alimentație, conservare și ca remediu, exclusiv pe bază de observație empirică. Explicarea științifică a proprietăților sale a început abia în a doua jumătate a secolului al XIX-lea.
 
 **John Clough Thresh** a izolat și a descris capsaicina în 1876 — prima identificare chimică a moleculei active. Dar structura sa chimică completă a fost stabilită abia în 1919 de **E.K. Nelson**, iar sinteza totală în laborator — în 1930, de **Ernst Späth** și **Stephen F. Darling**.[^Thresh1876]
 
