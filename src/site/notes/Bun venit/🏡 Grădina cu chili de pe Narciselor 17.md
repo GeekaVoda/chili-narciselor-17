@@ -94,8 +94,27 @@ Locație: Breazu, Jud. Iași, România;
 ![Colaj 072026_2.png](/img/user/Resurse/Gradina-Nrcs17/Colaj%20072026_2.png)
 > Iulie 2026 - *Ciliegia Piccante, Poblanos, Biker Billy's Jalapeños, Chile de Árbol, Rocoto Costa Rica - sin duda, mi favorito (fără îndoială, favoritul meu)!*
 
----
 
+![Colaj 082026_01.png](/img/user/Resurse/Gradina-Nrcs17/Colaj%20082026_01.png)
+> August 2026 - *Carolina Reaper, Primotalii*
+
+
+
+![Colaj 082026_02.png](/img/user/Resurse/Gradina-Nrcs17/Colaj%20082026_02.png)
+> August 2026 - *Ancho/Poblano, Chiltepin,  Jalapeños, Peter's ... thing :)
+
+
+
+![Colaj 082026_03.png](/img/user/Resurse/Gradina-Nrcs17/Colaj%20082026_03.png)
+> August 2026 - *Brown Jalapeños, Serranos, Telica Jalapeños, Verigated Mattapeños, Bird's Eye
+
+
+
+![Colaj 082026_04.png](/img/user/Resurse/Gradina-Nrcs17/Colaj%20082026_04.png)
+> August 2026 - *Zebrange, Peri Peri,  Jalapeños, Carolina Reaper, Pasilla/Bajo
+
+
+---
 ## O notă despre acest proiect
 
 [[Gradina Narciselor 17/🌼 Gradina Narciselor 17\|Grădina Chili: Narciselor 17]] este un proiect documentar personal, construit pe [[Appendices et Epilogus/Bibliographia\|surse academice, botanice și istorice]]. Informațiile prezentate nu sunt destinate uzului medical sau agronomic profesional și nu substituie consultanța de specialitate. Fiecare capitol include o secțiune de bibliografie care detaliază sursele utilizate.
