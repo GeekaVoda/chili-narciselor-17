@@ -101,17 +101,17 @@ Locație: Breazu, Jud. Iași, România;
 
 
 ![Colaj 082026_02.png](/img/user/Resurse/Gradina-Nrcs17/Colaj%20082026_02.png)
-> August 2026 - *Ancho/Poblano, Chiltepin,  Jalapeños, Peter's ... thing :)
+> August 2026 - *Ancho/Poblano, Chiltepin,  Jalapeños, Peter's ... thing :)*
 
 
 
 ![Colaj 082026_03.png](/img/user/Resurse/Gradina-Nrcs17/Colaj%20082026_03.png)
-> August 2026 - *Brown Jalapeños, Serranos, Telica Jalapeños, Verigated Mattapeños, Bird's Eye
+> August 2026 - *Brown Jalapeños, Serranos, Telica Jalapeños, Verigated Mattapeños, Bird's Eye*
 
 
 
 ![Colaj 082026_04.png](/img/user/Resurse/Gradina-Nrcs17/Colaj%20082026_04.png)
-> August 2026 - *Zebrange, Peri Peri,  Jalapeños, Carolina Reaper, Pasilla/Bajo
+> August 2026 - *Zebrange, Peri Peri,  Jalapeños, Carolina Reaper, Pasilla/Bajo*
 
 
 ---
