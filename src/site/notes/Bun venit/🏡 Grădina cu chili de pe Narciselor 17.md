@@ -92,8 +92,10 @@ Locație: Breazu, Jud. Iași, România;
 
 
 
+
 ![Colaj 072026_2.png](/img/user/Resurse/Gradina-Nrcs17/Colaj%20072026_2.png)
 > Iulie 2026 - *Ciliegia Piccante, Poblanos, Biker Billy's Jalapeños, Chile de Árbol, Rocoto Costa Rica - sin duda, mi favorito (fără îndoială, favoritul meu)!*
+
 
 
 
@@ -102,8 +104,10 @@ Locație: Breazu, Jud. Iași, România;
 
 
 
+
 ![Colaj 082026_02.png](/img/user/Resurse/Gradina-Nrcs17/Colaj%20082026_02.png)
 > August 2026 - *Ancho/Poblano, Chiltepin,  Jalapeños, Peter's ... thing :)*
+
 
 
 
@@ -112,8 +116,10 @@ Locație: Breazu, Jud. Iași, România;
 
 
 
+
 ![Colaj 082026_04.png](/img/user/Resurse/Gradina-Nrcs17/Colaj%20082026_04.png)
 > August 2026 - *Zebrange, Peri Peri,  Jalapeños, Carolina Reaper, Pasilla/Chilaca*
+
 
 
 
@@ -122,8 +128,10 @@ Locație: Breazu, Jud. Iași, România;
 
 
 
+
 ![Colaj 092026_02.png](/img/user/Resurse/Gradina-Nrcs17/Colaj%20092026_02.png)
 > Septembrie 2026 - *Chiltepin, Ciliegia piccante, Bird's Eye*
+
 
 
 
@@ -132,8 +140,10 @@ Locație: Breazu, Jud. Iași, România;
 
 
 
+
 ![Colaj 092026_04.png](/img/user/Resurse/Gradina-Nrcs17/Colaj%20092026_04.png)
-> Septembrie 2026 - *Primotalii, Carolina Reaper, Pasilla/Chilaca
+> Septembrie 2026 - *Primotalii, Carolina Reaper, Pasilla/Chilaca*
+
 
 
 
@@ -142,13 +152,16 @@ Locație: Breazu, Jud. Iași, România;
 
 
 
+
 ![IMG_092026_01.png](/img/user/Resurse/Gradina-Nrcs17/IMG_092026_01.png)
 > Septembrie 2026 - *cosecha de otoño - recolta de toamnă*
 
 
 
+
 ![IMG_092026_02.png](/img/user/Resurse/Gradina-Nrcs17/IMG_092026_02.png)
 > Septembrie 2026 - *Jalapeños rellenos*
+
 
 
 
