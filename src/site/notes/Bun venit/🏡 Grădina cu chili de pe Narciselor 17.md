@@ -138,6 +138,16 @@ Locație: Breazu, Jud. Iași, România;
 
 ![IMG_092026_02.png](/img/user/Resurse/Gradina-Nrcs17/IMG_092026_02.png)
 > Septembrie 2026 - *Jalapeños rellenos*
+---
+
+
+![Mir_rocotillos_01.png](/img/user/Resurse/Gradina-Nrcs17/Mir_rocotillos_01.png)
+> Octombrie 2026 - *Mis rocotillos*
+
+---
+
+![Mir_rocotillos_02.png](/img/user/Resurse/Gradina-Nrcs17/Mir_rocotillos_02.png)
+> Octombrie 2026 - *Mis rocotillos también*
 
 
 ---
