@@ -42,6 +42,11 @@ Zeamă bordeleză, stropit pe frunze, în zona apropiată de sol.
 
 ---
 
+### 14.10.2026 — Notă de trasabilitate
+Din cauza unor neconcordanțe majore între caracteristicile așteptate ale răsadurilor de ardei iuți achiziționate din piață și plantele rezultate efectiv, jurnalul de cultură al acestui an se oprește aici. Vom relua aceste observații și însemnări abia atunci când vom dispune de material genetic verificat.
+
+---
+
 ## Șablon de intrare
 
 Pentru însemnările următoare, se păstrează formatul de mai sus:
