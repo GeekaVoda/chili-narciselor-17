@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/Gradina Narciselor 17/📍 Localitatea Breazu/","title":"Localitatea Breazu","tags":["gradina","breazu","iasi","clima","sol","microclimat","cultivare","capsicum"],"dg-note-properties":{"title":"Localitatea Breazu","nota_clasificare":"Pagină de context stațional a ramurii practice, în afara taxonomiei de entități Capsicum; poartă doar dg-publish, title și tags, fără câmpuri botanice ori tip_entitate. Reperele climatice generale sunt documentate din surse; valorile locale precise se calibrează prin observație directă în jurnalul de cultură.","tags":["gradina","breazu","iasi","clima","sol","microclimat","cultivare","capsicum"]}}
+{"dg-publish":true,"permalink":"/Gradina Narciselor 17/📍 Localitatea Breazu/","title":"📍 Localitatea Breazu","tags":["gradina","breazu","iasi","clima","sol","microclimat","cultivare","capsicum"],"dg-note-properties":{"title":"📍 Localitatea Breazu","nota_clasificare":"Pagină de context stațional a ramurii practice, în afara taxonomiei de entități Capsicum; poartă doar dg-publish, title și tags, fără câmpuri botanice ori tip_entitate. Reperele climatice generale sunt documentate din surse; valorile locale precise se calibrează prin observație directă în jurnalul de cultură.","tags":["gradina","breazu","iasi","clima","sol","microclimat","cultivare","capsicum"]}}
 ---
 
 
 # Breazu — o grădină la marginea podișului
 
-Toată documentarea practică a acestui proiect se sprijină pe un singur loc, iar caracterul lui hotărăște, mai mult decât orice tehnică, ce se poate cultiva și cu ce rezultat. Pagina de față descrie stațiunea: unde se află grădina, în ce climă, pe ce pământ și cu ce particularități de expunere. Datele generale de climă sunt luate din surse; valorile fine — cele care contează cu adevărat pentru o cultură forțată să încapă între două brume — se limpezesc de la an la an, prin observația consemnată în [[Gradina Narciselor 17/📔 Jurnal de cultură 2026\|📔 Jurnal de cultură 2026]].
+Toată documentarea practică a acestui proiect se sprijină pe un singur loc, iar caracterul lui hotărăște, mai mult decât orice tehnică, ce se poate cultiva și cu ce rezultat. Pagina de față descrie stațiunea: unde se află grădina, în ce climă, pe ce pământ și cu ce particularități de expunere. Datele generale de climă sunt luate din surse; valorile fine — cele care contează cu adevărat pentru o cultură forțată să încapă între două brume — se limpezesc de la an la an, prin observațiile consemnate în [[Gradina Narciselor 17/📔 Jurnal de cultură 2026\|📔 Jurnal de cultură 2026]] și [[Gradina Narciselor 17/📔 Jurnal de cultură 2027\|📔 Jurnal de cultură 2027]].
 
 ---
 
@@ -33,7 +33,7 @@ Pentru o cultură de *Capsicum*, care nu supraviețuiește înghețului, reperel
 | Prima brumă de toamnă | prima jumătate a lunii octombrie |
 | Durata sezonului fără îngheț | *(de calibrat local prin observație)* |
 
-Intervalele de mai sus sunt valori generale pentru regiune; scopul jurnalului este tocmai stabilirea valorilor reale ale acestui loc, care pot devia de la medie prin efecte de microclimat. Data de plantare a sezonului în curs — 15 mai — se așază firesc după trecerea riscului obișnuit de brumă târzie.
+Intervalele de mai sus sunt valori generale pentru regiune; scopul jurnalului este tocmai stabilirea valorilor reale ale acestui loc, care pot devia de la medie prin efecte de microclimat. În sezonul 2026, plantarea răsadurilor a avut loc la 15 mai, după perioada orientativă a ultimelor brume de primăvară. Această dată constituie un reper al sezonului respectiv, nu o regulă calendaristică pentru anii următori.
 
 ---
 
@@ -45,9 +45,9 @@ Intervalele de mai sus sunt valori generale pentru regiune; scopul jurnalului es
 
 ## Expunerea și microclimatul
 
-*(Secțiune de completat: orientarea parcelei față de soare, adăposturile naturale ori construite, zonele mai calde sau mai reci ale curții, efectul zidurilor și al vecinătăților. Aceste amănunte, aparent minore, deplasează practic încadrarea generală cu o jumătate de zonă și explică de ce același soi se poartă diferit în pământ și în ghiveci, ori dintr-un colț în altul al grădinii.)*
+*(Secțiune de completat: orientarea parcelei față de soare, adăposturile naturale ori construite, zonele mai calde sau mai reci ale curții, efectul zidurilor și al vecinătăților. Aceste amănunte, aparent minore, pot modifica semnificativ condițiile termice locale și pot explica de ce același soi se comportă diferit în pământ și în ghiveci, ori dintr-un colț în altul al grădinii.)*
 
-Distincția dintre cultura în sol și cea în ghivece — cu regimurile ei proprii de căldură, apă și substrat — este urmărită sistematic în [[Gradina Narciselor 17/🪴 Registrul soiurilor\|🪴 Registrul soiurilor]].
+Distincția dintre cultura în sol și cea în ghivece — cu regimurile ei proprii de căldură, apă și substrat — este documentată în [[Gradina Narciselor 17/🪴 Registrul soiurilor 2026\|🪴 Registrul soiurilor 2026]] și va fi urmărită în continuare în [[Gradina Narciselor 17/🪴 Registrul soiurilor 2027\|🪴 Registrul soiurilor 2027]], odată cu stabilirea amplasării plantelor.
 
 ---
 

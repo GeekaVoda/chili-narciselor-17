@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Gradina Narciselor 17/🌰 Proveniența materialului/","title":"Proveniența materialului","tags":["gradina","seminte","rasad","provenienta","polenizare","seminte-proprii","cultivare","capsicum"],"dg-note-properties":{"title":"Proveniența materialului","nota_clasificare":"Pagină a ramurii practice dedicată trasabilității materialului de plantare și protocolului de producere a semințelor proprii, în afara taxonomiei de entități Capsicum; poartă doar dg-publish, title și tags, fără câmpuri botanice ori tip_entitate. Furnizorii comerciali sunt consemnați ca dată de trasabilitate a grădinii, nu ca surse documentare; firele botanice se sprijină pe surse academice, citate în bibliografie.","tags":["gradina","seminte","rasad","provenienta","polenizare","seminte-proprii","cultivare","capsicum"]}}
+{"dg-publish":true,"permalink":"/Gradina Narciselor 17/🌰 Proveniența materialului/","title":"🌰 Proveniența materialului","tags":["gradina","seminte","rasad","provenienta","polenizare","seminte-proprii","cultivare","capsicum"],"dg-note-properties":{"title":"🌰 Proveniența materialului","nota_clasificare":"Pagină a ramurii practice dedicată trasabilității materialului de plantare și protocolului de producere a semințelor proprii, în afara taxonomiei de entități Capsicum; poartă doar dg-publish, title și tags, fără câmpuri botanice ori tip_entitate. Furnizorii comerciali sunt consemnați ca dată de trasabilitate a grădinii, nu ca surse documentare; firele botanice se sprijină pe surse academice, citate în bibliografie.","tags":["gradina","seminte","rasad","provenienta","polenizare","seminte-proprii","cultivare","capsicum"]}}
 ---
 
 
@@ -23,13 +23,15 @@ Trasabilitatea materialului nu este un amănunt administrativ. Ea explică, la n
 
 ## Trasabilitatea pe sezoane
 
-| Sezon | Cale           | Sursă               | Observații                                                 |
-| ----- | -------------- | ------------------- | ---------------------------------------------------------- |
-| 2026  | răsad cumpărat | piata-de-ardei-iuti | toate soiurile provin din răsaduri repicate, achiziționate |
+| Sezon | Cale | Sursă | Observații |
+| --- | --- | --- | --- |
+| 2026 | răsad cumpărat | piata-de-ardei-iuti | Toate soiurile provin din răsaduri repicate, achiziționate. |
+| 2027 | sămânță cumpărată | Fatalii Seeds (Finlanda) | 13 varietăți individuale și un kit Bonchi cu patru varietăți nenominalizate anticipat. |
+| 2027 | sămânță proprie | Grădina Narciselor 17 | Rocoto Manzano — semințe recoltate din plantele cultivate în 2026, identificate pe baza caracteristicilor fructelor. |
 
-Sursa comercială de mai sus este consemnată ca dată de trasabilitate a culturilor din grădină — un fapt despre proveniența materialului.
+Furnizorii comerciali sunt consemnați ca date de trasabilitate ale grădinii — fapte despre proveniența materialului, nu surse de documentare botanică. Pentru sezonul 2027, varietățile cultivate și caracteristicile acestora sunt prezentate în [[Gradina Narciselor 17/🪴 Registrul soiurilor 2027\|🪴 Registrul soiurilor 2027]].
 
-Proveniența fiecărui soi în parte se ține în coloana dedicată din [[Gradina Narciselor 17/🪴 Registrul soiurilor\|🪴 Registrul soiurilor]], iar montarea concretă a fiecărui sezon se consemnează în jurnalul anului, de pildă [[Gradina Narciselor 17/📔 Jurnal de cultură 2026\|📔 Jurnal de cultură 2026]].
+Proveniența se documentează în registrul fiecărui sezon — [[Gradina Narciselor 17/🪴 Registrul soiurilor 2026\|🪴 Registrul soiurilor 2026]] și [[Gradina Narciselor 17/🪴 Registrul soiurilor 2027\|🪴 Registrul soiurilor 2027]] —, iar montarea efectivă a culturii și observațiile datate se consemnează în jurnalele anuale, [[Gradina Narciselor 17/📔 Jurnal de cultură 2026\|📔 Jurnal de cultură 2026]] și [[Gradina Narciselor 17/📔 Jurnal de cultură 2027\|📔 Jurnal de cultură 2027]].
 
 ---
 
@@ -39,13 +41,15 @@ Recoltarea semințelor din propria grădină pare, la prima vedere, cel mai simp
 
 ### Fidelitatea varietală și statutul genetic
 
-Prima condiție ține de natura genetică a soiului. Sămânța recoltată de la un soi stabilizat, deschis-polenizat, reproduce soiul întocmai, generație după generație. Sămânța luată de la un hibrid F1, dimpotrivă, nu reproduce planta-mamă: generația următoare segregă, iar caracterele se despart în combinații felurite, rareori identice cu cele ale hibridului de la care s-a pornit. De aceea, pentru sămânță proprie fidelă, primul criteriu de selecție a candidaților este statutul genetic: numai soiurile stabilizate merită recoltate cu așteptarea că vor da din nou același soi.
+Prima condiție ține de natura genetică a soiului. Sămânța recoltată de la o varietate stabilizată poate reproduce, cu bună fidelitate, caracteristicile acesteia de la o generație la alta, dacă polenizarea nu introduce încrucișări nedorite și dacă sunt păstrate plantele reprezentative pentru varietate. Sămânța recoltată de la un hibrid F1, dimpotrivă, nu reproduce de regulă uniform planta-mamă: în generația următoare, caracterele pot segrega în combinații diferite. De aceea, pentru obținerea semințelor proprii, statutul genetic al varietății este un prim criteriu de selecție, dar nu înlocuiește controlul polenizării.
+
+Mențiunile comerciale *open-pollinated* (polenizare liberă) și *closed-pollinated* (polenizare controlată) descriu condițiile de polenizare declarate, nu dovedesc, prin ele însele, stabilitatea genetică sau fidelitatea fiecărei generații. În [[Gradina Narciselor 17/🪴 Registrul soiurilor 2027\|🪴 Registrul soiurilor 2027]] sunt consemnate atât mențiunea explicită *open-pollinated* pentru Fatalii Gourmet Jigsaw, cât și stabilizarea neîncheiată a caracterului dungat la Sugar Rush Stripey.
 
 ### Polenizarea încrucișată și izolarea
 
 A doua condiție ține de felul în care se împerechează planta. Speciile genului *Capsicum* au flori perfecte, care poartă în aceeași floare atât partea femelă, cât și pe cea masculină, și sunt autocompatibile — o floare se poate fecunda cu propriul polen. Cu toate acestea, ardeiul este un polenizator încrucișat facultativ: în prezența insectelor, polenul trece frecvent de la o plantă la alta, iar poziția stigmatului, ieșit ori retras față de antere, înclină balanța către autopolenizare sau către încrucișare, în funcție de soi.
 
-Consecința practică este că soiurile cultivate laolaltă se pot amesteca. Trei dintre speciile cultivate — *Capsicum annuum*, *Capsicum frutescens* și *Capsicum chinense* — alcătuiesc un complex interfertil și trebuie considerate pe deplin încrucișabile între ele. *Capsicum baccatum* se poate încrucișa, în anumite situații, cu membri ai acestui complex, în timp ce *Capsicum pubescens*, izolat reproductiv, se împerechează practic doar cu specia proprie. Într-o grădină cu peste douăzeci de soiuri apropiate, acesta este firul cel mai delicat al producerii de sămânță proprie.
+Consecința practică este că soiurile cultivate laolaltă se pot amesteca. Trei dintre speciile cultivate — *Capsicum annuum*, *Capsicum frutescens* și *Capsicum chinense* — alcătuiesc un complex interfertil și trebuie considerate pe deplin încrucișabile între ele. *Capsicum baccatum* se poate încrucișa, în anumite situații, cu membri ai acestui complex, în timp ce *Capsicum pubescens*, izolat reproductiv, se împerechează practic doar cu specia proprie. Într-o grădină în care sunt cultivate simultan numeroase varietăți, acesta este unul dintre aspectele cele mai delicate ale producerii de sămânță proprie.
 
 Menținerea purității cere izolare. Producția comercială de sămânță recurge la distanțe de ordinul a cel puțin 400 de metri (un sfert de milă), iar sămânța de conservare, „de fundație”, la peste 1,6 kilometri (o milă). Asemenea distanțe sunt cu neputință de atins într-o grădină, unde izolarea se obține prin alte mijloace: bariere de cultură între soiuri, cuști ori plase de excludere a polenizatorilor, ensacarea florilor înainte de deschidere — cu marcarea fructelor astfel obținute — și, la nevoie, polenizarea manuală, floare cu floare. Fructele destinate semințelor se aleg, așadar, nu la întâmplare, ci dintre cele a căror polenizare a fost ținută sub control.
 

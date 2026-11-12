@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/Gradina Narciselor 17/📔 Jurnal de cultură 2026/","title":"Jurnal de cultură 2026","tags":["gradina","jurnal-cultura","sezon-2026","breazu","observatii","tratamente","cultivare","capsicum"],"dg-note-properties":{"title":"Jurnal de cultură 2026","nota_clasificare":"Pagină-jurnal a sezonului 2026 din ramura practică, în afara taxonomiei de entități Capsicum; poartă doar dg-publish, title și tags, fără câmpuri botanice ori tip_entitate. Consemnează observații proprii datate, nu date factuale externe, motiv pentru care nu poartă secțiune de bibliografie.","tags":["gradina","jurnal-cultura","sezon-2026","breazu","observatii","tratamente","cultivare","capsicum"]}}
+{"dg-publish":true,"permalink":"/Gradina Narciselor 17/📔 Jurnal de cultură 2026/","title":"📔 Jurnal de cultură 2026","tags":["gradina","jurnal-cultura","sezon-2026","breazu","observatii","tratamente","cultivare","capsicum"],"dg-note-properties":{"title":"📔 Jurnal de cultură 2026","nota_clasificare":"Pagină-jurnal a sezonului 2026 din ramura practică, în afara taxonomiei de entități Capsicum; poartă doar dg-publish, title și tags, fără câmpuri botanice ori tip_entitate. Consemnează observații proprii datate, nu date factuale externe, motiv pentru care nu poartă secțiune de bibliografie.","tags":["gradina","jurnal-cultura","sezon-2026","breazu","observatii","tratamente","cultivare","capsicum"]}}
 ---
 
 
 # Sezonul 2026 — însemnări de la răsad la recoltă
 
-Jurnalul strânge, în ordinea zilelor, tot ce s-a petrecut în grădină de-a lungul unui sezon: montarea culturii, tratamentele aplicate și starea plantelor la fiecare revenire. Este partea care prinde viață pe măsură ce anul înaintează. Variabilele urmărite și convențiile de notare sunt cele fixate în [[Gradina Narciselor 17/📊 Fișa de observație\|📊 Fișa de observație]]; distribuția soiurilor pe sol și ghivece se ține în [[Gradina Narciselor 17/🪴 Registrul soiurilor\|🪴 Registrul soiurilor]].
+Jurnalul strânge, în ordinea zilelor, tot ce s-a petrecut în grădină de-a lungul unui sezon: montarea culturii, tratamentele aplicate și starea plantelor la fiecare revenire. Este partea care prinde viață pe măsură ce anul înaintează. Variabilele urmărite și convențiile de notare sunt cele fixate în [[Gradina Narciselor 17/📊 Fișa de observație\|📊 Fișa de observație]]; distribuția soiurilor pe sol și ghivece se ține în [[Gradina Narciselor 17/🪴 Registrul soiurilor 2026\|🪴 Registrul soiurilor 2026]].
 
 ---
 
@@ -29,7 +29,7 @@ Trasabilitatea completă a materialului de plantare — cu cele trei căi de apr
 Fiecare intrare se notează datat, cu tipul evenimentului — tratament, observație de status ori intervenție — și cu amănuntele care contează pentru urmărirea ulterioară.
 
 ### 15.05.2026 — Plantare
-Plantarea soiurilor sezonului, în sol și în ghivece, potrivit distribuției din [[Gradina Narciselor 17/🪴 Registrul soiurilor\|🪴 Registrul soiurilor]]. Întregul material a provenit din răsaduri repicate, cumpărate de la piata-de-ardei-iuti.
+Plantarea soiurilor sezonului, în sol și în ghivece, potrivit distribuției din [[Gradina Narciselor 17/🪴 Registrul soiurilor 2026\|🪴 Registrul soiurilor 2026]]. Întregul material a provenit din răsaduri repicate, cumpărate de la piata-de-ardei-iuti.
 
 ### 25.05.2026 — Măsură preventivă
 Zeamă bordeleză, stropit pe frunze, în zona apropiată de sol. Aplicat pe plantele încă fără muguri.
