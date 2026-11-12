@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Appendices et Epilogus/Epilogus/","title":"Epilogus","tags":["capsicum","ardei-iute","epilog","proiect","transparenta","index"],"dg-note-properties":{"title":"Epilogus","nota_clasificare":"Pagină de încheiere (epilog), în afara taxonomiei de entități Capsicum; poartă doar dg-publish, title și tags, fără câmpuri botanice ori tip_entitate, fiindcă nu descrie o entitate a genului, ci reia nota despre proiect și nota de transparență ale enciclopediei.","tags":["capsicum","ardei-iute","epilog","proiect","transparenta","index"]}}
+{"dg-publish":true,"permalink":"/Appendices et Epilogus/Epilogus/","title":"🕯️ Epilogus","tags":["capsicum","ardei-iute","epilog","proiect","transparenta","index"],"dg-note-properties":{"title":"🕯️ Epilogus","nota_clasificare":"Pagină de încheiere (epilog), în afara taxonomiei de entități Capsicum; poartă doar dg-publish, title și tags, fără câmpuri botanice ori tip_entitate, fiindcă nu descrie o entitate a genului, ci reia nota despre proiect și nota de transparență ale enciclopediei.","tags":["capsicum","ardei-iute","epilog","proiect","transparenta","index"]}}
 ---
 
 
