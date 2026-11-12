@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pagini de istorie/🧑‍🔬 Wilbur Lincoln Scoville/","title":"Wilbur Lincoln Scoville","tags":["biografie","farmacie","scoville","stiinta","istorie","capsaicina","masurare"],"dg-note-properties":{"title":"Wilbur Lincoln Scoville","nota_clasificare":"Pagină de context — biografia persoanei care a dat numele scalei Scoville; în afara taxonomiei de entități Capsicum, poartă doar dg-publish, title și tags, fără câmpuri botanice ori tip_entitate.","tags":["biografie","farmacie","scoville","stiinta","istorie","capsaicina","masurare"]}}
+{"dg-publish":true,"permalink":"/Pagini de istorie/🧑‍🔬 Wilbur Lincoln Scoville/","title":"🧑‍🔬 Wilbur Lincoln Scoville","tags":["biografie","farmacie","scoville","stiinta","istorie","capsaicina","masurare"],"dg-note-properties":{"title":"🧑‍🔬 Wilbur Lincoln Scoville","nota_clasificare":"Pagină de context — biografia persoanei care a dat numele scalei Scoville; în afara taxonomiei de entități Capsicum, poartă doar dg-publish, title și tags, fără câmpuri botanice ori tip_entitate.","tags":["biografie","farmacie","scoville","stiinta","istorie","capsaicina","masurare"]}}
 ---
 
 

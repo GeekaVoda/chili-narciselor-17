@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Știința Capsicum/🜛 Scara Scoville/","title":"Scara Scoville","tags":["capsicum","scoville","capsaicina","capsaicinoide","trpv1","hplc","iuteala","fitochimie","botanica"],"dg-note-properties":{"title":"Scara Scoville","tags":["capsicum","scoville","capsaicina","capsaicinoide","trpv1","hplc","iuteala","fitochimie","botanica"]}}
+{"dg-publish":true,"permalink":"/Știința Capsicum/🜛 Scara Scoville/","title":"🜛 Scara Scoville","tags":["capsicum","scoville","capsaicina","capsaicinoide","trpv1","hplc","iuteala","fitochimie","botanica"],"dg-note-properties":{"title":"🜛 Scara Scoville","tags":["capsicum","scoville","capsaicina","capsaicinoide","trpv1","hplc","iuteala","fitochimie","botanica"]}}
 ---
 
 

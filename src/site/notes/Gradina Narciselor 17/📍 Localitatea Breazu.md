@@ -39,13 +39,13 @@ Intervalele de mai sus sunt valori generale pentru regiune; scopul jurnalului es
 
 ## Solul
 
-*(Secțiune de completat cu datele reale ale terenului: textura solului, reacția — pH, drenajul, istoricul parcelei. Ardeiul cere un sol mediu ca textură, bine drenat, ușor acid, în jurul valorii pH 6,5; abaterile locale de la acest optim se notează aici, fiindcă ele explică o parte din comportamentul plantelor.)*
+Textura, reacția (pH), drenajul și istoricul grădinii influențează dezvoltarea ardeilor și interpretarea rezultatelor culturii. Pentru *Capsicum* este favorabil, în general, un sol cu textură medie, bine drenat și ușor acid, în jurul valorii pH 6,5. Caracteristicile efective ale solului din grădină vor fi consemnate pe baza observațiilor și măsurătorilor locale.
 
 ---
 
 ## Expunerea și microclimatul
 
-*(Secțiune de completat: orientarea parcelei față de soare, adăposturile naturale ori construite, zonele mai calde sau mai reci ale curții, efectul zidurilor și al vecinătăților. Aceste amănunte, aparent minore, pot modifica semnificativ condițiile termice locale și pot explica de ce același soi se comportă diferit în pământ și în ghiveci, ori dintr-un colț în altul al grădinii.)*
+Orientarea grădinii față de soare, adăposturile naturale ori construite, zonele mai calde sau mai reci ale curții și influența zidurilor și a vecinătăților conturează microclimatul grădinii. Aceste particularități pot modifica semnificativ condițiile termice locale și pot explica de ce același soi se comportă diferit în sol și în ghiveci ori dintr-un colț în altul al grădinii. Condițiile efective ale amplasamentului vor fi documentate prin observațiile din sezoanele de cultură.
 
 Distincția dintre cultura în sol și cea în ghivece — cu regimurile ei proprii de căldură, apă și substrat — este documentată în [[Gradina Narciselor 17/🪴 Registrul soiurilor 2026\|🪴 Registrul soiurilor 2026]] și va fi urmărită în continuare în [[Gradina Narciselor 17/🪴 Registrul soiurilor 2027\|🪴 Registrul soiurilor 2027]], odată cu stabilirea amplasării plantelor.
 

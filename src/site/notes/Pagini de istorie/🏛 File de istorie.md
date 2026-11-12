@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pagini de istorie/🏛 File de istorie/","title":"File de istorie","tags":["istorie","capsicum","ardei-iute","precolumbian","gastronomie","botanica"],"dg-note-properties":{"title":"File de istorie","nota_clasificare":"Pagină de context istoric, în afara taxonomiei de entități Capsicum; poartă doar dg-publish, title și tags, fără câmpuri botanice ori tip_entitate, fiindcă subiectul nu este o entitate a genului.","tags":["istorie","capsicum","ardei-iute","precolumbian","gastronomie","botanica"]}}
+{"dg-publish":true,"permalink":"/Pagini de istorie/🏛 File de istorie/","title":"🏛 File de istorie","tags":["istorie","capsicum","ardei-iute","precolumbian","gastronomie","botanica"],"dg-note-properties":{"title":"🏛 File de istorie","nota_clasificare":"Pagină de context istoric, în afara taxonomiei de entități Capsicum; poartă doar dg-publish, title și tags, fără câmpuri botanice ori tip_entitate, fiindcă subiectul nu este o entitate a genului.","tags":["istorie","capsicum","ardei-iute","precolumbian","gastronomie","botanica"]}}
 ---
 
 

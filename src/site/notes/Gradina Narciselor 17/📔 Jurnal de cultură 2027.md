@@ -37,14 +37,6 @@ Trasabilitatea completă a materialului de plantare — cu cele trei căi de apr
 
 Fiecare intrare se notează datat, cu tipul evenimentului — tratament, observație de status ori intervenție — și cu amănuntele care contează pentru urmărirea ulterioară.
 
-### 12.11.2026 — Observație
-*(De completat — evenimentul și observațiile efective nu sunt încă descrise în documentul-sursă.)*
-
----
-
-### 12.11.2026 — Notă de trasabilitate
-*(De completat — informațiile consemnate la această dată; data achiziției nu este confirmată de documentul-sursă.)*
-
 ---
 
 ## Șablon de intrare

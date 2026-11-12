@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Știința Capsicum/🜚 Capsaicina/","title":"Capsaicina","tags":["capsicum","capsaicina","biologie","farmacologie","trpv1","chimie"],"dg-note-properties":{"title":"Capsaicina","tags":["capsicum","capsaicina","biologie","farmacologie","trpv1","chimie"]}}
+{"dg-publish":true,"permalink":"/Știința Capsicum/🜚 Capsaicina/","title":"🜚 Capsaicina","tags":["capsicum","capsaicina","biologie","farmacologie","trpv1","chimie"],"dg-note-properties":{"title":"🜚 Capsaicina","tags":["capsicum","capsaicina","biologie","farmacologie","trpv1","chimie"]}}
 ---
 
 

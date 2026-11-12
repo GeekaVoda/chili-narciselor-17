@@ -7,7 +7,7 @@
 
 Există un fel de a cunoaște ardeiul care nu se învață din cărți. Poți citi tot ce s-a scris despre pragurile lui de temperatură, despre drumul de la sămânță la fruct și despre bolile care îl pândesc, și tot îți rămâne de aflat cum se poartă *acest* soi, în *acest* pământ, sub cerul unei anume veri. Pagina de față deschide partea practică a proiectului: documentarea directă a unei grădini reale, ținută la Breazu, lângă Iași, unde varietăți ale genului *Capsicum* trec, an de an, prin proba locului.
 
-Dacă pagina [[Știința Capsicum/Cultivarea ardeiului\|Cultivarea ardeiului]] adună metodele generale, valabile oriunde se cultivă *Capsicum*, ramura aceasta face lucrul celălalt: consemnează ce s-a întâmplat efectiv aici — ce s-a semănat și când, cum a răspuns fiecare soi, ce s-a măsurat la recoltă și ce a mers ori nu a mers într-un sezon anume. Este un caiet de observație, ținut cu rigoarea pe care o cere orice fel de documentare serioasă.
+Dacă pagina [[Știința Capsicum/☘︎ Cultivarea ardeiului\|☘︎ Cultivarea ardeiului]] adună metodele generale, valabile oriunde se cultivă *Capsicum*, ramura aceasta face lucrul celălalt: consemnează ce s-a întâmplat efectiv aici — ce s-a semănat și când, cum a răspuns fiecare soi, ce s-a măsurat la recoltă și ce a mers ori nu a mers într-un sezon anume. Este un caiet de observație, ținut cu rigoarea pe care o cere orice fel de documentare serioasă.
 
 ---
 

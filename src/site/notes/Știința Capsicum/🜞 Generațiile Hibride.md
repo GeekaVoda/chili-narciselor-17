@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Știința Capsicum/🜞 Generațiile Hibride/","title":"Generațiile Hibride","tags":["botanica","genetica","metodologie","hibridare","selectie","generatii","f1","f2","stabilizare","capsicum"],"dg-note-properties":{"title":"Generațiile Hibride","tags":["botanica","genetica","metodologie","hibridare","selectie","generatii","f1","f2","stabilizare","capsicum"]}}
+{"dg-publish":true,"permalink":"/Știința Capsicum/🜞 Generațiile Hibride/","title":"🜞 Generațiile Hibride","tags":["botanica","genetica","metodologie","hibridare","selectie","generatii","f1","f2","stabilizare","capsicum"],"dg-note-properties":{"title":"🜞 Generațiile Hibride","tags":["botanica","genetica","metodologie","hibridare","selectie","generatii","f1","f2","stabilizare","capsicum"]}}
 ---
 
 

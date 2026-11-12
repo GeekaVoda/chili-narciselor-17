@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Știința Capsicum/🜚 Nordihidrocapsaicina/","title":"Nordihidrocapsaicina","tags":["capsicum","capsaicinoide","nordihidrocapsaicina","chimie","biosinteza","trpv1"],"dg-note-properties":{"title":"Nordihidrocapsaicina","tags":["capsicum","capsaicinoide","nordihidrocapsaicina","chimie","biosinteza","trpv1"]}}
+{"dg-publish":true,"permalink":"/Știința Capsicum/🜚 Nordihidrocapsaicina/","title":"🜚 Nordihidrocapsaicina","tags":["capsicum","capsaicinoide","nordihidrocapsaicina","chimie","biosinteza","trpv1"],"dg-note-properties":{"title":"🜚 Nordihidrocapsaicina","tags":["capsicum","capsaicinoide","nordihidrocapsaicina","chimie","biosinteza","trpv1"]}}
 ---
 
 

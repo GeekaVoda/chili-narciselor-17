@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pagini de istorie/🔗 Schimbul Columbian/","title":"Schimbul Columbian","tags":["istorie","schimb-columbian","capsicum","botanica","gastronomie"],"dg-note-properties":{"title":"Schimbul Columbian","nota_clasificare":"Pagină de context istoric, în afara taxonomiei de entități Capsicum; poartă doar dg-publish, title și tags, fără câmpuri botanice ori tip_entitate, fiindcă subiectul nu este o entitate a genului.","tags":["istorie","schimb-columbian","capsicum","botanica","gastronomie"]}}
+{"dg-publish":true,"permalink":"/Pagini de istorie/🔗 Schimbul Columbian/","title":"🔗 Schimbul Columbian","tags":["istorie","schimb-columbian","capsicum","botanica","gastronomie"],"dg-note-properties":{"title":"🔗 Schimbul Columbian","nota_clasificare":"Pagină de context istoric, în afara taxonomiei de entități Capsicum; poartă doar dg-publish, title și tags, fără câmpuri botanice ori tip_entitate, fiindcă subiectul nu este o entitate a genului.","tags":["istorie","schimb-columbian","capsicum","botanica","gastronomie"]}}
 ---
 
 

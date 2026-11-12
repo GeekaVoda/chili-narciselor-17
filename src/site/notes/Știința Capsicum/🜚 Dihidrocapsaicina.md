@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Știința Capsicum/🜚 Dihidrocapsaicina/","title":"Dihidrocapsaicina","tags":["capsicum","capsaicinoide","dihidrocapsaicina","chimie","biosinteza","trpv1"],"dg-note-properties":{"title":"Dihidrocapsaicina","tags":["capsicum","capsaicinoide","dihidrocapsaicina","chimie","biosinteza","trpv1"]}}
+{"dg-publish":true,"permalink":"/Știința Capsicum/🜚 Dihidrocapsaicina/","title":"🜚 Dihidrocapsaicina","tags":["capsicum","capsaicinoide","dihidrocapsaicina","chimie","biosinteza","trpv1"],"dg-note-properties":{"title":"🜚 Dihidrocapsaicina","tags":["capsicum","capsaicinoide","dihidrocapsaicina","chimie","biosinteza","trpv1"]}}
 ---
 
 

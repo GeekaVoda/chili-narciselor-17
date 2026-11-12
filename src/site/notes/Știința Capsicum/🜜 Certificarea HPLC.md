@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Știința Capsicum/🜜 Certificarea HPLC/","title":"Certificarea HPLC","tags":["botanica","stiinta","metodologie","hplc","scoville","capsaicina","masurare"],"dg-note-properties":{"title":"Certificarea HPLC","tags":["botanica","stiinta","metodologie","hplc","scoville","capsaicina","masurare"]}}
+{"dg-publish":true,"permalink":"/Știința Capsicum/🜜 Certificarea HPLC/","title":"🜜 Certificarea HPLC","tags":["botanica","stiinta","metodologie","hplc","scoville","capsaicina","masurare"],"dg-note-properties":{"title":"🜜 Certificarea HPLC","tags":["botanica","stiinta","metodologie","hplc","scoville","capsaicina","masurare"]}}
 ---
 
 

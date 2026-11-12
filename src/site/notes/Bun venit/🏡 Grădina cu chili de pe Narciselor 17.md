@@ -52,7 +52,7 @@ Portretele întregi ale celor cinci specii sunt punctul de plecare al oricărei 
 
 Rămâne, la urmă, arsura — partea cea mai vestită și cea mai lesne exagerată. Ea nu a fost făurită de plantă pentru gustul omului și nu este un capriciu al ei: ardeiul își fabrică singur focul, îl strânge mai ales în miezul fructului, în jurul semințelor, și îl poartă acolo ca pe o apărare a rodului. Rolul lui este unul de coevoluție: descurajează mamiferele, care ar distruge semințele prin digestie, în timp ce păsările — insensibile la capsaicină — rămân vectorii naturali ai răspândirii. 
 
-Despre [[Știința Capsicum/Biosinteza capsaicinoidelor\|felul în care ardeiul își face focul]], despre [[Știința Capsicum/🜚 Capsaicina\|ce anume arde cu adevărat]] și despre [[Știința Capsicum/🜛 Scara Scoville\|cât de tare arde, de la soiurile aproape dulci până la superhot]] veți afla totul mai departe, în paginile lor. Aici este de ajuns spus că arsura se poate măsura, dar gustul nu se lasă redus la o singură cifră.
+Despre [[Știința Capsicum/⚛︎ Biosinteza capsaicinoidelor\|felul în care ardeiul își face focul]], despre [[Știința Capsicum/🜚 Capsaicina\|ce anume arde cu adevărat]] și despre [[Știința Capsicum/🜛 Scara Scoville\|cât de tare arde, de la soiurile aproape dulci până la superhot]] veți afla totul mai departe, în paginile lor. Aici este de ajuns spus că arsura se poate măsura, dar gustul nu se lasă redus la o singură cifră.
 
 ![pexels-bonaventure-fernandez-744363-33440717.jpg](/img/user/Resurse/@site_related/pexels-bonaventure-fernandez-744363-33440717.jpg)
 > Focul. (*Gracias, Bonaventure Fernandez / Pexels*)
@@ -153,7 +153,7 @@ Locație: Breazu, Jud. Iași, România;
 ---
 ## O notă despre acest proiect
 
-[[Gradina Narciselor 17/🌼 Gradina Narciselor 17\|Grădina Chili: Narciselor 17]] este un proiect documentar personal, construit pe [[Appendices et Epilogus/Bibliographia\|surse academice, botanice și istorice]]. Informațiile prezentate nu sunt destinate uzului medical sau agronomic profesional și nu substituie consultanța de specialitate. Fiecare capitol include o secțiune de bibliografie care detaliază sursele utilizate.
+[[Gradina Narciselor 17/🌼 Gradina Narciselor 17\|Grădina Chili: Narciselor 17]] este un proiect documentar personal, construit pe [[Appendices et Epilogus/📚 Bibliographia\|surse academice, botanice și istorice]]. Informațiile prezentate nu sunt destinate uzului medical sau agronomic profesional și nu substituie consultanța de specialitate. Fiecare capitol include o secțiune de bibliografie care detaliază sursele utilizate.
 
 **Notă de transparență:** Conținutul acestui site a fost structurat și redactat de către autor în colaborare cu asistenții AI Claude (Anthropic) & Gemini (Google), pentru generarea conținutului și verificarea/corelarea surselor. Menționez că elementele vizuale provin din surse externe și pot conține inadvertențe sau date inexacte, neavând un caracter strict academic ori botanic.
 

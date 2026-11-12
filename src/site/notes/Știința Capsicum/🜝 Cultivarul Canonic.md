@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Știința Capsicum/🜝 Cultivarul Canonic/","title":"Cultivarul Canonic","tags":["botanica","metodologie","cultivar","nomenclatura","heirloom","hibrid","selectie","capsicum"],"dg-note-properties":{"title":"Cultivarul Canonic","tags":["botanica","metodologie","cultivar","nomenclatura","heirloom","hibrid","selectie","capsicum"]}}
+{"dg-publish":true,"permalink":"/Știința Capsicum/🜝 Cultivarul Canonic/","title":"🜝 Cultivarul Canonic","tags":["botanica","metodologie","cultivar","nomenclatura","heirloom","hibrid","selectie","capsicum"],"dg-note-properties":{"title":"🜝 Cultivarul Canonic","tags":["botanica","metodologie","cultivar","nomenclatura","heirloom","hibrid","selectie","capsicum"]}}
 ---
 
 
