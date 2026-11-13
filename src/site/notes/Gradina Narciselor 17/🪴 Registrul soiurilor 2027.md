@@ -19,7 +19,7 @@ Materialul de plantare cuprinde **14 varietăți nominalizate**, din speciile *C
 
 ### [Mr. Hankey (CGN 23209)](https://fataliiseeds.net/product/cgn-23209/)
 
-![mr-hankey-cgn-23209.jpg\|320](/img/user/Resurse/Fatalii_seeds/mr-hankey-cgn-23209.jpg)
+![mr-hankey.png\|320](/img/user/Resurse/Fatalii_seeds/mr-hankey.png)
 
 | Caracteristică             | Detalii                                                                                                                                                            |
 | :------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -34,7 +34,7 @@ Materialul de plantare cuprinde **14 varietăți nominalizate**, din speciile *C
 
 ### [Moruga Sweet](https://fataliiseeds.net/product/moruga-sweet/)
 
-![moruga-sweet.jpg\|320](/img/user/Resurse/Fatalii_seeds/moruga-sweet.jpg)
+![moruga-sweet.png\|320](/img/user/Resurse/Fatalii_seeds/moruga-sweet.png)
 
 | Caracteristică             | Detalii                                                                                                                              |
 | :------------------------- | :----------------------------------------------------------------------------------------------------------------------------------- |
@@ -49,7 +49,7 @@ Materialul de plantare cuprinde **14 varietăți nominalizate**, din speciile *C
 
 ### [Bolivian Rainbow](https://fataliiseeds.net/product/bolivian-rainbow/)
 
-![bolivian-rainbow.jpg\|320](/img/user/Resurse/Fatalii_seeds/bolivian-rainbow.jpg)
+![bolivian-rainbow.png\|320](/img/user/Resurse/Fatalii_seeds/bolivian-rainbow.png)
 
 | Caracteristică             | Detalii                                                                                                                                                                                               |
 | :------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -64,7 +64,7 @@ Materialul de plantare cuprinde **14 varietăți nominalizate**, din speciile *C
 
 ### [Sugar Rush Stripey](https://fataliiseeds.net/product/sr-stripey/)
 
-![sugar-rush-stripey.jpg\|320](/img/user/Resurse/Fatalii_seeds/sugar-rush-stripey.jpg)
+![sugar-rush-stripey.png\|320](/img/user/Resurse/Fatalii_seeds/sugar-rush-stripey.png)
 
 | Caracteristică             | Detalii                                                                                                                                                                                       |
 | :------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -79,7 +79,7 @@ Materialul de plantare cuprinde **14 varietăți nominalizate**, din speciile *C
 
 ### [Habanero Orange](https://fataliiseeds.net/product/habanero-orange/)
 
-![habanero-orange.jpg\|320](/img/user/Resurse/Fatalii_seeds/habanero-orange.jpg)
+![habanero-orange.png\|320](/img/user/Resurse/Fatalii_seeds/habanero-orange.png)
 
 | Caracteristică             | Detalii                                                                                                                 |
 | :------------------------- | :---------------------------------------------------------------------------------------------------------------------- |
@@ -94,7 +94,7 @@ Materialul de plantare cuprinde **14 varietăți nominalizate**, din speciile *C
 
 ### [Fatalii Gourmet Jigsaw](https://fataliiseeds.net/product/fatalii-gourmet-jigsaw/)
 
-![fatalii-gourmet-jigsaw.jpg\|320](/img/user/Resurse/Fatalii_seeds/fatalii-gourmet-jigsaw.jpg)
+![fatalii-gourmet-jigsaw.png\|320](/img/user/Resurse/Fatalii_seeds/fatalii-gourmet-jigsaw.png)
 
 | Caracteristică             | Detalii                                                                                                                                                                              |
 | :------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -109,7 +109,7 @@ Materialul de plantare cuprinde **14 varietăți nominalizate**, din speciile *C
 
 ### [Peter Pepper](https://fataliiseeds.net/product/peter-pepper/)
 
-![peter-pepper.jpg\|320](/img/user/Resurse/Fatalii_seeds/peter-pepper.jpg)
+![peter-pepper.png\|320](/img/user/Resurse/Fatalii_seeds/peter-pepper.png)
 
 | Caracteristică             | Detalii                                                                                                                                     |
 | :------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -124,7 +124,7 @@ Materialul de plantare cuprinde **14 varietăți nominalizate**, din speciile *C
 
 ### [Charapita](https://fataliiseeds.net/product/charapita/)
 
-![charapita.jpg\|320](/img/user/Resurse/Fatalii_seeds/charapita.jpg)
+![charapita.png\|320](/img/user/Resurse/Fatalii_seeds/charapita.png)
 
 | Caracteristică             | Detalii                                                                                                                                                       |
 | :------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -139,7 +139,7 @@ Materialul de plantare cuprinde **14 varietăți nominalizate**, din speciile *C
 
 ### [Zebrange](https://fataliiseeds.net/product/zebrange/)
 
-![zebrange.jpg\|320](/img/user/Resurse/Fatalii_seeds/zebrange.jpg)
+![zebrange.png\|320](/img/user/Resurse/Fatalii_seeds/zebrange.png)
 
 | Caracteristică             | Detalii                                                                                                                                                                                       |
 | :------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -154,7 +154,7 @@ Materialul de plantare cuprinde **14 varietăți nominalizate**, din speciile *C
 
 ### [Jalapeño Brown](https://fataliiseeds.net/product/jalapeno-brown/)
 
-![jalapeno-brown.jpg\|320](/img/user/Resurse/Fatalii_seeds/jalapeno-brown.jpg)
+![jalapeno-brown.png\|320](/img/user/Resurse/Fatalii_seeds/jalapeno-brown.png)
 
 | Caracteristică             | Detalii                                                                                                                                                  |
 | :------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -169,7 +169,7 @@ Materialul de plantare cuprinde **14 varietăți nominalizate**, din speciile *C
 
 ### [Chilaca](https://fataliiseeds.net/product/chilaca/)
 
-![chilaca.jpg\|320](/img/user/Resurse/Fatalii_seeds/chilaca.jpg)
+![chilaca.png\|320](/img/user/Resurse/Fatalii_seeds/chilaca.png)
 
 | Caracteristică             | Detalii                                                                                                                                                                             |
 | :------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -184,7 +184,7 @@ Materialul de plantare cuprinde **14 varietăți nominalizate**, din speciile *C
 
 ### [Habanero Orange Apple](https://fataliiseeds.net/product/habanero-orange-apple/)
 
-![habanero-orange-apple.jpg\|320](/img/user/Resurse/Fatalii_seeds/habanero-orange-apple.jpg)
+![habanero-orange-apple.png\|320](/img/user/Resurse/Fatalii_seeds/habanero-orange-apple.png)
 
 | Caracteristică             | Detalii                                                                                                                                               |
 | :------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -199,7 +199,7 @@ Materialul de plantare cuprinde **14 varietăți nominalizate**, din speciile *C
 
 ### [Cayenne Chocolate](https://fataliiseeds.net/product/cayenne-chocolate/)
 
-![cayenne-chocolate.jpg\|320](/img/user/Resurse/Fatalii_seeds/cayenne-chocolate.jpg)
+![cayenne-chocolate.png\|320](/img/user/Resurse/Fatalii_seeds/cayenne-chocolate.png)
 
 | Caracteristică             | Detalii                                                                                                      |
 | :------------------------- | :----------------------------------------------------------------------------------------------------------- |
@@ -214,7 +214,7 @@ Materialul de plantare cuprinde **14 varietăți nominalizate**, din speciile *C
 
 ### Rocoto Manzano
 
-![rocoto-manzano.jpg\|320](/img/user/Resurse/Fatalii_seeds/rocoto-manzano.jpg)
+![rocoto-manzano.png\|320](/img/user/Resurse/Fatalii_seeds/rocoto-manzano.png)
 
 | Caracteristică             | Detalii                                                                                                                                                                                                                                                                             |
 | :------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -229,7 +229,7 @@ Materialul de plantare cuprinde **14 varietăți nominalizate**, din speciile *C
 
 ### [Bonchi Seed Kit](https://fataliiseeds.net/product/bonchi-kit/).
 
-![bonchi-collage.jpg](/img/user/Resurse/Fatalii_seeds/bonchi-collage.jpg)
+![bonchi-collage.png](/img/user/Resurse/Fatalii_seeds/bonchi-collage.png)
 
 Kit de semințe destinat cultivării ardeilor în stil *bonchi* (bonsai de ardei). Conține **patru varietăți alese de furnizor**, selecția fiind variabilă. Denumirile, speciile și caracteristicile acestora se vor înregistra după identificarea conținutului efectiv al plicurilor; prin urmare, kitul nu este tratat ca un soi distinct în registrul de mai sus.
 
