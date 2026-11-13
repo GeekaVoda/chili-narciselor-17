@@ -87,74 +87,31 @@ Proiectul este împărțit în patru direcții, fiecare cu paginile ei.
 **d) Grădina** — Documentarea directă a cultivării: selecția soiurilor, aclimatizarea, drumul de la răsad la recoltă și observațiile legate de condițiile locului. Începe din [[Gradina Narciselor 17/🌼 Gradina Narciselor 17\|Grădina Chili: Narciselor 17]].
 Locație: Breazu, Jud. Iași, România;
 
-
-![Colaj 072026.png](/img/user/Resurse/Gradina-Nrcs17/Colaj%20072026.png)
-> Iunie 2026 - *Chile Peter, Jalapeño, Explosive Ember, Carolina Reaper, Chile Poblano, Rocotillo, el de las soberbias flores violetas (Rocotillo, cel cu superbe flori violet)!* 
 ---
 
-![Colaj 072026_2.png](/img/user/Resurse/Gradina-Nrcs17/Colaj%20072026_2.png)
-> Iulie 2026 - *Ciliegia Piccante, Poblanos, Biker Billy's Jalapeños, Chile de Árbol, Rocoto Costa Rica - sin duda, mi favorito (fără îndoială, favoritul meu)!*
----
+### Lo mejor de 2026 y [[Gradina Narciselor 17/📔 Jurnal de cultură 2026\|otros]]
 
-![Colaj 082026_01.png](/img/user/Resurse/Gradina-Nrcs17/Colaj%20082026_01.png)
-> August 2026 - *Carolina Reaper, Primotalii*
----
-
-![Colaj 082026_02.png](/img/user/Resurse/Gradina-Nrcs17/Colaj%20082026_02.png)
-> August 2026 - *Ancho/Poblano, Chiltepin,  Jalapeños, Peter's ... thing :)*
----
-
-![Colaj 082026_03.png](/img/user/Resurse/Gradina-Nrcs17/Colaj%20082026_03.png)
-> August 2026 - *Brown Jalapeños, Serranos, Telica Jalapeños, Verigated Mattapeños, Bird's Eye*
----
-
-![Colaj 082026_04.png](/img/user/Resurse/Gradina-Nrcs17/Colaj%20082026_04.png)
-> August 2026 - *Zebrange, Peri Peri,  Jalapeños, Carolina Reaper, Pasilla/Chilaca*
----
-
-![Colaj 092026_01.png](/img/user/Resurse/Gradina-Nrcs17/Colaj%20092026_01.png)
-> Septembrie 2026 - *Peter Chili, Carolina Reaper*
----
 
 ![Colaj 092026_02.png](/img/user/Resurse/Gradina-Nrcs17/Colaj%20092026_02.png)
 > Septembrie 2026 - *Chiltepin, Ciliegia piccante, Bird's Eye*
----
 
-![Colaj 092026_03.png](/img/user/Resurse/Gradina-Nrcs17/Colaj%20092026_03.png)
-> Septembrie 2026 - *cosecha de otoño - recolta de toamnă*
----
-
-![Colaj 092026_04.png](/img/user/Resurse/Gradina-Nrcs17/Colaj%20092026_04.png)
-> Septembrie 2026 - *Primotalii, Carolina Reaper, Pasilla/Chilaca*
----
-
-![Colaj 092026_05.png](/img/user/Resurse/Gradina-Nrcs17/Colaj%20092026_05.png)
-> Septembrie 2026 - *Rocoto manzano*
----
 
 ![IMG_092026_01.png](/img/user/Resurse/Gradina-Nrcs17/IMG_092026_01.png)
 > Septembrie 2026 - *cosecha de otoño - recolta de toamnă*
----
+
 
 ![IMG_092026_02.png](/img/user/Resurse/Gradina-Nrcs17/IMG_092026_02.png)
 > Septembrie 2026 - *Jalapeños rellenos*
----
 
 
 ![Mir_rocotillos_01.png](/img/user/Resurse/Gradina-Nrcs17/Mir_rocotillos_01.png)
 > Octombrie 2026 - *Mis rocotillos*
 
 ---
-
-![Mir_rocotillos_02.png](/img/user/Resurse/Gradina-Nrcs17/Mir_rocotillos_02.png)
-> Octombrie 2026 - *Mis rocotillos también*
-
-
----
 ## O notă despre acest proiect
 
 [[Gradina Narciselor 17/🌼 Gradina Narciselor 17\|Grădina Chili: Narciselor 17]] este un proiect documentar personal, construit pe [[Appendices et Epilogus/📚 Bibliographia\|surse academice, botanice și istorice]]. Informațiile prezentate nu sunt destinate uzului medical sau agronomic profesional și nu substituie consultanța de specialitate. Fiecare capitol include o secțiune de bibliografie care detaliază sursele utilizate.
 
-**Notă de transparență:** Conținutul acestui site a fost structurat și redactat de către autor în colaborare cu asistenții AI Claude (Anthropic) & Gemini (Google), pentru generarea conținutului și verificarea/corelarea surselor. Menționez că elementele vizuale provin din surse externe și pot conține inadvertențe sau date inexacte, neavând un caracter strict academic ori botanic.
+**Notă de transparență:** Conținutul acestui site a fost structurat și redactat de către autor în colaborare cu asistenții AI Claude (Anthropic) & ChatGPT (OpenAI), pentru generarea conținutului și verificarea/corelarea surselor. Menționez că elementele vizuale provin din surse externe și pot conține inadvertențe sau date inexacte, neavând un caracter strict academic ori botanic.
 
 **Bun venit.**

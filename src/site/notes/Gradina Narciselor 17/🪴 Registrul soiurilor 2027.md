@@ -216,14 +216,14 @@ Materialul de plantare cuprinde **14 varietăți nominalizate**, din speciile *C
 
 ![rocoto-manzano.jpg\|320](/img/user/Resurse/Fatalii_seeds/rocoto-manzano.jpg)
 
-| Caracteristică | Detalii |
-| :--- | :--- |
-| **Specie** | *Capsicum pubescens* |
-| **Descriere sumară** | Fructe rotunjite, de tip „măr”, cu pericarp gros și cărnos. În cultura din 2026 s-au remarcat forma, culoarea și aroma caracteristică, cu note care amintesc de tomate. Florile violete, foliajul pubescent și semințele închise la culoare sunt trăsături botanice tipice speciei. |
-| **Tip / statut** | Rocoto Manzano — denumire horticulturală atribuită pe baza observațiilor directe din 2026. Material pentru 2027: **semințe proprii**, recoltate de la plante cultivate anterior din răsaduri comerciale. |
-| **Iuțeală** | În general medie–ridicată pentru acest tip de ardei; intensitatea exactă a fructelor din grădină nu a fost determinată în SHU. |
-| **Cultivare** | Specie asociată zonelor montane, favorizată de temperaturi moderate și nopți răcoroase; are un ciclu de dezvoltare relativ lung, de luat în considerare la planificarea sezonului. |
-| **Observații / utilizare** | Prima includere în cultura 2027 din semințe proprii. Caracteristicile plantelor și fructelor obținute vor putea fi comparate cu cele observate în 2026. Potrivit pentru consum proaspăt, sosuri și preparate cu fructe umplute. |
+| Caracteristică             | Detalii                                                                                                                                                                                                                                                                             |
+| :------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Specie**                 | *Capsicum pubescens*                                                                                                                                                                                                                                                                |
+| **Descriere sumară**       | Fructe rotunjite, de tip „măr”, cu pericarp gros și cărnos. În cultura din 2026 s-au remarcat forma, culoarea și aroma caracteristică, cu note care amintesc de tomate. Florile violete, foliajul pubescent și semințele închise la culoare sunt trăsături botanice tipice speciei. |
+| **Tip / statut**           | Rocoto Manzano — denumire horticulturală atribuită pe baza observațiilor directe din 2026. Material pentru 2027: **semințe proprii**, recoltate de la plante cultivate anterior din răsaduri comerciale.                                                                            |
+| **Iuțeală**                | În general medie–ridicată pentru acest tip de ardei; intensitatea exactă a fructelor din grădină nu a fost determinată în SHU.                                                                                                                                                      |
+| **Cultivare**              | Specie asociată zonelor montane, favorizată de temperaturi moderate și nopți răcoroase; are un ciclu de dezvoltare relativ lung, de luat în considerare la planificarea sezonului.                                                                                                  |
+| **Observații / utilizare** | Prima includere în cultura 2027 din semințe proprii. Caracteristicile plantelor și fructelor obținute vor putea fi comparate cu cele observate în 2026. Potrivit pentru consum proaspăt, sosuri și preparate cu fructe umplute.                                                     |
 
 ---
 

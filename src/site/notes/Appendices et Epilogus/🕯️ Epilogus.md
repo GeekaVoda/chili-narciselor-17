@@ -15,11 +15,11 @@ Nu veți găsi aici un tratat rigid și nici un manual tehnic. Este, în esenț�
 
 ## Notă de transparență
 
-Conținutul acestui site l-am structurat și redactat, împreună cu asistenții AI Claude (Anthropic) & Gemini (Google), folosiți pentru așternerea textului și pentru verificarea și corelarea surselor. Deciziile editoriale finale îmi aparțin. Imaginile pot proveni din surse externe și pot păstra mici inadvertențe; ele nu au valoare strict academică ori botanică.
+Conținutul acestui site l-am structurat și redactat, împreună cu asistenții AI Claude (Anthropic) & ChatGPT (OpenAI), folosiți pentru așternerea textului și pentru verificarea și corelarea surselor. Deciziile editoriale finale îmi aparțin. Imaginile pot proveni din surse externe și pot păstra mici inadvertențe; ele nu au valoare strict academică ori botanică.
 
 
 Cu drag,
-Virgil & Mirela (gradina.narciselor.17@proton.me)
+Virgil & Mirela (gradina-chili@pm.me)
 
 
 ![pexels-zunaid-hasan-219257405-34890256.jpg](/img/user/Resurse/@site_related/pexels-zunaid-hasan-219257405-34890256.jpg)
