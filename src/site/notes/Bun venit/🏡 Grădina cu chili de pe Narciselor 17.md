@@ -96,16 +96,20 @@ Locație: Breazu, Jud. Iași, România;
 > Septembrie 2026 - *Chiltepin, Ciliegia piccante, Bird's Eye*
 
 
+
 ![IMG_092026_01.png](/img/user/Resurse/Gradina-Nrcs17/IMG_092026_01.png)
 > Septembrie 2026 - *cosecha de otoño - recolta de toamnă*
+
 
 
 ![IMG_092026_02.png](/img/user/Resurse/Gradina-Nrcs17/IMG_092026_02.png)
 > Septembrie 2026 - *Jalapeños rellenos*
 
 
+
 ![Mir_rocotillos_01.png](/img/user/Resurse/Gradina-Nrcs17/Mir_rocotillos_01.png)
 > Octombrie 2026 - *Mis rocotillos*
+
 
 ---
 ## O notă despre acest proiect
