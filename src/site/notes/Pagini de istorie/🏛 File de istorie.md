@@ -32,6 +32,9 @@ Civilizațiile precolumbiene majore nu au tratat ardeiul iute ca pe o curiozitat
 
 Franciscanul **Bernardino de Sahagún**, care a petrecut decenii în Mexic documentând cultura aztecă în *Historia General de las Cosas de Nueva España* — lucrare cunoscută și sub numele de Codex Florentinus — descrie o taxonomie naturală a ardeilor cu o precizie care face cinste unui botanist modern: soiuri clasificate după culoare, iuțeală, formă, stadiu de maturitate și utilizare culinară. Aztecii cunoșteau diferența dintre un ardei prăjit și unul fiert, dintre unul uscat și unul proaspăt, și foloseau aceste diferențe cu intenție în bucătărie.[^Sahagún1577]
 
+![chilli_seller_CF.png](/img/user/Resurse/@site_related/chilli_seller_CF.png)
+> Vânzator de ardei iute (*Codex Florentinus*)
+
 Ardeiul iute era prezent și în ritualurile aztece. Era oferit zeilor, era parte din dietele impuse preoților în perioadele de post ritual și era utilizat ca pedeapsă — copiii care se comportau necorespunzător primeau fum de ardei iute în față, o practică documentată de Sahagún. Iuțeala nu era neutră moral: era o forță pe care cultura aztecă o recunoștea și o integra simbolic.
 
 **Civilizația incașă** a organizat cultivarea ardeilor pe terasele (*andenes*) din Peru și Bolivia cu aceeași rigoare cu care a organizat cultivarea porumbului și a cartofului. Sistemul de depozite imperiale — *qollqas* — includea ardei uscați ca parte a rezervelor strategice ale imperiului, alături de carne de lama deshidratată (*charki*) și quinoa. *Uchu* — cuvântul quechua pentru ardei — apare în textele coloniale timpurii ca ingredient indispensabil al dietei andine la toate nivelurile sociale.[^Zimmerer1996]
