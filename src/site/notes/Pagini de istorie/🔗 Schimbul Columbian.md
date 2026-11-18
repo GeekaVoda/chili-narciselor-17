@@ -40,6 +40,9 @@ Dar cea mai rapidă și mai profundă expansiune nu s-a produs prin grădinile b
 
 ## Traseele de răspândire
 
+
+![Schimbul-Columbian-Capsicum.png](/img/user/Resurse/Fatalii_seeds/Schimbul-Columbian-Capsicum.png)
+
 ### Ruta atlantică — spre Africa de Vest
 
 Portughezii au stabilit posturi comerciale pe coasta de Vest a Africii — în Ghana, Nigeria, Benin, Angola — începând cu mijlocul secolului al XV-lea. Ardeii au ajuns pe această coastă în primele decenii ale secolului al XVI-lea și s-au adaptat cu o viteză remarcabilă la climatele tropicale umede ale Africii subsahariene.
@@ -64,13 +67,17 @@ Din India, ardeii au continuat spre **Malacca** și **China** prin rutele comerc
 
 ### Ruta Galeonului de Manila — spre Filipine și Asia de Est
 
-O rută mai puțin documentată, dar la fel de importantă, a fost **Galeonul de Manila** — ruta comercială spaniolă care conecta Acapulco (Mexic) cu Manila (Filipine) între 1565 și 1815. Prin această rută, ardeii americani — în special *Capsicum frutescens* — au ajuns în Filipine și, de acolo, în Indonezia, Malaysia și Japonia.
+O cale importantă de răspândire a ardeilor iuți în Asia a fost **ruta Galeonului de Manila** (_Galeón de Manila_), rețeaua comercială spaniolă care lega Acapulco (Mexic) de Manila (Filipine) între **1565 și 1815**. Timp de două secole și jumătate, galeonii au traversat Pacificul, transportând spre Asia argint american, iar în direcția opusă mătăsuri, porțelanuri, mirodenii și alte mărfuri orientale. Această legătură comercială a facilitat și schimbul de plante între continente, contribuind la introducerea în Asia a numeroase specii americane, printre care porumbul, tutunul, roșiile și ardeii din genul _Capsicum_.
 
-**Siling Labuyo** din Filipine poartă în numele său termenul *labuyo* — „sălbatic” — o mărturie a naturalizării complete a plantei în ecosistemul local, până la punctul în care populația locală a uitat că era un import.[^Andrews1995]
+**Ardeii iuți, inclusiv _Capsicum frutescens_, au beneficiat de această conexiune transpacifică.** Semințele, ușor de transportat și de păstrat, puteau circula în bagajele marinarilor, negustorilor, misionarilor și coloniștilor, fără a constitui neapărat mărfuri comerciale importante. Odată introduși în Filipine, ardeii au găsit condiții climatice favorabile cultivării și naturalizării. Manila, unul dintre cele mai active centre comerciale ale regiunii, întreținea legături cu negustorii chinezi, japonezi și sud-est asiatici, oferind astfel posibilitatea redistribuirii semințelor către alte teritorii.
+
+**Influența Galeonului de Manila a depășit, așadar, schimbul direct dintre Mexic și Filipine**, contribuind la integrarea plantelor americane în rețelele agricole și comerciale ale Asiei. Ardeii s-au răspândit treptat în regiune, inclusiv prin schimburile maritime dintre insulele Indoneziei, Peninsula Malacca, China și Japonia. Această expansiune nu a urmat însă o singură rută: comercianții portughezi și, ulterior, cei olandezi au participat la același proces prin circuitele Oceanului Indian. Studiile genetice moderne asupra _Capsicum frutescens_ susțin existența unei componente transpacifice a dispersiei sale, confirmând că **Galeonul de Manila a reprezentat una dintre legăturile importante dintre originea americană a ardeilor și răspândirea lor în Asia**.
+
+**Siling Labuyo ilustrează unul dintre cele mai interesante efecte ale schimbului columbian:** o plantă originară de pe continentul american a devenit, în numai câteva secole, atât de profund integrată în agricultura, gastronomia și peisajul filipinez, încât este percepută astăzi ca o componentă tradițională a identității culinare locale.[^Andrews1995]
 
 ---
 
-## De ce s-a răspândit atât de rapid?
+## De ce s-au răspândit atât de rapid?
 
 Viteza cu care *Capsicum* a cucerit bucătăriile lumii — în mai puțin de un secol de la primul contact european — este fără precedent în istoria plantelor cultivate. Câteva explicații convergente:
 
@@ -84,7 +91,7 @@ Viteza cu care *Capsicum* a cucerit bucătăriile lumii — în mai puțin de un
 
 ---
 
-## Transformările pe care le-a produs
+## Transformările pe care le-a produs Schimbul Columbian
 
 Schimbul Columbian nu a fost o simplă redistribuire geografică a plantelor. A fost o transformare structurală a bucătăriilor lumii, ale cărei efecte sunt atât de profunde încât astăzi par naturale și ancestrale.
 
@@ -135,3 +142,9 @@ Ardeiul iute a reușit ceea ce Columb căuta: a conectat lumile. Nu prin aur sau
 [^Long1998]: Long-Solís, J. (1998). *Capsicum y cultura: la historia del chilli*. Fondo de Cultura Económica. [Contextul precolumbian și colonial al cultivării ardeilor iuți în Mesoamerica.]
 
 [^Crosby1972]: Crosby, A.W. (1972). *The Columbian Exchange: Biological and Cultural Consequences of 1492*. Greenwood Press. [Lucrarea fondatoare a conceptului de Schimb Columbian și analiza transferurilor biologice între Lumea Veche și Lumea Nouă.]
+
+Hecht, Johanna (2003). _The Manila Galleon Trade (1565–1815)._ The Metropolitan Museum of Art. [Articol integral](https://www.metmuseum.org/ja/essays/the-manila-galleon-trade-1565-1815?utm_source=chatgpt.com)
+
+Dalby, Andrew (2024). _The First Chillies in the Far East._ Petits Propos Culinaires, nr. 130, pp. 12–17. [DOI](https://doi.org/10.1558/ppc.31616?utm_source=chatgpt.com)
+
+Yamamoto, Sota et al. (2025; online 2024). Genetic Diversity and Phylogenetic Relationships of Capsicum frutescens in the Asia–Pacific Region: The Pacific Dispersal Route._ International Journal of Historical Archaeology, 29, pp. 72–85. [DOI](https://doi.org/10.1007/s10761-024-00750-w?utm_source=chatgpt.com)
