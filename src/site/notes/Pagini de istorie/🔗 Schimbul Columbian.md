@@ -143,8 +143,10 @@ Ardeiul iute a reușit ceea ce Columb căuta: a conectat lumile. Nu prin aur sau
 
 [^Crosby1972]: Crosby, A.W. (1972). *The Columbian Exchange: Biological and Cultural Consequences of 1492*. Greenwood Press. [Lucrarea fondatoare a conceptului de Schimb Columbian și analiza transferurilor biologice între Lumea Veche și Lumea Nouă.]
 
-Hecht, Johanna (2003). _The Manila Galleon Trade (1565–1815)._ The Metropolitan Museum of Art. [Articol integral](https://www.metmuseum.org/ja/essays/the-manila-galleon-trade-1565-1815?utm_source=chatgpt.com)
+Referințe suplimentare pentru ruta Galeonului de Manila: [^Hecht2003] [^Dalby2024] [^Yamamoto2025]
 
-Dalby, Andrew (2024). _The First Chillies in the Far East._ Petits Propos Culinaires, nr. 130, pp. 12–17. [DOI](https://doi.org/10.1558/ppc.31616?utm_source=chatgpt.com)
+[^Hecht2003]: Hecht, Johanna (2003). *The Manila Galleon Trade (1565–1815).* The Metropolitan Museum of Art. [Articol integral](https://www.metmuseum.org/ja/essays/the-manila-galleon-trade-1565-1815).
 
-Yamamoto, Sota et al. (2025; online 2024). Genetic Diversity and Phylogenetic Relationships of Capsicum frutescens in the Asia–Pacific Region: The Pacific Dispersal Route._ International Journal of Historical Archaeology, 29, pp. 72–85. [DOI](https://doi.org/10.1007/s10761-024-00750-w?utm_source=chatgpt.com)
+[^Dalby2024]: Dalby, Andrew (2024). *The First Chillies in the Far East.* Petits Propos Culinaires, nr. 130, pp. 12–17. [DOI](https://doi.org/10.1558/ppc.31616).
+
+[^Yamamoto2025]: Yamamoto, Sota et al. (2025; online 2024). *Genetic Diversity and Phylogenetic Relationships of Capsicum frutescens in the Asia–Pacific Region: The Pacific Dispersal Route.* International Journal of Historical Archaeology, 29, pp. 72–85. [DOI](https://doi.org/10.1007/s10761-024-00750-w).
