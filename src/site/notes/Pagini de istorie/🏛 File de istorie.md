@@ -3,132 +3,151 @@
 ---
 
 
-# Ardeiul iute: Un companion milenar al omenirii
+# Ardeiul iute: un companion milenar al omenirii
 
+Istoria ardeiului iute începe cu mult înaintea călătoriilor europene peste Atlantic. În Americi, plantele sălbatice din genul *Capsicum* au fost mai întâi cunoscute și culese, apoi cultivate și transformate, prin selecție, în varietăți cu fructe tot mai diferite. Din această relație îndelungată dintre oameni și plante au luat naștere cinci specii domesticite, fiecare cu propria istorie agricolă. Abia după 1492 ardeii au ajuns în celelalte continente, unde au devenit ingrediente familiare ale unor bucătării care nu îi cunoscuseră până atunci.
 
-Istoria ardeiului iute începe în America Centrală și de Sud, unde a fost cultivat cu mii de ani înainte de sosirea europenilor. Spre deosebire de grâu sau orez, care s-au impus prin valoarea lor nutritivă, ardeiul iute a devenit indispensabil datorită aromei și iuțelii sale caracteristice. Răspândit la nivel global începând cu secolul al XVI-lea, s-a adaptat rapid în climate diverse, iar cele cinci specii domesticite inițial au fost integrate natural în tradițiile culinare ale Europei, Asiei și Africii.
-
----
-
-## Înainte de orice scriere — dovezile din pământ
-
-Cele mai vechi urme ale consumului de ardei iute nu provin din texte, ci din solul siturilor arheologice. Fitolitele — microfosile silicioase produse de celulele plantei, practic indestructibile pe parcursul mileniilor — și semințele carbonizate au supraviețuit acolo unde totul altceva s-a descompus.
-
-La **Huaca Prieta**, pe coasta de nord a Peru-ului, dovezi de consum sistematic al ardeilor din specia *Capsicum baccatum* datează de la 4.500–5.000 î.Hr. — cu mult înainte de apariția ceramicii în regiune, cu mult înainte de Imperiul Inca, cu mult înainte de orice structură politică organizată pe care o cunoaștem din această parte a lumii.[^Pickersgill1969]
-
-La **Tehuacan**, în centrul Mexicului, semințe carbonizate de *Capsicum annuum* recuperate din peșterile Coxcatlan și San Marcos urcă la 7.000–9.000 î.Hr. La **Guitarrero Cave**, în Peru, resturile de ardei datează din perioada 8.500–5.500 î.Hr.
-
-Aceste date plasează domesticirea ardeiului iute printre cele mai timpurii din istoria agriculturii americane — contemporană sau anterioară domesticirii porumbului, a cartofului și a fasolei. Nu este o coincidență. Ardeiul iute nu era un condiment opțional în dieta precolumbiană. Era vitamina C a comunităților fără citrice, era conservantul natural al cărnii în climatele calde, era aroma care transforma calitativ o mâncare simplă de fasole și porumb fiert. Era necesar.
-
-Genetica modernă a confirmat că domesticirea nu s-a produs o singură dată, într-un singur loc. Cele cinci specii cultivate au origini geografice distincte — *C. annuum* în Mexic și America Centrală, *C. chinense* și *C. frutescens* în bazinul amazonian și în Caraibe, *C. baccatum* în văile boliviene, *C. pubescens* pe versanții andini înalți. Cele cinci specii au fost domesticite independent în regiuni diferite ale continentului american.[^Kraft2014]
+Dar istoria lor nu este numai o poveste despre alimentație. Este și istoria unor descoperiri arheologice, a felului în care comunitățile amerindiene au organizat cultivarea și schimburile, a primelor încercări europene de clasificare botanică și, mult mai târziu, a cercetărilor asupra substanței responsabile de iuțeală. De la o plantă sălbatică răspândită prin păsări la genomul descifrat în laborator, *Capsicum* a însoțit transformări succesive ale agriculturii și cunoașterii omenești.
 
 ---
 
-## Aztecii, mayașii, incașii — ardeiul ca ingredient de stat
+## Originile — înainte de agricultură
 
-Civilizațiile precolumbiene majore nu au tratat ardeiul iute ca pe o curiozitate culinară. L-au sistematizat, l-au comercializat, l-au taxat și l-au integrat în cosmologie.
+Cu mult înainte să existe grădini și câmpuri cultivate, în Americi creșteau numeroase specii sălbatice de *Capsicum*. Fructele lor erau, de regulă, mici și atrăgătoare pentru păsările frugivore. Capsaicinoidele descurajează multe mamifere, dar păsările sunt mult mai puțin sensibile la iuțeală; consumând fructele și eliminând semințele, ele au contribuit la răspândirea naturală a acestor plante. Este o relație evolutivă care precedă cu mult intervenția omului.[^Tewksbury2001]
 
-**Piețele aztece** din Tenochtitlan — descrise cu uimire de Hernán Cortés în scrisorile sale din 1519–1520 — vindeau zeci de soiuri de ardei uscați și proaspeți, aranjați cu o precizie comercială care l-a impresionat pe cuceritor mai mult decât aurul. Cortés scria că piața din Tlatelolco era mai mare decât orice piață văzuse în Spania, mai bine organizată și mai abundentă. Ardeii ocupau un loc central în această abundență.[^Cortés1519]
+Când au început oamenii să le folosească? Răspunsul vine din arheobotanică, dar dovezile sunt mai greu de interpretat decât ar sugera o cronologie simplă. Semințele și fragmentele de fruct, microfosilele de amidon și alte resturi vegetale pot indica prezența ardeilor într-un sit. Totuși, **prezența plantei nu dovedește automat domesticirea**: fructele puteau proveni din culesul unor populații sălbatice, din cultivarea lor fără modificări genetice importante sau din plante deja domesticite.
 
-Franciscanul **Bernardino de Sahagún**, care a petrecut decenii în Mexic documentând cultura aztecă în *Historia General de las Cosas de Nueva España* — lucrare cunoscută și sub numele de Codex Florentinus — descrie o taxonomie naturală a ardeilor cu o precizie care face cinste unui botanist modern: soiuri clasificate după culoare, iuțeală, formă, stadiu de maturitate și utilizare culinară. Aztecii cunoșteau diferența dintre un ardei prăjit și unul fiert, dintre unul uscat și unul proaspăt, și foloseau aceste diferențe cu intenție în bucătărie.[^Sahagún1577]
+În Mexic, resturi vechi de *Capsicum* au fost recuperate din peșterile regiunii **Tehuacán** și din zona **Ocampo**, în Tamaulipas. Unele au fost asociate cu niveluri arheologice estimate la aproximativ **9.000–7.000 de ani înainte de prezent** (*BP*). Aceste datări sunt însă, în mare parte, indirecte, deduse din contextul stratigrafic; ele nu permit afirmația că ardeii domesticiți existau cu certitudine încă de atunci. În Peru, cercetările clasice de la **Huaca Prieta** și Punta Grande au identificat materiale de *Capsicum* importante pentru înțelegerea agriculturii preceramice, dar nici acolo toate resturile nu pot fi încadrate fără rezerve într-o specie sau într-un moment exact al domesticirii.[^Kraft2014][^Pickersgill1969]
+
+O metodă mai recentă a extins perspectiva: identificarea granulelor microscopice de amidon caracteristice genului *Capsicum* pe unelte și recipiente. Studiul publicat de **Linda Perry și colaboratorii în 2007** a documentat asemenea urme în șapte situri, din Bahamas până în sudul Peru-ului, unele având o vechime de aproximativ **6.000 de ani**. În anumite contexte, ardeii apar alături de porumb, ceea ce arată că erau deja integrați în sisteme alimentare americane timpurii.[^Perry2007]
+
+Aceste descoperiri nu oferă o singură dată de naștere a agriculturii ardeiului. Ele conturează ceva mai interesant: o relație îndelungată, desfășurată în regiuni diferite, în care culesul, cultivarea și domesticirea nu au fost neapărat etape distincte și simultane pretutindeni.
+
+---
+
+## Domesticirea — începutul unei relații milenare
+
+Domesticirea înseamnă mai mult decât mutarea unei plante sălbatice lângă locuință. Pe parcursul generațiilor, oamenii păstrează semințe de la exemplarele care le oferă însușirile dorite. În cazul ardeilor, această selecție a favorizat adesea **fructe mai mari**, forme și culori diversificate, grade diferite de iuțeală și caractere care ușurează recoltarea. Spre deosebire de formele sălbatice, multe varietăți cultivate au fructele orientate în jos și sunt mai puțin dependente de dispersia naturală prin păsări.[^Barboza2022]
+
+Botanica actuală recunoaște **cinci specii principale domesticite**: *Capsicum annuum*, *C. baccatum*, *C. chinense*, *C. frutescens* și *C. pubescens*. Originile lor nu se reduc la un singur centru agricol. Pentru *C. annuum*, studiile genetice, arheobotanice și lingvistice indică în special Mexicul, cu dovezi convergente pentru zona central-estică. Pentru *C. baccatum*, regiunile boliviene și vecinătățile andine au o importanță deosebită; *C. pubescens* este legată de spațiul montan andin, iar *C. chinense* și *C. frutescens* de regiuni tropicale sud-americane și de circulația timpurie în Caraibe. Localizarea exactă a tuturor evenimentelor de domesticire rămâne însă deschisă cercetării.[^Kraft2014][^Barboza2022]
+
+Cele cinci specii reprezintă astfel **istorii de domesticire distincte**, nu cinci soiuri desprinse dintr-o singură plantă cultivată. Diversitatea lor reflectă atât evoluția naturală, cât și alegerile comunităților care le-au cultivat. Unele au rămas multă vreme asociate cu regiuni restrânse, în timp ce *C. annuum* avea să devină, după contactul transatlantic, cea mai larg cultivată specie a genului.
+
+---
+
+## Ardeiul în civilizațiile precolumbiene
+
+În lumea americană de dinainte de 1492, ardeiul nu era o raritate exotică, ci un ingredient cu loc bine stabilit în hrană, comerț și viața socială. Importanța lui nu s-a manifestat identic în toate regiunile, iar dovezile provin din surse diferite: resturi arheologice, reprezentări, texte coloniale care descriu practici indigene și tradiții culturale păstrate ulterior.
+
+### Spațiul mayaș — un ingredient al agriculturii mezoamericane
+
+În teritoriile mayașe, ardeii au făcut parte din alimentația întemeiată pe porumb, fasole și dovleac, într-un sistem agricol în care plantele se completau reciproc. Descoperirile arheobotanice din situl **Cuello**, în actualul Belize, atestă prezența ardeilor încă în perioada preclasică. Analizele reziduurilor din recipiente descoperite la **Chiapa de Corzo**, în Mexic, au identificat urme de *Capsicum* asociate unor contexte datate aproximativ în jurul anului **400 î.Hr.**; utilizarea exactă a fiecărui vas — culinară, rituală sau de altă natură — nu poate fi stabilită în toate cazurile.[^Powis2013]
+
+Aceste dovezi arată că ardeiul era cunoscut și întrebuințat cu multe secole înainte de sosirea spaniolilor. Rețetele, combinațiile aromatice și practicile agricole locale au continuat să evolueze, fără ca prezența ardeiului în siturile vechi să ne permită reconstruirea în amănunt a bucătăriei de atunci.
+
+### Lumea aztecă — piețe, tribut și cunoaștere practică
+
+În Mexicul central, importanța ardeilor este documentată și prin izvoare scrise. **Hernán Cortés**, în a doua scrisoare adresată lui Carol al V-lea (1520), descrie amploarea și organizarea pieței din **Tlatelolco**. Dovezi mai precise privind rolul economic al ardeilor se găsesc în **Codex Mendoza**, unde sunt reprezentați printre bunurile plătite drept tribut de unele provincii supuse Imperiului Aztec.[^Mendoza]
+
+O imagine mult mai detaliată a diversității lor apare în **Codexul Florentin**, realizat în secolul al XVI-lea de franciscanul **Bernardino de Sahagún** împreună cu autori, informatori și artiști **nahua**. În descrierea vânzătorului de ardei sunt pomenite numeroase forme, diferențiate după mărime, aspect, culoare și modul de pregătire. Nu este o clasificare botanică modernă, ci mărturia unei cunoașteri agricole și culinare foarte dezvoltate.[^Sahagun1577]
 
 ![chilli_seller_CF.png](/img/user/Resurse/@site_related/chilli_seller_CF.png)
-> Vânzator de ardei iute (*Codex Florentinus*)
+> Vânzător de ardei iute — *Codexul Florentin*, cartea a X-a.
 
-Ardeiul iute era prezent și în ritualurile aztece. Era oferit zeilor, era parte din dietele impuse preoților în perioadele de post ritual și era utilizat ca pedeapsă — copiii care se comportau necorespunzător primeau fum de ardei iute în față, o practică documentată de Sahagún. Iuțeala nu era neutră moral: era o forță pe care cultura aztecă o recunoștea și o integra simbolic.
+Ardeii aveau și întrebuințări sociale și rituale. Sursele coloniale consemnează, între altele, folosirea fumului produs prin arderea ardeilor uscați ca mijloc de pedeapsă. Asemenea practici trebuie înțelese în contextul culturilor care le-au transmis, fără a reduce întreaga semnificație a plantei la iuțeală ori la rolul său alimentar.
 
-**Civilizația incașă** a organizat cultivarea ardeilor pe terasele (*andenes*) din Peru și Bolivia cu aceeași rigoare cu care a organizat cultivarea porumbului și a cartofului. Sistemul de depozite imperiale — *qollqas* — includea ardei uscați ca parte a rezervelor strategice ale imperiului, alături de carne de lama deshidratată (*charki*) și quinoa. *Uchu* — cuvântul quechua pentru ardei — apare în textele coloniale timpurii ca ingredient indispensabil al dietei andine la toate nivelurile sociale.[^Zimmerer1996]
+### Lumea andină — diversitate locală și continuitate culturală
 
-Ceea ce unea toate aceste culturi era înțelegerea empirică a ceva pe care știința modernă l-a confirmat abia în secolul XX: ardeiul iute conservă alimentele, protejează împotriva infecțiilor bacteriene și furnizează vitamina C în cantități remarcabile. Nu știau de ce funcționează. Știau că funcționează.
+În Anzi și pe coasta Pacificului, ardeii erau utilizați cu mult înainte de constituirea Imperiului Inca. Cultivarea unor forme de *C. baccatum* este discutată în cercetările arheobotanice privind Peru preceramic, iar plantele din grupul *C. pubescens*, cunoscute astăzi sub numele de *rocoto* sau *locoto*, au rămas asociate cu regiunile montane. În limbile andine, denumiri precum *uchu* reflectă familiaritatea îndelungată cu ardeii.[^Pickersgill1969][^Andrews1995]
 
----
-
-## 1492 — Confuzia care a schimbat nomenclatura
-
-Când Columb a debarcat în Caraibe în octombrie 1492, el căuta *Piper nigrum* — piperul negru al Asiei, condimentul care valora cât aurul pe piețele europene. Nu l-a găsit. A găsit în schimb o plantă pe care indigenii taíno o numeau *ají* și care producea o iuțeală similară. A numit-o *pimienta* și a declarat-o mai valoroasă decât piperul din Spania.
-
-Medicul expediției, **Diego Álvarez Chanca**, a descris-o în 1494 cu mai multă precizie: „mai iute decât piperul și mai aromatică”. Dar confuzia de nomenclatură se instalase deja — și a rămas. *Pepper* în engleză, *poivre* în franceză, *pepe* în italiană, *pfeffer* în germană — toate denumirile populare europene ale ardeilor iuți provin din această primă identificare greșită cu piperul negru. Cele două plante nu au nicio relație botanică. Una aparține familiei Piperaceae; cealaltă, Solanaceae. Au fost numite la fel pentru că ard la fel.[^Andrews1995]
-
-Columb a adus semințe la întoarcerea sa din prima expediție, în 1493. Plantele au crescut cu ușurință în grădinile din Spania și Portugalia — *Capsicum annuum* este o specie adaptabilă, cu cerințe modeste. Primii botaniști europeni le-au descris cu entuziasm: **Leonhart Fuchs** în *De Historia Stirpium* (1542), **Pietro Andrea Mattioli** în comentariile sale la Dioscoride (1544), **Carolus Clusius** în grădinile imperiale vieneze. Planta era nouă; fascinația era imediată.
-
-Ceea ce a urmat este povestea [[Pagini de istorie/🔗 Schimbul Columbian\|Schimbului Columbian]]. Termenul a fost introdus în circuitul academic în 1972 de către istoricul american Alfred W. Crosby, în lucrarea sa fundamentală The Columbian Exchange. Din perspectivă istorică și socială, acest fenomen a reprezentat unul dintre cele mai importante evenimente de globalizare biologică și culturală din istoria omenirii, modificând ireversibil ecosistemele și demografia de pe ambele părți ale Atlanticului.
+Agricultura andină a integrat aceste plante în sisteme locale de cultivare și schimb, alături de alte resurse alimentare. Nu este însă necesar să presupunem că toate varietățile aveau aceleași utilizări sau că fiecare detaliu al aprovizionării imperiale este documentat. Ceea ce se poate afirma cu încredere este **continuitatea cultivării și a importanței culinare a ardeilor** în regiuni unde tradițiile locale rămân puternice până astăzi.
 
 ---
 
-## Adoptarea — cum a cucerit ardeiul bucătăriile lumii
+## 1492 — întâlnirea cu Europa
 
-Viteza cu care *Capsicum* a fost adoptat în culturi care nu îl cunoscuseră niciodată rămâne unul dintre cele mai fascinante fenomene din istoria alimentației. În mai puțin de un secol de la primul contact european, ardeii iuți cresceau în grădinile din India, din Africa de Est și de Vest, din China și din Japonia. Nu ca plante de curiozitate botanică — ca ingrediente indispensabile.
+Călătoria lui **Cristofor Columb**, începută în căutarea unei rute occidentale spre Asia, a pus navigatorii europeni în contact cu plante alimentare necunoscute în Lumea Veche. Printre ele se numărau ardeii folosiți de populațiile din Caraibe, cunoscuți și sub denumirea indigenă *ají*. Pentru europeni, iuțeala lor amintea de piperul negru asiatic (*Piper nigrum*), condiment prețuit în comerțul epocii. De aici a apărut o asociere terminologică persistentă, deși piperul negru aparține familiei **Piperaceae**, iar ardeii genului *Capsicum* aparțin **Solanaceae**.[^Andrews1995]
 
-**India** este cazul cel mai spectaculos. Portughezii au ajuns în Goa în 1498; în mai puțin de cincizeci de ani, ardeii iuți transformaseră bucătăriile din sudul subcontinentului. Astăzi, India este cel mai mare producător și consumator de ardei iuți din lume. Curry-ul — preparatul perceput global ca emblematic indian — este construit pe un ingredient american. Această adopție nu a fost pasivă: bucătarii indieni au integrat *Capsicum* în sistemul existent de condimentare, l-au combinat cu turmericul, cu cardamomul, cu coriandrul și au creat ceva nou, care nu existase nici în India pre-columbiană, nici în America precolumbiană.[^Andrews1995]
+**Diego Álvarez Chanca**, medic al celei de-a doua expediții columbiene, a lăsat una dintre primele descrieri europene ale plantei, în contextul călătoriei din **1493–1494**. Semințele de *Capsicum* au început să circule spre Peninsula Iberică în urma acestor contacte, dar documentele timpurii nu permit întotdeauna identificarea cu certitudine a speciilor transportate. Denumirile populare asociate cu piperul au persistat în mai multe limbi europene, fără a fi identice în toate: engleza folosește *pepper*, iar în franceză s-au impus, între altele, *piment* și *poivron*.[^Andrews1995]
 
-**Coreea** oferă o altă poveste. Kimchi — murătura fermentată de varză care este emblemă a bucătăriei coreene — era albă înainte de introducerea ardeilor iuți în jurul anului 1600. *Gochugaru* — pulberea de ardei roșu coreean — a transformat kimchi-ul dintr-un preparat palid și acid într-unul roșu, picant și complex. Coreea consumă astăzi câteva sute de mii de tone de ardei pe an. Există un termen coreean pentru dorul de kimchi atunci când ești departe de casă — un sentiment legat de un ingredient american cu mai puțin de patru secole de prezență în peninsula coreeană.
-
-**Ungaria** a primit ardeii prin rutele comerciale otomane, în a doua jumătate a secolului al XVI-lea. Paprika — *il pepe rosso ungherese*, cum o numeau italienii — a transformat complet bucătăria maghiară în două generații. Gulyás, paprikás, lecsó — preparatele emblematice ale bucătăriei maghiare sunt toate post-columbiene. Termenul *paprika* însuși nu apare în texte ungurești înainte de 1775.[^Halász1963]
-
-**Sudul Italiei** a adoptat *Capsicum* cu o profunzime pe care nordul peninsulei nu a atins-o niciodată la fel. Calabria, Basilicata, Sicilia — regiuni sărace, cu acces limitat la condimentele scumpe de import — au găsit în ardeiul iute *il pepe dei poveri* (piperul săracilor): un condiment ieftin, cultivabil local, cu efect similar piperului negru. Astăzi, 'nduja calabreză, peperoncino di Senise cu DOP european, olio santo din Puglia — toate sunt ingrediente considerate de neconceput în afara identității lor regionale, deși toate sunt post-columbiene.
-
-**China** și **Japonia** au primit ardeii prin rutele comerciale portugheze și prin Galeonul de Manila — corabia spaniolă care conecta Acapulco cu Manila între 1565 și 1815. În provinciile Sichuan și Hunan din China, *Capsicum* a înlocuit parțial piperul Sichuan ca agent de iuțeală dominant și a transformat radical bucătăriile regionale. Bucătăria sichuaneză de astăzi — cu acea iuțeală *má là* (amorțitoare și arzătoare simultan) — combină piperul Sichuan cu ardeii americani într-un profil senzorial care nu are echivalent în altă parte din lume.
+Odată intrat în grădinile și rețelele agricole ale Lumii Vechi, ardeiul a început o istorie nouă. Comercianții, navigatorii și cultivatorii au dus semințele dincolo de Atlantic și, în timp, în Africa și Asia. Ritmul a variat de la o regiune la alta: **prima apariție a plantei nu trebuie confundată cu adoptarea ei generală în alimentație**. Traseele portugheze și spaniole, legăturile otomane, ruta Galeonului de Manila și transformările gastronomice rezultate sunt tratate separat în [[Pagini de istorie/🔗 Schimbul Columbian\|🔗 Schimbul Columbian]]. Conceptul istoric de „Schimb Columbian” a fost consacrat de **Alfred W. Crosby** în 1972 și desemnează un proces mult mai larg, cu efecte biologice, culturale și demografice profunde, inclusiv consecințe devastatoare pentru numeroase populații indigene.[^Crosby1972]
 
 ---
 
-## Știința ardeiului — de la empiric la documentat
+## De la curiozitate botanică la obiect de cercetare
 
-Timp de opt milenii, ardeiul iute a fost folosit în alimentație, conservare și ca remediu, exclusiv pe bază de observație empirică. Explicarea științifică a proprietăților sale a început abia în a doua jumătate a secolului al XIX-lea.
+Primele generații de naturaliști europeni au încercat să încadreze ardeii într-un vocabular botanic alcătuit înainte ca plantele americane să le fie cunoscute. **Leonhart Fuchs** i-a descris și ilustrat în *De historia stirpium* (1542), iar **Pietro Andrea Mattioli** și **Carolus Clusius** au contribuit, în deceniile următoare, la circulația cunoștințelor despre aceste plante. Asocierea cu piperul oriental, vizibilă în unele denumiri timpurii, trădează dificultatea de a numi o plantă nou întâlnită cu ajutorul categoriilor vechi.[^Andrews1995][^Barboza2022]
 
-**John Clough Thresh** a izolat și a descris capsaicina în 1876 — prima identificare chimică a moleculei active. Dar structura sa chimică completă a fost stabilită abia în 1919 de **E.K. Nelson**, iar sinteza totală în laborator — în 1930, de **Ernst Späth** și **Stephen F. Darling**.[^Thresh1876]
+Un moment decisiv pentru clasificarea științifică a venit în **1753**, odată cu *Species Plantarum* a lui **Carl von Linné**, care a descris *Capsicum annuum* și *C. frutescens* în sistemul său nomenclatural. Celelalte specii cultivate au fost delimitate și descrise de botaniști în etape ulterioare: *C. chinense* de **Nikolaus Joseph von Jacquin** în 1776, iar *C. pubescens* de **Hipólito Ruiz** și **José Antonio Pavón** la sfârșitul secolului al XVIII-lea. Clasificarea genului nu s-a încheiat atunci; ea a continuat să fie revizuită prin comparații morfologice și, în epoca modernă, prin analize genetice.[^Barboza2022]
 
-**Wilbur Scoville** a propus în 1912 testul său organoleptic de măsurare a iuțelii — o metodă simplă, bazată pe diluție și pe un panel de degustători umani, care a dat naștere [[Știința Capsicum/🜛 Scara Scoville\|Scarii Scoville]] și care a dominat industria timp de decenii, până la introducerea cromatografiei lichide de înaltă performanță ([[Știința Capsicum/🜜 Certificarea HPLC\|HPLC]]) ca metodă standard de referință.[^Scoville1912]
-
-Descoperirea cu adevărat revoluționară a venit în 1997, când **Michael Caterina** și echipa sa de la Universitatea California San Francisco au identificat **receptorul TRPV1** — canalul ionic care răspunde la capsaicină, la căldură și la pH acid. Această descoperire a explicat de ce capsaicina „arde” fără să ardă în sens fizic: ea activează exact același receptor pe care îl activează temperatura ridicată. Creierul primește un semnal de „foc” în absența oricărui foc. Confuzia este perfectă și este biologică.[^Caterina1997]
-
-Această descoperire a deschis un domeniu întreg de cercetare farmacologică. Capsaicina, prin expunere repetată, epuizează *Substanța P* din terminațiile nervoase nociceptive — reducând transmiterea semnalelor de durere. Cremele și plasturii cu capsaicină sunt astăzi utilizați în managementul durerii neuropatice, al nevralgiei post-herpetice și al osteoartritei. O plantă folosită empiric în medicația populară andină și mesoamericană de milenii și-a confirmat statutul farmacologic prin cele mai riguroase standarde ale medicinei moderne.
+Numele *Capsicum chinense* este un bun avertisment împotriva lecturii geografice a denumirilor științifice: epitetul sugerează China, însă specia este americană. Nomenclatura păstrează uneori ipotezele și confuziile momentului în care a fost construită; originea unei plante trebuie stabilită prin dovezi botanice și istorice, nu dedusă din numele său.
 
 ---
 
-## Recordurile — o obsesie modernă
+## Știința iuțelii — de la capsaicină la receptorul TRPV1
 
-Ultima jumătate de secol a adăugat un strat nou la istoria ardeiului iute: competiția pentru cel mai iute ardei din lume. Aceasta nu este o tradiție veche — este un produs al modernității, al comunităților de cultivatori conectate prin internet și al Guinness World Records ca arbitru universal al superlativelor.
+În secolul al XIX-lea, cercetarea ardeiului a început să se îndepărteze de simpla descriere a fructelor și să urmărească substanța responsabilă de senzația de arsură. **Christian Friedrich Bucholz** a obținut în **1816** un extract impur al principiului iute, iar **John Clough Thresh** a izolat în **1876** capsaicina într-o formă mai pură. **E. K. Nelson** a contribuit în **1919** la elucidarea structurii chimice, iar **Ernst Späth** și **Stephen F. Darling** au realizat sinteza sa în laborator în **1930**. Această succesiune de descoperiri a transformat iuțeala, dintr-o impresie senzorială, într-un fenomen care putea fi investigat chimic.[^CapsaicinHistory]
 
-**Red Savina Habanero** a deținut recordul din 1994 până în 2007, cu 577.000 SHU.
+Un alt pas important fusese făcut în **1912**, când farmacistul **Wilbur L. Scoville** a propus o metodă organoleptică de comparare a iuțelii, bazată pe diluarea extractelor și aprecierea lor de către degustători. Din această metodă provin unitățile Scoville (**SHU**), folosite și astăzi pentru exprimarea intensității iuțelii. În cercetarea și controlul modern, conținutul de capsaicinoide poate fi măsurat instrumental, inclusiv prin cromatografie lichidă de înaltă performanță — [[Știința Capsicum/🜜 Certificarea HPLC\|HPLC]]. Principiul și interpretarea valorilor sunt prezentate în [[Știința Capsicum/🜛 Scara Scoville\|🜛 Scara Scoville]].[^Scoville1912]
 
-**Bhut Jolokia** — descoperit în nord-estul Indiei, primul ardei care a depășit pragul de 1 milion SHU — a preluat titlul în 2007, certificat de New Mexico State University. Armata indiană l-a transformat în grenadă cu ardei pentru controlul mulțimilor.
+În **1997**, **Michael J. Caterina** și colaboratorii au descris receptorul cunoscut astăzi sub numele de **TRPV1**, un canal ionic implicat în percepția căldurii nocive și activat și de capsaicină. A devenit astfel mai limpede de ce un ardei poate produce senzația de arsură fără să ridice efectiv temperatura țesuturilor: capsaicina activează o cale senzorială pe care organismul o folosește și pentru a semnala căldura periculoasă.[^Caterina1997]
 
-**Trinidad Moruga Scorpion** a depășit 2 milioane SHU în testele NMSU din 2012.
-
-**Carolina Reaper** — creat de Ed Currie în Carolina de Sud prin hibridizare deliberată — a obținut certificarea Guinness în 2013 (medie inițială de 1.569.300 SHU, ridicată ulterior la 1.641.183 SHU după re-testarea de la Winthrop University din 2017) și a deținut titlul până în 2023, când același selecționer a produs **Pepper X**, certificat cu 2.693.000 SHU.
-
-Aceste recorduri sunt reale și măsurabile prin HPLC. Dar ele spun mai puțin despre cultura ardeiului iute decât o spune faptul că un bucătar din Kerala, unul din Oaxaca și unul din Chengdu folosesc toți, zilnic, descendenții aceleiași plante americane — transformată și adaptată de fiecare cultură în ceva care pare de neînlocuit și de neimaginat altfel.
+Descoperirea a avut consecințe și pentru farmacologie. Preparatele topice cu capsaicină sunt utilizate în anumite forme de tratament al durerii, în special al durerii neuropatice periferice. Efectul nu se explică numai prin reducerea nivelului de *Substanță P*, așa cum sugerau interpretările mai vechi, ci și prin desensibilizarea și diminuarea temporară a funcției terminațiilor nervoase sensibile la capsaicină. **O utilizare medicinală tradițională nu reprezintă, prin ea însăși, o demonstrație a eficacității clinice**; aceasta trebuie stabilită separat, pentru fiecare indicație.[^CapsaicinPain]
 
 ---
 
-## Ardeiul astăzi — planta care nu s-a oprit
+## Epoca modernă — selecție, genetică și recorduri
 
-La mai mult de cinci secole de la primul contact european și la opt milenii de la primele dovezi de cultivare, *Capsicum* este al doilea cel mai consumat condiment din lume după sare. Este cultivat pe toate continentele locuite, în condiții climatice care variază de la deșerturi la tropice umede, de la altitudini andine la câmpiile aluvionare ale Asiei de Sud-Est.
+De-a lungul secolului XX, selecția agricolă a ardeilor a urmărit obiective foarte diferite: productivitate, rezistență la boli, uniformitatea fructelor, reducerea iuțelii pentru consum alimentar sau, dimpotrivă, intensificarea ei. Diversitatea genului a permis obținerea atât a unor soiuri complet dulci, cât și a unor varietăți extrem de iuți. În paralel cu ameliorarea comercială, cultivatorii au păstrat varietăți locale, iar băncile de gene au început să conserve material genetic important pentru cercetarea viitoare.[^Barboza2022]
 
-Cercetarea botanică continuă să descopere soiuri noi sau insuficient documentate în arealele originare din America de Sud. Genomul *Capsicum annuum* a fost secvențiat complet în 2014, deschizând posibilități noi pentru ameliorare dirijată. Comunitățile de cultivatori pasionați din Europa, America de Nord și Australia mențin colecții de sute de soiuri rare și contribuie la conservarea unei diversități genetice pe care agricultura industrială tinde să o erodeze.
+Un reper al biologiei moleculare moderne a fost publicarea, în **2014**, a unui **genom de referință pentru *Capsicum annuum***. Studiul a oferit instrumente noi pentru investigarea biosintezei capsaicinoidelor, a maturării fructelor și a altor caractere de interes agronomic. Secvențierea unui genom de referință nu înseamnă că diversitatea genetică a speciei a fost descrisă complet: fiecare soi și populație locală poate păstra variante valoroase, care justifică cercetări și colecții suplimentare.[^Kim2014]
 
-Și totuși, esența rămâne aceeași cu cea pe care o cunoșteau comunitățile din văile andine acum opt milenii: o plantă mică, cu flori discrete și fructe colorate, care a ales să ardă — și care a găsit în această alegere un parteneriat improbabil și durabil cu specia umană.
+În același timp, iuțeala extremă a devenit obiectul unei competiții moderne. **Red Savina Habanero**, **Bhut Jolokia** și **Carolina Reaper** au marcat etape succesive în istoria recordurilor recunoscute, în timp ce varietăți precum **Trinidad Moruga Scorpion** au atins valori foarte mari în cercetări experimentale, fără ca un asemenea rezultat să însemne automat deținerea unui titlu Guinness. În **octombrie 2023**, **Pepper X**, creat de **Ed Currie**, a fost omologat de *Guinness World Records* la o medie de **2.693.000 SHU**. Valorile reprezintă rezultate de măsurare în condiții definite; ele nu descriu în mod invariabil fiecare fruct al unei varietăți.[^Guinness2023]
+
+Recordurile atrag atenția publicului, dar nu epuizează semnificația genului *Capsicum*. Pentru agricultori, cercetători și bucătari, la fel de importante rămân aroma, textura, adaptarea la climă, rezistența plantelor și posibilitatea de a păstra, dintr-un sezon în altul, caracteristicile unei varietăți.
+
+---
+
+## Moștenirea și viitorul genului *Capsicum*
+
+La mai bine de cinci secole de la contactul european cu Americile, ardeii sunt cultivați pe toate continentele locuite. Unele specii s-au răspândit foarte larg, iar altele continuă să fie strâns legate de regiunile lor istorice. Niciun clasament al iuțelii și nicio statistică de consum nu pot cuprinde singure această diversitate: de la fructele blânde ale ardeilor dulci la rocoto andin, de la ardeii de uscat la cei destinați sosurilor, fiecare grup exprimă o istorie de selecție și utilizare.
+
+Astăzi, una dintre provocări este **conservarea diversității genetice**. Varietățile locale, rudele sălbatice și liniile păstrate în colecții oferă resurse pentru ameliorarea rezistenței la boli, adaptarea la condiții de mediu schimbătoare și menținerea caracteristicilor culinare. Cercetarea genomică și observațiile cultivatorilor se completează: prima explică mecanismele eredității, celelalte arată cum se comportă efectiv plantele în sol, sub soare și de la un sezon la altul.[^Barboza2022][^Kim2014]
+
+Istoria ardeiului iute nu începe, așadar, în 1492 și nu se încheie cu ultimul record Scoville. Începe cu plantele sălbatice ale Americilor, trece prin selecțiile unor comunități care nu ne-au lăsat întotdeauna mărturii scrise și continuă în laboratoare, în băncile de semințe și în grădinile de astăzi. O plantă ale cărei fructe au învățat să descurajeze unele animale a găsit, în om, un partener neașteptat — unul care a purtat-o dincolo de toate granițele arealului său de origine.
 
 ---
 
 ## Bibliografie
 
-[^Pickersgill1969]: Pickersgill, B. (1969). *The archaeological record of chili peppers (Capsicum spp.) and the sequence of plant domestication in Peru*. American Antiquity, 34(1), 54–61.
+[^Tewksbury2001]: Tewksbury, J. J. & Nabhan, G. P. (2001). *Seed dispersal: Directed deterrence by capsaicin in chillies*. *Nature*, 412, 403–404. <https://doi.org/10.1038/35086653>
 
-[^Kraft2014]: Kraft, K.H. et al. (2014). *Multiple lines of evidence for the origin of domesticated chili pepper, Capsicum annuum, in Mexico*. Proceedings of the National Academy of Sciences, 111(17), 6165–6170. <https://doi.org/10.1073/pnas.1308933111>
+[^Kraft2014]: Kraft, K. H. et al. (2014). *Multiple lines of evidence for the origin of domesticated chili pepper, Capsicum annuum, in Mexico*. *Proceedings of the National Academy of Sciences*, 111(17), 6165–6170. <https://doi.org/10.1073/pnas.1308933111>
 
-[^Cortés1519]: Cortés, H. (1519–1526). *Cartas de relación*. [Scrisori adresate regelui Carol I al Spaniei, cu descrieri ale piețelor aztece din Tenochtitlan și Tlatelolco.]
+[^Pickersgill1969]: Pickersgill, B. (1969). *The archaeological record of chili peppers (Capsicum spp.) and the sequence of plant domestication in Peru*. *American Antiquity*, 34(1), 54–61. <https://doi.org/10.2307/278313>
 
-[^Sahagún1577]: Sahagún, B. de (1577). *Historia General de las Cosas de Nueva España* (Codex Florentinus). [Documentarea sistematică a culturii aztece, inclusiv taxonomia nahuatl a ardeilor.]
+[^Perry2007]: Perry, L. et al. (2007). *Starch fossils and the domestication and dispersal of chili peppers (Capsicum spp. L.) in the Americas*. *Science*, 315(5814), 986–988. <https://doi.org/10.1126/science.1136914>
 
-[^Andrews1995]: Andrews, J. (1995). *Peppers: The Domesticated Capsicums* (revised edition). University of Texas Press.
+[^Barboza2022]: Barboza, G. E. et al. (2022). *Monograph of wild and cultivated chili peppers (Capsicum L., Solanaceae)*. *PhytoKeys*, 200, 1–423. <https://doi.org/10.3897/phytokeys.200.71667>
 
-[^Zimmerer1996]: Zimmerer, K.S. (1996). *Changing Fortunes: Biodiversity and Peasant Livelihood in the Peruvian Andes*. University of California Press.
+[^Powis2013]: Powis, T. G. et al. (2013). *Prehispanic use of chili peppers in Chiapas, Mexico*. *PLOS ONE*, 8(11), e79013. <https://doi.org/10.1371/journal.pone.0079013>
 
-[^Halász1963]: Halász, Z. (1963). *Hungarian Paprika Through the Ages*. Corvina Press, Budapest.
+[^Mendoza]: *Codex Mendoza* (secolul al XVI-lea), registrul tributelor; prezentare și exemplu ilustrat: The Metropolitan Museum of Art, *Paying the Man: Ancient Tributes in Golden Kingdoms*. <https://www.metmuseum.org/perspectives/golden-kingdoms-ancient-tributes>
 
-[^Thresh1876]: Thresh, J.C. (1876). *Isolation of capsaicin*. The Analyst, 1, 148–149. [Prima izolare și descriere chimică a capsaicinei.]
+[^Sahagun1577]: Sahagún, B. de, împreună cu autorii și artiștii nahua (cca 1577). *Historia general de las cosas de Nueva España* (*Codexul Florentin*), cartea a X-a, fol. 48v–49r. Ediția digitală Getty Research Institute: <https://florentinecodex.getty.edu/en/book/10/folio/48v>
 
-[^Scoville1912]: Scoville, W.L. (1912). *Note on Capsicums*. Journal of the American Pharmaceutical Association, 1(5), 453–454. [Articolul original în care Scoville descrie testul organoleptic de măsurare a iuțelii.]
+[^Andrews1995]: Andrews, J. (1995). *Peppers: The Domesticated Capsicums*. Ediție revizuită. University of Texas Press.
 
-[^Caterina1997]: Caterina, M.J. et al. (1997). *The capsaicin receptor: a heat-activated ion channel in the pain pathway*. Nature, 389, 816–824. <https://doi.org/10.1038/39807>
+[^Crosby1972]: Crosby, A. W. (1972). *The Columbian Exchange: Biological and Cultural Consequences of 1492*. Greenwood Press.
+
+[^CapsaicinHistory]: Bode, A. M. & Dong, Z. (2011). *The Two Faces of Capsaicin*. *Cancer Research*, 71(8), 2809–2814. <https://aacrjournals.org/cancerres/article/71/8/2809/570358/The-Two-Faces-of-CapsaicinIs-Capsaicin-a>
+
+[^Scoville1912]: Scoville, W. L. (1912). *Note on Capsicums*. *Journal of the American Pharmaceutical Association*, 1(5), 453–454. <https://doi.org/10.1002/jps.3080010520>
+
+[^Caterina1997]: Caterina, M. J. et al. (1997). *The capsaicin receptor: a heat-activated ion channel in the pain pathway*. *Nature*, 389, 816–824. <https://doi.org/10.1038/39807>
+
+[^CapsaicinPain]: Ilie, M. A. et al. (2019). *Capsaicin: Physicochemical properties, cutaneous reactions and potential applications in painful and inflammatory conditions*. *Experimental and Therapeutic Medicine*, 18, 916–925. <https://pmc.ncbi.nlm.nih.gov/articles/PMC6639979/>
+
+[^Kim2014]: Kim, S. et al. (2014). *Genome sequence of the hot pepper provides insights into the evolution of pungency in Capsicum species*. *Nature Genetics*, 46, 270–278. <https://doi.org/10.1038/ng.2877>
+
+[^Guinness2023]: *Guinness World Records* (16.10.2023). *Pepper X dethrones Carolina Reaper as world’s hottest chilli pepper*. <https://www.guinnessworldrecords.com/news/2023/10/pepper-x-dethrones-carolina-reaper-as-worlds-hottest-chilli-pepper-759706>

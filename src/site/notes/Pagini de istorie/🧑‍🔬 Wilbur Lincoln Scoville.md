@@ -74,28 +74,6 @@ Cu toate acestea, **unitatea SHU și scala Scoville** au supraviețuit metodei c
 
 ---
 
-## Cronologie
-
-| An | Eveniment |
-|---|---|
-| 22 ian. 1865 | Naștere în Bridgeport, Connecticut |
-| 1889 | Diplomă PhG — *Massachusetts College of Pharmacy* |
-| 1892–1904 | Profesor de farmacie, *Massachusetts College of Pharmacy* |
-| 1894 | Editor *New England Druggist* |
-| 1895 | Prima ediție a *The Art of Compounding* |
-| 1898 | Editor *The Spatula* |
-| 1904 | Demisionează din catedra universitară |
-| 1907 | Se alătură Parke, Davis & Company, Detroit |
-| Mai 1912 | Publică „Note on Capsicums” — testul organoleptic |
-| 1922 | Premiul Ebert — APhA |
-| 1924 | Devine șeful Analytical Department, Parke-Davis |
-| 1927 | Doctor of Pharmacy (PhmD), *Massachusetts College of Pharmacy* |
-| 1929 | Remington Honor Medal — APhA |
-| 1934 | Pensionare din Parke-Davis |
-| 10 mart. 1942 | Deces, Gainesville, Florida, la 77 de ani |
-
----
-
 ## Pagini conexe
 
 - [[Știința Capsicum/🜜 Certificarea HPLC\|🜜 Certificarea HPLC]] — metoda care a înlocuit testul organoleptic începând cu anii 1980
