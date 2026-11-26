@@ -48,4 +48,4 @@ Rețeta substratului pentru ghivece și regimul de îngrășare, comune sezonulu
 
 ## Legătura cu enciclopedia
 
-Soiurile documentate în partea botanică a proiectului se pot lega, de aici, la fișele lor din [[Corpus Codicum/📗 Codex botanic\|📗 Codex botanic]]. O parte dintre soiurile aflate acum în cultură nu au încă fișă corespondentă; ele rămân trecute în registru cu denumirea folosită în grădină, urmând ca legăturile să fie stabilite pe măsură ce fișele sunt redactate.
+Soiurile documentate în partea botanică a proiectului se pot lega, de aici, la fișele lor din [[Corpus Codicum/🍃 Codex botanic\|🍃 Codex botanic]]. O parte dintre soiurile aflate acum în cultură nu au încă fișă corespondentă; ele rămân trecute în registru cu denumirea folosită în grădină, urmând ca legăturile să fie stabilite pe măsură ce fișele sunt redactate.

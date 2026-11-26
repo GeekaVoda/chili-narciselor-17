@@ -229,7 +229,7 @@ Materialul de plantare cuprinde **14 varietăți nominalizate**, din speciile *C
 
 ### [Bonchi Seed Kit](https://fataliiseeds.net/product/bonchi-kit/).
 
-![bonchi-collage.png](/img/user/Resurse/Fatalii_seeds/bonchi-collage.png)
+![bonchi-collage.png](/img/user/Resurse/Bonchi/Bonchi-COLLAGE.png)
 
 Kit de semințe destinat cultivării ardeilor în stil *bonchi* (bonsai de ardei). Conține **patru varietăți alese de furnizor**, selecția fiind variabilă. Denumirile, speciile și caracteristicile acestora se vor înregistra după identificarea conținutului efectiv al plicurilor; prin urmare, kitul nu este tratat ca un soi distinct în registrul de mai sus.
 
