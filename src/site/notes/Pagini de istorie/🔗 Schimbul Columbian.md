@@ -108,6 +108,7 @@ Dincolo de Marea Galbenă, în **Coreea**, legumele sărate și fermentate aveau
 În sudul **Italiei**, mai ales în **Calabria** și **Basilicata**, ardeii au intrat în grădinile gospodăriilor, apoi în mezeluri, conserve, uleiuri aromate și sosuri. Fructele erau legate în șiraguri și puse la uscat, mărunțite ori păstrate în ulei, iar din această tradiție fac parte ***’nduja*** calabreză, mezelul tartinabil condimentat cu ardei iute, și ***olio santo***, uleiul cu peperoncino. Asemenea produse au devenit caracteristice locurilor unde oamenii au cultivat ardeii și au transmis metodele de preparare dintr-o generație în alta.[^Andrews1995]
 
 Din India până în Coreea și din Balcani până în Italia, semințele aduse din Americi au întâlnit alte plante, alte tehnici și alte obiceiuri de masă. În timp, fiecare regiune a păstrat varietățile care îi conveneau și a construit în jurul lor gusturi recognoscibile, ajunse astăzi parte a tradițiilor culinare locale.
+
 ---
 
 ## Schimbul Columbian în sens invers
