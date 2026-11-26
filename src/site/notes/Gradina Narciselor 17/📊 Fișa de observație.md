@@ -42,14 +42,14 @@ Fenologia urmărește calendarul dezvoltării: momentele în care planta trece d
 
 Măsurătorile pe fruct se iau la maturitate deplină, pe câteva exemplare reprezentative, și se raportează ca valoare medie. Ele permit compararea cu descrierile din fișele botanice ale soiurilor.
 
-| Variabilă | Unitate | Observații |
-|---|---|---|
-| Lungime fruct | mm | la maturitate |
-| Lățime / diametru | mm | la partea cea mai largă |
-| Grosime pericarp | mm | măsurată cu șublerul, în secțiune |
-| Masă medie fruct | g | media pe câteva fructe |
-| Număr loje | nr. | în secțiune transversală |
-| Culoare la copt | descriptiv | culoarea de maturitate deplină |
+| Variabilă         | Unitate    | Observații                        |
+| ----------------- | ---------- | --------------------------------- |
+| Lungime fruct     | mm         | la maturitate                     |
+| Lățime / diametru | mm         | la partea cea mai largă           |
+| Grosime pericarp  | mm         | măsurată cu șublerul, în secțiune |
+| Masă medie fruct  | g          | media pe câteva fructe            |
+| Număr loje        | nr.        | în secțiune transversală          |
+| Culoare la copt   | descriptiv | culoarea de maturitate deplină    |
 
 ---
 
