@@ -13,7 +13,7 @@ Distincția dintre sol și ghiveci nu este una de comoditate. Cele două regimur
 
 ## Soiurile în cultură
 
-În sezonul 2027, cultura pornește din două surse: semințe comerciale, achiziționate de la Fatalii Seeds (Finlanda), și semințe proprii de **Rocoto Manzano**, recoltate de la plantele cultivate în grădină în 2026. Proveniența materialului este consemnată în [[Gradina Narciselor 17/🌰 Proveniența materialului\|🌰 Proveniența materialului]].
+În sezonul 2027, cultura pornește din două surse: semințe comerciale, achiziționate de la Fatalii Seeds (Finlanda), și semințe proprii de **Rocoto Manzano**, recoltate de la plantele cultivate în grădină în 2026. Proveniența materialului este consemnată în [[Gradina Narciselor 17/🌱 Proveniența materialului\|🌱 Proveniența materialului]].
 
 Materialul de plantare cuprinde **14 varietăți nominalizate**, din speciile *Capsicum chinense*, *C. annuum*, *C. baccatum* și *C. pubescens*, precum și un **kit Bonchi** cu patru varietăți care nu sunt nominalizate anticipat. Pentru cele 13 varietăți comerciale, caracteristicile prezentate sunt informații de referință din fișele furnizorului. Pentru Rocoto Manzano, identificarea horticulturală se bazează pe observațiile efectuate asupra fructelor în sezonul 2026, completate cu trăsături botanice cunoscute ale speciei. Niciuna dintre aceste descrieri nu constituie încă o observație asupra plantelor din sezonul 2027.
 
@@ -240,7 +240,7 @@ Pentru materialul comercial de la Fatalii Seeds, furnizorul precizează că **ma
 
 **Metoda de polenizare nu trebuie confundată cu stabilitatea genetică.** O varietate poate fi comercializată sub o denumire distinctă fără ca gradul de stabilizare să fie documentat în fișa de produs. În cazul **Sugar Rush Stripey**, furnizorul avertizează că stabilizarea dungilor nu este complet încheiată și că pot apărea plante cu fructe fără dungi.
 
-Pentru recoltarea de semințe proprii destinate reproducerii fidele a unei varietăți, polenizarea florilor trebuie ținută sub control și fructele corespunzătoare trebuie identificate, conform principiilor consemnate în [[Gradina Narciselor 17/🌰 Proveniența materialului\|🌰 Proveniența materialului]].
+Pentru recoltarea de semințe proprii destinate reproducerii fidele a unei varietăți, polenizarea florilor trebuie ținută sub control și fructele corespunzătoare trebuie identificate, conform principiilor consemnate în [[Gradina Narciselor 17/🌱 Proveniența materialului\|🌱 Proveniența materialului]].
 
 ### Particularități relevante pentru sezonul 2027
 
@@ -264,4 +264,4 @@ Rețeta substratului pentru ghivece și regimul de îngrășare, comune sezonulu
 
 ## Legătura cu enciclopedia
 
-Soiurile documentate în partea botanică a proiectului se pot lega, de aici, la fișele lor din [[Corpus Codicum/🌱 Codex botanicus\|🌱 Codex botanicus]]. O parte dintre soiurile aflate acum în cultură nu au încă fișă corespondentă; ele rămân trecute în registru cu denumirea folosită în grădină, urmând ca legăturile să fie stabilite pe măsură ce fișele sunt redactate.
+Soiurile documentate în partea botanică a proiectului se pot lega, de aici, la fișele lor din [[🌱 Codex botanicus\|🌱 Codex botanicus]]. O parte dintre soiurile aflate acum în cultură nu au încă fișă corespondentă; ele rămân trecute în registru cu denumirea folosită în grădină, urmând ca legăturile să fie stabilite pe măsură ce fișele sunt redactate.

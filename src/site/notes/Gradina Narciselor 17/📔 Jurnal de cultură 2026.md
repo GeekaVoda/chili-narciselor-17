@@ -16,7 +16,7 @@ Jurnalul strânge, în ordinea zilelor, tot ce s-a petrecut în grădină de-a l
 | Data plantării soiurilor | vineri, 15.05.2026                                     |
 | Proveniența materialului | răsaduri repicate, cumpărate de la piata-de-ardei-iuti |
 
-Trasabilitatea completă a materialului de plantare — cu cele trei căi de aprovizionare și evidența pe sezoane — se ține în [[Gradina Narciselor 17/🌰 Proveniența materialului\|🌰 Proveniența materialului]].
+Trasabilitatea completă a materialului de plantare — cu cele trei căi de aprovizionare și evidența pe sezoane — se ține în [[Gradina Narciselor 17/🌱 Proveniența materialului\|🌱 Proveniența materialului]].
 
 **Rețetă substrat:** *(de completat — componentele și proporțiile amestecului folosit)*
 

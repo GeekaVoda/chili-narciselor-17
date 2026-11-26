@@ -23,7 +23,7 @@ Jurnalul strânge, în ordinea zilelor, tot ce s-a petrecut în grădină de-a l
 
 Datele specifice fiecărui soi se consemnează în cronologie, după convențiile stabilite în [[Gradina Narciselor 17/📊 Fișa de observație\|📊 Fișa de observație]]. Distribuția efectivă a plantelor în sol și ghivece va fi înscrisă în [[Gradina Narciselor 17/🪴 Registrul soiurilor 2027\|🪴 Registrul soiurilor 2027]].
 
-Trasabilitatea completă a materialului de plantare — cu cele trei căi de aprovizionare și evidența pe sezoane — se ține în [[Gradina Narciselor 17/🌰 Proveniența materialului\|🌰 Proveniența materialului]].
+Trasabilitatea completă a materialului de plantare — cu cele trei căi de aprovizionare și evidența pe sezoane — se ține în [[Gradina Narciselor 17/🌱 Proveniența materialului\|🌱 Proveniența materialului]].
 
 **Substrat pentru semănare și germinare:** *(de completat — componentele, proporțiile și condițiile de utilizare)*
 

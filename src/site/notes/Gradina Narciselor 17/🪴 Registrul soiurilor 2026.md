@@ -13,7 +13,7 @@ Distincția dintre sol și ghiveci nu este una de comoditate. Cele două regimur
 
 ## Soiurile în cultură
 
-În sezonul 2026, întregul material provine din răsaduri repicate, cumpărate de la un singur furnizor; detalierea căilor de aprovizionare și trasabilitatea pe sezoane se află în [[Gradina Narciselor 17/🌰 Proveniența materialului\|🌰 Proveniența materialului]]. Coloana de proveniență este pregătită pentru sezoanele în care sursele vor fi diferite, de la sămânță cumpărată la sămânță proprie.
+În sezonul 2026, întregul material provine din răsaduri repicate, cumpărate de la un singur furnizor; detalierea căilor de aprovizionare și trasabilitatea pe sezoane se află în [[Gradina Narciselor 17/🌱 Proveniența materialului\|🌱 Proveniența materialului]]. Coloana de proveniență este pregătită pentru sezoanele în care sursele vor fi diferite, de la sămânță cumpărată la sămânță proprie.
 
 | Soi                   | Sol | Ghiveci | Proveniență    | Note                                                                                                    |
 | --------------------- | :-: | :-----: | -------------- | ------------------------------------------------------------------------------------------------------- |
@@ -48,4 +48,4 @@ Rețeta substratului pentru ghivece și regimul de îngrășare, comune sezonulu
 
 ## Legătura cu enciclopedia
 
-Soiurile documentate în partea botanică a proiectului se pot lega, de aici, la fișele lor din [[Corpus Codicum/🌱 Codex botanicus\|🌱 Codex botanicus]]. O parte dintre soiurile aflate acum în cultură nu au încă fișă corespondentă; ele rămân trecute în registru cu denumirea folosită în grădină, urmând ca legăturile să fie stabilite pe măsură ce fișele sunt redactate.
+Soiurile documentate în partea botanică a proiectului se pot lega, de aici, la fișele lor din [[Corpus Codicum/📗 Codex botanic\|📗 Codex botanic]]. O parte dintre soiurile aflate acum în cultură nu au încă fișă corespondentă; ele rămân trecute în registru cu denumirea folosită în grădină, urmând ca legăturile să fie stabilite pe măsură ce fișele sunt redactate.

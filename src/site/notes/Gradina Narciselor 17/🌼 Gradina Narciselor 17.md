@@ -27,7 +27,7 @@ O observație are valoare doar dacă este culeasă după un criteriu limpede și
 
 ## Proveniența materialului de plantare
 
-Materialul de plantare utilizat în grădină provine din răsaduri comerciale, semințe achiziționate și semințe proprii, recoltate din culturile anterioare. Evidența provenienței pe sezoane, precum și principiile de obținere și păstrare a semințelor proprii, sunt documentate în [[Gradina Narciselor 17/🌰 Proveniența materialului\|🌰 Proveniența materialului]].
+Materialul de plantare utilizat în grădină provine din răsaduri comerciale, semințe achiziționate și semințe proprii, recoltate din culturile anterioare. Evidența provenienței pe sezoane, precum și principiile de obținere și păstrare a semințelor proprii, sunt documentate în [[Gradina Narciselor 17/🌱 Proveniența materialului\|🌱 Proveniența materialului]].
 
 ---
 
