@@ -16,7 +16,7 @@ Genul nu este, prin urmare, doar o categorie botanică. Este unul dintre cele ma
 
 ## I. Cadrul taxonomic și dimensiunea istorică
 
-Drumul taxonomic complet — de la regnul Plantae, prin plantele cu flori și dicotiledonate, până la familia Solanaceae — este desfășurat în pagina [[Taxonomica/🪜 Cadrul taxonomic superior\|Cadrul taxonomic superior]]. Aici este reținut doar ce privește direct genul *Capsicum*.
+Drumul taxonomic complet — de la regnul Plantae, prin plantele cu flori și dicotiledonate, până la familia Solanaceae — este desfășurat în pagina [[Taxonomica/🪜 Cadrul taxonomic\|Cadrul taxonomic]]. Aici este reținut doar ce privește direct genul *Capsicum*.
 
 ### Familia Solanaceae
 
@@ -64,7 +64,7 @@ Identificarea și deosebirea speciilor din genul *Capsicum* se sprijină pe cara
 | Toleranță la frig | scăzută | foarte scăzută | foarte scăzută | medie | ridicată (suportă bruma) |
 | Longevitate în cultură | anuală (în zona temperată) | perenă (arbustivă) | perenă (arbust compact) | perenă (port lax) | perenă (5–10 ani) |
 
-Câteva caractere merită reținute ca repere sigure de deosebire. [[Genuri și specii/🌿 Capsicum annuum\|🌿 Capsicum annuum]] are, aproape întotdeauna, flori solitare cu corolă albă și antere violacee. [[Genuri și specii/🌿 Capsicum chinense\|🌿 Capsicum chinense]] și [[Genuri și specii/🌿 Capsicum frutescens\|🌿 Capsicum frutescens]] au flori grupate câte două-cinci la nod; cele două se despart printr-un detaliu floral — o ușoară strangulare inelară la baza caliciului, caracteristică speciei *chinense* — și prin poziția pedicelului, erect la *frutescens*. [[Genuri și specii/🌿 Capsicum baccatum\|🌿 Capsicum baccatum]] se recunoaște ușor după petele verzi-gălbui de la baza corolei și după anterele galbene. [[Genuri și specii/🌿 Capsicum pubescens\|🌿 Capsicum pubescens]], cel mai lesne de identificat, are flori purpurii, semințe negre, frunze păroase și o toleranță la frig neobișnuită în gen.
+Câteva caractere merită reținute ca repere sigure de deosebire. [[Genuri și specii/🌿 Capsicum annuum\|Capsicum annuum]] are, aproape întotdeauna, flori solitare cu corolă albă și antere violacee. [[Genuri și specii/🌿 Capsicum chinense\|Capsicum chinense]] și [[Genuri și specii/🌿 Capsicum frutescens\|Capsicum frutescens]] au flori grupate câte două-cinci la nod; cele două se despart printr-un detaliu floral — o ușoară strangulare inelară la baza caliciului, caracteristică speciei *chinense* — și prin poziția pedicelului, erect la *frutescens*. [[Genuri și specii/🌿 Capsicum baccatum\|Capsicum baccatum]] se recunoaște ușor după petele verzi-gălbui de la baza corolei și după anterele galbene. [[Genuri și specii/🌿 Capsicum pubescens\|Capsicum pubescens]], cel mai lesne de identificat, are flori purpurii, semințe negre, frunze păroase și o toleranță la frig neobișnuită în gen.
 
 ## IV. Chimia și senzorialitatea genului
 
