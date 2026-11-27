@@ -9,7 +9,7 @@ Aici se încheie călătoria începută în primele pagini, odată cu povestea a
 
 Nu veți găsi aici nici un tratat academic, nici un manual tehnic de cultivare. Aceste pagini reprezintă, în esență, o căutare personală dedicată unei plante remarcabile: originilor sale, diversității botanice, particularităților de cultivare și amprentei pe care a lăsat-o în culturile și bucătăriile lumii.
 
-Dincolo de denumiri latine, clasificări botanice, grade de iuțeală și tehnici de cultivare, rămâne bucuria descoperirii. Bucuria de a urmări o sămânță devenind plantă, de a aștepta primele flori, de a descoperi culorile și aromele fructelor, dar și de a învăța din încercările mai puțin reușite. *Pentru că grădinăritul este, înainte de toate, un exercițiu de răbdare, curiozitate și modestie în fața naturii*.
+Dincolo de denumiri latine, clasificări botanice, grade de iuțeală și tehnici de cultivare, rămâne bucuria descoperirii. Bucuria de a urmări o sămânță devenind plantă, de a aștepta primele flori, de a descoperi culorile și aromele fructelor, dar și de a învăța din încercările mai puțin reușite. *Pentru că grădinăritul este, înainte de toate, un exercițiu de răbdare, curiozitate și modestie în fața naturii.*
 
 Această documentare nu are pretenția exhaustivității și nici pe aceea a adevărului definitiv. Paginile sale rămân deschise studiului, verificării, completărilor și, mai ales, gândurilor și observațiilor dumneavoastră, dragi cititori.
 
