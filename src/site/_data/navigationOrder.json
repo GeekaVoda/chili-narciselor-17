@@ -19,16 +19,28 @@
     "🔱 Cele cinci specii majore"
   ],
   "/Gastronomie": [
-    "Salsa",
-    "Especialidades",
-    "Magyar paprika",
     "Mole",
-    "Pimentón"
+    "Salsa",
+    "Pimentón",
+    "Especialidades",
+    "Magyar paprika"
+  ],
+  "/Gastronomie/Mole": [
+    "▲ Mole",
+    "🔖 La Santa Trinidad",
+    "Mole Negro",
+    "Mole Poblano",
+    "Mole Verde"
   ],
   "/Gastronomie/Salsa": [
     "Pico de Gallo",
     "▲ Salsa",
     "Salsa de Chile Habanero Yucateca"
+  ],
+  "/Gastronomie/Pimentón": [
+    "▲ Pimentón",
+    "Pimentón de la Vera",
+    "Pimentón de Murcia"
   ],
   "/Gastronomie/Especialidades": [
     "Chile Habanero en Polvo",
@@ -46,18 +58,6 @@
     "Édesnemes",
     "Erős",
     "Félédes"
-  ],
-  "/Gastronomie/Mole": [
-    "▲ Mole",
-    "🔖 La Santa Trinidad",
-    "Mole Negro",
-    "Mole Poblano",
-    "Mole Verde"
-  ],
-  "/Gastronomie/Pimentón": [
-    "▲ Pimentón",
-    "Pimentón de la Vera",
-    "Pimentón de Murcia"
   ],
   "/Genuri și specii": [
     "🌶 Genul Capsicum",
@@ -229,11 +229,11 @@
     "🌼 Gradina Narciselor 17",
     "📊 Fișa de observație",
     "📍 Localitatea Breazu",
+    "🌱 Proveniența materialului",
     "📔 Jurnal de cultură 2026",
     "📔 Jurnal de cultură 2027",
     "🪴 Registrul soiurilor 2026",
     "🪴 Registrul soiurilor 2027",
-    "🌱 Proveniența materialului",
     "🎍 Bonchi (Bonsai Chili)"
   ],
   "/Appendices et Epilogus": [
